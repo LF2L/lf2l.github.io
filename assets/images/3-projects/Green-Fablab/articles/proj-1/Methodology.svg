@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="592.96539"
+   height="307.49405"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Methodology.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5733"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffeeaa;stop-opacity:1;"
+         offset="0"
+         id="stop5735" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7301913"
+     inkscape:cx="175.55801"
+     inkscape:cy="203.86037"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     units="mm"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.058635,-500.04372)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="164.28571"
+       y="375.12372"
+       id="text3863"
+       sodipodi:linespacing="125%"
+       transform="translate(0,527.95272)"><tspan
+         sodipodi:role="line"
+         x="164.28571"
+         y="375.12372"
+         id="tspan3867" /></text>
+    <g
+       id="g4101"
+       transform="translate(-8.6666642,0)"
+       inkscape:export-filename="/Users/fabbiocrux.ms/ownCloud/Web-Sites/Personal-Site/assets/img/articles/proj-1/Methodology-3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         ry="23.847178"
+         y="501.66205"
+         x="372.0737"
+         height="304.25742"
+         width="133.62862"
+         id="rect3007-7"
+         style="fill:#ffe5d5;fill-opacity:0.8627451;stroke:#1d0d0f;stroke-width:2.23663449;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2999"
+         y="532.05347"
+         x="386.47272"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="532.05347"
+           x="386.47272"
+           id="tspan3001"
+           sodipodi:role="line">C. Fabrication</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3857"
+         y="609.79657"
+         x="388.71429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan3873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="609.79657"
+           x="388.71429"
+           sodipodi:role="line">Fabrication of the </tspan><tspan
+           id="tspan3881"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="624.79657"
+           x="388.71429"
+           sodipodi:role="line">geometric </tspan><tspan
+           id="tspan3895"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="639.79657"
+           x="388.71429"
+           sodipodi:role="line">benchmarking </tspan><tspan
+           id="tspan3877"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="654.79657"
+           x="388.71429"
+           sodipodi:role="line">model (GBM).</tspan><tspan
+           id="tspan3871"
+           y="669.79657"
+           x="388.71429"
+           sodipodi:role="line" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3883"
+         y="682.64783"
+         x="388.71429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="682.64783"
+           x="388.71429"
+           id="tspan3885"
+           sodipodi:role="line">Detailed </tspan><tspan
+           id="tspan3897"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="697.64783"
+           x="388.71429"
+           sodipodi:role="line">measurements </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           id="tspan3887"
+           y="712.64783"
+           x="388.71429"
+           sodipodi:role="line">on the GBM.</tspan></text>
+    </g>
+    <g
+       id="g4085"
+       transform="translate(24.666679,0)"
+       inkscape:export-filename="/Users/fabbiocrux.ms/ownCloud/Web-Sites/Personal-Site/assets/img/articles/proj-1/Methodology-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         ry="23.847178"
+         y="501.66205"
+         x="186.87531"
+         height="304.25742"
+         width="133.62862"
+         id="rect3007-1"
+         style="fill:#fff6d5;fill-opacity:1;stroke:#1d0d0f;stroke-width:2.23663449;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2993"
+         y="532.06177"
+         x="205.58658"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="532.06177"
+           x="205.58658"
+           id="tspan2995"
+           sodipodi:role="line">B. Design of</tspan><tspan
+           id="tspan2997"
+           y="553.31177"
+           x="205.58658"
+           sodipodi:role="line">Experiments</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3849"
+         y="609.79071"
+         x="193.29996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="609.79071"
+           x="193.29996"
+           id="tspan3851"
+           sodipodi:role="line">Choose/design </tspan><tspan
+           id="tspan4520"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="624.79071"
+           x="193.29996"
+           sodipodi:role="line">experiments according </tspan><tspan
+           id="tspan4522"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="639.79071"
+           x="193.29996"
+           sodipodi:role="line">to the number of   </tspan><tspan
+           id="tspan4526"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="654.79071"
+           x="193.29996"
+           sodipodi:role="line">control factors.</tspan><tspan
+           id="tspan4524"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="669.79071"
+           x="193.29996"
+           sodipodi:role="line" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3889"
+         y="682.65369"
+         x="193.29996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           id="tspan3893"
+           y="682.65369"
+           x="193.29996"
+           sodipodi:role="line">Choose the levels of </tspan><tspan
+           id="tspan4530"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="697.65369"
+           x="193.29996"
+           sodipodi:role="line">those factors based </tspan><tspan
+           id="tspan4532"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="712.65369"
+           x="193.29996"
+           sodipodi:role="line">on literature.</tspan></text>
+    </g>
+    <g
+       id="g4068"
+       transform="translate(22,0)"
+       inkscape:export-filename="/Users/fabbiocrux.ms/ownCloud/Web-Sites/Personal-Site/assets/img/articles/proj-1/Methodology-1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         ry="23.847178"
+         y="501.66205"
+         x="37.676952"
+         height="304.25742"
+         width="133.62862"
+         id="rect3007"
+         style="fill:#d7e3f4;stroke:#1d0d0f;stroke-width:2.23663449;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2985"
+         y="531.77954"
+         x="49.506886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan3845"
+           y="531.77954"
+           x="49.506886"
+           sodipodi:role="line">A. Geometric </tspan><tspan
+           id="tspan3779"
+           y="553.02954"
+           x="49.506886"
+           sodipodi:role="line">Benchmarking </tspan><tspan
+           id="tspan2989"
+           y="574.27954"
+           x="49.506886"
+           sodipodi:role="line">Model</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3849-7"
+         y="609.79071"
+         x="48.100636"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan4524-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="609.79071"
+           x="48.100636"
+           sodipodi:role="line">Choose/design a </tspan><tspan
+           id="tspan4582"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="624.79071"
+           x="48.100636"
+           sodipodi:role="line">geometric </tspan><tspan
+           id="tspan4584"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="639.79071"
+           x="48.100636"
+           sodipodi:role="line">benchmarking model.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3849-7-4"
+         y="682.65369"
+         x="45.882862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan4584-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="682.65369"
+           x="45.882862"
+           sodipodi:role="line">Establishment of the </tspan><tspan
+           id="tspan4618"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="697.65369"
+           x="45.882862"
+           sodipodi:role="line">features families and </tspan><tspan
+           id="tspan4620"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="712.65369"
+           x="45.882862"
+           sodipodi:role="line">links to the</tspan><tspan
+           id="tspan4622"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="727.65369"
+           x="45.882862"
+           sodipodi:role="line">four types of </tspan><tspan
+           id="tspan4624"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="742.65369"
+           x="45.882862"
+           sodipodi:role="line">dimensional accuracy.</tspan></text>
+    </g>
+    <g
+       id="g4116"
+       transform="translate(-1.9999767,0)"
+       inkscape:export-filename="/Users/fabbiocrux.ms/ownCloud/Web-Sites/Personal-Site/assets/img/articles/proj-1/Methodology-4.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         ry="23.846851"
+         y="501.66412"
+         x="517.27411"
+         height="304.25323"
+         width="134.12952"
+         id="rect3007-4"
+         style="fill:#f6ffd5;stroke:#1d0d0f;stroke-width:2.24080729;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3003"
+         y="532.05347"
+         x="547.04413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:17px"
+           y="532.05347"
+           x="547.04413"
+           id="tspan3005"
+           sodipodi:role="line">D. Results </tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3853"
+         y="663.68195"
+         x="524.49359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="663.68195"
+           x="524.49359"
+           id="tspan3855"
+           sodipodi:role="line">Determination of</tspan><tspan
+           id="tspan4626"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="678.68195"
+           x="524.49359"
+           sodipodi:role="line">the frequency of the</tspan><tspan
+           id="tspan4628"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="693.68195"
+           x="524.49359"
+           sodipodi:role="line">control factors for </tspan><tspan
+           id="tspan4632"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="708.68195"
+           x="524.49359"
+           sodipodi:role="line">the three lower values</tspan><tspan
+           id="tspan4636"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="723.68195"
+           x="524.49359"
+           sodipodi:role="line">of RMSD.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3853-3"
+         y="747.28754"
+         x="521.20789"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="747.28754"
+           x="521.20789"
+           id="tspan3855-6"
+           sodipodi:role="line">Determination of</tspan><tspan
+           id="tspan4638"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="762.28754"
+           x="521.20789"
+           sodipodi:role="line">the control factor </tspan><tspan
+           id="tspan4640"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="777.28754"
+           x="521.20789"
+           sodipodi:role="line">through hierarchisation.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3853-3-4"
+         y="560.76245"
+         x="524.49359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan4640-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="560.76245"
+           x="524.49359"
+           sodipodi:role="line">Determination of </tspan><tspan
+           id="tspan4674"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="575.76245"
+           x="524.49359"
+           sodipodi:role="line">probabilities of each </tspan><tspan
+           id="tspan4676"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="590.76245"
+           x="524.49359"
+           sodipodi:role="line">type of dimensional </tspan><tspan
+           id="tspan4678"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="605.76245"
+           x="524.49359"
+           sodipodi:role="line">accuracy and the </tspan><tspan
+           id="tspan3332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="620.76245"
+           x="524.49359"
+           sodipodi:role="line">standard  tolerance </tspan><tspan
+           id="tspan3334"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face'"
+           y="635.76245"
+           x="524.49359"
+           sodipodi:role="line">grade (IT).</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+
+# Navigion Links in English
+main:
+  - title: "Concept"
+    url: /concept/
+  - title: "Projects"
+    url: /projects/
+  - title: "Communities"
+    url: /communities/
+  - title: "Place & Tools"
+    url: /place/
+  - title: "Practical Info"
+    url: /info/
+  - title: "FR"
+    url: /fr/
+
+
+LF2L-concept:
+  - title: "Publications LF2L"
+    url: /publications/
+  - title: "On the media"
+    url: /presse/
+  - title: "Partners & Charts"
+    url: /chartes/
+
+communities:
+  - title: "Communities at the LF2L"
+    children:
+      - title: "Collectivities"
+        url: /communities/collectivities/
+      - title: "Entreprises"
+        url: /communities/enterprises/
+      - title: "Makers"
+        url: /communities/makers/
+      - title: "Students"
+        url: /communities/students/
+      - title: "Universities"
+        url: /communities/universities/
+
+
+place_tools:
+  - title: "Facilities at the LF2L"
+    children:
+      - title: "NomadLab"
+        url: /place/nomadlab/
+      - title: "Photos"
+        url: /place/photos/
+
+info:
+  - title: "Practical info"
+    children:
+      - title: "Tarif"
+        url: /info/tarif/
+      - title: "Tutorials"
+        url: /info/tutorials/
+
+
+
+projects:
+  - title: "LF2L Projets"
+    children:      
+      - title: "Chaire PRINCIP"
+        url: /projects/princip/
+
+      - title: "Chaire REVES"
+        url: /projects/reves/
+
+      - title: "La Fabrique"
+        url: /projects/fabrique-nancy/ 
+
+      - title: "Lorraine Smart City Living Lab"
+        url: /projects/lorraine-smart-city-living-lab/
+
+      - title: "Innovation on Health"
+        url: /projects/innovation-on-health/
+
+      - title: "Green FabLab"
+        url: /projects/green-fablab/
+

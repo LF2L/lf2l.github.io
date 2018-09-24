@@ -1,0 +1,84 @@
+
+# Navigation Links in French
+main:
+  - title: "Concept"
+    url: /fr/concept/
+  - title: "Nos projets"
+    url: /fr/projects/
+  - title: "Communauté"
+    url: /fr/communities/
+  - title: "Lieu & Equipement"
+    url: /fr/place/
+  - title: "Info pratique"
+    url: /fr/info/
+  - title: "EN"
+    url: /
+
+
+LF2L-concept:
+  - title: "Publications du LF2L"
+    url: /fr/publications/
+  - title: "On parle de nous"
+    url: /fr/presse/
+  - title: "Partenaires et Chartes"
+    url: /fr/chartes/
+
+
+
+communities:
+  - title: "Communautés au LF2L"
+    children:
+      - title: "Institutions et Collectivités"
+        url: /fr/communities/collectivities/
+      - title: "Entreprises"
+        url: /fr/communities/enterprises/
+      - title: "Makers"
+        url: /fr/communities/makers/
+      - title: "Etudiants"
+        url: /fr/communities/students/
+      - title: "Universitaires"
+        url: /fr/communities/universities/
+
+
+
+place_tools:
+  - title: "Facilities au LF2L"
+    children:
+      - title: "NomadLab"
+        url: /fr/place/nomadlab/
+      - title: "Photos"
+        url: /fr/place/photos/
+
+
+info:
+  - title: "Info pratique"
+    children:
+      - title: "Tarif"
+        url: /fr/info/tarif/
+      - title: "Tutoriels"
+        url: /fr/info/tutorials/
+
+
+
+
+projects:
+  - title: "LF2L Projets"
+    children:      
+      - title: "Chaire PRINCIP"
+        url: /fr/projects/princip/
+
+      - title: "Chaire REVES"
+        url: /projects/reves/
+
+      - title: "La Fabrique"
+        url: /fr/projects/fabrique-nancy/ 
+
+      - title: "Lorraine Smart City Living Lab"
+        url: /fr/projects/lorraine-smart-city-living-lab/
+
+      - title: "Innovation on Health"
+        url: /fr/projects/innovation-on-health/
+
+      - title: "Green FabLab"
+        url: /fr/projects/green-fablab/
+
