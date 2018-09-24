@@ -11,9 +11,8 @@ main:
     url: /place/
   - title: "Practical Info"
     url: /info/
-  - title: "FR"
+  - title: ':fr:'
     url: /fr/
-
 
 LF2L-concept:
   - title: "Publications LF2L"

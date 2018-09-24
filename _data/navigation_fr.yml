@@ -11,7 +11,7 @@ main:
     url: /fr/place/
   - title: "Info pratique"
     url: /fr/info/
-  - title: "EN"
+  - title: ':gb:'
     url: /
 
 

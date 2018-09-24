@@ -10,8 +10,8 @@ teaser_class: staff
 
 excerpt: "We are gonna conquer the world"
 header:  
-  overlay_color: "#333"
-  overlay_filter: 0.1
+  overlay_image: "assets/images/banners/LF2L-5.jpg" 
+  overlay_filter: rgba(110, 110, 112, 0.5)
   show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
