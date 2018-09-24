@@ -1,20 +1,16 @@
 ---
-title: "Collectivities"
-permalink: /communities/collectivities/
+title: Collectivities
+permalink: "/communities/collectivities/"
 classes: wide
-
-excerpt: "Collectivities at the LF2L"
+excerpt: Collectivities at the LF2L
 header:
   overlay_color: "#ccc"
   overlay_filter: 0.9
-  show_overlay_excerpt: true 
-  image_description: "Maker at LF2L"
-
+  show_overlay_excerpt: true
+  image_description: Maker at LF2L
 sidebar:
-  nav: "communities"
+  nav: communities
+date: 2018-09-07 00:00:00 +0000
 
-date: 2018-09-07
 ---
-
-
-## Metropole du Grand NAncy
+## Métropole du Grand Nancy
