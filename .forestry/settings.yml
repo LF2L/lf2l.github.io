@@ -4,10 +4,18 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: document
-  path: ''
-  label: Index - ENG -FR
+- type: directory
+  path: collections/_concept/en
+  label: Concept - ENG
+  create: all
   match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
+  path: collections/_concept/fr
+  label: Concept - FR
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: directory
   path: _pages/fr
   label: Pages - FR
