@@ -21,7 +21,7 @@ title_separator          : "|"
 name                     : "ERPI Laboratory"
 description              : "Site of the ERPI Laboratory."
 url                      : ""
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/LF2L"# the subpath of your site, e.g. "/blog"
 repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #breadcrumbs              : true # true, false (default)
