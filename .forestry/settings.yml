@@ -5,6 +5,18 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: collections/_people/fr
+  label: People - FR
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
+  path: collections/_people/en
+  label: People - ENG
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
   path: _pages/fr
   label: Pages - FR
   create: all
