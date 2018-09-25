@@ -9,13 +9,13 @@ sections:
   label: People - FR
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_people/en
   label: People - ENG
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: _pages/fr
   label: Pages - FR
@@ -45,49 +45,49 @@ sections:
   label: Concept - FR
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_concept/en
   label: Concept - ENG
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_info/fr
   label: Info - FR
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_info/en
   label: Info - ENG
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_projects/fr
   label: Projets  - FR
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_projects/en
   label: Projets - ENG
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_place-tools/fr
   label: Place-tools - FR
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_place-tools/en
   label: Place-tools - ENG
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: assets/images/uploads
 front_matter_path: ''
