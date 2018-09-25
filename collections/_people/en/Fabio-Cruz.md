@@ -14,7 +14,6 @@ role:
 - IG
 
 ---
-permalink: /people/Fabio-Cruz/
 I'm research associate at the ERPI Laboratory.
 
 I work specifically at the research platform \[Lorraine Fab Living Lab (LF2L)\]([http://lf2l.fr/](http://lf2l.fr/ "http://lf2l.fr/")) in subjects related to the 3D printing process.
