@@ -8,7 +8,7 @@ collection: people
 entries_layout: grid
 teaser_class: staff
 
-excerpt: "We are gonna conquer the world"
+excerpt: "L'expertise scientifique pour accompagner vos projets"
 header:  
   overlay_color: "#333"
   overlay_filter: 0.1
@@ -21,7 +21,7 @@ sidebar:
 last_modified_at: 2018-09-07
 ---
 
-## Access 
+## Accèss 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zjoguh0NVOXo.kZTYPT-5FrXA"  width="100%" height="80%"></iframe>
 
@@ -29,8 +29,8 @@ last_modified_at: 2018-09-07
 
 - **Monday - Friday**, 8:00am à 18:00pm 
 
-## Contact Information
+## Information de contact
 
 
 
-## Staff
+## Equipe

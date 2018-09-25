@@ -6,7 +6,7 @@ permalink: /concept/
 classes:
  - wide
  
-excerpt: "We are gonna conquer the world"
+excerpt: "Serving innovation"
 header:    
   overlay_image: "assets/images/banners/LF2L-1.jpg" 
   overlay_filter: rgba(110, 110, 112, 0.5)
