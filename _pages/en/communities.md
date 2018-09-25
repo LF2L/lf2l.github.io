@@ -4,6 +4,8 @@ layout: collection
 title: "Communities of the Lorraine Fab Living Lab"
 permalink: /communities/
 collection: communities
+entries_layout: grid
+classes: wide
 
 excerpt: "An space for collaboration"
 header:  

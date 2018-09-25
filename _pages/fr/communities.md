@@ -4,7 +4,9 @@ layout: collection
 title: Communautés au Lorraine Fab Living Lab
 permalink: "/fr/communities/"
 collection: communities
-excerpt: We are gonna conquer the world
+entries_layout: grid
+classes: wide
+excerpt: Un lieu pour la collaboration
 header:
   overlay_color: "#333"
   overlay_filter: 0.1
