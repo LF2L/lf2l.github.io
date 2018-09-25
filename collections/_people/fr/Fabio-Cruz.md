@@ -14,12 +14,14 @@ role:
 - IG
 
 ---
-I’m research associate at the ERPI Laboratory.
+Je suis associé de recherche au laboratoire ERPI.
 
-I work specifically at the research platform Lorraine Fab Living Lab ([http://lf2l.fr/](http://lf2l.fr/ "http://lf2l.fr/")) in subjects related to the 3D printing process.
+Je travaille spécifiquement à la plateforme de recherche Lorraine Fab Living Lab ([http://lf2l.fr/](http://lf2l.fr/ "http://lf2l.fr/")) sur des sujets liés au processus d'impression 3D.
 
-I’m graduated in Mechanical Engineering from the National University of Colombia([http://unal.edu.co/](http://lf2l.fr/ "http://lf2l.fr/")), master in Innovation management from the ENSGSI([https://www.ensgsi.univ-lorraine.fr/](http://lf2l.fr/ "http://lf2l.fr/")) school and PhD in Industrial Engineering from the Université de Lorraine.
+Je suis diplômé en génie mécanique de l'Université Nationale de Colombie ([http://unal.edu.co/](http://unal.edu.co/ "http://unal.edu.co/")), master en gestion de l'innovation de l'école ENSGSI ([https://www.ensgsi.univ-lorraine.fr/](https://www.ensgsi.univ-lorraine.fr/ "https://www.ensgsi.univ-lorraine.fr/")) et doctorat en génie industriel de l'Université de Lorraine.
 
-The research that I have developed so far is focused on the conceptualization of a circular economy through a distributed polymer recycling approach for the open source 3D printing technology.
+Les recherches que j'ai développées jusqu'à présent se concentrent sur la conceptualisation d'une économie circulaire à travers une approche de recyclage distribué des polymères pour la technologie d'impression 3D open source.
 
-Technical and logistical characterizations are studied in the validation of each aspect of the distributed and local recycling process for this technology.
+Des caractérisations techniques et logistiques sont étudiées dans la validation de chaque aspect du processus de recyclage distribué et local de cette technologie.
+
+Traduit avec www.DeepL.com/Translator
