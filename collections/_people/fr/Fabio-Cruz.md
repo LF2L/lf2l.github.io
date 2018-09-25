@@ -1,21 +1,17 @@
 ---
 title: Fabio CRUZ
-permalink: /fr/people/Fabio-Cruz/
-excerpt: "Ingenieure de Recherche"
-date: 2018-04-03
+permalink: "/fr/people/Fabio-Cruz/"
+excerpt: Ingenieure de Recherche
+date: 2018-04-03 00:00:00 +0000
 author: Fabio Cruz
 header:
-  teaser: /assets/images/people/Fabio.jpg
-
+  teaser: "/assets/images/people/Fabio.jpg"
 tags:
-  - 3D Printing
-  - Recycling
-  - Green FabLab
-
+- 3D Printing
+- Recycling
+- Green FabLab
 role:
 - IG
+
 ---
-
-
-Je suis sen je ne sais pas
-
+Je suis 
