@@ -3,7 +3,7 @@ title: "Enterprises"
 permalink: /fr/communities/enterprises/
 classes: wide
 
-excerpt: "MAkers community at the LF2L"
+excerpt: "Entreprises au LF2L"
 header:
   overlay_color: "#ddd"
   overlay_filter: 0.9

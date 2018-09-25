@@ -13,7 +13,7 @@ sidebar:
 date: 2018-09-07 00:00:00 +0000
 
 ---
-## Institutions and communities
+## Institutions
 
 As a platform of LORnTECH (Métropole French Tech), the Lorraine Fab living Lab® aims to support territories and its institutions in their collaborative innovation projects for the benefit of citizens.
 
@@ -27,7 +27,7 @@ Smart City Living Lab Alzette Belval
 
 LF2L® organizes and implements citizen workshops, contributes to citizen science, participates in scientific and technical dissemination events, etc.
 
-Metropolis of Greater Nancy elected Innovative Territory OR </a>in December 2016 by the Interconnected 2016 thanks to the VélOstan Connecté project supported by the LF2L®
+Metropolis of Greater Nancy elected Innovative Territory OR in December 2016 by the Interconnected 2016 thanks to the VélOstan Connecté project supported by the LF2L®
 
 Contact: Laurent Dupont
 

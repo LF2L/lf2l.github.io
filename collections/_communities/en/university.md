@@ -4,7 +4,7 @@ permalink: /communities/universities/
 
 classes: wide
 
-excerpt: "Makers community at the LF2L"
+excerpt: "University community at the LF2L"
 header:
   overlay_color: "#ddd"
   overlay_filter: 0.9

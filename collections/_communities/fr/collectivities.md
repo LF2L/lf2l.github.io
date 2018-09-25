@@ -3,7 +3,7 @@ title: "Collectivities"
 permalink: /fr/communities/collectivities/
 classes: wide
 
-excerpt: "Collectivities at the LF2L"
+excerpt: "Collectivités au LF2L"
 header:
   overlay_color: "#ccc"
   overlay_filter: 0.9
