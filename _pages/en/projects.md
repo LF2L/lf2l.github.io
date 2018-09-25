@@ -6,7 +6,7 @@ collection: projects
 entries_layout: grid
 classes: wide
 
-excerpt: "Some of the research projects at ERPI"
+excerpt: "Some of the research projects at LF2L"
 header:
   overlay_image: "assets/images/banners/LF2L-2.jpg" 
   overlay_filter: rgba(110, 110, 112, 0.5)

@@ -1,8 +1,6 @@
 Fabio Cruz:
   name: "Fabio Cruz"
-  uri: "http://thewhip.com"
-  email: "billy@rick.com"
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Researcher"
   avatar: "/assets/images/people/Fabio.jpg"
   twitter: "extravagantman"
   linkedin: https://www.linkedin.com/in/fabio-cruz/
@@ -13,10 +11,9 @@ Fabio Cruz:
 
 Giovanny Arbelaez:
   name: "Giovanny Arbelaez"
-  email: 'giovanny.arbelaez-garces@univ-lorraine.fr'
-  bio: "I ordered what?"
+  bio: "Research associate"
   avatar: "/assets/images/people/GA.jpg"
-  twitter: "rhymeswithsackit" 
+  twitter: "gaarbelaez" 
   linkedin: 'https://www.linkedin.com/in/gaarbelaez'
   google-scholar: 'https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en'
 
@@ -24,7 +21,7 @@ Giovanny Arbelaez:
 Laure Morel:
   name: "Laure Morel"
   email: ""
-  bio: "I ordered what?"
+  bio: "Directrice du Laboratoire"
   avatar: "/assets/images/people/LM.jpg"
   google-scholar: 'https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr'
 
@@ -56,7 +53,6 @@ Hakim Boudaoud:
 
 Laurent Dupont:
   name: "Laurent Dupont"
-  email: l.dupont@univ-lorraine.fr
   linkedin: http://www.linkedin.com/in/dupontl
   google-scholar: https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr
   mendeley: https://www.mendeley.com/profiles/laurent-dupont2/

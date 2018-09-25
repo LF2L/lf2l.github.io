@@ -4,7 +4,7 @@ layout: single
 title: "Facilities at the LF2L"
 permalink: /place/
 
-excerpt: "We are gonna conquer the world"
+excerpt: "An space for innovation"
 header:  
   overlay_image: "assets/images/banners/LF2L-4.jpg" 
   overlay_filter: rgba(110, 110, 112, 0.5)

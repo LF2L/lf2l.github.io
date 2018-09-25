@@ -42,7 +42,7 @@ communities:
 
 
 place_tools:
-  - title: "Facilities au LF2L"
+  - title: "Lieu et Equipement"
     children:
       - title: "NomadLab"
         url: /fr/place/nomadlab/
@@ -51,7 +51,7 @@ place_tools:
 
 
 info:
-  - title: "Info pratique"
+  - title: "Infos pratiques"
     children:
       - title: "Tarif"
         url: /fr/info/tarif/
@@ -62,7 +62,7 @@ info:
 
 
 projects:
-  - title: "LF2L Projets"
+  - title: "Projets du LF2L"
     children:      
       - title: "Chaire PRINCIP"
         url: /fr/projects/princip/
@@ -76,7 +76,7 @@ projects:
       - title: "Lorraine Smart City Living Lab"
         url: /fr/projects/lorraine-smart-city-living-lab/
 
-      - title: "Innovation on Health"
+      - title: "Innovation en Santé"
         url: /fr/projects/innovation-on-health/
 
       - title: "Green FabLab"

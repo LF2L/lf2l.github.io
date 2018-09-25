@@ -3,6 +3,7 @@ lang: fr
 layout: collection
 title: Communautés au Lorraine Fab Living Lab
 permalink: "/fr/communities/"
+collection: communities
 excerpt: We are gonna conquer the world
 header:
   overlay_color: "#333"
