@@ -23,5 +23,3 @@ Je suis diplômé en génie mécanique de l'Université Nationale de Colombie ([
 Les recherches que j'ai développées jusqu'à présent se concentrent sur la conceptualisation d'une économie circulaire à travers une approche de recyclage distribué des polymères pour la technologie d'impression 3D open source.
 
 Des caractérisations techniques et logistiques sont étudiées dans la validation de chaque aspect du processus de recyclage distribué et local de cette technologie.
-
-Traduit avec www.DeepL.com/Translator
