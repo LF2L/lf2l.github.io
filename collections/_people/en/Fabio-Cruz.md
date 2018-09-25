@@ -16,9 +16,9 @@ role:
 ---
 I'm research associate at the ERPI Laboratory.
 
-I work specifically at the research platform \[Lorraine Fab Living Lab (LF2L)\]([http://lf2l.fr/](http://lf2l.fr/ "http://lf2l.fr/")) in subjects related to the 3D printing process.
+I work specifically at the research platform Lorraine Fab Living Lab([http://lf2l.fr/](http://lf2l.fr/ "http://lf2l.fr/")) in subjects related to the 3D printing process.
 
-I'm graduated in Mechanical Engineering from the  \[National University of Colombia\]([http://unal.edu.co/](http://unal.edu.co/ "http://unal.edu.co/")), master in Innovation management from the \[ENSGSI\]([https://www.ensgsi.univ-lorraine.fr/](https://www.ensgsi.univ-lorraine.fr/ "https://www.ensgsi.univ-lorraine.fr/")) school and PhD in Industrial Engineering from the Université de Lorraine.
+I'm graduated in Mechanical Engineering from the National University of Colombia([http://unal.edu.co/](http://unal.edu.co/ "http://unal.edu.co/")), master in Innovation management from the ENSGSI([https://www.ensgsi.univ-lorraine.fr/](https://www.ensgsi.univ-lorraine.fr/ "https://www.ensgsi.univ-lorraine.fr/")) school and PhD in Industrial Engineering from the Université de Lorraine.
 
 The research that I have developed so far is focused on the conceptualization of a circular economy through a distributed polymer recycling approach for the open source 3D printing technology.
 
