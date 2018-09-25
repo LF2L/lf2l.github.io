@@ -1,15 +1,15 @@
 ---
 title: Laure MOREL
-permalink: /people/Laure-Morel/
-excerpt: "Directrice / Professeur des Universités"
-date: 2018-01-01
+permalink: "/people/Laure-Morel/"
+excerpt: Directrice / Professeur des Universités
+date: 2018-01-01 00:00:00 +0000
 author: Laure Morel
 header:
-  teaser: /assets/images/people/LM.jpg
+  teaser: "/assets/images/people/LM.jpg"
 role:
 - Prof
+
 ---
+Laure Morel is Professor of Industrial Engineering at the University of Lorraine - Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI). She conducts her research at the ERPI laboratory, Research Team on Innovative Processes, EA 3767
 
-Laure Morel est Professeur des Université en Génie Industriel à l’Université de Lorraine – Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI). Elle effectue ses recherches au laboratoire ERPI, Equipe de Recherche sur les Processus Innovatifs, EA 3767
-
-Ses recherches portent sur l’étude et l’évaluation des phases amont des processus d’innovation dans une optique de management du risque technologique par l’intégration des usagers à l’aide des méthodologies de gestion des projets en mode Living Lab. Laure Morel fait partie du directoire de IAMOT, International Association for Management of Technology et de celui du RRI, Réseau de Recherche en Innovation. Elle est aussi membre fondateur de France Living Labs, en tant que représentante du Lorraine Smart Cities Living Lab (labélisé ENoLL).
+His research focuses on the study and evaluation of the upstream phases of innovation processes from a technological risk management perspective by integrating users using project management methodologies in Living Lab mode. Laure Morel is a member of the management boards of IAMOT, International Association for Management of Technology and RRI, Réseau de Recherche en Innovation. She is also a founding member of France Living Labs, as a representative of the Lorraine Smart Cities Living Lab (ENoLL certified).
