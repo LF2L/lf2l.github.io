@@ -5,7 +5,7 @@ title: Fab Living Lab... Qu'est ce que c'est?
 permalink: "/fr/concept/"
 classes:
 - wide
-excerpt: ''
+excerpt: Au service de l'innovation
 header:
   overlay_color: "#333"
   overlay_filter: 0.1
