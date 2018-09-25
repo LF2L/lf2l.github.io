@@ -11,7 +11,7 @@ header:
   image_description: Communities of the Lorraine Fab Living Lab
 sidebar:
   nav: communities
-last_modified_at: 2018-09-07 00:00:00 +0000
+last_modified_at: 2018-09-06 22:00:00 +0000
 
 ---
 ## Communautés au LF2L
