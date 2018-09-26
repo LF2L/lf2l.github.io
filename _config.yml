@@ -21,7 +21,7 @@ title_separator          : "|"
 name                     : "ERPI Laboratory"
 description              : "Site of the ERPI Laboratory."
 url                      : ""
-baseurl                  : "/LF2L"# the subpath of your site, e.g. "/blog"
+baseurl                  : "/LF2L" # the subpath of your site, e.g. "/blog"
 repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #breadcrumbs              : true # true, false (default)
@@ -109,7 +109,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
@@ -249,14 +249,14 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 # Languages
 
 languages:
-  - 
-    - 
+  -
+    -
     - English
-  - 
+  -
     - fr
     - Français
 
@@ -267,7 +267,7 @@ layouts_dir: _jekyll/_layouts
 includes_dir: _jekyll/_includes
 
 # Collections
-collections:  
+collections:
   concept:
     output: true
 
@@ -277,16 +277,16 @@ collections:
 
   place-tools:
     output: true
-  
+
   info:
     output: true
-  
+
   posts:
     output: true
     permalink: /:path
   publications:
     output: true
-    permalink: /:path    
+    permalink: /:path
   projects:
     output: true
     permalink: /:collection/:path/
@@ -331,8 +331,8 @@ defaults:
       lang: fr
 
     # COMMUNITIES
-  - scope:      
-      type: communities    
+  - scope:
+      type: communities
     values:
       layout: single
       sidebar:
@@ -343,7 +343,7 @@ defaults:
       path: "_communities/en"
     values:
       lang: en
-            
+
 
     # COMMUNITIES - FR
   - scope:
@@ -352,19 +352,19 @@ defaults:
       lang: fr
 
     # PLACE & TOOLS
-  - scope:      
-      type: place-tools    
+  - scope:
+      type: place-tools
     values:
       layout: single
       sidebar:
         nav: "place_tools"
-  
+
     #  PLACE & TOOLS - EN
   - scope:
       path: "_place-tools/en"
     values:
       lang: en
-            
+
 
     #  PLACE & TOOLS - FR
   - scope:
@@ -373,7 +373,7 @@ defaults:
       lang: fr
 
     # INFO
-  - scope:      
+  - scope:
       type: info
     values:
       layout: single
@@ -401,7 +401,7 @@ defaults:
       share: true
       read_time: true
       related: true
-      sidebar: 
+      sidebar:
         nav: ""
     # en
   - scope:
@@ -418,7 +418,7 @@ defaults:
   - scope:
       type: pages
     values:
-      sidebar: 
+      sidebar:
         nav: ""
     # en
   - scope:
@@ -438,20 +438,20 @@ defaults:
       type: publications
     values:
       sidebar:
-        nav: ""      
+        nav: ""
     #en
   - scope:
       path: "_publications/en"
     values:
       lang: en
       sidebar:
-        nav: "publications"      
+        nav: "publications"
 
     #fr
   - scope:
       path: "_publications/fr"
     values:
-      lang: fr          
+      lang: fr
 
 
   # _projects
@@ -460,21 +460,21 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: ""      
+        nav: ""
     #en
   - scope:
       path: "_projects/en"
     values:
       lang: en
       sidebar:
-        nav: "projects"        
+        nav: "projects"
     #fr
   - scope:
       path: "_projects/fr"
     values:
       lang: fr
       sidebar:
-        nav: ""        
+        nav: ""
 
 
 # _people
@@ -483,7 +483,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
     #en
   - scope:
       path: "_people/en"
@@ -500,7 +500,7 @@ defaults:
       type: communities
     values:
       layout: single
-            
+
     #en
   - scope:
       path: "_communities/en"
@@ -520,8 +520,4 @@ defaults:
 #  - scope:
 #      path: "*/de"
 #    values:
-#      lang: de  
-
-  
-
-
+#      lang: de
