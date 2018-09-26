@@ -13,14 +13,13 @@ Giovanny Arbelaez:
   name: "Giovanny Arbelaez"
   bio: "Research associate"
   avatar: "/assets/images/people/GA.jpg"
-  twitter: "gaarbelaez" 
+  twitter: "gaarbelaez"
   linkedin: 'https://www.linkedin.com/in/gaarbelaez'
   google-scholar: 'https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en'
 
 
 Laure Morel:
   name: "Laure Morel"
-  email: ""
   bio: "Directrice du Laboratoire"
   avatar: "/assets/images/people/LM.jpg"
   google-scholar: 'https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr'
@@ -42,13 +41,13 @@ Davy Monticolo:
 Eric Bonjour:
   email: 'davy.monticolo@univ-lorraine.fr'
 
-Frederique Mayer:  
+Frederique Mayer:
   email: ''
   linkedin: ''
 
 
 Hakim Boudaoud:
-  name: "Hakim Boudaoud"  
+  name: "Hakim Boudaoud"
 
 
 Laurent Dupont:
@@ -75,8 +74,6 @@ Mauricio Camargo:
 
 Olivier Chery:
   name: Olivier Chery
-  email: 'olivier.chery@univ-lorraine.fr'
-
 
 Raphael Bary:
   name: Raphael Bary
@@ -91,6 +88,3 @@ Vincent Boly:
 
 Sandra Bautista:
   name: Sandra Bautista
-  
-
-
