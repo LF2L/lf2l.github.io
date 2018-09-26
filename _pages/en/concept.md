@@ -5,12 +5,12 @@ title: "The Lorraine Fab Living Lab Concept"
 permalink: /concept/
 classes:
  - wide
- 
+
 excerpt: "Serving innovation"
 header:    
-  overlay_image: "assets/images/banners/LF2L-1.jpg" 
+  overlay_image: "assets/images/banners/LF2L-1.jpg"
   overlay_filter: rgba(110, 110, 112, 0.5)
-  show_overlay_excerpt: true 
+  show_overlay_excerpt: true
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 sidebar:
@@ -21,7 +21,7 @@ last_modified_at: 2018-09-07
 
 # Concept Fab Living Lab
 
-Under the patronage of the University of Lorraine and Greater Nancy, the Lorraine Fab Living Lab® is a platform for the prospective evaluation of the uses and acceptability of innovation. It is located in the Renaissance Technopôle, in the heart of the city and Nancy's life.
+Under the patronage of the University of Lorraine and  Greater Nancy, the Lorraine Fab Living Lab® is a platform for the prospective evaluation of the uses and acceptability of innovation. It is located in the Renaissance Technopôle, in the heart of the city and Nancy's life.
 Driven and managed by the Research Team on Innovative Processes (ERPI Laboratory) and the ENSGSI (National School of Innovation Engineers), the Lorraine Fab Living Lab® brings together devices to accelerate creation and collaborative innovation for tomorrow's uses.
 
 The Lorraine Fab Living Lab® supports the creation and use of "demonstrators" of new products, processes, services, organizations mobilizing companies, territories and academics for creative and sustainable territories. It is based very concretely on successful experiments based on the concepts of Living Lab (integration of users into collaborative design and approaches) and FabLab (Fabrication Laboratory), an open and functional prototyping space, in the sense of the concept of a digital manufacturing workshop initiated by MIT (Massachusetts Institute of Technology).
