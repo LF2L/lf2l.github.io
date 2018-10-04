@@ -9,6 +9,9 @@ _site/
 .bundle
 vendor
 
+
+node_modules/
+
 # General MAC
 .DS_Store
 .AppleDouble
