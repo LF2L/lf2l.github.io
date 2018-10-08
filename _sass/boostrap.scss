@@ -1,6 +1,7 @@
 // Required
-@import "../node_modules/bootstrap/scss/functions";
-@import "../node_modules/bootstrap/scss/mixins";
+@import "bootstrap/scss/functions";
+// @import "../node_modules/bootstrap/scss/functions";
+// @import "../node_modules/bootstrap/scss/mixins";
 
 
 ////////////////////////////////////////////////////////////////////////
@@ -16,7 +17,7 @@ $carousel-control-opacity: 		.8 !default;
 $carousel-control-opacity: 		.8 !default;
 $carousel-control-icon-width:  	30px !default;
 
-@import "../node_modules/bootstrap/scss/variables";
+// @import "../node_modules/bootstrap/scss/variables";
 
 
 
@@ -25,6 +26,6 @@ $carousel-control-icon-width:  	30px !default;
 
 //////////// USE OF BOOSTRAP FOR LF2L //////////////////////
 
-@import "../node_modules/bootstrap/scss/carousel";
-@import "../node_modules/bootstrap/scss/card";
+// @import "../node_modules/bootstrap/scss/carousel";
+// @import "../node_modules/bootstrap/scss/card";
 
