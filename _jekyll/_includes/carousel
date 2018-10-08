@@ -1,0 +1,102 @@
+
+{% if include.data %}
+  {% assign carousel = include.data %}
+{% else %}
+  {% assign carousel = page.carousel %}
+{% endif %}
+
+
+<div id="{{ include.id }}" class="carousel slide" data-ride="carousel"> 
+  
+  <ol class="carousel-indicators">   
+   {% for picture in carousel %}
+     {% if forloop.first == true %}
+      <li data-target="#{{ include.id }}" data-slide-to="0" class="active"></li>
+     {% else %}
+      <li data-target="#{{ include.id }}" data-slide-to="{{ forloop.index0 }}"></li>
+     {% endif %}
+   {% endfor %}
+   </ol>
+
+  <div class="carousel-inner" role="listbox">
+    {% for picture in carousel %}
+      {% if forloop.first == true %}
+        <div class="item active">
+          {% if picture.avatar %}
+            <figure style="width: 200px" class="align-left staff">
+              <img src="{{ site.baseurl | append: page.image-path | append: 'equipe/' | append: picture.avatar }}">
+            <figcaption>
+              <p class="flex-caption text-center">
+                {{ picture.name}} <br>
+                <small>{{ picture.ecole}}</small> <br>
+                  {% if picture.linkedin %}
+                    <a href="{{ picture.linkedin }}">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+                  {% endif %}
+                  {% if picture.email %}
+                    <a href="mailto:{{ picture.email }}">
+                      <i class="fas fa-envelope-square"></i>
+                    </a>
+                  {% endif %}
+              </p>
+          </figcaption>
+          
+          {% else %}
+            <img src="{{ picture.image_path }}">
+          {% endif %}
+
+          {% if picture.caption %}
+            <div class="carousel-caption">
+              {{ picture.caption }}
+            </div>
+          {% endif %}
+        </div>
+      
+      {% else %}
+        <div class="item">
+          
+          {% if picture.avatar %}
+            <figure style="width: 200px" class="align-left staff">
+              <img src="{{ site.baseurl | append: page.image-path | append: 'equipe/' | append: picture.avatar }}">
+            <figcaption>
+              <p class="flex-caption text-center">
+                {{ picture.name}} <br>
+                <small>{{ picture.ecole}}</small> <br>
+                  {% if picture.linkedin %}
+                    <a href="{{ picture.linkedin }}">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+                  {% endif %}
+                  {% if picture.email %}
+                    <a href="mailto:{{ picture.email }}">
+                      <i class="fas fa-envelope-square"></i>
+                    </a>
+                  {% endif %}
+              </p>
+          </figcaption>
+
+          {% else %}
+            <img src="{{ picture.image_path }}">
+          {% endif %}
+          
+          {% if picture.caption %}
+            <div class="carousel-caption">
+              {{ picture.caption }}
+            </div>
+          {% endif %}
+        </div>
+      {% endif %}
+    {% endfor %}
+ </div>
+
+ <a class="carousel-control-prev" href="#{{ include.id }}" role="button" data-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span> 
+ <span class="sr-only">Previous</span>
+ </a>
+
+ <a class="carousel-control-next" href="#{{ include.id }}" role="button" data-slide="next">
+ <span class="carousel-control-next-icon" aria-hidden="true"></span>
+ <span class="sr-only">Next</span>
+ </a>
+</div>

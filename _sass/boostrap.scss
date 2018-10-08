@@ -1,0 +1,30 @@
+// Required
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/mixins";
+
+
+////////////////////////////////////////////////////////////////////////
+//////////// PERSONALIZATION OF BOOSTRAP FOR LF2L //////////////////////
+////////////////////////////////////////////////////////////////////////
+
+
+// CAROUSEL
+
+$carousel-control-color: 		$Purple-LF2L !default; // hola-como-estan
+$carousel-control-width: 		10% !default;
+$carousel-control-opacity: 		.8 !default;
+$carousel-control-opacity: 		.8 !default;
+$carousel-control-icon-width:  	30px !default;
+
+@import "../node_modules/bootstrap/scss/variables";
+
+
+
+
+
+
+//////////// USE OF BOOSTRAP FOR LF2L //////////////////////
+
+@import "../node_modules/bootstrap/scss/carousel";
+@import "../node_modules/bootstrap/scss/card";
+

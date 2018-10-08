@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+classes: wide
 title: Green FabLab
 date: 2018-09-10
 permalink: /projects/green-fablab/
@@ -15,13 +16,16 @@ header:
 intro: 
   - excerpt: "**The creation of a local recycling process for open source 3D printing technology can open new opportunities for a circular economy**"
 
-intro-GF:
-  - excerpt: 'Prueba'
+
+sidebar:
+  nav: "GF-articles"  
+
 
 tags:
 - recycling
 - 3D Printing
-categories: []
+categories: 
+- research
 
 
 gallery:
@@ -35,31 +39,54 @@ gallery:
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
-  - url: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-II.jpg
+  - url: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-III.jpg
     image_path: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-II.jpg
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"    
 
 
+projects:
+  - image_path: /assets/images/3-projects/Green-FabLab/articles/proj-1/thumb.png
+    alt: ""
+    title: "Towards a standard protocol for 3D printers "
+    excerpt: "Proposition d'un protocole standard d'expérimentation afin de caractériser la précision dimensionnelle d'une imprimante 3D open source."
+    url: "/green-fablab/standard-protocol"
+    btn_label: "Plus de détails"
+    btn_class: "btn--info"
+  
+  - image_path: /assets/images/3-projects/Green-FabLab/articles/proj-2/thumb.png
+    alt: ""
+    title: "Polymer recycling for 3D printing"
+    excerpt: "Proposition d'une métodologie systematique pour évaluer la recyclabilité des thermoplastiques utilisés dans les imprimantes open source."
+    url: "/green-fablab/recycling-methodology/"
+    btn_label: "Plus de détails"
+    btn_class: "btn--info"
+  
+  - image_path: /assets/images/3-projects/Green-FabLab/articles/proj-3/thumb.png
+    title: "Closed-Loop supply chain for distributed recycling process"
+    excerpt: "a conceptual model is developed and proposed for the collection process in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic recycling."
+    url: "/green-fablab/logistic/"
+    btn_label: "Plus de détails"
+    btn_class: "btn--info"
+
 
 partners:
   - image_path: /assets/images/3-projects/Green-FabLab/logos/CESI.jpg
-    alt: "CESI"
-    title: "CESI" 
-    excerpt: "Engineering school"   
-    url: "https://www.eicesi.fr/"
-
-  - image_path: /assets/images/3-projects/Green-FabLab/logos/ENSGSI.png
+    teaser_class: GF-partners    
+    alt: "CESI" 
+    title: ""       
+    excerpt: "[Engineering school](https://www.eicesi.fr/)"
+    
+  - image_path: /assets/images/3-projects/Green-FabLab/logos/ENSGSI.jpg
+    teaser_class: GF-partners
     alt: "ENSGSI"
-    title: "Engineering School ENSGSI"    
-    url: "https://www.eicesi.fr/"
-    excerpt: "National School in Industrial Systems Engineering"
+    title: ""        
+    excerpt: "[National School in Industrial Systems Engineering](https://www.ensgsi.univ-lorraine.fr/)"
   - image_path: /assets/images/3-projects/Green-FabLab/logos/LGRP.jpg
+    teaser_class: GF-partners
     alt: "LRGP"
-    title: "LRGP"   
-    excerpt: "Laboratoire Réactions et Génie des Procédés" 
-    url: "https://www.eicesi.fr/"
-
+    title: ""   
+    excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)" 
 
 ---
 
@@ -68,8 +95,6 @@ partners:
 {: .align-center}
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="intro-GF" type="center" %}
 
 
 <!-- Intro -->
@@ -87,54 +112,180 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 
 
-## **Green FabLab** in Images
+
+## Green FabLab en Images
+{: #GF-Images .GF-titles } 
+
+{% include gallery 
+  caption="Comic made in the *Ma Thèse en 180s* from UL. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
 
 
-BD réalisé dans le cadre de Ma thèse en 180 secondes , by Pebfox
 
-{% include gallery caption="Comic made in the *Ma Thèse en 180s* from UL. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
+## Innovation Spaces
+{: #inno-spaces .GF-titles } 
 
-
-
-## **Innovations Spaces**
-
-Les espaces de co-création « open labs » tels que Fab Labs, Living Labs, hackerspaces / makerspaces, TechShops sont une phénomène émergent en France et au monde. 
 
 ![image-left]({{site.baseurl|append:page.image-path|append:'LF2L.jpg'}}){: .align-left}
 
-Ils constituent un lieu et une démarche portés par des acteurs divers, en vue de renouveler les modalités d’innovation et de création par la mise en œuvre de processus collaboratifs et itératifs, ouverts et donnant lieu à une matérialisation physique ou virtuelle.
-
-Ils constituent un lieu et une démarche portés par des acteurs divers, en vue de renouveler les modalités d’innovation et de création par la mise en œuvre de processus collaboratifs et itératifs, ouverts et donnant lieu à une matérialisation physique ou virtuelle.
 
 ---
 
 
-## **Open Source 3D Printing**
+## Open Source 3D Printing
+{: #OS3DP .GF-titles } 
 
-C'est l’une des technologies identifiées comme ayant un fort potentiel d’impact sur les systèmes de production.
 
 ![image-left]({{site.baseurl|append:page.image-path|append:'3DP.jpg'}}){: .align-right}
 
-Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa principale particularité par rapport à la fabrication additive classique est le caractère collaboratif de l’open source qui permet des évolutions rapides et créatives, et ceci à moindre coût.
-
-Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa principale particularité par rapport à la fabrication additive classique est le caractère collaboratif de l’open source qui permet des évolutions rapides et créatives, et ceci à moindre coût.
-Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa principale particularité par rapport à la fabrication additive classique est le caractère collaboratif de l’open source qui permet des évolutions rapides et créatives, et ceci à moindre coût.
 
 
 ---
-## **Potential of the recycling process for 3D printing technology**
+
+## Potential of the recycling process for 3D printing technology
+{: #GF-Mission .GF-titles } 
 
 
-![image-left]({{site.baseurl|append:page.image-path|append:'Recycling.jpg'}}){: .align-left}
 
-Des recherches permettant de mieux développer les innovations sur les systèmes de recyclage de déchets actuels grâce à la fabrication additive open-source sont une opportunité pour contribuer tout du moins partiellement, à résoudre la problématique globale que représente l’accumulation de matière plastique dans la nature. 
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt="">
+  <figcaption>
+    <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>.
+  </figcaption>
+</figure> 
+
+
+Cette approche permet de contribuer, tout du moins partiellement, à résoudre la problématique globale que représente l’accumulation de matière plastique dans la nature. 
 Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels vers une paradigme d'economie circulaire ou le concept de déchet sera redefinie.
 
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+---
+
+## Notre recherche
+{: #GF-research .GF-titles } 
+
+
+<div id="GF-projects">
+  {% include feature_row id="projects" %}
+</div>
+
+
+
+
+
 ---
 
 
-{% include feature_row id="partners" %}{: height:150px}
+
+## Nos Etudiants
+{: #GF-students .GF-titles } 
+
+{% assign carousel = site.data.Green-Fablab.Equipe-fr %}
+
+<!-- assign carousel = page.carousel %} -->
+
+<div id = "{{ carousel.id }}" class="carousel slide" data-ride="carousel" data-interval="20000">
+  
+  <ol class="carousel-indicators">   
+   {% for links in carousel.people %}
+     {% if forloop.first == true %}
+      <li data-target = "#{{ carousel.id }}" data-slide-to="0" class="active">
+      </li>
+     {% else %}
+      <li data-target="#{{ carousel.id }}" data-slide-to="{{ forloop.index0 }}"></li>
+     {% endif %}
+   {% endfor %}
+   </ol>
+
+  <div class="carousel-inner">
+    {% for picture in carousel.people %}
+      {% if forloop.first == true %}
+        <div class="carousel-item active">           
+          <div class="container-staff-GF">
+            <div style="width: 200px" class="staff">
+              <figure>
+                <img src="{{ site.baseurl | append: carousel.image-path | append: picture.avatar }}" alt=" ">
+              </figure>
+              <figcaption>
+                <p>{{ picture.name}} <br>
+                  <small>{{ picture.ecole}}</small> <br>
+                    {% if picture.linkedin %}
+                      <a href="{{ picture.linkedin }}">
+                        <i class="fab fa-linkedin"></i>
+                      </a>
+                    {% endif %}
+                    {% if picture.email %}
+                      <a href="mailto:{{ picture.email }}">
+                        <i class="fas fa-envelope-square"></i>
+                      </a>
+                    {% endif %}</p>
+              </figcaption>
+            </div>
+            <blockquote>
+              <p>{{ picture.quote}} </p>        
+            </blockquote>          
+          </div>
+        </div>        
+      {% else %}
+        <div class="carousel-item">
+          <div class="container-staff-GF">
+            <div style="width: 200px" class="staff">
+              <figure>
+                <img src="{{ site.baseurl | append: carousel.image-path | append: picture.avatar }}" alt=" ">
+              </figure>
+              <figcaption>
+                <p>{{ picture.name}} <br>
+                  <small>{{ picture.ecole}}</small> <br>
+                    {% if picture.linkedin %}
+                      <a href="{{ picture.linkedin }}">
+                        <i class="fab fa-linkedin"></i>
+                      </a>
+                    {% endif %}
+                    {% if picture.email %}
+                      <a href="mailto:{{ picture.email }}">
+                        <i class="fas fa-envelope-square"></i>
+                      </a>
+                    {% endif %}</p>
+              </figcaption>
+            </div>
+            <blockquote style="width: 80%">
+              {{ picture.quote}}         
+            </blockquote>          
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+ </div>
+
+ <a class="carousel-control-prev" href="#{{ carousel.id }}" role="button" data-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span> 
+ <span class="sr-only">Previous</span>
+ </a>
+
+ <a class="carousel-control-next" href="#{{ carousel.id }}" role="button" data-slide="next">
+ <span class="carousel-control-next-icon" aria-hidden="true"></span>
+ <span class="sr-only">Next</span>
+ </a>
+</div>
 
 
-Pour plus d'information consulter : [GreenFabLab](http://www.lf2l.fr/Sections/Projets/Green-Fablab/)
+
+
+
+## Nos partenaires
+{: #GF-partners .GF-titles } 
+
+
+<div id="GF-partners">
+  {% include feature_row id="partners" %}
+</div>
+
+
 

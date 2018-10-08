@@ -1,0 +1,82 @@
+
+.GF-titles{
+  
+  text-align: center;
+  border-bottom: 3px solid $silver;
+  font-size: 2em;
+
+  .page__content h2{
+    border-bottom: 3px solid $silver;
+  }
+
+}
+
+
+
+#GF-projects {
+  a{
+    text-decoration: none;
+  }
+  h2{
+  font-size: 1em;
+  }
+}
+
+
+// Carousel Green FabLab
+.container-staff-GF{
+  display: flex;
+  align-items: center;
+
+  figure{
+    margin: 0px;
+    justify-content: center;    
+  }
+  
+  figcaption{
+    clear: both;
+  } 
+
+  blockquote{
+    width: 75%;
+    background: #f9f9f9;
+    quotes: "\201C""\201D""\2018""\2019";
+
+    &:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+    }
+    p{
+      display: inline;
+    }
+  }
+}
+
+
+
+
+#GF-partners{
+  .feature__item{
+    text-align: center;
+  }
+}
+
+.GF-partners{
+  img{
+    max-height: 150px;
+    width: auto;
+  }
+  
+  a{
+    text-decoration: none;
+        
+    &:hover {
+      text-decoration: underline;
+      color: yellow;
+    }
+  }
+}

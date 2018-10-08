@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* typefaces */
+@font-face {
+  font-family: 'Avenir-Black';
+  font-style: normal;
+  font-weight: 700;
+  src: url(AvenirLTStd-Black.otf) format('OpenType');
+}
+
+
+
+@font-face {
+  font-family: 'Avenir-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(AvenirLTStd-Light.otf) format('OpenType');
+}
+
+@font-face {
+  font-family: 'MinionPro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(MinionPro-Regular.otf) format('OpenType');
+}
+
+
+
+$sans-serif-narrow: 'Avenir-Black', sans-serif;
+$sans-serif: 'Avenir-Light', sans-serif;
+$caption: 'MinionPro', -apple-system,"Helvetica Neue", sans-serif;
+
+//  Definition of the LF2L Fonts
+$header-font-family: $sans-serif-narrow !default;
+$global-font-family: $sans-serif !default;
+$caption-font-family: $caption !default;

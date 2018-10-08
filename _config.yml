@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "LF2L"
 title_separator          : "|"
-name                     : "ERPI Laboratory"
-description              : "Site of the ERPI Laboratory."
+name                     : "LF2L Team"
+description              : "Site of the Lorraine Fab Living Lab (LF2L)."
 url                      : ""
-baseurl                  : "/LF2L" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""  #/LF2L" # the subpath of your site, e.g. "/blog"
 repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #breadcrumbs              : true # true, false (default)
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true #, false (default)
+search                   : #, false (default)
 search_full_content      : #, false (default)
 search_provider          : # lunr (default), algolia
 algolia:
@@ -284,16 +284,22 @@ collections:
   posts:
     output: true
     permalink: /:path
+  
   publications:
     output: true
     permalink: /:path
+  
   projects:
     output: true
     permalink: /:collection/:path/
+  
   people:
     output: true
     permalink: /:collection/:path/
-
+  
+  green-fablab:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 
@@ -414,6 +420,29 @@ defaults:
     values:
       lang: fr
 
+
+    # GREEN FABLAB PROJECT
+  - scope:
+      type: green-fablab
+    values:
+      layout: single
+      sidebar:
+        nav: "GF-articles"
+
+    #  INFO - EN
+  - scope:
+      path: "_green-fablab/en"
+    values:
+      lang: en
+
+    #  INFO - EN
+  - scope:
+      path: "_green-fablab/fr"
+    values:
+      lang: fr
+
+
+
   # _pages Main Pages of the site
   - scope:
       type: pages
@@ -512,6 +541,16 @@ defaults:
     values:
       lang: fr
 
+# footer_scripts:
+#   - //ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js
+#   - /assets/js/vendor/jquery/jquery-3.2.1.min.js
+#   - /assets/js/plugins/jquery.fitvids.js
+#   - /assets/js/plugins/jquery.greedy-navigation.js
+#   - /assets/js/plugins/jquery.magnific-popup.js
+#   - /assets/js/plugins/jquery.smooth-scroll.min.js
+#   - /assets/js/plugins/_main.js
+#   - /assets/js1/flexslider/jquery.flexslider-min.js
+#   - /assets/js1/app.js
 
 # It'd be nice to have "lang" set through wildcard, using * for directories:
 # https://jekyllrb.com/docs/configuration/front-matter-defaults/

@@ -2,109 +2,30 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@charset "utf-8";
-
-
-/* typefaces */
-@font-face {
-  font-family: 'Avenir-Black';
-  font-style: normal;
-  font-weight: 700;
-  src: url(AvenirLTStd-Black.otf) format('OpenType');
-}
-
-
-
-@font-face {
-  font-family: 'Avenir-Light';
-  font-style: normal;
-  font-weight: 400;
-  src: url(AvenirLTStd-Light.otf) format('OpenType');
-}
-
-@font-face {
-  font-family: 'MinionPro';
-  font-style: normal;
-  font-weight: 400;
-  src: url(MinionPro-Regular.otf) format('OpenType');
-}
-
-
-
-$sans-serif-narrow: 'Avenir-Black', sans-serif;
-$sans-serif: 'Avenir-Light', sans-serif;
-$caption: 'MinionPro', -apple-system,"Helvetica Neue", sans-serif;
-
-//  Definition of the LF2L Fonts
-$header-font-family: $sans-serif-narrow !default;
-$global-font-family: $sans-serif !default;
-$caption-font-family: $caption !default;
-
-
-
-//  Colors Default MM
-$primary-color: #7a8288 !default;
-$success-color: #62c462 !default;
-$warning-color: #f89406 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #52adc8 !default;
-
-
-
-// Colors ERPI
-$ERPI-Blue-Dark: #005798;
-$ERPI-Blue-Ligth: #005699;
-$ERPI-Green-Dark: #009342;
-$ERPI-Green-Ligth: #009342;
-
-
-//  Colors LF2L
-$Purple-LF2L: #592c8e;
-$LF2L-Grey: #B2B2BA;
-$LF2L-grey-ligth: #F1F1F1;
-$LF2L-grey-dark: #6E6E70;
-
-
-$Yellow-UL: rgb(255,238,89);
-
-
-// Gray Scale
-$white:  #fff;
-$silver: #ddd;
-$gray:   #aaa;
-$black:  #111;
-
-
-
-
-
-//  Color of the Links
-$link-color: $Purple-LF2L !default;
-
-
-// Navigation Panel
-$nav-height: 1em !default;
-$masthead-link-color: $white !default;
-$masthead-link-color-hover: mix($black, $Yellow-UL, 1%) !default;
-
+@import "fonts"; // Fonts for LF2L
+@import "colors"; // Colors for LF2L
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
+@import "boostrap"; 
 
 
 ////////////////////////////////////////////////////////////////////////
-//////////// PERSONALIZATION OF THE PAGES ////////////////////////////////////
+//////////// PERSONALIZATION OF THE PAGES //////////////////////////////
 ////////////////////////////////////////////////////////////////////////
 
-// HOME PAGE
 
-#header{
-  background-image: url(../images/1-home/header/Background-ERPI.jpg);  
+
+
+// Global
+
+.page__content {
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid $silver;
+  }
 }
-  
-
 
 
 /* Masthead */
@@ -118,45 +39,100 @@ $masthead-link-color-hover: mix($black, $Yellow-UL, 1%) !default;
 .greedy-nav .visible-links a:before{
   background:  $Yellow-UL;
 }
-  
+
+
+// HOME PAGE
+#header{
+  background-image: url(../images/1-home/header/Background-ERPI.jpg);  
+}
+
+
 
 
 .icons{
-	text-align: center;
-	width:100px; 
-	display: inline-block;
-	margin: 0 40px;
-	
-	img {
-	  max-width: 30px;
-	}
+  text-align: center;
+  width:100px; 
+  display: inline-block;
+  margin: 0 40px;
+  
+  img {
+    max-width: 30px;
+  }
 
 }
 
 
 .community{
-	display: flex;
-	justify-content: center;
+  display: flex;
+  justify-content: center;
 
 }
 
-  .icons-community{  	  
-  	text-align: center;
-  	width:100px;  	
-  	margin: 0 20px;
-  	display: inline-block;
+.icons-community{     
+  text-align: center;
+  width:100px;    
+  margin: 0 20px;
+  display: inline-block;
 
-	img {
-  	  max-width: 100px;
-  	}
+  img {
+      max-width: 100px;
+    }
 } 
 
 
-// Collection Styles
-  // Teaser Image
-.staff {      
+// For Staff 
+.staff {
+  text-align: center;   
+  margin: 0 20px;
+  // display: inline-block;
+  justify-content: center;
+
+
   img {
     width: 80%;
     border-radius: 50%;
    } 
 }
+
+
+
+
+
+// Projects
+@import "pages/Green-Fablab"; 
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
