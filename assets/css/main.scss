@@ -11,6 +11,9 @@
 @import "boostrap"; 
 
 
+
+
+
 ////////////////////////////////////////////////////////////////////////
 //////////// PERSONALIZATION OF THE PAGES //////////////////////////////
 ////////////////////////////////////////////////////////////////////////
@@ -23,8 +26,15 @@
 .page__content {
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 2px solid $silver;
+    border-bottom: 2px solid $silver;  
+    
   }
+}
+
+
+b, strong{
+  font-family: $header-font-family;
+  font-weight: bold;
 }
 
 

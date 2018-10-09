@@ -29,18 +29,18 @@ categories:
 
 
 gallery:
-  - url: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-I.jpg
-    image_path: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-I.jpg
+  - url: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-I.jpg
+    image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-I.jpg
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
-  - url: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-II.jpg
-    image_path: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-II.jpg
+  - url: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
+    image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
-  - url: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-III.jpg
-    image_path: /assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-II.jpg
+  - url: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-III.jpg
+    image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"    
 
@@ -102,14 +102,15 @@ The concept of **Green FabLas** is the intersection of several societal trends.
 <!-- 3D Printing -->
 From one side, there have been an growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
 The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of appropiation for the 3D printing technology, doing the filament fused deposition the most used technique in the additive manufacturing world. 
+
 <!-- Innovation Spaces -->
 In a parallelal way, the proliferation of innovation spaces such as fablabs, hackerspaces, makerspaces, it is creating a meeting place for passionate people about technology and the digital tools for the local fabrication/repairing/hacking uses.
+
 <!-- Conclusion -->
 Finally, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious.
 Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
 
 **The integration of recycled material for the 3D printing technology and in the innovation spaces**
-
 
 
 
