@@ -26,11 +26,18 @@
 .page__content {
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 2px solid $silver;  
-    
+    // border-bottom: 2px solid $silver;      
   }
 }
 
+
+
+hr {
+  display: block;
+  margin: 2em 0;
+  border: 0;
+  border-top: 3px solid $silver; 
+}
 
 b, strong{
   font-family: $header-font-family;
@@ -59,6 +66,14 @@ b, strong{
 
 
 
+
+.community{
+  display: flex;
+  justify-content: center;
+
+}
+
+
 .icons{
   text-align: center;
   width:100px; 
@@ -68,13 +83,9 @@ b, strong{
   img {
     max-width: 30px;
   }
-
-}
-
-
-.community{
-  display: flex;
-  justify-content: center;
+  figcaption{
+    font-size: 1em;
+  }
 
 }
 
@@ -87,6 +98,9 @@ b, strong{
   img {
       max-width: 100px;
     }
+  figcaption{
+    font-size: 1em;
+  }  
 } 
 
 
@@ -105,7 +119,20 @@ b, strong{
 }
 
 
+//  Color for Notice on Post on Home
+.notice {
 
+p{
+  font-size: 1.2em;
+
+}
+ a{
+  color: $Purple-LF2L;
+  &:hover {
+      color: mix(#000, $Purple-LF2L, 40%);
+    }
+  }
+}
 
 
 // Projects

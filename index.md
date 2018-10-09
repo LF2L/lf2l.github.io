@@ -37,23 +37,22 @@ icons:
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
 
 
-
 <div class="community">
 {% include figure 
   image_path="/assets/images/1-home/presentation/icon-materialiser.png" 
   class= "icons"  
-  alt="this is a placeholder image" 
-  caption="Materialize" %}
+  alt="Materialize a LF2L" 
+  caption="**Materialize**" %}
 {% include figure 
   image_path="/assets/images/1-home/presentation/icon-associer.png" 
   class= "icons"  
-  alt="LF2L" 
-  caption="Associate" %}
+  alt="Associer at LF2L" 
+  caption="**Associate**" %}
 {% include figure 
   image_path="/assets/images/1-home/presentation/icon-innover.png" 
   class= "icons"  
-  alt="Etudiants" 
-  caption="Innovate" %}
+  alt="Innover at LF2L" 
+  caption="**Innovate**" %}
 </div>
 
 ## Inside of the fourth dimmension of Innovation 
@@ -67,31 +66,36 @@ icons:
 {: .text-center}
 
 <div class="community">
-{% include figure 
+{% include figure
   image_path="/assets/images/1-home/presentation/Entreprises.png" 
   class= "icons-community"  
-  alt="this is a placeholder image" 
-  caption="Entreprises" %}
+  alt="" 
+  caption="Entreprises"
+  url= "/communities/enterprises/" %}
 {% include figure 
   image_path="/assets/images/1-home/presentation/Makers.png" 
   class= "icons-community"  
-  alt="Makers" 
-  caption="Makers" %}
+  alt="" 
+  caption="Makers" 
+  url= "/communities/makers/" %}
 {% include figure 
   image_path="/assets/images/1-home/presentation/Etudiants.png" 
   class= "icons-community"  
-  alt="Etudiants" 
-  caption="Etudiants" %}
+  alt="" 
+  caption="Etudiants" 
+  url= "/communities/students/" %}
 {% include figure 
   image_path="/assets/images/1-home/presentation/Universitaires.png" 
   class= "icons-community"  
-  alt="Universitaires" 
-  caption="Universities" %}
+  alt=" " 
+  caption="Universities" 
+  url= "/communities/enterprises/" %}
 {% include figure 
   image_path="/assets/images/1-home/presentation/Institutions.png" 
   class= "icons-community"  
-  alt="Collectivities" 
-  caption="Collectivities" %}
+  alt=" " 
+  caption="Collectivities" 
+  url= "/communities/collectivities/" %}
 </div>
 
 
@@ -135,7 +139,7 @@ icons:
           </div>
         {% endif %}
 
-        <div class="archive__item-body {{f.title_class | default: "notice--info" }}">
+        <div class="archive__item-body {{f.title_class | default: "notice" }}">
           {% if f.title %}
             <a href="{{ f_url }}">
               <h2 class="archive__item-title">{{ f.title }}</h2>
@@ -154,7 +158,7 @@ icons:
 
           {% if f.url %}
             <p style="margin-top: 10px; text-align: right;">
-              <a href="{{ f_url }}" class="btn btn--success {{ f.btn_class }}">
+              <a href="{{ f_url }}" class="btn btn--primary {{ f.btn_class }}">
                 {{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}
               </a>
             </p>
