@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 #gem "rake", "~> 12"
-#gem 'jekyll', '~> 3.8.4'
+gem 'jekyll', '~> 3.8.4'
 #gem "github-pages", group: :jekyll_plugins
 
 gem "minimal-mistakes-jekyll"
