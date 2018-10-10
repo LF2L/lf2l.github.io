@@ -1,16 +1,16 @@
 ---
 layout: single
 classes: wide
-title: Green FabLab
+title: Green Fablab
 date: 2018-09-10
-permalink: /projects/green-fablab/
+permalink: /projects/green-Fablab/
 image-path: "/assets/images/3-projects/Green-Fablab/"
 
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
-  teaser: /assets/images/projects/green-fablab/teaser.jpg
-  overlay_image: /assets/images/projects/green-fablab/teaser.jpg
+  teaser: /assets/images/projects/green-Fablab/teaser.jpg
+  overlay_image: /assets/images/projects/green-Fablab/teaser.jpg
   overlay_filter: 0.5
 
 intro: 
@@ -24,17 +24,29 @@ sidebar:
 
 gallery:
   - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-I.jpg
+<<<<<<< HEAD
     image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-I.jpg
+=======
+    image_path: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-I.jpg
+>>>>>>> 59eecc48e2aab133b9eed315486583477c0e53fa
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
   - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-II.jpg
+<<<<<<< HEAD
     image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
+=======
+    image_path: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-II.jpg
+>>>>>>> 59eecc48e2aab133b9eed315486583477c0e53fa
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
   - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-III.jpg
+<<<<<<< HEAD
     image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
+=======
+    image_path: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-II.jpg
+>>>>>>> 59eecc48e2aab133b9eed315486583477c0e53fa
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"    
 
@@ -44,7 +56,7 @@ projects:
     alt: ""
     title: "Towards a standard protocol for 3D printers "
     excerpt: "Proposition d'un protocole standard d'expérimentation afin de caractériser la précision dimensionnelle d'une imprimante 3D open source."
-    url: "/green-fablab/standard-protocol"
+    url: "/green-Fablab/standard-protocol"
     btn_label: "Plus de détails"
     btn_class: "btn--info"
   
@@ -52,14 +64,14 @@ projects:
     alt: ""
     title: "Polymer recycling for 3D printing"
     excerpt: "Proposition d'une métodologie systematique pour évaluer la recyclabilité des thermoplastiques utilisés dans les imprimantes open source."
-    url: "/green-fablab/recycling-methodology/"
+    url: "/green-Fablab/recycling-methodology/"
     btn_label: "Plus de détails"
     btn_class: "btn--info"
   
   - image_path: /assets/images/3-projects/Green-Fablab/articles/proj-3/thumb.png
     title: "Closed-Loop supply chain for distributed recycling process"
     excerpt: "a conceptual model is developed and proposed for the collection process in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic recycling."
-    url: "/green-fablab/logistic/"
+    url: "/green-Fablab/logistic/"
     btn_label: "Plus de détails"
     btn_class: "btn--info"
 
@@ -85,7 +97,7 @@ partners:
 ---
 
 
-![Green FabLab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
+![Green Fablab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
 {: .align-center}
 
 {% include feature_row id="intro" type="center" %}
@@ -98,7 +110,7 @@ From one side, there have been an growing interesting in the additive manufactur
 The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of appropiation for the 3D printing technology, doing the filament fused deposition the most used technique in the additive manufacturing world. 
 
 <!-- Innovation Spaces -->
-In a parallelal way, the proliferation of innovation spaces such as fablabs, hackerspaces, makerspaces, it is creating a meeting place for passionate people about technology and the digital tools for the local fabrication/repairing/hacking uses.
+In a parallelal way, the proliferation of innovation spaces such as Fablabs, hackerspaces, makerspaces, it is creating a meeting place for passionate people about technology and the digital tools for the local fabrication/repairing/hacking uses.
 
 <!-- Conclusion -->
 Finally, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious.
@@ -108,7 +120,7 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 
 
-## Green FabLab en Images
+## Green Fablab en Images
 {: #GF-Images .GF-titles } 
 
 {% include gallery 
