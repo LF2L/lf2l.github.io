@@ -21,32 +21,26 @@ sidebar:
   nav: "GF-articles"  
 
 
-tags:
-- recycling
-- 3D Printing
-categories: 
-- research
-
 
 gallery:
-  - url: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-I.jpg
+  - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-I.jpg
     image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-I.jpg
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
-  - url: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
+  - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-II.jpg
     image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
-  - url: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-III.jpg
+  - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-III.jpg
     image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"    
 
 
 projects:
-  - image_path: /assets/images/3-projects/Green-FabLab/articles/proj-1/thumb.png
+  - image_path: /assets/images/3-projects/Green-Fablab/articles/proj-1/thumb.png
     alt: ""
     title: "Towards a standard protocol for 3D printers "
     excerpt: "Proposition d'un protocole standard d'expérimentation afin de caractériser la précision dimensionnelle d'une imprimante 3D open source."
@@ -54,7 +48,7 @@ projects:
     btn_label: "Plus de détails"
     btn_class: "btn--info"
   
-  - image_path: /assets/images/3-projects/Green-FabLab/articles/proj-2/thumb.png
+  - image_path: /assets/images/3-projects/Green-Fablab/articles/proj-2/thumb.png
     alt: ""
     title: "Polymer recycling for 3D printing"
     excerpt: "Proposition d'une métodologie systematique pour évaluer la recyclabilité des thermoplastiques utilisés dans les imprimantes open source."
@@ -62,7 +56,7 @@ projects:
     btn_label: "Plus de détails"
     btn_class: "btn--info"
   
-  - image_path: /assets/images/3-projects/Green-FabLab/articles/proj-3/thumb.png
+  - image_path: /assets/images/3-projects/Green-Fablab/articles/proj-3/thumb.png
     title: "Closed-Loop supply chain for distributed recycling process"
     excerpt: "a conceptual model is developed and proposed for the collection process in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic recycling."
     url: "/green-fablab/logistic/"
@@ -71,18 +65,18 @@ projects:
 
 
 partners:
-  - image_path: /assets/images/3-projects/Green-FabLab/logos/CESI.jpg
+  - image_path: /assets/images/3-projects/Green-Fablab/logos/CESI.jpg
     teaser_class: GF-partners    
     alt: "CESI" 
     title: ""       
     excerpt: "[Engineering school](https://www.eicesi.fr/)"
     
-  - image_path: /assets/images/3-projects/Green-FabLab/logos/ENSGSI.jpg
+  - image_path: /assets/images/3-projects/Green-Fablab/logos/ENSGSI.jpg
     teaser_class: GF-partners
     alt: "ENSGSI"
     title: ""        
     excerpt: "[National School in Industrial Systems Engineering](https://www.ensgsi.univ-lorraine.fr/)"
-  - image_path: /assets/images/3-projects/Green-FabLab/logos/LGRP.jpg
+  - image_path: /assets/images/3-projects/Green-Fablab/logos/LGRP.jpg
     teaser_class: GF-partners
     alt: "LRGP"
     title: ""   
@@ -187,7 +181,6 @@ Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels
 
 {% assign carousel = site.data.Green-Fablab.Equipe-fr %}
 {% include carousel  %}
-
 
 
 
