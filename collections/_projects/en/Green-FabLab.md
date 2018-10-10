@@ -21,26 +21,32 @@ sidebar:
   nav: "GF-articles"  
 
 
-tags:
-- recycling
-- 3D Printing
-categories: 
-- research
-
 
 gallery:
   - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-I.jpg
+<<<<<<< HEAD
+    image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-I.jpg
+=======
     image_path: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-I.jpg
+>>>>>>> 59eecc48e2aab133b9eed315486583477c0e53fa
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
   - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-II.jpg
+<<<<<<< HEAD
+    image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
+=======
     image_path: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-II.jpg
+>>>>>>> 59eecc48e2aab133b9eed315486583477c0e53fa
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"
 
   - url: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-III.jpg
+<<<<<<< HEAD
+    image_path: /assets/images/3-projects/Green-FabLab/BD/en/Fabio-MT180-II.jpg
+=======
     image_path: /assets/images/3-projects/Green-Fablab/BD/en/Fabio-MT180-II.jpg
+>>>>>>> 59eecc48e2aab133b9eed315486583477c0e53fa
     alt: "Ma thèse en 180s Fabio Cruz"
     title: "Ma thèse en 180s Fabio Cruz"    
 
@@ -187,7 +193,6 @@ Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels
 
 {% assign carousel = site.data.Green-Fablab.Equipe-fr %}
 {% include carousel  %}
-
 
 
 
