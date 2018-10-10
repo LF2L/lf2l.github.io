@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Green Fablab
 date: 2018-09-10
-permalink: /projects/green-fablab/
+permalink: /projects/green-Fablab/
 image-path: "/assets/images/3-projects/Green-Fablab/"
 
 
