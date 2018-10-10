@@ -9,7 +9,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
 @import "elements-bootstrap"; 
 
 
@@ -140,7 +139,7 @@ p{
 // Projects
 @import "pages/Green-Fablab"; 
 
-@import "boostrap"; 
+
 
 
 
