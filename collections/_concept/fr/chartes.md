@@ -2,7 +2,7 @@
 title: "Partners and Chartes"
 permalink: /fr/chartes/
 
-excerpt: "Our Partners"
+excerpt: "Partenaires et Chartes"
 header:  
   overlay_color: "#333"
   overlay_filter: 0.1
@@ -14,7 +14,7 @@ sidebar:
 last_modified_at: 2018-09-10
 
 toc: true
-toc_label: "Year"
+toc_label: "Partners & Charts"
 ---
 
 

@@ -179,7 +179,7 @@ Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels
 ## Nos Etudiants
 {: #GF-students .GF-titles } 
 
-{% assign carousel = site.data.Green-Fablab.Equipe-fr %}
+{% assign carousel = site.data.Green-Fablab.Equipe-en %}
 {% include carousel  %}
 
 

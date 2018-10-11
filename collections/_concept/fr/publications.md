@@ -14,118 +14,85 @@ last_modified_at: 2018-09-10
 
 toc: true
 toc_label: "Year"
-
+toc_sticky: true
 ---
 
-## Current Thesis projects # {#current-thesis}
-    
-1. Convolte Aline. **Sujet de thèse : Contribution à la caractérisation des éxigences utilisateur dans les processus d'innovation urbaine. Application à la préconception d'un système de mobilité facilitant l'adoption des modes actifs.** 
-Directeur de la Thèse : Claudine Guidat. Codirection Anne Vuillemin (Apemac, EA4360). Cofinancement Chaire REVES et ADEME.
+## 2018
 
-
-
-5. Lacroix Jonathan. **Sujet de la thèse : Conception d'une ingénierie intégrée de pilotage de l'innovation urbaine en mode Fab Living Lab® : application à l'Opération d'intérêt National Alzette Belval.** 
-Directrice de la thèse : Claudine Guidat, Codirecteur : Grégory Hamez.
-
-
-6. Thi Hoang Giang TRAN. **Sujet de la thèse : D’un “diagnostique partagé” à “l’action partagée” : comment le mode projet living lab peut alimenter le processus d’aide à la décision du « faire la ville » en intégrant les citoyens pour une ville intelligente.**
-Directeur de la thèse : Mauricio Camargo, Codirecteur : Laurent Dupont
-
-
-
-
-9. Santander Pavlo. **Sujet de thèse : Valorisation en circuit court de déchets thermoplastiques pour la conception par impression 3D de structures composites.** 
-Directeurs de thèse : Mauricio Camargo, Hakim Boudaoud
-
-
-
-10. Acosta Salgado Linda. **Sujet de la thèse : Amélioration des modèles et méthodes d'évaluation de l'acceptabilité. Application à la co-conception et à la mise en place d'une organisation innovante en santé, concernant la prise en charge des personnes âgées.**
-Directeurs de la thèse : Eric Bonjour, Auguste Rakotodranaivo.
-
-
-
-
-11. Fonseca Juan David. **Sujet de la thèse : Conception et optimisation multi-objectifs d’un système énergétique sur un éco-quartier incluant différentes technologies de génération et de conversion d’énergie, basées sur l’hydrogène comme vecteur énergétique.** Directeurs de la thèse : Mauricio Camargo, Codirecteur : Laurent Falk LRGP. Projet IMPACT Hydrogène. Bourse LUE
-
-
-
-12. Osorio-Bustamante Ferney. **Sujet de thèse : A venir.** 
-Cotutelle Université National de colombie.
-
-13. De Bigault De Casanove Alice. **Sujet de thèse: Amélioration de la relation grands groupes / PME dans une démarche d'innovation.** 
-Directeur de la thèse : Laure Morel, Co-directeur : Stéphane Négny.
-
+- Arbelaez-Garces G., Joseph D., Camargo M., Tran N., Morel L. [Contribution to the objective assessment of technical skills for surgery students: an accelerometer-based approach](https://www.sciencedirect.com/science/article/abs/pii/S0169814117303244), International Journal of Industrial Ergonomics. (IF=1,415)
 
 ## 2017
 
-Boly V., Morel L, Camargo M. [Innovation management: twenty-three years of higher education in a French engineering school](http://romatrepress.uniroma3.it/ojs/index.php/erasmus01/article/view/1340) dans Le ragioni di Erasmus, 1. Curatore: Marina Geat e Vincenzo A. Piccione. Editore: RomaTrE-Press. Data di pubblicazione: settembre 2017. Pagine: 304. ISBN: 978-88-94885-31-6. [Details](http://romatrepress.uniroma3.it/ojs/index.php/erasmus01)
+- Dupont, L., Pallot, M., Morel, L., Christmann, O., Boly, V., and Richir, S. (2017) Exploring Mixed-methods Instruments for Performance Evaluation of Immersive Collaborative Environments, The International Journal of Virtual Reality. 17(02), pp1-29. (IF=0,79 ; H-ind=16)
 
-A Gabriel, D Monticolo, M Camargo, M Bourgault. (2017) **Conceptual Framework of an Intelligent System to Support Creative Workshops.** 261-284. Springer International Publishing AG 2017 261 D. Cavallucci (ed.), TRIZ – The Theory of Inventive Problem Solving, DOI 10.1007/978-3-319-56593-4_11 [Details](https://link.springer.com/chapter/10.1007/978-3-319-56593-4_11)
+- Cruz Sanchez F., Boudaoud H., Hoppe S., Camargo M., Polymer Recycling in an Open-Source Additive Manufacturing Context: Mechanical Issues. Additive Manufacturing. 17 (2017). pp. 87-105
+
+- Dupont, L., Gabriel, A., Camargo, M., Guidat, C. (2017) Collaborative Innovation Projects Engaging Open Communities: a Case Study on Emerging Challenges. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June.
+
+- Tran, G., Camargo, M., Dupont, L., Mayer, F. (2017) A review of methods for modelling shared decisionmaking process in a smart city living lab. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June.
+
+- Lacroix, J., Dupont, L., Guidat, C. Hamez, G. (2017) “Smarterized” urban project process with Living Lab approach: exploration through a case study. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June.
+
+- Pallot, M., Dupont, L., Christmann, O., Richir, S., Boly V., Morel, L. (2017) ICE Breaking: Disentangling Factors Affecting the Performance of Immersive Co-creation Environments, Laval Virtual VRIC ’17, March 22 – 26, 2017, Laval, France.
+
+- Hubert Julien. Sujet de thèse : Intégration du point de vue de l’usager et du citoyen dans un processus d’innovation. Application au déploiement d’un dispositif d’électro- mobilité dans le sillon lorrain. Directeur de la thèse : Claudine Guidat. Thèse CIFRE ENEDIS (ex. ERDF). Thèse soutenue le 20 juin 2017
+
 
 ## 2016
- 
-| ![Ingenierie de l'innovation](https://images.lavoisier.net/couvertures/1316908938.jpg "Ingenierie de l'innovation") |   Boly V., Camargo M., Morel L. **Ingenierie de l'innovation 3émé Edition.** Lavoisier 09-2016, 288 p. Broché [Details](http://www.lavoisier.fr/livre/economie/ingenierie-de-l-innovation-et-projets-innovants-3e-ed/boly/descriptif-9782746247475) |
 
-| ![Fab_Labs](https://media.wiley.com/product_data/coverImage300/29/18482187/1848218729.jpg "Fab_Labs") |   Morel L., Leroux S. **Fab Labs: Innovative user** John Wiley & Sons, 30 juin 2016 - 146 pages [Details](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1848218729.html) |
+- Morel L., Leroux S. Fab Labs: Innovative user, John Wiley & Sons, 30 juin 2016 – 146 pages. 
 
-Morel L., Leroux S. **Fab Labs : L’usager Innovateur**, Série Smart innovation coordonnée par Dimitri Uzunidis. ISTE Editions. Collection Innovation, entrepreneuriat et gestion 126 pages. ISBN : 978-1-78405-128-0 (papier) ISBN : 978-1-78405-128-9 (E-Book). [Détails](http://iste-editions.fr/collections/nouveautes/products/fab-labs) 
+- Morel L., Leroux S. Fab Labs : L’usager Innovateur, Série Smart innovation coordonnée par Dimitri Uzunidis. ISTE Editions. Collection Innovation, entrepreneuriat et gestion 126 pages – ISBN : 978-1-78405-128-0 (papier) ISBN : 978-1-78405-128-9 (E-Book).
 
-Auvray, G., Bocquet, J.-C., Bonjour, E., Krob, D. (Eds.), **Complex Systems Design & Management, Proceedings of the Sixth International Conference on Complex Systems Design & Management, CSD&M 2015,** Springer International Publishing Switzerland, DOI: 10.1007/978-3-319-26109-6 - publication date: 2015-11-21
+- Hubert, H. Dupont, L., Guidat, C. (2016) Use as essential factor for Technology Adoption: Case study of electric vehicle’s uses in French regional Ecosystem. 22nd ICE/IEEE International Technology Management Conference, Trondhiem, Norway, 13-15 June.
 
-| ![Livre Mesurer l'innovation](http://www.lcdpu.fr/Resources/titles/27000100166710/Images/27000100166710L.jpg)  | Camargo M., Boly V,. Morel L. Eds. **Mesurer l’innovation en entreprise, Un levier essentiel pour la réussite des projets innovants.** Presses universitaires de Nancy. 240p. [Détails](http://www.lcdpu.fr/livre/?GCOI=27000100166710) Première édition, ISBN-10 2814302620 - ISBN-13 9782814302624 |
+- Parra Morantes, P., Arbelaez-Garces, G., Camargo, M. Dupont, L., Peñarete, S. Understanding Museum visitors’ experience through an Eye-tracking study and a Living Lab approach. 22nd ICE/IEEE International Technology Management Conference Trondheim, Norway, 13-15 June. 2016
 
-* Chapitre 1 : Capacité d’innovation des PME, ce qu’il faut mesurer par L. Morel, V. Boly , M. Camargo
-* Chapitre 2 : Un outil pour mesurer la capacité d’innovation : l’Indice d’Innovation Potentielle, par D. Galvez
-* Chapitre 3 : Élaboration d’une stratégie de développement à partir de la mesure de la capacité à innover, par D. Galvez
-* Chapitre 4 : Mesurer la performance dans le pilotage d’un projet d’innovation par, L. Morel, V. Boly , M. Camargo
-* Chapitre 5 : Mesurer l’adéquation entre les pratiques de gestion de projet et les caractéristiques du projet innovant, par J. Claire
-* Chapitre 6 : Évaluations des idées issues de la créativité, par A. Gabriel
-* Chapitre 7 : Mesurer l’acceptabilité d’un nouveau produit, par G. Arbelaez Garces, E. Bonjour, A. Rakotondranaivo
-* Chapitre 8 : Mesurer la capacité d’une entreprise à protéger ses innovations, par M. Enjolras
-* Chapitre 9 : ROÇI un outil de mesure de l’intérêt de l’« Open innovation » pour un projet, par A. Steiner  
+- Arbelaez-Garces G., Bonjour E, Rakotondranaivo A. New product acceptability evaluation and improvement model with knowledge reuse. 8th IFAC Conference on Manufacturing Modeling, Management & Control. Troyes – France, 28-30 June. 2016
 
-Dupont L., Morel L., Guidat C., Hubert J. et Revel M. **Le « technicien-citoyen » et La Fabrique Nancy Grand Cœur : le prisme de l’usage dans la conception d’un écoquartier.** In Mermet L. et Salles D. (Dir) [Environnement : la concertation apprivoisée, contestée, dépassée ?](http://www.deboecksuperieur.com/ouvrage/9782804191085-environnement-la-concertation-apprivoisee-contestee-depassee) De Boeck, coll. Ouvertures sociologiques : Louvain-La-Neuve, pp. 233-256
+- Dupont, L., Pallot, M., Morel, L. (2016) Exploring the Appropriateness of Different Immersive Environments in the Context of an Innovation Process for Smart Cities. 22nd ICE/IEEE International Technology Management Conference, Trondhiem, Norway, 13-15 June. 
 
-Morel L, Camargo M, Boly V. **Comment réusir le pilotage d’un projet d’innovation dans une PME/PMI le Grand Livre de l’Économie PME, Partie 2, Chapitre 5** (2015) Collection Business Recherche, Sous la direction scientifique de G. Lecointre. Gualino-Lextenso Éditions
+## 2015
 
-Boudaoud H., Boly V. Démocratisation de la fabrication additive : impression 3D et FabLabs. Dans C. Barlier, A. Bernard. Collection: Technique et Ingénierie, Dunod. 2015 - 416 pages - 170x240 mm. EAN13 : 9782100711390 [Détails](http://www.dunod.com/sciences-techniques/sciences-techniques-industrielles/genie-mecanique/fabrication-additive)
+- Dupont, L., Morel, L., Guidat, C. (2015) Innovative Public-Private Partnership to Support Smart City: the Case of “Chaire REVES”. Journal of Strategy and Management, Vol. 8 Issue: 3, pp.245-265, https://doi.org/10.1108/JSMA-03-2015-0027
 
-## 2014 
+- Dupont L., Guidat C., Morel L., Skiba N., The Role of Mock-ups in the Anticipation of the User Experience within a Living Lab: an Empirical Study. 2015 International Conference on Engineering, Technology and Innovation (ICE), Belfast, Northern Irland, 22-24 june 2015 DOI: https://doi.org/10.1109/ICE.2015.7438669
 
-P. Mauborgne, S. Deniaud, E. Levrat, E. Bonjour, J-P. Micaëlli, D. Loise, **Preliminary Hazard Analysis Generation Integrated with Operational Architecture-Application to Automobile,** In Complex Systems Design & Management, pp. 297-309, 2014, Springer International Publishing
+- Osorio Bustamante F., Peña Reyes J.I., Camargo M., Dupont L. Spaces to foster and sustain innovation: Towards a conceptual framework. 2015 International Conference on Engineering, Technology and Innovation (ICE), Belfast, Northern Irland, 22-24 june 2015. DOI: 10.1109/ICE.2015.7438661
 
-V. Chapurlat, E. Bonjour, **From Model Based Systems Engineering to Model Based System Realization: Role and Relevance of IVTV Plan**. In Advances in Production Management Systems. Innovative and Knowledge-Based Production Management in a Global-Local World, pp. 109-116, 2014, Springer Berlin Heidelberg
+- Morel, L., Dupont, L., Lhoste, P., When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France. Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
 
-Bataille V., Almeida Bernard E., Bigot J., Bucher K., Coelenbier F., Convolte A., Dejardin P., Livet P., Martin F., Saint Laurent A., Geneviève S., Théaudin A. **Centres de prévention bien vieillir Agirc-Arrco.** (2015). Lutter contre la sédentarité pour bien vieillir - Activité physique - Etude nationale 2014. Paris
+- Dupont L.,Morel, L.,Lhoste, P., Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. In Actes des sessions du colloque Science & You, France, Nancy, June 3-5th, 2015, pp. 230-235.
 
-Boly V, Morel L, Camargo M. **L'inovation par delà la science : quand l'émergence est multiple.** in Principes d'économie de l'innovation dirgé par Sophie Boutillier, Joëlle Forest, Delphine Gallaud, Blandine Laperche, Corinne Tanguy, Leïla Temri, Edition Peter Lang.
+## 2014
 
-## 2013
+- Dupont L. Morel L. Hubert J. Guidat C. Study case: Living Lab Mode for urban project design. Emergence of an ad hoc methodology through collaborative innovation. in IEEE International Technology Management Conference & 20th ICE Conference, Bergamo : Italy (2014) – DOI : https://doi.org/10.1109/ICE.2014.6871550
 
-Morel L, Camargo M, Boly V. **Product Development, Business Concept, and Entrepreneurship.** In Encyclopedia of Creativity, Invention, Innovation, and Entrepreneurship (2013) pages 1487-1492. E. G. Carayannis Ed. Springer, ISBN 978-1-4614-4579-1
-
-Morel L, Camargo M, Boly V. **Innovation Opportunities and Business Start-up.** In Encyclopedia of Creativity, Invention, Innovation, and Entrepreneurship (2013) pages 979-994. E. G. Carayannis Ed. Springer, ISBN 978-1-4614-4579-1
-
-Mehrabani Golzar M. R., Chery O., Boly V. [Evaluation du potentiel de durabilité d'un projet de rénovation urbaine en phase de préconception grâce a la conception a objectif désigné (COD)](http://www.cairn.info/resume.php?ID_ARTICLE=MAORG_017_0101), Marché et organisations, N°1, Editions L'Harmattan, pp 101-121, 03/2013, ISBN 978-2-3430-0401-3
-
-Bonaldi E. **Problématique de conception d’un processus innovant de recyclage textile,** Marché et organisations, N°1, Editions L'Harmattan, pp 149-169, 03/2013, ISBN 978-2-3430-0401-3
+- Skiba N. Sujet de la thèse : Processus d’innovation centré sur l’utilisateur : identification des besoins et interprétation de données issues de l’intégration de l’utilisateur dans le processus de co-conception. Directeurs de la thèse : Laure Morel et Claudine Guidat. Thèse soutenue le 3 avril 2014.
 
 
-Potier O., Camargo M. Chapter 11 Innovation in chemical engineering industries. in Process Engineering and Industrial Management (2013). Dal Pont, J Ed. Hardcover. John Wiley & Sons, London ISBN-13: 978-1-84821-326-5 [Détails](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1848213263.html)
+## 2013 and before
 
-## 2012
+- Skiba, N. ; Morel, L.; Guidat, C.; Camargo, M. How to emphasize the ‘living’ part of Living Lab projects? In IEEE International Technology Management Conference & 19th ICE Conference, The Hague : The Netherlands (2013)
 
-Morel L, Camargo M, Boly V. **Mesure de la capacité à innover des PMI/PME 2ème Grand Livre de l’Économie PME,** (2012), Partie 1, Chapitre 4. Collection Business Recherche, Sous la direction scientifique de G. Lecointre. Gualino-Lextenso Éditions
+- Brissel L., Dupont L., Morel L., Contribution to setting up a sustainable learning in an Eco-Neighbourhood development plan based on “serious game” In IEEE International Technology Management Conference & 19th ICE Conference, Centre for Innovation, Campus the Hague, the Netherlands, 24-26 June, 2013. DOI: 10.1109/ITMC.2013.7352607
 
-JP. Micaëlli, E. Bonjour, I. Deniaud, 2012. **Conception routinière ou innovante : Quels apports de l’ingénierie système ?**, Revue de génie logiciel, N° 100, Mars 2012, pp. 9-15
+- Camargo M., Bary R., Skiba N., Boly V., Smith R. Exploring the Implications and Impact of Smartphones on Self-Directed Learning Under a Living Lab Approach. International Journal of Product Development (2012) Vol.17, Nos 1/2. pp.119-138.
 
-I Lahoud, D Monticolo, V Hilaire, S Gomes, E Bonjour, **A Multi-Sources Knowledge Management System, Information Control Problems in Manufacturing** 2012, 14 (1), 1177-1183 (DOI : 10.3182/20120523-3-RO-2023.00126)
+- Skiba N., Dupont L., Morel L., Guidat C. A space for innovation process acceleration, supporting collaborative citizens workshops. In 18th International ICE Conference on Engineering, Technology and Innovation (ICE), Munich : Allemagne (2012). DOI : https://doi.org/10.1109/ICE.2012.6297646
 
-## 2011
+- Dupont, L, Gholipour V., Morel L., Bignon J-C., Guidat C. 2012 From urban concept to urban engineering: The contribution of distributed collaborative design to the management of urban projects, Journal of Urban Design, 17:2, 255-277
 
-E. Bonjour, S. Deniaud, D. Loise, JP. Micaëlli, **L’ingénierie système fondée sur les modèles ?**, In " Modélisation et activités des ingénieurs ", L’Harmattan, Collection Ingénium (Sous la coordination de Ludovic BOT et Marie-Laure VITALI), décembre 2011. ISBN : 978-2-296-56626-2.
+- Guidat C, Dupont L, Skiba N, Bretagne V, Mauricio C, Massouras G. Lorraine Smart Cities Living Lab : Livre Blanc, Nancy: université de Lorraine, Juillet 2011, 54 p. Le Livre Blanc document est le fruit d’une opération menée par l’Institut National Polytechnique de Lorraine en partenariat avec le CEI PROMOTECH, avec le soutien financier de l’Etat (DIRECCTE Lorraine) et de l’Europe (FEDER Lorraine). Il remplit un triple objectif :
+  - Faire l’état des concepts et pratiques sur les "Living Labs",
+  - Tester les premiers outils et ingénieries sur l’entreprenariat et la prospective collaborative, 
+  - en déduire des éléments pour proposer une stratégie de développement du Living Lab lorrain. 
 
-JP. Micaëlli, E. Bonjour, [Are Skill Design Structure Matrices New Tools for Automotive Design Managers?](www.intechopen.com/download/pdf/pdfs_id/13338), In "New Trends and Developments in Automotive Industry", INTECH, pp. 255-264, 2011, 
 
-Potier O., Camargo M. Chapitre 11. **Innover dans les industries de procédés.** Dans Le génie des procédés et l’entreprise série génie des procédés Egem. Sous la direction de J.P Dal Pont. Hermes Science Publications, Paris, Septembre, (2011). ISBN 78-2746231566
+- Dupont L, Skiba N, Bretagne V, Mauricio C. Fiches Actions des six projets LSC en mode Living Lab, Projets proposés par l’Université de Lorraine, équipes : NIT InoCité, INPL et ENSGSI, INPL, Juillet 2011, 26 p. 
+
+- Dupont L, Guidat C, Morel L, EMA space: a collaborative workspace as collaborative urban ecosystem generator? In “Collaborative Environments for Sustainable Innovation”, 16th International conference on Concurrent Enterprising (ICE), Lugano : Switzerland (2010).
+
+- Dupont L. (2009) Transfert du génie industriel vers l’ingénierie urbaine : vers une approche collaborative des projets urbains. Thèse présentée en vue de l’obtention du Doctorat de l’Institut National Polytechnique de Lorraine en Génie des Systèmes Industriels, Nancy. http://tel.archives-ouvertes.fr/tel-00734950
+
 

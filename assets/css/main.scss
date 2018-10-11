@@ -123,10 +123,10 @@ b, strong{
 //  Color for Notice on Post on Home
 .notice {
 
-p{
-  font-size: 1.2em;
+  p{
+    font-size: 1.2em;
+  }
 
-}
  a{
   color: $Purple-LF2L;
   &:hover {
@@ -135,6 +135,21 @@ p{
   }
 }
 
+
+
+// CONCPT - Partners & Chartes
+
+.partners{
+    
+  img {
+    max-height: 100px;
+    width: auto
+  }
+  figcaption{
+    font-size: 1em;
+  }
+
+}
 
 // Projects
 @import "pages/Green-Fablab"; 

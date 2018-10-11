@@ -10,7 +10,7 @@ header:
   image: /assets/images/1-home/banner/banner04.jpg
 
 intro: 
-  - excerpt: "Le Lorraine Fab Living Lab® (LF2L®) permet d’accompagner la création et l’obtention de résultats immédiats grâce à un processus établi basé sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le LF2L® facilite le travail de réflexion collaborative et de développement de l’innovation. L’originalité du LF2L® est de pouvoir accueillir, accompagner, associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) via un dispositif scientifique et technique capable d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d’évolution)"
+  - excerpt: "Le **Lorraine Fab Living Lab® (LF2L®)** permet d’accompagner la création et l’obtention de résultats immédiats grâce à un processus établi basé sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le LF2L® facilite le travail de réflexion collaborative et de développement de l’innovation. L’originalité du LF2L® est de pouvoir accueillir, accompagner, associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) via un dispositif scientifique et technique capable d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d’évolution)"
 
 icons:
   - image_path: /assets/images/1-home/presentation/icon-materialiser.png
@@ -60,7 +60,7 @@ icons:
 
 {% include feature_row id="intro" type="center" %}
 
-## Communities 
+## Communautés
 {: .text-center}
 
 <div class="community">
@@ -98,7 +98,7 @@ icons:
 
 
 
-## News
+## Actualités
 {: .text-center}
 
 {% assign posts = site.posts | where: "lang", "fr"  %}
@@ -155,8 +155,8 @@ icons:
 
           {% if f.url %}
             <p style="margin-top: 10px; text-align: right;">
-              <a href="{{ f_url }}" class="btn btn--primary {{ f.btn_class }}">
-                {{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}
+              <a href="{{ f_url }}">
+                {{ f.btn_label | default: "Plus de détails" }}
               </a>
             </p>
             
@@ -168,7 +168,7 @@ icons:
 
 </div>
 
-See our complete
+Regardez nos actualités
 [News]({{ site.url }}/fr/news/ "Give me an click, world"){: .btn .btn--primary }
 {: .text-right}
 

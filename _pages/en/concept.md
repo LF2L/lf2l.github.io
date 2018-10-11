@@ -5,27 +5,36 @@ title: "The Lorraine Fab Living Lab Concept"
 permalink: /concept/
 classes:
  - wide
-
 excerpt: "Serving innovation"
 header:    
   overlay_image: "assets/images/banners/LF2L-1.jpg"
   overlay_filter: rgba(110, 110, 112, 0.5)
   show_overlay_excerpt: true
-  image_description: "Equipe de Recherche sur les Processus Innovatifs"
+  image_description: "LF2L Concept"
 
 sidebar:
   nav: "LF2L-concept"
-
 last_modified_at: 2018-09-07
+image-path: "/assets/images/2-concept/en/"
 ---
 
 # Concept Fab Living Lab
 
+<figure style="width: 350px" class="align-right">
+  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-1.png'}}" alt="">  
+</figure> 
 Under the patronage of the University of Lorraine and  Greater Nancy, the Lorraine Fab Living Lab® is a platform for the prospective evaluation of the uses and acceptability of innovation. It is located in the Renaissance Technopôle, in the heart of the city and Nancy's life.
 Driven and managed by the Research Team on Innovative Processes (ERPI Laboratory) and the ENSGSI (National School of Innovation Engineers), the Lorraine Fab Living Lab® brings together devices to accelerate creation and collaborative innovation for tomorrow's uses.
 
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-2.png'}}" alt="">  
+</figure> 
 The Lorraine Fab Living Lab® supports the creation and use of "demonstrators" of new products, processes, services, organizations mobilizing companies, territories and academics for creative and sustainable territories. It is based very concretely on successful experiments based on the concepts of Living Lab (integration of users into collaborative design and approaches) and FabLab (Fabrication Laboratory), an open and functional prototyping space, in the sense of the concept of a digital manufacturing workshop initiated by MIT (Massachusetts Institute of Technology).
 
+
+<figure style="width: 100%" class="align-center">
+  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-3.png'}}" alt="">  
+</figure> 
 These experiments are the result of the Lorraine Smart Cities Living Lab project launched in 2008 and certified in 2010 by the European Living Labs ENoLL network and the 1st French FabLab installed in an engineering school and recognised by the Fab Foundation in 2011.
 
 This space makes it possible to co-create, prototype and test products and services dreamed of by citizens and companies keen to participate together in improving the creative territories of tomorrow.
@@ -41,6 +50,8 @@ Initiating, leading a dynamic of collective reflection on our living environment
 Through this project, the University of Lorraine transfers its knowledge, tools and methodologies to the territories to support the development of their capacity to innovate. Seduced by the Lorraine Fab Living Lab® project in line with their research themes, two Chairs now benefit from the platform: the PRINCIP Research Chair (accredited by the Fund for Innovation in Industry) dedicated to SMEs, and the REVES Collaborative Chair (supported by ENEDIS, EDF, Metropole Grand Nancy, CCPHVA), deploying the Smart Cities concept to propose solutions to the new societal challenges faced by cities and territories.
 
 Inaugurated in June 2014, as part of the French Tech festival, the Lorraine Fab living Lab® is an actor in LORnTECH (Métropole French Tech). This space opens up new perspectives in the modalities of production and dissemination of scientific and technological knowledge.
+
+{% include video id="r96FK1_aPrs" provider="youtube" %}
 
 ## Sources
 
