@@ -6,7 +6,7 @@ gem 'jekyll', '~> 3.8.4'
 
 gem "minimal-mistakes-jekyll"
 
-gem "bootstrap", "~> 4.1.3"
+#gem "bootstrap", "~> 4.1.3"
 
 group :jekyll_plugins do
   # gem "jekyll-feed", "~> 0.6"

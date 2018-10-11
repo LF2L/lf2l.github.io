@@ -1,4 +1,5 @@
 ---
+lang: fr
 layout: single
 classes: wide
 title: Green FabLab
@@ -15,11 +16,7 @@ intro:
     3D ouvrira des nouvelles opportunités pour l'economie circulaire.**"
 sidebar:
   nav: GF-articles
-tags:
-- recycling
-- 3D Printing
-categories:
-- research
+
 gallery:
 - url: "/assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-I.jpg"
   image_path: "/assets/images/3-projects/Green-FabLab/BD/fr/Fabio-MT180-I.jpg"
@@ -74,9 +71,10 @@ partners:
   alt: LRGP
   title: ''
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
-published: false
 
 ---
+
+
 ![Green FabLab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
 {: .align-center}
 
