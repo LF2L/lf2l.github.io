@@ -85,7 +85,7 @@ partners:
 ---
 
 
-![Green Fablab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
+![Green Fablab]({{ site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
 {: .align-center}
 
 {% include feature_row id="intro" type="center" %}

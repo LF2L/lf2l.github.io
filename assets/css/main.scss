@@ -67,11 +67,9 @@ b, strong{
 
 
 
-
 .community{
   display: flex;
   justify-content: center;
-
 }
 
 
@@ -137,23 +135,9 @@ b, strong{
 
 
 
-// CONCPT - Partners & Chartes
-
-.partners{
-    
-  img {
-    max-height: 100px;
-    width: auto
-  }
-  figcaption{
-    font-size: 1em;
-  }
-
-}
-
-// Projects
+// PAGES
 @import "pages/Green-Fablab"; 
-
+@import "pages/partners-chartes"; 
 
 
 

@@ -15,72 +15,53 @@ last_modified_at: 2018-09-10
 
 toc: false
 toc_label: "Partners & Charts"
-image-path: "/assets/images/2-concept/partners/"
+image-path: "/assets/images/2-concept/partners-chartes/"
 
-
-founders:
-  - image_path: "/assets/images/2-concept/partners/ERPI.png"
-    alt: "ERPI"
-    title: ""    
-    excerpt: "[ERPI Laboratory](https://erpi.univ-lorraine.fr/) "
-    teaser_class: partners
-  - image_path: "/assets/images/2-concept/partners/ENSGSI.jpg"
-    alt: "ENSGSI"
-    title: ""
-    excerpt: "[ENSGSI](https://erpi.univ-lorraine.fr/)"
-    teaser_class: partners
-
-chartes:
-  - image_path: "/assets/images/2-concept/chartes/charte-LL.jpg"
-    alt: "Charte LL"
-    title: ""
-    excerpt: "[ERPI Laboratory](https://erpi.univ-lorraine.fr/) "
-    teaser_class: partners
-    url:        
-  - image_path: "/assets/images/2-concept/chartes/charte-fablab.jpg"
-    alt: "Chartes FabLab"
-    title: ""
-    excerpt: "[ENSGSI](https://erpi.univ-lorraine.fr/)"
-    teaser_class: partners
-    url: /assets/images/2-concept/chartes/Charte-FabLab.pdf
 
 sponsors:
-  - image_path: "/assets/images/2-concept/sponsors/EDF.jpg"    
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/EDF.jpg"    
     title: ""
     excerpt: "EDF"
-    teaser_class: partners
-  - image_path: "/assets/images/2-concept/sponsors/ENEDIS.jpg"
+    teaser_class: sponsors
+    url: https://particulier.edf.fr/fr/accueil.html
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/ENEDIS.jpg"
     title: ""
     excerpt: "ENEDIS"
-    teaser_class: partners
-  - image_path: "/assets/images/2-concept/sponsors/F2I-UIMM.png"
+    teaser_class: sponsors
+    url: http://www.enedis.fr/
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/F2I-UIMM.jpg"
     title: ""
     excerpt: "F2I-UIMM"  
-    teaser_class: partners  
-  - image_path: "/assets/images/2-concept/sponsors/French-Tech.jpg"
+    teaser_class: sponsors  
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/French-Tech.jpg"
     title: ""
     excerpt: "French Tech" 
-    teaser_class: partners   
-  - image_path: "/assets/images/2-concept/sponsors/INP.jpg"
+    teaser_class: sponsors   
+    url: http://www.lafrenchtech.com/
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/INP.jpg"
     title: ""
     excerpt: "INP"  
-    teaser_class: partners  
-  - image_path: "/assets/images/2-concept/sponsors/LorNtech.jpg"
+    teaser_class: sponsors  
+    url: http://www.lorraine-inp.fr/  
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/LorNtech.jpg"
     title: ""
     excerpt: "LorNtech"  
-    teaser_class: partners  
-  - image_path: "/assets/images/2-concept/sponsors/MGN.png"
+    teaser_class: sponsors
+    url: http://www.lorntech.eu/  
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/MGN.jpg"
     title: ""
     excerpt: "Metropole de Grand Nancy"  
-    teaser_class: partners  
-  - image_path: "/assets/images/2-concept/sponsors/Technopole-Renaissance.jpg"
+    teaser_class: sponsors  
+    url: www.grandnancy.eu/
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/Technopole-Renaissance.jpg"
     title: ""
     excerpt: "Technopole Renaissance"  
-    teaser_class: partners  
-  - image_path: "/assets/images/2-concept/sponsors/UL.jpg"
+    teaser_class: sponsors  
+  - image_path: "/assets/images/2-concept/partners-chartes/sponsors/UL.jpg"
     title: ""
     excerpt: "Université de Lorraine"  
-    teaser_class: partners  
+    teaser_class: sponsors
+    url: http://www.univ-lorraine.fr/  
 
 ---
 
@@ -88,16 +69,43 @@ sponsors:
 
 An initivative of :
 
-{% include feature_row id="founders"  %} 
-
+<div class="flex-center">
+{% include figure 
+  image_path="/assets/images/2-concept/partners-chartes/ERPI.jpg" 
+  class= "partners"  
+  caption="[ERPI Laboratory](https://erpi.univ-lorraine.fr/)" 
+  url= "https://erpi.univ-lorraine.fr/"
+  %}
+{% include figure 
+  image_path="/assets/images/2-concept/partners-chartes/ENSGSI.jpg" 
+  class= "partners"    
+  caption="[ENSGSI](https://erpi.univ-lorraine.fr/)" 
+  url= "https://erpi.univ-lorraine.fr/"
+  %}
+</div>
 
 ## Chartes
 
-{% include feature_row id="chartes" %} 
+
+<div class="flex-center">
+
+{% include figure 
+  image_path= "/assets/images/2-concept/partners-chartes/charte-LL.jpg"
+  class= "chartes"  
+  caption="[Charte of Living Labs](/assets/images/2-concept/partners-chartes/LF2L-Charte.pdf)" 
+  url= "/assets/images/2-concept/partners-chartes/LF2L-Charte.pdf"
+  %}
+{% include figure 
+  image_path= "/assets/images/2-concept/partners-chartes/charte-fablab.jpg" 
+  class= "chartes"    
+  caption="[Charte of FabLabs](/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf)" 
+  url= "/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf"
+  %}
+</div>
 
 ## Local Partners
 
-{% include feature_row id="sponsors" %} 
+ {% include feature_row id="sponsors" %} 
 
 
 ## International Networks
