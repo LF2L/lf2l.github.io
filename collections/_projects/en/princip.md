@@ -5,10 +5,6 @@ permalink: /projects/princip/
 excerpt: "Pole de recherche sur l'innovation"
 header:
   teaser: /assets/images/3-projects/chaire-princip/teaser.jpg
-
-tags:
-- research
-
 ---
 
 ## Présentation
