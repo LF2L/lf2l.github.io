@@ -1,14 +1,12 @@
 ---
 title: Laurent Dupont
 permalink: "/people/Laurent-Dupont/"
-excerpt: Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherche ERPI
-  / ENSGSI
+excerpt: "Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherche ERPI
+  / ENSGSI"
 date: 2018-04-01 10:00:44 +0000
 author: Laurent Dupont
 header:
-  teaser: "/assets/images/people/LD.jpg"
-role:
-- IG
+  teaser: "/assets/images/6-info/equipe/LD.jpg"
 
 ---
 Laurent Dupont, Eng. PhD. co-founder and scientific manager of the Lorraine Fab Living Lab®, ERPI Laboratory, Université de Lorraine

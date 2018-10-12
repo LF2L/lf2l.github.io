@@ -5,9 +5,8 @@ excerpt: "Directrice / Professeur des Universités"
 date: 2018-01-01
 author: Laure Morel
 header:
-  teaser: /assets/images/people/LM.jpg
-role:
-- Prof
+  teaser: /assets/images/6-info/equipe/LM.jpg
+
 ---
 
 Laure Morel est Professeur des Université en Génie Industriel à l’Université de Lorraine – Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI). Elle effectue ses recherches au laboratoire ERPI, Equipe de Recherche sur les Processus Innovatifs, EA 3767

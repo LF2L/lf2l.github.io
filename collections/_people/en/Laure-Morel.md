@@ -5,9 +5,7 @@ excerpt: Directrice / Professeur des Universités
 date: 2018-01-01 00:00:00 +0000
 author: Laure Morel
 header:
-  teaser: "/assets/images/people/LM.jpg"
-role:
-- Prof
+  teaser: "/assets/images/6-info/equipe/LM.jpg"
 
 ---
 Laure Morel is Professor of Industrial Engineering at the University of Lorraine - Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI). She conducts her research at the ERPI laboratory, Research Team on Innovative Processes, EA 3767.

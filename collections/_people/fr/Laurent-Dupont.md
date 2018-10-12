@@ -6,10 +6,7 @@ date:  2018-04-01 10:00:44 +0000
 author: Laurent Dupont
 
 header:
-  teaser: /assets/images/people/LD.jpg
-
-role:
-- IG
+  teaser: /assets/images/6-info/equipe/LD.jpg
 
 ---
 

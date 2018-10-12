@@ -5,8 +5,8 @@ classes: wide
 
 excerpt: "The first Fablab Mobile in France"
 header:
-  overlay_color: "#ccc"
-  overlay_filter: 0.9
+  overlay_image: "assets/images/5-place/nomadlab/header.jpg" 
+  overlay_filter: 0.3
   show_overlay_excerpt: true 
   image_description: "Maker at LF2L"
 

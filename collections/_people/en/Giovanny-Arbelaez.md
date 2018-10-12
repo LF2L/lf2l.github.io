@@ -5,7 +5,7 @@ excerpt: Post-Doc, Ingénieur de recherche
 date: 2018-03-04 00:00:00 +0000
 author: Giovanny Arbelaez
 header:
-  teaser: "/assets/images/people/GA.jpg"
+  teaser: "/assets/images/6-info/equipe/GA.jpg"
 tags:
 - 3D Printing
 - User

@@ -1,7 +1,18 @@
+Benjamin:
+  name: "Benjamin"
+  bio: "Operateur polyvanlent"
+  avatar: "/assets/images/6-info/equipe/equipe.jpg"
+  
+Gregory:
+  name: "Gregory"
+  bio: " "
+  avatar: "/assets/images/6-info/equipe/GD.jpg"
+
+
 Fabio Cruz:
   name: "Fabio Cruz"
   bio: "Researcher"
-  avatar: "/assets/images/people/Fabio.jpg"
+  avatar: "/assets/images/6-info/equipe/Fabio.jpg"
   twitter: "extravagantman"
   linkedin: https://www.linkedin.com/in/fabio-cruz/
   google-scholar: https://scholar.google.com/citations?user=8Cuoaf4AAAAJ&hl=es
@@ -12,7 +23,7 @@ Fabio Cruz:
 Giovanny Arbelaez:
   name: "Giovanny Arbelaez"
   bio: "Research associate"
-  avatar: "/assets/images/people/GA.jpg"
+  avatar: "/assets/images/6-info/equipe/GA.jpg"
   twitter: "gaarbelaez"
   linkedin: 'https://www.linkedin.com/in/gaarbelaez'
   google-scholar: 'https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en'
@@ -21,70 +32,19 @@ Giovanny Arbelaez:
 Laure Morel:
   name: "Laure Morel"
   bio: "Directrice du Laboratoire"
-  avatar: "/assets/images/people/LM.jpg"
+  avatar: "/assets/images/6-info/equipe/LM.jpg"
   google-scholar: 'https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr'
 
-
-Alaa Hassan:
-  email: 'alaa.hassan@univ-lorraine.fr'
-
-
-Claudine Guidat:
-  email: 'claudine.guidat@univ-lorraine.fr'
-
-
-
-Davy Monticolo:
-  email: 'davy.monticolo@univ-lorraine.fr'
-
-
-Eric Bonjour:
-  email: 'davy.monticolo@univ-lorraine.fr'
-
-Frederique Mayer:
-  email: ''
-  linkedin: ''
-
-
-Hakim Boudaoud:
-  name: "Hakim Boudaoud"
 
 
 Laurent Dupont:
   name: "Laurent Dupont"
+  bio: " "
+  avatar: "/assets/images/6-info/equipe/LD.jpg"
   linkedin: http://www.linkedin.com/in/dupontl
   google-scholar: https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr
   mendeley: https://www.mendeley.com/profiles/laurent-dupont2/
   researchgate: https://www.researchgate.net/profile/Laurent_Dupont7
 
 
-Laurent Muller:
-  name: Laurent Muller
-  email: ''
-  linkedin: 'https://www.linkedin.com/in/laurent-muller-868398132/?ppe=1'
 
-Manon Enjolras:
-  name: Manon Enjolras
-  email: 'manon.enjolras@univ-lorraine.fr'
-
-Mauricio Camargo:
-  name: Mauricio Camargo
-  google-scholar: 'https://scholar.google.fr/citations?user=2o5hAtIAAAAJ&hl=fr'
-
-
-Olivier Chery:
-  name: Olivier Chery
-
-Raphael Bary:
-  name: Raphael Bary
-
-
-Vincent Boly:
-  name: Vincent Boly
-  email: ''
-  google-scholar: 'https://scholar.google.fr/citations?user=Md6f_7kAAAAJ&hl=fr'
-
-
-
-Sandra Bautista:
-  name: Sandra Bautista
