@@ -4,10 +4,7 @@ date: 2018-09-10
 permalink: /projects/reves/
 excerpt: "Chaire partenarial autour de la transformation urbaine"
 header:
-  teaser: /assets/images/projects/chaire-reves/teaser.jpg
-
-tags:
-- living lab
+  teaser: /assets/images/3-projects/chaire-reves/teaser.jpg
 
 ---
 

@@ -5,11 +5,7 @@ permalink: /projects/fabrique-nancy/
 
 excerpt: "Un démonstrateur partagé avec le Grand Nancy"
 header:
-  teaser: /assets/images/projects/fabrique-nancy/teaser.png
-
-
-tags:
-- research
+  teaser: /assets/images/3-projects/fabrique-nancy/teaser.jpg
 
 ---
 

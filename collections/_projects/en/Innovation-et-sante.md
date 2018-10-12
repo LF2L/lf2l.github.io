@@ -5,8 +5,7 @@ permalink: /projects/innovation-on-health/
 
 excerpt: "Innovation on the health field"
 header:
-  teaser: /assets/images/projects/inno-health/teaser.jpg
-
+  teaser: /assets/images/3-projects/inno-health/teaser.jpg
 
 tags:
 - engineering

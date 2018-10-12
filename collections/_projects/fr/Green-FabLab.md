@@ -5,12 +5,14 @@ classes: wide
 title: Green FabLab
 date: 2018-09-10 00:00:00 +0000
 permalink: "/fr/projects/green-fablab/"
-image-path: "/assets/images/3-projects/Green-FabLab/"
+image-path: "/assets/images/3-projects/green-fablab/"
+
 excerpt: Vers une economie circulaire du plastique pour l'impression 3D
 header:
-  teaser: "/assets/images/projects/green-fablab/teaser.jpg"
-  overlay_image: "/assets/images/projects/green-fablab/teaser.jpg"
+  teaser: "/assets/images/3-projects/green-fablab/teaser.jpg"
+  overlay_image: "/assets/images/3-projects/green-fablab/teaser-2.jpg"
   overlay_filter: 0.5
+
 intro:
 - excerpt: "**La création d'un filière de récyclage local du plastique pour l'impression
     3D ouvrira des nouvelles opportunités pour l'economie circulaire.**"

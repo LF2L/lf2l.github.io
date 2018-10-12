@@ -4,11 +4,7 @@ date: 2018-09-10
 permalink: /fr/projects/princip/
 excerpt: "Pole de recherche sur l'innovation"
 header:
-  teaser: /assets/images/projects/chaire-princip/teaser.jpg
-
-tags:
-- research
-
+  teaser: /assets/images/3-projects/chaire-princip/teaser.jpg
 ---
 
 ## Présentation
