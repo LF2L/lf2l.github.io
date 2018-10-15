@@ -1,6 +1,6 @@
 Equipe-fr: 
   id: GF_etudiants_fr
-  image-path: /assets/images/3-projects/Green-Fablab/equipe/
+  image-path: /assets/images/3-projects/gf/equipe/
   people:
     - avatar: Eudes.jpg
       name: Eudes LE MAISTRE
@@ -99,7 +99,7 @@ Equipe-fr:
 
 Equipe-en: 
   id: GF_etudiants_en
-  image-path: /assets/images/3-projects/Green-Fablab/equipe/
+  image-path: /assets/images/3-projects/gf/equipe/
   people:            
     - avatar: Eudes.jpg
       name: Eudes LE MAISTRE
