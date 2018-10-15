@@ -88,7 +88,7 @@ partners:
 
 
 <!-- Intro -->
-The concept of **Green FabLas** is the intersection of several societal trends. 
+The concept of **Green FabLab** is the intersection of several societal trends. 
 <!-- 3D Printing -->
 From one side, there have been an growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
 The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of appropiation for the 3D printing technology, doing the filament fused deposition the most used technique in the additive manufacturing world. 
@@ -100,10 +100,9 @@ In a parallelal way, the proliferation of innovation spaces such as Fablabs, hac
 Finally, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious.
 Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
 
-**The integration of recycled material for the 3D printing technology and in the innovation spaces**
+> Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a *fabrication spaces*, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
 
-
-
+---
 ## Green Fablab en Images
 {: #GF-Images .GF-titles } 
 
@@ -117,52 +116,72 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 
 ![image-left]({{site.baseurl|append:page.image-path|append:'LF2L.jpg'}}){: .align-left}
+There is an increasingly interest of organizations in creating dedicated environments to foster innovation processes. Depending of the context, these physical environments can take form of laboratories with different kind of spaces such as creativity and prototyping rooms, co-workings spaces, testing rooms, etc. 
 
+According to the literature an “innovation laboratory” is a room or a set of rooms designed for spatial reconfiguration, participant observation, writing spaces, materials for visualization (post-it notes, paper, pens, cards), and ICT to support brainstorming and distributed group working.
+
+Looking for a more integral definition, an innovation laboratory can be described as: **_facilities for encouraging creative behaviors and supporting innovative projects through the provision of appropriate resources, visualization and prototyping facilities, and the ability to reconfigure new projects_**. 
+<br>
+
+
+
+**For more details:** <br>
+<cite>F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont,</cite> --- [“Spaces to foster and sustain innovation: Towards a conceptual framework,”][ferney] in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015.
+{: .small  .notice--primary}
+
+[ferney]: https://ieeexplore.ieee.org/abstract/document/7438661
 
 ---
-
-
 ## Open Source 3D Printing
 {: #OS3DP .GF-titles } 
 
-
 ![image-left]({{site.baseurl|append:page.image-path|append:'3DP.jpg'}}){: .align-right}
+Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
+
+This basic principle drives nearly all AM machines, with some variations in terms of the techniques used for creating layers and in bonding them together. 
+Different synonyms have been evoked (e.g. rapid prototyping, additive fabrication, additive processes, additive techniques, additive layer manufacturing, layer manufacturing, solid freeform fabrication) throughout the development of this manufacturing process.
+
+Thanks to the expiration of Fused Deposition Modeling (FDM) patent in the mid-2000s which it is one additive manufacturing technique, Adrian Bowyer and his team at the University of Bath worked on the concept of self-replicating machines which are able of manufacturing their own parts by themselves. 
+They designed in order to be simple and easy to use that anyone would be able to build them. *This was the start of the [RepRap project (or Replicating Rapid-prototyper)](https://reprap.org/wiki/RepRap) and the open source Additive Manufacturing technology*
 
 
 
 ---
-
-
-
-
-
 ## Potential of the recycling process for 3D printing technology
 {: #GF-Mission .GF-titles } 
 
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 230px" class="align-left">
   <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt="">
   <figcaption>
     <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>.
   </figcaption>
 </figure> 
+There is a great potential of Additive Manufacturing (AM) to contribute to a sustainable manufacturing.
+And it is reasonable to expect that (AM) will positively impact the societal development in the next decades to come. 
+The development of sustainable principles, applications and practices play a key role in research activity in order to enable environmentally friendly, economically advantageous, and societal benefit-driven AM methodologies.
+
+Energy, material consumption and environmental impacts are vital aspects that AM can better act to optimize in the manufacturing industrial context. 
+On the basis of these concepts, some major goals have been outlined in order to fully incorporate sustainability principles in the AM processes.
+
+The integration of recycled material for the 3D printing technology and in the innovation spaces is a potential approach to contribute to the current sustainability issues in the world.
+Plastic recycling process of the sourrounding areas (street, neighborhood) could be carried out at small lot sizes minimizing, energy consumptions, and carbon emissions compared to the tradition centralized systems.
 
 
-Cette approche permet de contribuer, tout du moins partiellement, à résoudre la problématique globale que représente l’accumulation de matière plastique dans la nature. 
-Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels vers une paradigme d'economie circulaire ou le concept de déchet sera redefinie.
+>The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology
+A *distributed polymer* recycling process could be a new paradigme that can open new scenarios in the near future. 
 
 
-<br>
-<br>
-<br>
-<br>
+**For more details:** <br>
+<cite>F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont,</cite> --- [“Spaces to foster and sustain innovation: Towards a conceptual framework,”][ferney] in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015. 
+{: .small  .notice--info}
 
-hola enfermera
+[ferney]: https://ieeexplore.ieee.org/abstract/document/7438661
+
 
 
 ---
-
-## Notre recherche
+## Our research
 {: #GF-research .GF-titles } 
 
 
@@ -171,10 +190,15 @@ hola enfermera
 </div>
 
 
+
 ---
+## Our pedagogical project
+{:  .GF-titles } 
 
 
 
+
+---
 ## Nos Etudiants
 {: #GF-students .GF-titles } 
 
