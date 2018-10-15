@@ -135,9 +135,12 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 ---
 
+
+
+
+
 ## Potential of the recycling process for 3D printing technology
 {: #GF-Mission .GF-titles } 
-
 
 
 <figure style="width: 200px" class="align-left">
@@ -157,7 +160,7 @@ Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels
 <br>
 <br>
 
-
+hola enfermera
 
 
 ---
