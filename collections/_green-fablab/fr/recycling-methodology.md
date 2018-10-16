@@ -8,13 +8,9 @@ image-path: "/assets/images/3-projects/Green-FabLab/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
-  teaser: /assets/images/projects/green-fablab/teaser.jpg
-  overlay_image: /assets/images/projects/green-fablab/teaser.jpg
+  teaser: "/assets/images/3-projects/gf/teaser.jpg"
+  overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
-
-
-author: Fabio Cruz
-
 
 ---
 

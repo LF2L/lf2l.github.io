@@ -2,19 +2,15 @@
 classes: wide
 title: Green FabLab
 date: 2018-09-10
-permalink: /green-fablab//logistic/
-image-path: "/assets/images/3-projects/Green-FabLab/"
+permalink: /green-fablab/logistic/
+image-path: "/assets/images/3-projects/gf/logistical/"
 
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
-  teaser: /assets/images/projects/green-fablab/teaser.jpg
-  overlay_image: /assets/images/projects/green-fablab/teaser.jpg
+  teaser: "/assets/images/3-projects/gf/teaser.jpg"
+  overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
-
-
-author: Fabio Cruz
-
 
 ---
 
@@ -29,3 +25,30 @@ The emergence and development of Open-source technologies such as 3D printing ex
 
 On despite its attractiveness, the complexity of this distributed
 approach represents a limit to this application. Moreover, the environmental and economical effectiveness still needs to be demonstrated. In this article, a conceptual model is developed and proposed for the collection process in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic recycling in order to analyze its economic and environmental feasibility
+
+
+
+# Are you Professor at Lorraine region?
+
+{% capture notice-text %}
+
+[<img src="{{ site.baseurl|append:page.image-path|append:'encuesta.png'}}" style="margin: 1em;">
+](https://goo.gl/forms/2KESgsDo11gtwXAC2)
+{: .align-right}
+
+Hello, through [this questionnaire (less than 3 minutes)](https://goo.gl/forms/2KESgsDo11gtwXAC2), we would like to study the opportunity to recycle the plastic materials used for 3D printing in your school.
+We have developed a pilot system to upgrade printed thermoplastic parts on at **LF2L**. 
+In order to validate the economic and ecological interest of our approach, we would need to determine the number of 3D printers as well as the plastic waste of the PLA type (mainly used) coming from 3D printing in Lorraine establishments. 
+Thank you for your time and attention to this questionnaire. If you would like more information about this project, LF2L or 3D printing, please do not hesitate to contact us to discuss it. 
+
+{% endcapture %}
+
+
+
+<div class="notice--info">
+  <h4>Help to the research:</h4>
+
+  {{ notice-text | markdownify }}
+</div>
+
+

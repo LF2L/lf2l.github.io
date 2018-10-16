@@ -40,7 +40,7 @@ projects:
     alt: ""
     title: "Towards a standard protocol for 3D printers "
     excerpt: "Proposition d'un protocole standard d'expérimentation afin de caractériser la précision dimensionnelle d'une imprimante 3D open source."
-    url: "/green-Fablab/standard-protocol"
+    url: "/green-fablab/standard-protocol/"
     btn_label: "Plus de détails"
     btn_class: "btn--info"
   
@@ -48,14 +48,14 @@ projects:
     alt: ""
     title: "Polymer recycling for 3D printing"
     excerpt: "Proposition d'une métodologie systematique pour évaluer la recyclabilité des thermoplastiques utilisés dans les imprimantes open source."
-    url: "/green-Fablab/recycling-methodology/"
+    url: "/green-fablab/recycling-methodology/"
     btn_label: "Plus de détails"
     btn_class: "btn--info"
   
   - image_path: /assets/images/3-projects/gf/articles/proj-3/thumb.png
     title: "Closed-Loop supply chain for distributed recycling process"
     excerpt: "a conceptual model is developed and proposed for the collection process in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic recycling."
-    url: "/green-Fablab/logistic/"
+    url: "/green-fablab/logistic/"
     btn_label: "Plus de détails"
     btn_class: "btn--info"
 
