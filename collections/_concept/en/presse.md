@@ -56,14 +56,14 @@ News_2015:
 
 {% include gallery 
     id="News_2017" 
-    caption="This is a sample gallery with **Markdown support**." 
+    caption=" " 
 %}
 
 ## 2016
 
 {% include gallery 
     id="News_2016" 
-    caption="This is a sample gallery with **Markdown support**." 
+    caption=" " 
 %}
 
 
@@ -72,7 +72,7 @@ News_2015:
 
 {% include gallery 
     id="News_2015" 
-    caption="This is a sample gallery with **Markdown support**." 
+    caption=" " 
 %}
 
 

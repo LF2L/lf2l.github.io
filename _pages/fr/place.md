@@ -31,7 +31,7 @@ Mise à disposition des usagers, cette technologie a pour rôle de pallier l’i
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'lf2l-2.jpg' }}){: .align-right} 
 Lorsqu’une problématique est définie, un travail d’animation de groupe permettra de solliciter la créativité d’une équipe autour de brainstormings, road-mappings, afin de couvrir le champ des possibles en termes de réponses à apporter. Une plate-forme Internet a de plus été développée (chaire PRNCIP) pour aider à la capitalisation et l’archivage des propositions émises par des participants (une session de créativité pouvant rassembler jusqu’à 400 personnes).
 
-## Espace Grouope Projet
+## Espace Groupe Projet
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'lf2l-3.jpg' }}){: .align-right} 
 L’espace est aménagé de façon à générer un environnement dédié au travail collaboratif. Nous pouvons dès lors accueillir plusieurs groupes projet, des panels citoyens ou des communautés de pratiques pour leur permettre de travailler sur une problématique spécifique ou enrichir la démarche d’open innovation initiée par la créativité.
@@ -64,7 +64,6 @@ Modélisation 3D des flux de circulation (exemple des carrefours C129, C201, C10
 
 
 ## Matérialisation / Espace Fablab
-
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'lf2l-7.jpg' }}){: .align-right} 
 La matérialisation des idées, un élément clé dans le processus d’Innovation. Et pour cela, une des particularités du LF2L est d’avoir un espace Fab Lab totalement équipé avec des outils numériques qui permettront à tous nos usagers de rendre accessible la fabrication d’objets de façon personnalisée. Également, le laboratoire ERPI développe des programmes de recherche autour du concept de FabLab et son impact sur les enjeux sociétaux actuels. Fab Lab (contraction de l’anglais Fabrication Laboratory « laboratoire de fabrication») rend possible l’invention / l’innovation / la reproduction à travers de quatre équipements de base: Découpe laser, Imprimantes 3D, Fraiseuse numérique, Découpe vinyle
 

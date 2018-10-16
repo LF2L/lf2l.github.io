@@ -23,7 +23,7 @@ date: 2018-09-07
 Le **Lorraine Fab Living Lab®** vous ouvre ses portes dans le cadre de cours pédagogiques. Pour une utilisation ponctuelle des machines (type FabLab : découpe laser, imprimante 3D, CNC, etc.) dans le cadre d'un projet: 
 
 - établir une convention auprès d’Amélie Varnier
-- réserver par mail les machines auprès de : Grégory Dupont
+- réserver par mail les machines auprès de : Grégory Dupont /  Benjamin Enneser-Serville
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'GSI-lab.jpg' }}){: .align-left}
 Pour vos projets personnels : rejoignez l’association GSI Lab – tous les jeudis de 14h à 18h au LF2L
@@ -31,6 +31,7 @@ Pour vos projets personnels : rejoignez l’association GSI Lab – tous les jeu
 <br>
 <br>
 <br>
+
 ## Vous êtes étudiant à l'Université de Lorraine?
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'UL.png' }}){: .align-left}

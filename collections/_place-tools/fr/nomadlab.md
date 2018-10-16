@@ -3,7 +3,7 @@ title: "Nomad'Lab "
 permalink: /fr/place/nomadlab/
 classes: wide
 
-excerpt: "The first Fablab Mobile in France"
+excerpt: "Le premier Fablab Mobile en France"
 header:
   overlay_image: "assets/images/5-place/nomadlab/header.jpg" 
   overlay_filter: 0.3
@@ -27,4 +27,4 @@ L’enjeu prioritaire auquel veulent répondre les acteurs et partenaires du Lor
 
 Source :
 
-- Morel, L., Dupont, L., Lhoste, P., When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France. Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786. (Lien)
+- Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786. (Lien)
