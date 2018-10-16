@@ -40,7 +40,7 @@ projects:
     alt: ""
     title: "Towards a standard protocol for 3D printers "
     excerpt: "Proposition d'un protocole standard d'expérimentation afin de caractériser la précision dimensionnelle d'une imprimante 3D open source."
-    url: "/green-fablab/standard-protocol/"
+    url: "/green-fablab/standard-protocol"
     btn_label: "Plus de détails"
     btn_class: "btn--info"
   
