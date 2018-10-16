@@ -3,7 +3,7 @@ classes: wide
 title: Green FabLab
 date: 2018-09-10
 permalink: /fr/green-fablab/recycling-methodology/
-image-path: "/assets/images/3-projects/Green-FabLab/"
+image-path: "/assets/images/3-projects/gf/"
 
 
 excerpt: "Towards a circular economy for 3D printing technology"
