@@ -3,7 +3,7 @@ classes: wide
 title: Green FabLab
 date: 2018-09-10
 permalink: /fr/green-fablab/logistic/
-image-path: "/assets/images/3-projects/Green-FabLab/"
+image-path: "/assets/images/3-projects/gf/logistical/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
@@ -24,3 +24,27 @@ The emergence and development of Open-source technologies such as 3D printing ex
 
 On despite its attractiveness, the complexity of this distributed
 approach represents a limit to this application. Moreover, the environmental and economical effectiveness still needs to be demonstrated. In this article, a conceptual model is developed and proposed for the collection process in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic recycling in order to analyze its economic and environmental feasibility
+
+
+# Êtes-vous proffeseur de Lycéee/Collegue dans la région du Lorraine?
+
+{% capture notice-text %}
+
+[<img src="{{ site.baseurl|append:page.image-path|append:'encuesta.png'}}" style="margin: 1em;">
+](https://goo.gl/forms/2KESgsDo11gtwXAC2)
+{: .align-right}
+
+À travers [ce questionnaire (moins de 3 minutes)](https://goo.gl/forms/2KESgsDo11gtwXAC2), nous souhaitons étudier l'opportunité de recycler les matières plastiques utilisées pour l'impression 3D au sein de votre établissement scolaire.
+
+Nous avons développé sur notre plateforme du **LF2L**, un système pilote permettant de revaloriser les pièces imprimées en thermoplastiques.
+Afin de valider l'intérêt économique et écologique de notre démarche, nous aurions besoin de déterminer le nombre d'imprimantes 3D ainsi que les déchets plastiques de type PLA (majoritairement utilisé) provenant des impressions 3D dans les établissements Lorrains. 
+Nous vous remercions du temps consacré à ce questionnaire. Si vous souhaitez avoir plus d'informations sur ce projet, le LF2L ou l'impression 3D, n'hésitez pas à prendre contact avec nous pour échanger. 
+
+{% endcapture %}
+
+<div class="notice--info">
+  <h4>Aide à la recherche:</h4>
+
+  {{ notice-text | markdownify }}
+</div>
+

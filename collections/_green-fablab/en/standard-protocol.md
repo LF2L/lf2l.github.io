@@ -2,9 +2,8 @@
 classes: wide
 title: Green FabLab
 date: 2018-09-10
-permalink: /green-fablab/standard-protocol
+permalink: /green-fablab/standard-protocol/
 image-path: "/assets/images/3-projects/gf/"
-
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
