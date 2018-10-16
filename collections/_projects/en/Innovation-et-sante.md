@@ -22,5 +22,3 @@ Accompagnement des chrirurgiens dans l'auto-évaluation de leur "performances te
 ## Création de "dry-models" au service de la formation et certification des chirurgiens.
 
 Nous utilisons les technologies d'impression 3D pour fabriquer des modèles d'entrainements chirurgicaux afin de réduire l'utilisation des animaux et des organes humains. La fabrication de cas et de modèles spécifiques facilite les "standards" pour tous les apprenantes lors de leur evaluation. Par ailleurs, en lien avec la démarche "Green-Fablab", les modèles conçus et utilisés peuvent être recyclés pour en fabriquer de nouveaux et s'inscrire dans un cycle vertueux.
-
-Pour plus d'information consulter : [Innovation en santé](http://www.lf2l.fr/Sections/Projets/Health-innovation/)
