@@ -7,7 +7,15 @@ locale: fr-FR
 
 
 header:
-  image: /assets/images/1-home/banner/banner04.jpg
+  image: banner
+  banner:
+    id: home
+    time: 20000
+    images:
+      - url: /assets/images/1-home/banner/banner01.jpg
+      - url: /assets/images/1-home/banner/banner02.jpg
+      - url: /assets/images/1-home/banner/banner03.jpg
+      - url: /assets/images/1-home/banner/banner04.jpg
 
 intro: 
   - excerpt: "Le **Lorraine Fab Living Lab® (LF2L®)** permet d’accompagner la création et l’obtention de résultats immédiats grâce à un processus établi basé sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le LF2L® facilite le travail de réflexion collaborative et de développement de l’innovation. L’originalité du LF2L® est de pouvoir accueillir, accompagner, associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) via un dispositif scientifique et technique capable d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d’évolution)"
