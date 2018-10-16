@@ -10,8 +10,8 @@ teaser_class: staff
 
 excerpt: "L'expertise scientifique pour accompagner vos projets"
 header:  
-  overlay_color: "#333"
-  overlay_filter: 0.1
+  overlay_image: "assets/images/banners/LF2L-5.jpg" 
+  overlay_filter: 0.3
   show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
@@ -27,10 +27,10 @@ last_modified_at: 2018-09-07
 
 ## Horaire
 
-- **Monday - Friday**, 8:00am à 18:00pm 
+- **Monday - Friday**, 9:00am à 18:00pm 
 
 ## Information de contact
 
 
+## Équipe
 
-## Equipe

@@ -11,7 +11,7 @@ teaser_class: staff
 excerpt: "A scientific expertise to support your projects"
 header:  
   overlay_image: "assets/images/banners/LF2L-5.jpg" 
-  overlay_filter: rgba(110, 110, 112, 0.5)
+  overlay_filter: 0.3
   show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
@@ -27,10 +27,11 @@ last_modified_at: 2018-09-07
 
 ## Schedule
 
-- **Monday - Friday**, 8:00am à 18:00pm 
+- **Monday - Friday**, 9:00am à 18:00pm 
 
 ## Contact Information
 
 
-
 ## Staff
+
+
