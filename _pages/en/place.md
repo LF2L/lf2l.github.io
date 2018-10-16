@@ -74,7 +74,7 @@ The materialization of ideas, a key element in the Innovation process. And for t
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'lf2l-8.jpg' }}){: .align-center} 
 
-Usage evaluation consists in creating the conditions for the scientific objectification of usage practices among a group of users. Depending on the object, product, building or space to be evaluated, we can set up ad hoc processes using the appropriate measuring instruments (e. g. eyes tracking, physiological sensors, video recording, questionnaires, etc.)
+Usage evaluation consists in creating the conditions for the scientific objectification of usage practices among a group of users. Depending on the object, product, building or space to be evaluated, we can set up ad hoc processes using the appropriate measuring instruments (e. g. eyes tracking, physiological sensors, video recording, surveys, etc.)
 
 
 

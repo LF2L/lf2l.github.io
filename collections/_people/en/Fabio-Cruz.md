@@ -1,19 +1,14 @@
 ---
 title: Fabio CRUZ
 permalink: "/people/Fabio-Cruz/"
-excerpt: Ingenieure de Recherche
+excerpt: Research Associate
 date: 2018-04-03 00:00:00 +0000
 author: Fabio Cruz
 header:
   teaser: "/assets/images/6-info/equipe/Fabio.jpg"
-tags:
-- 3D Printing
-- Recycling
-- Green FabLab
-role:
-- IG
 
 ---
+
 I'm research associate at the ERPI Laboratory.
 
 I work specifically at the research platform Lorraine Fab Living Lab([http://lf2l.fr/](http://lf2l.fr/ "http://lf2l.fr/")) in subjects related to the 3D printing process.

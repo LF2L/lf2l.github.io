@@ -28,4 +28,4 @@ LF2L® thus hosts the work of the PRINCIP Research Chair (accredited by the Fund
 ## Are you a researcher?
 The LF2L® platform interests you as part of your research, you wish to collaborate with the ERPI laboratory or participate in one of its research programs. 
 
-Pour savoir plus sur notre travail, [consultez nos publications scientifiques.](/publications/)
+For more details about our research, [see our scientific publications.](/publications/)

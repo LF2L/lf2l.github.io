@@ -24,7 +24,10 @@ Multiplying the paths to innovation is the challenge won by ENSGSI and ERPI than
 Anticipating the needs of companies, ENSGSI and the ERPI laboratory develop original and innovative solutions in line with the local ecosystem. Thus, the development of spaces is not always possible or relevant (duration of the mission, technical constraints, unsuitable premises, etc.). Employees of SMEs cannot necessarily travel to the heart of the Nancy urban area.
 
 
-The priority challenge to which the actors and partners of the Lorraine Fab Living Lab® want to respond is to initiate and lead a dynamic of collective reflection on our living environment and the challenges of society in order to provide shared responses, the development of which involves in particular the creation or renewal of products, processes and even organisation. To successfully carry out this mission and reach economic players as close as possible to their business areas, the Lorraine Fab Living Lab® designs and develops concrete solutions with a road system.
+The priority challenge to which the Lorraine Fab Living Lab® want to respond is to initiate and lead a dynamic of collective reflection on our living environment. 
+The challenges of society in order to provide shared responses
+ the development of which involves in particular the creation or renewal of products, processes and even organisation. 
+ To successfully carry out this mission and reach economic players as close as possible to their business areas, the Lorraine Fab Living Lab® designs and develops concrete solutions with a road system.
 
 
 Source :

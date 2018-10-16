@@ -1,7 +1,7 @@
 ---
 title: Giovanny Arbelaez
 permalink: "/people/Giovanny-Arbelaez/"
-excerpt: Post-Doc, Ingénieur de recherche
+excerpt: Research Associate
 date: 2018-03-04 00:00:00 +0000
 author: Giovanny Arbelaez
 header:

@@ -44,7 +44,7 @@ For more information contact: erpi-lf2l-equipe{at}univ-lorraine.fr
 
 Questions relating to collaborative engineering, Smart City, immersive devices, an R&D project, innovation financing or scientific and technical sponsorship contact: Laurent Dupont
 
-## Vous êtes étudiant d'une autre Université / Laboratoire?
+## Are you a student from an other University?
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'France.png' }}){: .align-left}
 Questions relating to collaborative engineering, Smart City, immersive devices, an R&D project, innovation financing or scientific and technical sponsorship contact: Laurent Dupont
