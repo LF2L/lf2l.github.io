@@ -72,8 +72,11 @@ partners:
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
 ---
-!\[Green Fablab\]({{ site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
-{: .align-center}
+
+{% assign logo-gf={{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
+{% include figure image_path = logo-gf 
+  class='align-center'
+  alt="Logo Green Fablab" %}
 
 {% include feature_row id="intro" type="center" %}
 
