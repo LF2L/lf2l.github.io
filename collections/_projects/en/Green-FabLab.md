@@ -97,7 +97,6 @@ Therefore, a central issue today is how preserve material resources  to in terms
 ***
 
 {: #GF-Images .GF-titles }
-
 ## Green Fablab en Images
 
 {% include gallery
