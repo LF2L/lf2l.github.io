@@ -109,9 +109,7 @@ Therefore, a central issue today is how preserve material resources  to in terms
 ## Innovation Spaces
 
 
-![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'LF2L.jpg'%7D%7D){: .align-left}
-
-
+![image-left]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
 There is an increasingly interest of organizations in creating dedicated environments to foster innovation processes. Depending of the context, these physical environments can take form of laboratories with different kind of spaces such as creativity and prototyping rooms, co-workings spaces, testing rooms, etc.
 
 According to the literature an “innovation laboratory” is a room or a set of rooms designed for spatial reconfiguration, participant observation, writing spaces, materials for visualization (post-it notes, paper, pens, cards), and ICT to support brainstorming and distributed group working.
