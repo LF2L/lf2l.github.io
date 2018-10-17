@@ -72,11 +72,10 @@ partners:
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
 ---
-
 {% assign logo-gf={{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
-{% include figure image_path = logo-gf 
-  class='align-center'
-  alt="Logo Green Fablab" %}
+{% include figure image_path = logo-gf
+class='align-center'
+alt="Logo Green Fablab" %}
 
 {% include feature_row id="intro" type="center" %}
 
@@ -114,7 +113,6 @@ There is an increasingly interest of organizations in creating dedicated environ
 According to the literature an “innovation laboratory” is a room or a set of rooms designed for spatial reconfiguration, participant observation, writing spaces, materials for visualization (post-it notes, paper, pens, cards), and ICT to support brainstorming and distributed group working.
 
 Looking for a more integral definition, an innovation laboratory can be described as: **_facilities for encouraging creative behaviors and supporting innovative projects through the provision of appropriate resources, visualization and prototyping facilities, and the ability to reconfigure new projects_**.
-<br>
 
 **For more details:** <br>
 <cite>F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont,</cite> --- [“Spaces to foster and sustain innovation: Towards a conceptual framework,”](https://ieeexplore.ieee.org/abstract/document/7438661) in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015.
@@ -127,13 +125,14 @@ Looking for a more integral definition, an innovation laboratory can be describe
 {: #OS3DP .GF-titles }
 
 ![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'3DP.jpg'%7D%7D){: .align-right}
+
+
 Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
 
 This basic principle drives nearly all AM machines, with some variations in terms of the techniques used for creating layers and in bonding them together.
 Different synonyms have been evoked (e.g. rapid prototyping, additive fabrication, additive processes, additive techniques, additive layer manufacturing, layer manufacturing, solid freeform fabrication) throughout the development of this manufacturing process.
 
 Thanks to the expiration of Fused Deposition Modeling (FDM) patent in the mid-2000s which it is one additive manufacturing technique, Adrian Bowyer and his team at the University of Bath worked on the concept of self-replicating machines which are able of manufacturing their own parts by themselves.
-
 
 They designed in order to be simple and easy to use that anyone would be able to build them. _This was the start of the_ [_RepRap project (or Replicating Rapid-prototyper)_](https://reprap.org/wiki/RepRap) _and the open source Additive Manufacturing technology_
 
@@ -143,7 +142,7 @@ They designed in order to be simple and easy to use that anyone would be able to
 
 {: #GF-Mission .GF-titles }
 
-<figure style="width: 230px" class="align-left"> <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt=""> <figcaption> <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>. </figcaption> </figure> 
+<figure style="width: 230px" class="align-left"> <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt=""> <figcaption> <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>. </figcaption> </figure>
 
 There is a great potential of Additive Manufacturing (AM) to contribute to a sustainable manufacturing. And it is reasonable to expect that AM will positively impact the societal development in the next decades to come. The development of sustainable principles, applications and practices play a key role in research activity in order to enable environmentally friendly, economically advantageous, and societal benefit-driven AM methodologies.
 
@@ -183,6 +182,7 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 {: #GF-partners .GF-titles }
 
-<div id="GF-partners">
-{% include feature_row id="partners" %}
+<div id="GF-partners">    
+{% include feature_row id="partners" %} 
+
 </div>
