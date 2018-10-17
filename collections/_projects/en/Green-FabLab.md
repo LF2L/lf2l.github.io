@@ -96,20 +96,19 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 ***
 
-
 {: #GF-Images .GF-titles }
+
 ## Green Fablab en Images
 
-
-{% include gallery 
-  caption="Comic made in the _Ma Thèse en 180s from UL_. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
-
+{% include gallery
+caption="Comic made in the _Ma Thèse en 180s from UL_. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
 
 {: #inno-spaces .GF-titles }
+
 ## Innovation Spaces
 
+!\[image-left\]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
 
-![image-left]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
 There is an increasingly interest of organizations in creating dedicated environments to foster innovation processes. Depending of the context, these physical environments can take form of laboratories with different kind of spaces such as creativity and prototyping rooms, co-workings spaces, testing rooms, etc.
 
 According to the literature an “innovation laboratory” is a room or a set of rooms designed for spatial reconfiguration, participant observation, writing spaces, materials for visualization (post-it notes, paper, pens, cards), and ICT to support brainstorming and distributed group working.
@@ -123,10 +122,10 @@ Looking for a more integral definition, an innovation laboratory can be describe
 ***
 
 {: #OS3DP .GF-titles }
+
 ## Open Source 3D Printing
 
-
-![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
+!\[image-left\]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
 Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
 
@@ -140,9 +139,8 @@ They designed in order to be simple and easy to use that anyone would be able to
 ***
 
 {: #GF-Mission .GF-titles }
+
 ## Potential of the recycling process for 3D printing technology
-
-
 
 <figure style="width: 230px" class="align-left"> <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt=""> <figcaption> <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>. </figcaption> </figure>
 
@@ -163,10 +161,9 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
-
 {: #GF-research .GF-titles }
-## Our research
 
+## Our research
 
 <div id="GF-projects">
 {% include feature_row id="projects" %}
@@ -174,19 +171,18 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
-
 {: #GF-students .GF-titles }
-## Nos Etudiants
 
+## Our Students
 
- {% assign carousel = site.data.Green-Fablab.Equipe-en %}
- {% include carousel  %}
+{% assign carousel = site.data.Green-Fablab.Equipe-en %}
+{% include carousel  %}
 
+***
 
 {: #GF-partners .GF-titles }
-## Nos partenaires
 
-
+## Our Partners
 
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
