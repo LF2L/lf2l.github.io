@@ -96,15 +96,18 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 ***
 
-## Green Fablab en Images
+
 {: #GF-Images .GF-titles }
+## Green Fablab en Images
+
 
 {% include gallery 
   caption="Comic made in the _Ma Thèse en 180s from UL_. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
 
 
-## Innovation Spaces
 {: #inno-spaces .GF-titles }
+## Innovation Spaces
+
 
 ![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'LF2L.jpg'%7D%7D){: .align-left}
 
@@ -138,9 +141,10 @@ They designed in order to be simple and easy to use that anyone would be able to
 
 ***
 
+{: #GF-Mission .GF-titles }
 ## Potential of the recycling process for 3D printing technology
 
-{: #GF-Mission .GF-titles }
+
 
 <figure style="width: 230px" class="align-left"> <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt=""> <figcaption> <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>. </figcaption> </figure>
 
