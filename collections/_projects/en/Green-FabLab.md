@@ -72,7 +72,6 @@ partners:
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
 ---
-
 {% assign logo-gf = {{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
 {% include figure image_path = logo-gf
 class='align-center'
@@ -164,7 +163,7 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 
 {: #GF-research .GF-titles }
-## Our research 
+## Our research
 
 
 <div id="GF-projects">
