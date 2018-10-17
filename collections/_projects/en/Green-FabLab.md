@@ -124,9 +124,9 @@ Looking for a more integral definition, an innovation laboratory can be describe
 
 ***
 
+{: #OS3DP .GF-titles }
 ## Open Source 3D Printing
 
-{: #OS3DP .GF-titles }
 
 ![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
