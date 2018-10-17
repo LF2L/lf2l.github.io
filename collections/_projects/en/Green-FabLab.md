@@ -128,7 +128,7 @@ Looking for a more integral definition, an innovation laboratory can be describe
 
 {: #OS3DP .GF-titles }
 
-![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'3DP.jpg'%7D%7D){: .align-right}
+![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
 Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
 
