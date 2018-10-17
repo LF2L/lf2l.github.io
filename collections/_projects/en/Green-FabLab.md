@@ -72,7 +72,8 @@ partners:
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
 ---
-{% assign logo-gf={{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
+
+{% assign logo-gf = {{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
 {% include figure image_path = logo-gf
 class='align-center'
 alt="Logo Green Fablab" %}
@@ -97,17 +98,18 @@ Therefore, a central issue today is how preserve material resources  to in terms
 ***
 
 ## Green Fablab en Images
-
 {: #GF-Images .GF-titles }
 
-{% include gallery
-caption="Comic made in the _Ma Thèse en 180s_ from UL. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
+{% include gallery 
+  caption="Comic made in the _Ma Thèse en 180s from UL_. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
+
 
 ## Innovation Spaces
-
 {: #inno-spaces .GF-titles }
 
 ![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'LF2L.jpg'%7D%7D){: .align-left}
+
+
 There is an increasingly interest of organizations in creating dedicated environments to foster innovation processes. Depending of the context, these physical environments can take form of laboratories with different kind of spaces such as creativity and prototyping rooms, co-workings spaces, testing rooms, etc.
 
 According to the literature an “innovation laboratory” is a room or a set of rooms designed for spatial reconfiguration, participant observation, writing spaces, materials for visualization (post-it notes, paper, pens, cards), and ICT to support brainstorming and distributed group working.
@@ -161,9 +163,11 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
-## Our research
+
 
 {: #GF-research .GF-titles }
+## Our research 
+
 
 <div id="GF-projects">
 {% include feature_row id="projects" %}
@@ -171,16 +175,19 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
-## Nos Etudiants
 
 {: #GF-students .GF-titles }
+## Nos Etudiants
+
 
 {% assign carousel = site.data.Green-Fablab.Equipe-en %}
 {% include carousel  %}
 
-## Nos partenaires
 
 {: #GF-partners .GF-titles }
+## Nos partenaires
+
+
 
 <div id="GF-partners">    
 {% include feature_row id="partners" %} 
