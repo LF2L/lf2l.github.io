@@ -130,6 +130,8 @@ This basic principle drives nearly all AM machines, with some variations in term
 Different synonyms have been evoked (e.g. rapid prototyping, additive fabrication, additive processes, additive techniques, additive layer manufacturing, layer manufacturing, solid freeform fabrication) throughout the development of this manufacturing process.
 
 Thanks to the expiration of Fused Deposition Modeling (FDM) patent in the mid-2000s which it is one additive manufacturing technique, Adrian Bowyer and his team at the University of Bath worked on the concept of self-replicating machines which are able of manufacturing their own parts by themselves.
+
+
 They designed in order to be simple and easy to use that anyone would be able to build them. _This was the start of the_ [_RepRap project (or Replicating Rapid-prototyper)_](https://reprap.org/wiki/RepRap) _and the open source Additive Manufacturing technology_
 
 ***
