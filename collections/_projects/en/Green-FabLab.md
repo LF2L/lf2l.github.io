@@ -126,7 +126,6 @@ Looking for a more integral definition, an innovation laboratory can be describe
 
 ![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'3DP.jpg'%7D%7D){: .align-right}
 
-
 Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
 
 This basic principle drives nearly all AM machines, with some variations in terms of the techniques used for creating layers and in bonding them together.
@@ -161,9 +160,7 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
-## Our research
-
-{: #GF-research .GF-titles }
+## Our research   {: #GF-research .GF-titles }
 
 <div id="GF-projects">
 {% include feature_row id="projects" %}
@@ -171,18 +168,17 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
-## Nos Etudiants
-
+## Nos Etudiants 
 {: #GF-students .GF-titles }
 
-{% assign carousel = site.data.Green-Fablab.Equipe-en %}
-{% include carousel  %}
+ {% assign carousel = site.data.Green-Fablab.Equipe-en %}
+ {% include carousel  %}
 
 ## Nos partenaires
 
 {: #GF-partners .GF-titles }
 
-<div id="GF-partners">    
-{% include feature_row id="partners" %} 
+<div id="GF-partners">  
+{% include feature_row id="partners" %}
 
 </div>
