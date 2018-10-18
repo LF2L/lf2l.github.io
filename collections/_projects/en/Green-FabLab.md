@@ -72,6 +72,7 @@ partners:
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
 ---
+
 {% assign logo-gf = {{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
 {% include figure image_path = logo-gf
 class='align-center'
