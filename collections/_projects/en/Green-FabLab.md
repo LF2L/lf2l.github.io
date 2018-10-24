@@ -73,7 +73,7 @@ partners:
 
 ---
 
-{% assign logo-gf = {{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
+{% assign logo-gf = {{ site.baseurl | append:page.image-path | append:'Logo-GF.png'}} %}
 {% include figure image_path = logo-gf
 class='align-center'
 alt="Logo Green Fablab" %}
@@ -107,7 +107,7 @@ caption="Comic made in the _Ma Thèse en 180s from UL_. [Made by PebFox](http://
 
 ## Innovation Spaces
 
-!\[image-left\]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
+![image-left]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
 
 There is an increasingly interest of organizations in creating dedicated environments to foster innovation processes. Depending of the context, these physical environments can take form of laboratories with different kind of spaces such as creativity and prototyping rooms, co-workings spaces, testing rooms, etc.
 
@@ -125,7 +125,7 @@ Looking for a more integral definition, an innovation laboratory can be describe
 
 ## Open Source 3D Printing
 
-!\[image-left\]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
+![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
 Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
 
