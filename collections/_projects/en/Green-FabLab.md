@@ -73,10 +73,9 @@ partners:
 
 ---
 
-{% assign logo-gf = {{site.baseurl|append:page.image-path|append:'Logo-GF.png'}} %}
-{% include figure image_path = logo-gf
-class='align-center'
-alt="Logo Green Fablab" %}
+
+{: .align-center}
+![Logo Green Fablab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
 
 {% include feature_row id="intro" type="center" %}
 
@@ -107,7 +106,7 @@ caption="Comic made in the _Ma Thèse en 180s from UL_. [Made by PebFox](http://
 
 ## Innovation Spaces
 
-!\[image-left\]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
+![image-left]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
 
 There is an increasingly interest of organizations in creating dedicated environments to foster innovation processes. Depending of the context, these physical environments can take form of laboratories with different kind of spaces such as creativity and prototyping rooms, co-workings spaces, testing rooms, etc.
 
