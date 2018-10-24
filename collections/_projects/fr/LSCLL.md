@@ -17,19 +17,19 @@ En 2018, le Lorraine Smart Cities Living Lab (LSCLL) fête ses 10 ans d’existe
 
 
 Le Lorraine Smart Cities Living Lab est un Centre de ressource collaboratif de l’Université de Lorraine, pour appuyer et relier les différents labs thématiques et territoriaux intégrant les usagers et mettant en œuvre des approches collaboratives au service de la Recherche, du Développement des Innovations, des Formations et d’une Culture Citoyenne. Le LSCLL cherche à développer des Partenariat Public Privé Population (PPPP) pour diffuser l'innovation et les pratiques liées.
-Le LSCLL fédère plusieurs équipes de l'Université de Lorraine. En 2018, l'INRA a rejoint la gouvernance du LSCLL dans le cadre du projet TIGA "Des Hommes et des Arbres" (http://www.dhda2018.fr/)
+Le LSCLL fédère plusieurs équipes de l'Université de Lorraine. En 2018, l'INRA a rejoint la gouvernance du LSCLL dans le cadre du projet TIGA [Des Hommes et des Arbres](http://www.dhda2018.fr/)
  
 Il expérimente, développe et capitalise une dynamique d’universalité reposant sur 
 Un Espace universitaire juridiquement neutre 
 Un tiers garant
 Une fondation universitaire 
-Une Ingénierie Fab Living Lab (www.lf2l.fr) proposant un processus intégrer
+Une Ingénierie [Fab Living Lab](www.lf2l.fr) proposant un processus intégrer
 Idéation 
 Matérialisation 
 Test par l’usage
 Une ingénierie Open Citizen Labs, pour :
-Faciliter l’accès aux lieux de présence des      usagers et citoyens
-Associer ces derniers à toutes les étapes      d’un projet
+Faciliter l’accès aux lieux de présence des usagers et citoyens
+Associer ces derniers à toutes les étapes d’un projet
 
 
 Il couvre : 5 Enjeux pour des territoires d’innovations (Précisions à venir)
@@ -53,19 +53,19 @@ En 2010-2011, le Lorraine Smart Cities Living Lab a reçu le soutien de la DIREC
 ## Synthèse des principaux résultats (2008-2017)
  
 Sans être exhaustif, voici quelques résultats apportés par le LSCLL et projets impulsés dans le cadre du LSCLL ou élaborer en lien avec sa dynamique (2008 – 2018) : 
--  27 Publications scientifiques : fondamentaux et méthodologies, capitalisation et diffusion (voir : http://www.lf2l.fr/Sections/Concept/Publications-ERPI-LF2L/).
+-  27 Publications scientifiques : fondamentaux et méthodologies, capitalisation et diffusion [voir](http://www.lf2l.fr/publications).
 -  3 Thèses de doctorats soutenues (L. Dupont, N. Skiba, J. Hubert) et 3 en cours (A. Convolte, J. Lacroix, G. Tran) 
 -  Un projet de recherche avec EDF
 -  Une Chaire collaborative : la chaire REVES (2014-2019) portée par ENEDIS, EDF, la Métropole Grand Nancy et l'Université de Lorraine
 -  Invité d'honneur à la Foire Internationale de Nancy en 2017 (stand de 36 m2) et 2018 (stand de 90 m2) pour déployer les Open Citizen Labs,
--  La Plate-forme Lorraine Fab Living Lab® (www.lf2l.fr) : espace collaboratif d’innovation, instrumentation scientifique nouvel génération au service de la science participative. 
+-  La Plate-forme [Lorraine Fab Living Lab®](www.lf2l.fr) : espace collaboratif d’innovation, instrumentation scientifique nouvel génération au service de la science participative. 
 - Un module de formation à TELECOM Nancy : "Ingénierie et Application des Masses de Données" ou Big Data Smart Cities
 - La co-fondation du Réseau France Living Labs en 2012-2013 et du réseau Francophonie Living Labs en 2015 (avec le soutien du Consulat Général de France à Québec)
--  Les Ateliers d’Innovation Ingexys, opréationnels depuis 2009 : http://masterprojter.wixsite.com/lesaiu
+-  Les Ateliers d’Innovation Ingexys, opréationnels depuis 2009 [AIU](http://masterprojter.wixsite.com/lesaiu)
 -  Le Projet européen LILA avec Promotech CEI : Test produit ou service à l'international (2012-2013) 
 -  Des dizaines de Démonstrateurs : M-Learning, La Fabrique Nancy Grand Cœur, Simulation flux de circulation 3D, Muséum-Aquarium de Nancy, Smart City Living Lab d'Alzette-Belval, Linky by Makers, VélOstan Connectés, etc. (pages dédiés à venir)
 - Des dizaines de conférences et témoignages en France et à l’étranger
-- Le parrainage de plusieurs Living Labs aujourd'hui reconnus : Technoport au Luxembourg (https://enoll.org/network/living-labs/?livinglab=technoport-living-lab-luxembourg), Aktan à Orléan (https://aktan.fr/living-lab/)
+- Le parrainage de plusieurs Living Labs aujourd'hui reconnus : [Technoport au Luxembourg](https://enoll.org/network/living-labs/?livinglab=technoport-living-lab-luxembourg), [Aktan à Orléan](https://aktan.fr/living-lab/)
 - L'accompagnement dans le développement d'espaces d'innovation en Grande Région Est : ex TUBA à Mulhouse, Pole Innovation Territorial à Dieuze, etc., en Colombie (réseau des ViveLabs), au Canada, etc. 
 
 

@@ -9,34 +9,34 @@ header:
 
 ---
 
-## Présentation
+## Presentation
 
-## Programme Scientifique
+## Scientific Program
 
-Conception, suivi et évaluation dans le cadre du Programme Concertation Décision Environnement : voir le site du
+Design, monitoring and evaluation within the framework of the Concertation Décision Environnement Programme: see the website of the
 
-## Processus (déploiement 2011 - 2014)
-
-
-### Saison 1 : Diagnostic partagé
+## Process (deployment 2011 - 2014)
 
 
+#### Season 1 : Shared diagnosis
 
-### Saison 2 : Focus
 
-- De Nancy grand Cœur à la ville de Charles III : les usages de la Place Charles III
-- EcoQuartier Nancy Grand Cœur Approfondissement des thématiques :
+
+#### Season 2 : Focus
+
+- From Nancy grand Coeur to the city of Charles III: the uses of Charles III Square
+- EcoQuartier Nancy Grand Cœur Deepening of the themes:
   
-  - EcoMobilité
-  - Partage des espaces publics
-  - Performance énergétique globale et ville intelligente
+  - EcoMobility
+  - Sharing of public spaces
+  - Overall energy performance and smart cities
 
 
-Travaux saison 2 non diffusé - pour toute information, nous consulter
+Work season 2 not released publicly - for more information, please contact us
 
 
-### Saison 3 : Efficience
+#### Season 3 : Efficiency
 
 
-## Modélisation des flux de circulation
-Projet complémentaire porté par l'ENSGSI
+## Traffic flow modeling
+Complementary project led by ENSGSI

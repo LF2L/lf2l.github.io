@@ -73,7 +73,6 @@ partners:
 
 ---
 
-
 {: .align-center}
 ![Logo Green Fablab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
 
@@ -124,7 +123,7 @@ Looking for a more integral definition, an innovation laboratory can be describe
 
 ## Open Source 3D Printing
 
-!\[image-left\]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
+![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
 Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
 
