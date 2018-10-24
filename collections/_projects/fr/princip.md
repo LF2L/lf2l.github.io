@@ -9,10 +9,13 @@ header:
 
 ## Présentation
 
+{% include video id="tIDTM4P3szE" provider="youtube" %}
+
 La Chaire PRINCIP est un projet de recherche ayant comme objectif principal l’identification et la caractérisation des compétences élémentaires à partir desquelles il devrait être possible de modéliser une capacité ou des capacités à innover spécifiques à des PMI.
 Nous associons à cela deux questions secondaires :
-Quelles sont les compétences et conditions associées pour en permettre l’externalisation ou la mutualisation.
-Quels sont les leviers, les freins, les conditions et les spécificités du développement de co-innovation dans les PMI.
+
+- **Quelles sont les compétences et conditions associées pour en permettre l’externalisation ou la mutualisation.**
+- **Quels sont les leviers, les freins, les conditions et les spécificités du développement de co-innovation dans les PMI.**
 
 ## AXE 1 : Elaboration d’un ou plusieurs modèles définissant la capacité à innover d’une PMI et les conditions de progression par apprentissage :
 
