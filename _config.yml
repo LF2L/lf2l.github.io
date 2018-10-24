@@ -444,6 +444,10 @@ defaults:
 
 
 
+
+
+
+
   # _pages Main Pages of the site
   - scope:
       type: pages
@@ -484,7 +488,7 @@ defaults:
       lang: fr
 
 
-  # _projects
+  # _PROJECTS
   - scope:
       type: projects
     values:
@@ -504,7 +508,7 @@ defaults:
     values:
       lang: fr
       sidebar:
-        nav: ""
+        nav: "projects"
 
 
 # _people

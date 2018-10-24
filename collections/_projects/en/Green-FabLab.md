@@ -73,10 +73,16 @@ partners:
 
 ---
 
+<<<<<<< HEAD
 {% assign logo-gf = {{ site.baseurl | append:page.image-path | append:'Logo-GF.png'}} %}
 {% include figure image_path = logo-gf
 class='align-center'
 alt="Logo Green Fablab" %}
+=======
+
+{: .align-center}
+![Logo Green Fablab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
+>>>>>>> f15b26e69b7c68ee6d11d6c682a35b4dc42d52a5
 
 {% include feature_row id="intro" type="center" %}
 
