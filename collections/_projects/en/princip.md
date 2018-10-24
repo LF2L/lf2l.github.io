@@ -58,10 +58,10 @@ IEEE 20th ICE-International Conference on Concurrent Enterprising, Bergamo, Ital
 
 - Galvez D., Alfaro M. Camargo M., Firm innovative capabilities: using innovation metrics as leverage for improvement. IAMOT 2011. Conference Proceedings of the 20th International Conference on Management of Technology. Miami, FL. USA. April 10-14, 2011. Paper number 1569377709, ISBN: 0-9815817-4-9
 
-- Morel L, Camargo M, Boly V. Mesure de la capacité à innover des PMI/PME. 2ème Grand Livre de l’Économie PME, (2011) Collection Business Recherche, Sous la direction scientifique de G. Lecointre. ISBN : 978-2-297-02067-1 648 pages - Gualino-Lextenso Éditions, Paris
+- Morel L, Camargo M, Boly V. [Mesure de la capacité à innover des PMI/PME. 2ème Grand Livre de l’Économie PME](http://www.recherche-universitaire-pme.com/wp-content/uploads/2015/08/part1-chap41.pdf), (2011) Collection Business Recherche, Sous la direction scientifique de G. Lecointre. ISBN : 978-2-297-02067-1 648 pages - Gualino-Lextenso Éditions, Paris
 
-- Sepulveda, J., Gonzalez, J., Alfaro, M., Camargo, M. A metrics-based diagnosis tool for enhancing innovation capabilities in SMEs (2010) International Journal of Computers, Communications and Control, 5 (5), pp. 919-928.
+- Sepulveda, J., Gonzalez, J., Alfaro, M., Camargo, M. [A metrics-based diagnosis tool for enhancing innovation capabilities in SMEs](http://univagora.ro/jour/index.php/ijccc/article/view/2255) (2010) International Journal of Computers, Communications and Control, 5 (5), pp. 919-928.
 
-- Rejeb, H.B., Morel-Guimarães, L., Boly, V., Assiélou, N.G. Measuring innovation best practices: Improvement of an innovation index integrating threshold and synergy effects (2008) Technovation, 28 (12), pp. 838-854.
+- Rejeb, H.B., Morel-Guimarães, L., Boly, V., Assiélou, N.G. [Measuring innovation best practices: Improvement of an innovation index integrating threshold and synergy effects](https://doi.org/10.1016/j.technovation.2008.08.005) (2008) Technovation, 28 (12), pp. 838-854.
 
-- Boly V., L Morel, J Renaud, C Guidat. Innovation in low tech SMBs: evidence of a necessary constructivist approach. Technovation 20 (3), 161-168, 13, 2000.
+- Boly V., L Morel, J Renaud, C Guidat. [Innovation in low tech SMBs: evidence of a necessary constructivist approach](https://doi.org/10.1016/S0166-4972(99)00099-1). Technovation 20 (3), 161-168, 13, 2000.
