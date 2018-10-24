@@ -4,19 +4,19 @@ date: 2018-09-10 00:00:00 +0000
 permalink: "/projects/innovation-on-health/"
 excerpt: Innovation on the health-care field
 header:
-  teaser: "/assets/images/3-projects/inno-health/teaser.jpg"
+  teaser: "/assets/images/3-projects/health/teaser.jpg"
 tags:
 - engineering
 - 3D Printing
-image-path: "/assets/images/3-projects/inno-health/"
+image-path: "/assets/images/3-projects/health/"
 categories: []
 partners:
-- image_path: "/assets/images/3-projects/inno-health/logo-EC.png"
+- image_path: "/assets/images/3-projects/health/logo-EC.png"
   teaser_class: GF-partners
   alt: Ecole de Chirurgie de Nancy
   title: ''
   excerpt: "[Surgery School of Nancy](http://medecine.univ-lorraine.fr/fr/ecole-chirurgie)"
-- image_path: "/assets/images/3-projects/inno-health/logo-ENSGSI.jpg"
+- image_path: "/assets/images/3-projects/health/logo-ENSGSI.jpg"
   teaser_class: GF-partners
   alt: ENSGSI
   title: ''
