@@ -3,37 +3,38 @@ lang: en
 layout: single
 title: "The Lorraine Fab Living Lab Concept"
 permalink: /concept/
-classes:
- - wide
+image-path: "/assets/images/2-concept/en/"
+classes: wide
+
 excerpt: "Serving innovation"
 header:    
-  overlay_image: "assets/images/banners/LF2L-1.jpg"
-  overlay_filter: rgba(110, 110, 112, 0.5)
+  overlay_image: "assets/images/banners/concept.jpg"
+  overlay_filter: 0.6
   show_overlay_excerpt: true
   image_description: "LF2L Concept"
 
 sidebar:
   nav: "LF2L-concept"
-last_modified_at: 2018-09-07
-image-path: "/assets/images/2-concept/en/"
+last_modified_at: 2018-10-24
+
 ---
 
 # Concept Fab Living Lab
 
 <figure style="width: 350px" class="align-right">
-  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-1.png'}}" alt="">  
+  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-1.jpg'}}" alt="">  
 </figure> 
 Under the patronage of the University of Lorraine and  Greater Nancy, the Lorraine Fab Living Lab® is a platform for the prospective evaluation of the uses and acceptability of innovation. It is located in the Renaissance Technopôle, in the heart of the city and Nancy's life.
 Driven and managed by the Research Team on Innovative Processes (ERPI Laboratory) and the ENSGSI (National School of Innovation Engineers), the Lorraine Fab Living Lab® brings together devices to accelerate creation and collaborative innovation for tomorrow's uses.
 
 <figure style="width: 300px" class="align-left">
-  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-2.png'}}" alt="">  
+  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-2.jpg'}}" alt="">  
 </figure> 
 The Lorraine Fab Living Lab® supports the creation and use of "demonstrators" of new products, processes, services, organizations mobilizing companies, territories and academics for creative and sustainable territories. It is based very concretely on successful experiments based on the concepts of Living Lab (integration of users into collaborative design and approaches) and FabLab (Fabrication Laboratory), an open and functional prototyping space, in the sense of the concept of a digital manufacturing workshop initiated by MIT (Massachusetts Institute of Technology).
 
 
 <figure style="width: 100%" class="align-center">
-  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-3.png'}}" alt="">  
+  <img src="{{ site.baseurl | append:page.image-path | append:'Figure-3.jpg'}}" alt="">  
 </figure> 
 These experiments are the result of the Lorraine Smart Cities Living Lab project launched in 2008 and certified in 2010 by the European Living Labs ENoLL network and the 1st French FabLab installed in an engineering school and recognised by the Fab Foundation in 2011.
 
@@ -55,7 +56,10 @@ Inaugurated in June 2014, as part of the French Tech festival, the Lorraine Fab 
 
 ## Sources
 
-* Dupont, L., Pallot, M., Morel, L. (2016) Exploring the Appropriateness of Different Immersive Environments in the Context of an Innovation Process for Smart Cities. 22nd ICE/IEEE International Technology Management Conference, Trondhiem, Norway, 13-15 June. Draft
-* Dupont L.,Morel, L.,Lhoste, P., Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. In Actes des sessions du colloque Science & You, France, Nancy, June 3-5th, 2015, pp. 230-235. Papier LF2L. Lien vers les actes complets
-* Morel, L., Dupont, L., Lhoste, P., When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France. Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786. (Lien)
-* F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont, “Spaces to foster and sustain innovation: Towards a conceptual framework,” in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015.
+* Dupont, L., Pallot, M., Morel, L. (2016) [Exploring the Appropriateness of Different Immersive Environments in the Context of an Innovation Process for Smart Cities](https://hal.archives-ouvertes.fr/hal-01331887). 22nd ICE/IEEE International Technology Management Conference, Trondhiem, Norway, 13-15 June. Draft
+
+* Dupont L.,Morel, L.,Lhoste, P., [Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. In Actes des sessions du colloque Science & You](https://hal.archives-ouvertes.fr/hal-01331610), France, Nancy, June 3-5th, 2015, pp. 230-235. Papier LF2L. Lien vers les actes complets
+
+* Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
+
+* F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont, “[Spaces to foster and sustain innovation: Towards a conceptual framework](https://doi.org/10.1109/ICE.2015.7438661),” in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015.

@@ -13,9 +13,8 @@ header:
   image_description: Maker at LF2L
 sidebar:
   nav: communities
-date: 2018-09-07 00:00:00 +0000
 
-
+last_modified_at: 2018-10-24
 ---
 ## Institutions
 

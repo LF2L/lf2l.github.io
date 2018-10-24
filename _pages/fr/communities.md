@@ -3,11 +3,11 @@ lang: fr
 layout: collection
 title: Communautés au Lorraine Fab Living Lab
 permalink: "/fr/communities/"
+
 collection: communities
 entries_layout: grid
-classes: wide
-excerpt: Un lieu pour la collaboration
 
+excerpt: "Un lieu pour la collaboration"
 header:  
   overlay_image: "assets/images/banners/LF2L-3.jpg" 
   overlay_filter: rgba(110, 110, 112, 0.6)

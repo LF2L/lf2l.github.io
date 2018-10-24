@@ -10,8 +10,7 @@ header:
   overlay_filter: 0.3
   show_overlay_excerpt: true 
   image_description: "enterprises at LF2L"
-  
-date: 2018-09-07
+last_modified_at: 2018-10-24  
 ---
 
 

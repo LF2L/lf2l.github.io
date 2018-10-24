@@ -15,8 +15,7 @@ header:
 sidebar:
   nav: "communities"
 
-date: 2018-09-07
-
+last_modified_at: 2018-10-24
 
 ---
 
