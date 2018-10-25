@@ -3,9 +3,11 @@ lang: fr
 layout: single
 classes: wide
 title: Green FabLab
-date: 2018-09-10
 permalink: "/fr/projects/green-fablab/"
 image-path: "/assets/images/3-projects/gf/"
+sidebar:
+  nav: GF-articles
+
 
 excerpt: Vers une economie circulaire du plastique pour l'impression 3D
 header:
@@ -16,8 +18,6 @@ header:
 intro:
 - excerpt: "**La création d'un filière de récyclage local du plastique pour l'impression
     3D ouvrira des nouvelles opportunités pour l'economie circulaire.**"
-sidebar:
-  nav: GF-articles
 
 gallery:
 - url: "/assets/images/3-projects/gf/BD/fr/Fabio-MT180-I.jpg"
@@ -76,6 +76,7 @@ partners:
   title: ''
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
+last_modified_at: 2018-10-24
 ---
 
 

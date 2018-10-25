@@ -91,7 +91,7 @@ GF-articles:
       - title: "Recycling for 3DP"
         url: /projects/green-fablab/#GF-Mission
   
-  - title: Research
+  - title: Our Research
     url: /projects/green-fablab/#GF-research
     children:
       - title: "Standard Protocol"

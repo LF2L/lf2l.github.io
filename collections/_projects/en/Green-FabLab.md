@@ -3,19 +3,22 @@ lang: en
 layout: single
 classes: wide
 title: Green Fablab
-date: 2018-09-10 00:00:00 +0000
 permalink: "/projects/green-fablab/"
 image-path: "/assets/images/3-projects/gf/"
+sidebar:
+  nav: GF-articles
+
+
 excerpt: Towards a circular economy for 3D printing technology
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
+
 intro:
 - excerpt: "**The creation of a local recycling process for open source 3D printing
     technology can open new opportunities for a circular economy**"
-sidebar:
-  nav: GF-articles
+
 gallery:
 - url: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
@@ -71,6 +74,7 @@ partners:
   title: ''
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
+last_modified_at: 2018-10-24
 ---
 
 {: .align-center}
@@ -153,15 +157,16 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 > The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology
 > A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
 
-**For more details:** <br>
-<cite>F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont,</cite> --- [“Spaces to foster and sustain innovation: Towards a conceptual framework,”](https://ieeexplore.ieee.org/abstract/document/7438661) in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015.
+
 {: .small  .notice--info}
+**For more details:** <br>
+<cite>Cruz Sanchez, F. A., Boudaoud, H., Hoppe, S., & Camargo, M. (2017). </cite>[Polymer recycling in an open-source additive manufacturing context: Mechanical issues](https://doi.org/10.1016/j.addma.2017.05.013). Additive Manufacturing, 17, 87–105. 
+
 
 ***
 
 {: #GF-research .GF-titles }
-
-## Our research
+## Our Research
 
 <div id="GF-projects">
 {% include feature_row id="projects" %}
@@ -170,7 +175,6 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 ***
 
 {: #GF-students .GF-titles }
-
 ## Our Students
 
 {% assign carousel = site.data.Green-Fablab.Equipe-en %}
@@ -179,7 +183,6 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 ***
 
 {: #GF-partners .GF-titles }
-
 ## Our Partners
 
 <div id="GF-partners">  
