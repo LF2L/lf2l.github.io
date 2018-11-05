@@ -47,6 +47,7 @@ place_tools:
 
 info:
   - title: "Practical info"
+    url: /info/
     children:
       - title: "Tarif"
         url: /info/tarif/

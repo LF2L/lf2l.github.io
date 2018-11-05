@@ -52,6 +52,7 @@ place_tools:
 
 info:
   - title: "Infos pratiques"
+    url: /fr/info/
     children:
       - title: "Tarif"
         url: /fr/info/tarif/
