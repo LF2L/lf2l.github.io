@@ -11,7 +11,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_posts
+  path: collections/_posts/en
   label: Actualités - ENG
   create: documents
   match: "**/*"
