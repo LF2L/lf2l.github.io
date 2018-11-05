@@ -9,13 +9,13 @@ sections:
   label: Actualités - FR
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_posts
   label: Actualités - ENG
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_people/fr
   label: People - FR
