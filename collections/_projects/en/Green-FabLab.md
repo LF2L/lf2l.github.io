@@ -35,28 +35,24 @@ gallery:
 projects:
 - image_path: "/assets/images/3-projects/gf/articles/proj-1/thumb.png"
   alt: ''
-  title: 'Towards a standard protocol for 3D printers '
-  excerpt: Proposition d'un protocole standard d'expérimentation afin de caractériser
-    la précision dimensionnelle d'une imprimante 3D open source.
-  url: "/green-fablab/standard-protocol"
-  btn_label: Plus de détails
+  title: 'Towards a standard protocol for 3D printers'
+  excerpt: "This paper deals with the development, manufacture and testing of a geometrical benchmarking model (GBM) in order to evaluate the geometrical accuracy performance of open source 3D printers."
+  url: "/green-fablab/standard-protocol"  
   btn_class: btn--info
 - image_path: "/assets/images/3-projects/gf/articles/proj-2/thumb.png"
   alt: ''
   title: Polymer recycling for 3D printing
-  excerpt: Proposition d'une métodologie systematique pour évaluer la recyclabilité
-    des thermoplastiques utilisés dans les imprimantes open source.
+  excerpt: "A general methodology to evaluate the recyclability of thermoplastics used as feedstock in open-source 3D printing machines is proposed."
   url: "/green-fablab/recycling-methodology/"
-  btn_label: Plus de détails
   btn_class: btn--info
 - image_path: "/assets/images/3-projects/gf/articles/proj-3/thumb.png"
   title: Closed-Loop supply chain for distributed recycling process
-  excerpt: a conceptual model is developed and proposed for the collection process
-    in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic
-    recycling.
+  excerpt: "A conceptual model is developed and proposed for the collection process
+      in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic
+      recycling."
   url: "/green-fablab/logistic/"
-  btn_label: Plus de détails
   btn_class: btn--info
+
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/CESI.jpg"
   teaser_class: GF-partners

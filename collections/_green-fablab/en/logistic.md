@@ -5,7 +5,6 @@ date: 2018-09-10
 permalink: /green-fablab/logistic/
 image-path: "/assets/images/3-projects/gf/logistical/"
 
-
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
