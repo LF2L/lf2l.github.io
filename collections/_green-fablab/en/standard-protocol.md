@@ -19,3 +19,6 @@ header:
 The technological development of open source three-dimensional (3D) printers is creating more affordable Additive Manufacturing (AM) machines for society in different applications. For this reason, the machines’ capability should be evaluated in order to establish minimum standards of performance. This paper deals with the development, manufacture and testing of a geometrical benchmarking model (GBM) in order to evaluate the geometrical accuracy performance of open source 3D printers. The methodology is demonstrated with a case study based on fused deposition modelling (FDM). The case study positions the evaluated machine according to ANSI-ISO’s International Tolerance (IT) Grades. Furthermore, root-mean-square deviation (RMSD) value is employed as an accuracy estimator, while Taguchi tools are employed to determine the control factors with the highest accuracy for the fabrication of the GBM.
 
 
+{: .small  .notice--info}
+**For more details:** <br>
+<cite>Cruz Sanchez, F. A., Boudaoud, H., Muller, L., & Camargo, M. (2014).</cite> [Towards a standard experimental protocol for open source additive manufacturing.](https://doi.org/10.1080/17452759.2014.919553) Virtual and Physical Prototyping, 9(3), 151–167. 
