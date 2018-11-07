@@ -9,7 +9,6 @@ post_description: L’équipe du LF2L, a réalisé une copie numérique en 3D d�
 date: 2018-11-06 08:00:00 +0100
 categories:
 - news
-published: false
 
 ---
 Le Lorraine Fab Living Lab® ([laboratoire ERPI](https://erpi.univ-lorraine.fr/) et [ENSGSI](https://www.facebook.com/ENSGSI/?__tn__=K-R&eid=ARA7HmvsiaiPc62vWD_iGEOUziX0pGYzvNlmsKhIpY8s7Ylo5DdwAO_-7fLTBOkHxD3cqstHZd3s2IjC&fref=mentions&__xts__%5B0%5D=68.ARBg2cwBaTLzLd9la34GTiz9f6nqoQ9Ld6OHX_yt_7l8BNN26-xgZNGJY0jHtIT6uJCuZtoRm6i0JXLPnlH7bZTUsETyDvgWWyher--JfVkfsEgEdwi9k3b43Tbg0bgwTKPsoYwuTqK0H0nRfOVrCQPVrp2ijgtbLOEcn4jRV3HXI0YT-pctTHZyXYPfBsMc-4KapGXhX-xs8cBhVdub6IVUscQ)) est partenaire du Laboratoire d’archéologie des métaux du [musée de l'Histoire du fer](https://www.facebook.com/musee.histoire.du.fer/?__tn__=K-R&eid=ARAQfhjqsxh37UIlUvnXE-_rEH4sTPQElR7dJIIgl-OmWYGgkF7648LnYbF2LEVBoMcKQ46l5B-Un78b&fref=mentions&__xts__%5B0%5D=68.ARBg2cwBaTLzLd9la34GTiz9f6nqoQ9Ld6OHX_yt_7l8BNN26-xgZNGJY0jHtIT6uJCuZtoRm6i0JXLPnlH7bZTUsETyDvgWWyher--JfVkfsEgEdwi9k3b43Tbg0bgwTKPsoYwuTqK0H0nRfOVrCQPVrp2ijgtbLOEcn4jRV3HXI0YT-pctTHZyXYPfBsMc-4KapGXhX-xs8cBhVdub6IVUscQ) (LAM) dans le cadre du projet de rénovation du monument aux morts de Létricourt.
