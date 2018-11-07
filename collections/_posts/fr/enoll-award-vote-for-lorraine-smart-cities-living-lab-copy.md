@@ -1,14 +1,25 @@
 ---
-title: 'ENoLL award: Vote for Lorraine Smart Cities Living Lab!-(copy)'
-post_teaser: assets/uploads/2018/04/09/LL-Project-2017-award.png
-post_description: 'The voting for the Living Lab Project Award has opened until Sunday
-  29 April 2018. We present Linky by makers project See all the projects Link to vote:
-  ## VOTE :) ##'
-date: 2018-04-09 06:00:00 +0000
+title: Un fusil de la 1ère guerre mondiale rénové grâce aux technologies 3D
+post_teaser: assets/images/uploads/photo_finale.png
+post_description: L’équipe du LF2L, a réalisé une copie numérique en 3D d’un fusil
+  d’époque pour reconstituer cette partie. Après la numérisation et le traitement
+  des images, le fusil a été fabriqué par impression 3D (technologie FDM au LF2L).
+  L’objet imprimé a été ensuite peint pour donner un aspect similaire à la statue
+  originale
+date: 2018-11-06 08:00:00 +0100
 categories:
-- awards
+- news
 published: false
 
 ---
-The project is http://linkybymakers.fr/.
-See https://enoll.org/newsroom/?news-id=3401
+Le Lorraine Fab Living Lab® ([laboratoire ERPI](https://erpi.univ-lorraine.fr/) et [ENSGSI](https://www.facebook.com/ENSGSI/?__tn__=K-R&eid=ARA7HmvsiaiPc62vWD_iGEOUziX0pGYzvNlmsKhIpY8s7Ylo5DdwAO_-7fLTBOkHxD3cqstHZd3s2IjC&fref=mentions&__xts__%5B0%5D=68.ARBg2cwBaTLzLd9la34GTiz9f6nqoQ9Ld6OHX_yt_7l8BNN26-xgZNGJY0jHtIT6uJCuZtoRm6i0JXLPnlH7bZTUsETyDvgWWyher--JfVkfsEgEdwi9k3b43Tbg0bgwTKPsoYwuTqK0H0nRfOVrCQPVrp2ijgtbLOEcn4jRV3HXI0YT-pctTHZyXYPfBsMc-4KapGXhX-xs8cBhVdub6IVUscQ)) est partenaire du Laboratoire d’archéologie des métaux du [musée de l'Histoire du fer](https://www.facebook.com/musee.histoire.du.fer/?__tn__=K-R&eid=ARAQfhjqsxh37UIlUvnXE-_rEH4sTPQElR7dJIIgl-OmWYGgkF7648LnYbF2LEVBoMcKQ46l5B-Un78b&fref=mentions&__xts__%5B0%5D=68.ARBg2cwBaTLzLd9la34GTiz9f6nqoQ9Ld6OHX_yt_7l8BNN26-xgZNGJY0jHtIT6uJCuZtoRm6i0JXLPnlH7bZTUsETyDvgWWyher--JfVkfsEgEdwi9k3b43Tbg0bgwTKPsoYwuTqK0H0nRfOVrCQPVrp2ijgtbLOEcn4jRV3HXI0YT-pctTHZyXYPfBsMc-4KapGXhX-xs8cBhVdub6IVUscQ) (LAM) dans le cadre du projet de rénovation du monument aux morts de Létricourt.
+
+Cette statue a connu des préjudices de la seconde guerre mondiale et un démontage « violent » en 2014. Le fusil de la statue du soldat a été particulièrement dégradé et il ne lui restait que la pointe et sa baïonnette.
+
+Avec le concours d’un binôme d’étudiants de l’EXIA.CESI en stage, l’équipe du LF2L, a réalisé une copie numérique en 3D d’un fusil d’époque pour reconstituer cette partie. Grâce au prêt d’un fusil modèle Lebel 1886 par le [Musée de la Guerre de 1870 et de l’Annexion](https://www.facebook.com/MuseedelaGuerrede1870Gravelotte/?__tn__=K-R&eid=ARAo4jUwu3xkiIrLLp1Wa_U2FD3MwJJdjCdAdRWW7ISVTOkmHdYAwTYBjT0gL4eLgeJjUNLLC9kZaNjL&fref=mentions&__xts__%5B0%5D=68.ARBg2cwBaTLzLd9la34GTiz9f6nqoQ9Ld6OHX_yt_7l8BNN26-xgZNGJY0jHtIT6uJCuZtoRm6i0JXLPnlH7bZTUsETyDvgWWyher--JfVkfsEgEdwi9k3b43Tbg0bgwTKPsoYwuTqK0H0nRfOVrCQPVrp2ijgtbLOEcn4jRV3HXI0YT-pctTHZyXYPfBsMc-4KapGXhX-xs8cBhVdub6IVUscQ)de Gravelotte et à l’utilisation du Scanner Artec EVA du Lorraine Fab Living Lab®.  
+  
+Après la numérisation et le traitement des images, le fusil a été fabriqué par impression 3D (technologie FDM au LF2L). L’objet imprimé a été ensuite peint pour donner un aspect similaire à la statue originale.
+
+Ce projet a ainsi permis de créer une expertise commune LF2L / LAM en numérisation et impression 3D de pièces historiques métalliques de grandes envergures et à la formation de deux élèves ingénieurs.
+
+[http://factuel.univ-lorraine.fr/node/9664](http://factuel.univ-lorraine.fr/node/9664 "http://factuel.univ-lorraine.fr/node/9664")
