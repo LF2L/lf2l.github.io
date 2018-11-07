@@ -27,6 +27,12 @@ On despite its attractiveness, the complexity of this distributed
 approach represents a limit to this application. Moreover, the environmental and economical effectiveness still needs to be demonstrated. In this article, a conceptual model is developed and proposed for the collection process in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic recycling in order to analyze its economic and environmental feasibility
 
 
+{: .small  .notice--info}
+**For more details:** <br>
+<cite>Pavlo, S., Fabio, C., Hakim, B., & Mauricio, C. (2018).</cite> [3D-Printing Based Distributed Plastic Recycling: A Conceptual Model for Closed-Loop Supply Chain Design](https://doi.org/10.1109/ICE.2018.8436296). In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1–8). IEEE. 
+
+
+
 
 # Are you Professor at Lorraine region?
 
