@@ -154,7 +154,7 @@ On the basis of these concepts, some major goals have been outlined in order to 
 The integration of recycled material for the 3D printing technology and in the innovation spaces is a potential approach to contribute to the current sustainability issues in the world.
 Plastic recycling process of the sourrounding areas (street, neighborhood) could be carried out at small lot sizes minimizing, energy consumptions, and carbon emissions compared to the tradition centralized systems.
 
-> The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology
+> The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology.
 > A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
 
 
