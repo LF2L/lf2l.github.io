@@ -27,23 +27,4 @@ last_modified_at: 2018-09-07 00:00:00 +0000
 
 * **Monday - Friday**, 9:00am à 18:00pm
 
-## Information de contact
-
-                        <iframe height="557"
-                                allowTransparency="true"
-                                frameborder="0"
-                                scrolling="no"
-                                style="width:100%;border:none"
-                                src="https://lf2l.wufoo.com/embed/mspzvpa1bdexyq/">
-                          <a href="https://lf2l.wufoo.com/forms/mspzvpa1bdexyq/">
-                            Fill out my Wufoo form!
-                          </a>
-                        </iframe>
-                                                  <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">
-                            <span class="notranslate">
-                              HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.
-                            </span>
-                          </div>
-                                              
-
 ## Équipe
