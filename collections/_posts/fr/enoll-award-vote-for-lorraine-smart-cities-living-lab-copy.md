@@ -1,5 +1,5 @@
 ---
-title: Un fusil de la 1ère guerre mondiale rénové grâce aux technologies 3D
+title: 2018-06-11-LAM
 post_teaser: assets/images/uploads/photo_finale.png
 post_description: L’équipe du LF2L, a réalisé une copie numérique en 3D d’un fusil
   d’époque pour reconstituer cette partie. Après la numérisation et le traitement
