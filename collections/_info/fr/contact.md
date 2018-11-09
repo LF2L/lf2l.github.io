@@ -1,21 +1,19 @@
 ---
-title: "Contact LF2L"
-permalink: /info/contact/
-excerpt: "information de contact"
-date: 2018-09-18
-
+title: Contact LF2L
+permalink: "/info/contact/"
+excerpt: information de contact
+date: 2018-09-18 00:00:00 +0000
 header:
   overlay_color: "#333"
   overlay_filter: 0.6
-  show_overlay_excerpt: true 
-  image_description: "Information de contact"
+  show_overlay_excerpt: true
+  image_description: Information de contact
+last_modified_at: 2018-09-18 00:00:00 +0000
 
-last_modified_at: 2018-09-18
 ---
-
 ## Information de contact
 
-                    <iframe height="557"
+<iframe height="557"
                             allowTransparency="true"
                             frameborder="0"
                             scrolling="no"
@@ -30,4 +28,3 @@ last_modified_at: 2018-09-18
                           HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.
                         </span>
                       </div>
-
