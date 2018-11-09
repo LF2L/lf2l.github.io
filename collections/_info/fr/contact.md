@@ -1,4 +1,3 @@
-
 ---
 title: "Contact LF2L"
 permalink: /fr/info/contact/
