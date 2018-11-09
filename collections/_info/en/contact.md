@@ -1,6 +1,6 @@
 ---
 title: "Contact LF2L"
-permalink: /en/info/contact/
+permalink: /info/contact/
 excerpt: "Contact info"
 date: 2018-09-18
 
