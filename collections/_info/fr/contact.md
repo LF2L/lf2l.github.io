@@ -23,8 +23,4 @@ last_modified_at: 2018-09-18 00:00:00 +0000
                         Fill out my Wufoo form!
                       </a>
                     </iframe>
-                                              <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">
-                        <span class="notranslate">
-                          HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.
-                        </span>
-                      </div>
+                                           
