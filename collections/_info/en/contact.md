@@ -1,21 +1,19 @@
 ---
-title: "Contact LF2L"
-permalink: /info/contact/
-excerpt: "Contact info"
-date: 2018-09-18
-
+title: Contact LF2L
+permalink: "/info/contact/"
+excerpt: Contact info
+date: 2018-09-18 00:00:00 +0000
 header:
   overlay_color: "#333"
   overlay_filter: 0.6
-  show_overlay_excerpt: true 
-  image_description: "Contact info"
+  show_overlay_excerpt: true
+  image_description: Contact info
+last_modified_at: 2018-09-18 00:00:00 +0000
 
-last_modified_at: 2018-09-18
 ---
-
 ## Contact information
 
-                    <iframe height="557"
+<iframe height="557"
                             allowTransparency="true"
                             frameborder="0"
                             scrolling="no"
@@ -25,9 +23,8 @@ last_modified_at: 2018-09-18
                         Fill out my Wufoo form!
                       </a>
                     </iframe>
-                                              <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">
+	 <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">
                         <span class="notranslate">
                           HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.
                         </span>
                       </div>
-
