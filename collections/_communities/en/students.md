@@ -26,7 +26,7 @@ The **Lorraine Fab Living Lab®** opens its doors to you as part of educational 
 - Book by email the machines with: Gregory Dupont / Benjamin Enneser-Serville
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'GSI-lab.jpg' }}){: .align-left}
-For your personal projects: join the GSI Lab association - every Thursday from 2pm to 6pm at LF2L
+For your personal projects: join the **GSI Lab** association - every Thursday from 2pm to 6pm at LF2L
 
 <br>
 <br>
