@@ -417,10 +417,12 @@ defaults:
     values:
       lang: en
     # de
+  
   - scope:
       path: "_posts/fr"
     values:
-      lang: fr
+      lang: fr           
+      permalink: /fr/:collection/:year/:month/:day/:title/
 
 
     # GREEN FABLAB PROJECT
