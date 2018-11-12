@@ -20,7 +20,7 @@ LF2L-concept:
   - title: "On the media"
     url: /presse/
   - title: "Partners & Charts"
-    url: /chartes/
+    url: /concept/chartes/
 
 communities:
   - title: "Communities at the LF2L"
@@ -53,8 +53,8 @@ info:
         url: /info/tarif/
       - title: "Tutorials"
         url: /info/tutorials/
-      - title: "Contact"
-        url: /info/contact/
+      - title: "Team"
+        url: /info/team/
 
 
 

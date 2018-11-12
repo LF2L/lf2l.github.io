@@ -1,6 +1,6 @@
 ---
 title: "Partners and Chartes"
-permalink: /fr/chartes/
+permalink: /fr/concept/chartes/
 
 excerpt: "Partenaires et Chartes"
 header:  

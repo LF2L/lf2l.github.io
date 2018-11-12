@@ -1,6 +1,6 @@
 ---
 title: "Partners and Chartes"
-permalink: /chartes/
+permalink: /concept/chartes/
 classes: wide
 excerpt: "Our Partners and Charts"
 header:  

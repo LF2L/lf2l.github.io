@@ -1,17 +1,17 @@
 ---
 title: Contact LF2L
-permalink: "/info/contact/"
-excerpt: Contact info
+permalink: "/fr/info/equipe/"
+excerpt: information de contact
 date: 2018-09-18 00:00:00 +0000
 header:
   overlay_color: "#333"
   overlay_filter: 0.6
   show_overlay_excerpt: true
-  image_description: Contact info
+  image_description: Information de contact
 last_modified_at: 2018-09-18 00:00:00 +0000
 
 ---
-## Contact information
+## Information de contact
 
 <iframe height="557"
                             allowTransparency="true"
@@ -23,4 +23,4 @@ last_modified_at: 2018-09-18 00:00:00 +0000
                         Fill out my Wufoo form!
                       </a>
                     </iframe>
-	 
+                                           

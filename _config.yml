@@ -270,6 +270,7 @@ includes_dir: _jekyll/_includes
 collections:
   concept:
     output: true
+    permalink: /:collection/:path/
 
   communities:
     output: true
@@ -283,7 +284,7 @@ collections:
 
   posts:
     output: true
-    permalink: /:path
+    permalink: /:collection/:path
   
   publications:
     output: true

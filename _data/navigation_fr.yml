@@ -21,7 +21,7 @@ LF2L-concept:
   - title: "On parle de nous"
     url: /fr/presse/
   - title: "Partenaires et Chartes"
-    url: /fr/chartes/
+    url: /fr/concept/chartes/
 
 
 
@@ -58,8 +58,8 @@ info:
         url: /fr/info/tarif/
       - title: "Tutoriels"
         url: /fr/info/tutorials/
-      - title: "Contact"
-        url: /fr/info/contact/
+      - title: "Équipe"
+        url: /fr/info/team/
 
 
 
