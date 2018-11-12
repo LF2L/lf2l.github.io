@@ -100,7 +100,7 @@ GF-articles:
   - title: Recherche
     url: /fr/projects/green-fablab/#GF-research
     children:
-      - title: "Standard Protocol"
+      - title: "Standard Protocol for 3D Printers"
         url: /fr/green-fablab/standard-protocol
       
       - title: "Polymer recycling for 3D printers"
