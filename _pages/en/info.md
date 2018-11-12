@@ -28,7 +28,4 @@ last_modified_at: 2018-09-07 00:00:00 +0000
 
 - **Monday - Friday**, 9:00am à 18:00pm 
 
-## Contact Information
-
-
 ## Staff

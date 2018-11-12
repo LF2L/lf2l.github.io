@@ -53,6 +53,8 @@ info:
         url: /info/tarif/
       - title: "Tutorials"
         url: /info/tutorials/
+      - title: "Contact"
+        url: /info/contact/
 
 
 
