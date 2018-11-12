@@ -284,11 +284,11 @@ collections:
 
   posts:
     output: true
-    permalink: /:collection/:path
-  
+    permalink: /:collection/:year/:month/:day/:title/
+
   publications:
     output: true
-    permalink: /:path
+    permalink: /:path/
   
   projects:
     output: true
