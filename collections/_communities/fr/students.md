@@ -32,6 +32,13 @@ Pour vos projets personnels : rejoignez l’association GSI Lab – tous les jeu
 <br>
 <br>
 
+{% include figure 
+    image_path="/assets/images/4-communities/students/GSILAB-2018-2019.jpg" alt="GSI LAB" 
+    caption="Bureau GSILab 2018-2019" 
+%}
+
+
+
 ## Vous êtes étudiant à l'Université de Lorraine?
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'UL.png' }}){: .align-left}

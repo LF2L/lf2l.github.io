@@ -28,10 +28,14 @@ The **Lorraine Fab Living Lab®** opens its doors to you as part of educational 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'GSI-lab.jpg' }}){: .align-left}
 For your personal projects: join the GSI Lab association - every Thursday from 2pm to 6pm at LF2L
 
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+{% include figure 
+    image_path="/assets/images/4-communities/students/GSILAB-2018-2019.jpg" alt="GSI LAB" 
+    caption="Students of GSI Lab 2018-2019" 
+%}
 
 
 ## Are you a student at the University of Lorraine?
