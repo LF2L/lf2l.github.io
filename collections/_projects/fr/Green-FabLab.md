@@ -6,7 +6,7 @@ title: Green FabLab
 permalink: "/fr/projects/green-fablab/"
 image-path: "/assets/images/3-projects/gf/"
 sidebar:
-  nav: GF-articles
+  nav: Green-Fablab
 
 
 excerpt: Vers une economie circulaire du plastique pour l'impression 3D
@@ -76,7 +76,25 @@ partners:
   title: ''
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
-last_modified_at: 2018-10-24
+
+pedagogical:
+- url: "/assets/images/3-projects/gf/pedagogical/1-romain-alexis.jpg"
+  image_path: "/assets/images/3-projects/gf/pedagogical/1-romain-alexis.jpg"
+  alt: "Pedagogical projects Green Fablab"
+  title: "Pedagogical projects Green Fablab at LF2L"
+
+- url: "/assets/images/3-projects/gf/pedagogical/2-nicolas-maxime.jpg"
+  image_path: "/assets/images/3-projects/gf/pedagogical/2-nicolas-maxime.jpg"
+  alt: "Pedagogical projects Green Fablab"
+  title: "Pedagogical projects Green Fablab at LF2L"
+
+- url: "/assets/images/3-projects/gf/pedagogical/3-eudes.jpg"
+  image_path: "/assets/images/3-projects/gf/pedagogical/3-eudes.jpg"
+  alt: "Pedagogical projects Green Fablab"
+  title: "Pedagogical projects Green Fablab at LF2L"
+
+
+last_modified_at: 2018-11-15
 ---
 
 
@@ -165,106 +183,25 @@ Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels
 </div>
 
 
+***
 
+{: #GF-pedagogical .GF-titles }
+## Nos Projets Pédagogiques
 
+{% include gallery id="pedagogical"
+caption="Projets pédagogiques fait par des étudiants." %} {: .text-right}
 
 ---
 
-
-
-## Nos Etudiants
+## Nos Étudiants
 {: #GF-students .GF-titles } 
 
+
 {% assign carousel = site.data.Green-Fablab.Equipe-fr %}
-
-<!-- assign carousel = page.carousel %} -->
-
-<div id = "{{ carousel.id }}" class="carousel slide" data-ride="carousel" data-interval="20000">
-  
-  <ol class="carousel-indicators">   
-   {% for links in carousel.people %}
-     {% if forloop.first == true %}
-      <li data-target = "#{{ carousel.id }}" data-slide-to="0" class="active">
-      </li>
-     {% else %}
-      <li data-target="#{{ carousel.id }}" data-slide-to="{{ forloop.index0 }}"></li>
-     {% endif %}
-   {% endfor %}
-   </ol>
-
-  <div class="carousel-inner">
-    {% for picture in carousel.people %}
-      {% if forloop.first == true %}
-        <div class="carousel-item active">           
-          <div class="container-staff-GF">
-            <div style="width: 200px" class="staff">
-              <figure>
-                <img src="{{ site.baseurl | append: carousel.image-path | append: picture.avatar }}" alt=" ">
-              </figure>
-              <figcaption>
-                <p>{{ picture.name}} <br>
-                  <small>{{ picture.ecole}}</small> <br>
-                    {% if picture.linkedin %}
-                      <a href="{{ picture.linkedin }}">
-                        <i class="fab fa-linkedin"></i>
-                      </a>
-                    {% endif %}
-                    {% if picture.email %}
-                      <a href="mailto:{{ picture.email }}">
-                        <i class="fas fa-envelope-square"></i>
-                      </a>
-                    {% endif %}</p>
-              </figcaption>
-            </div>
-            <blockquote>
-              <p>{{ picture.quote}} </p>        
-            </blockquote>          
-          </div>
-        </div>        
-      {% else %}
-        <div class="carousel-item">
-          <div class="container-staff-GF">
-            <div style="width: 200px" class="staff">
-              <figure>
-                <img src="{{ site.baseurl | append: carousel.image-path | append: picture.avatar }}" alt=" ">
-              </figure>
-              <figcaption>
-                <p>{{ picture.name}} <br>
-                  <small>{{ picture.ecole}}</small> <br>
-                    {% if picture.linkedin %}
-                      <a href="{{ picture.linkedin }}">
-                        <i class="fab fa-linkedin"></i>
-                      </a>
-                    {% endif %}
-                    {% if picture.email %}
-                      <a href="mailto:{{ picture.email }}">
-                        <i class="fas fa-envelope-square"></i>
-                      </a>
-                    {% endif %}</p>
-              </figcaption>
-            </div>
-            <blockquote style="width: 80%">
-              {{ picture.quote}}         
-            </blockquote>          
-          </div>
-        </div>
-      {% endif %}
-    {% endfor %}
- </div>
-
- <a class="carousel-control-prev" href="#{{ carousel.id }}" role="button" data-slide="prev">
-  <span class="carousel-control-prev-icon" aria-hidden="true"></span> 
- <span class="sr-only">Previous</span>
- </a>
-
- <a class="carousel-control-next" href="#{{ carousel.id }}" role="button" data-slide="next">
- <span class="carousel-control-next-icon" aria-hidden="true"></span>
- <span class="sr-only">Next</span>
- </a>
-</div>
+{% include carousel  %}
 
 
-
+---
 
 
 ## Nos partenaires
@@ -274,3 +211,5 @@ Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels
 <div id="GF-partners">
   {% include feature_row id="partners" %}
 </div>
+
+

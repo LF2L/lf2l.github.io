@@ -6,7 +6,7 @@ title: Green Fablab
 permalink: "/projects/green-fablab/"
 image-path: "/assets/images/3-projects/gf/"
 sidebar:
-  nav: GF-articles
+  nav: Green-Fablab
 
 
 excerpt: Towards a circular economy for 3D printing technology
@@ -89,7 +89,7 @@ pedagogical:
   title: "Pedagogical projects Green Fablab at LF2L"
 
 
-last_modified_at: 2018-10-24
+last_modified_at: 2018-11-15
 ---
 
 {: .align-center}
@@ -188,7 +188,6 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 </div>
 
 ***
-
 
 {: #GF-pedagogical .GF-titles }
 ## Our Pedagogical projects

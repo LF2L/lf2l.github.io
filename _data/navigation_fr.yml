@@ -86,7 +86,7 @@ projects:
 
 
 
-GF-articles:
+Green-Fablab:
   - title: Green FabLab    
     url: /fr/projects/green-fablab/
     children:
@@ -110,6 +110,9 @@ GF-articles:
       
       - title: "Closed-Loop supply chain for 3DP"
         url: /fr/green-fablab/logistic/
+
+  - title: Projets Pédagogiques
+    url: /projects/green-fablab/#GF-pedagogical
   
   - title: Nos Étudiants
     url: /fr/projects/green-fablab/#GF-students
