@@ -48,6 +48,4 @@ Les Ateliers d’Innovation Ingexys, opréationnels depuis 2009 [AIU](http://mas
 * Le parrainage de plusieurs Living Labs aujourd'hui reconnus : [Technoport au Luxembourg](https://enoll.org/network/living-labs/?livinglab=technoport-living-lab-luxembourg), [Aktan à Orléan](https://aktan.fr/living-lab/)
 * L'accompagnement dans le développement d'espaces d'innovation en Grande Région Est : ex TUBA à Mulhouse, Pole Innovation Territorial à Dieuze, etc., en Colombie (réseau des ViveLabs), au Canada, etc.
 
-## LAM - reproduction statue
-
-Laurent Dupont, Ing., Dr., Coordinateur Scientifique : l.dupont@univ-lorraine.fr
+## LAM - réproduction statue
