@@ -70,6 +70,25 @@ partners:
   title: ''
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
+
+
+pedagogical:
+- url: "/assets/images/3-projects/gf/pedagogical/1-romain-alexis.jpg"
+  image_path: "/assets/images/3-projects/gf/pedagogical/1-romain-alexis.jpg"
+  alt: "Pedagogical projects Green Fablab"
+  title: "Pedagogical projects Green Fablab at LF2L"
+
+- url: "/assets/images/3-projects/gf/pedagogical/2-nicolas-maxime.jpg"
+  image_path: "/assets/images/3-projects/gf/pedagogical/2-nicolas-maxime.jpg"
+  alt: "Pedagogical projects Green Fablab"
+  title: "Pedagogical projects Green Fablab at LF2L"
+
+- url: "/assets/images/3-projects/gf/pedagogical/3-eudes.jpg"
+  image_path: "/assets/images/3-projects/gf/pedagogical/3-eudes.jpg"
+  alt: "Pedagogical projects Green Fablab"
+  title: "Pedagogical projects Green Fablab at LF2L"
+
+
 last_modified_at: 2018-10-24
 ---
 
@@ -170,6 +189,17 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
+
+{: #GF-pedagogical .GF-titles }
+## Our Pedagogical projects
+
+{% include gallery id="pedagogical"
+caption="Pedagogical projects made by students  (*in french*)." %} {: .text-right}
+
+
+
+***
+
 {: #GF-students .GF-titles }
 ## Our Students
 
@@ -177,6 +207,9 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 {% include carousel  %}
 
 ***
+
+
+
 
 {: #GF-partners .GF-titles }
 ## Our Partners
