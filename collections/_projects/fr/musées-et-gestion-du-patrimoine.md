@@ -26,6 +26,14 @@ Les résultats de cette expérimentation peuvent être consultés en ligne : [Po
 
 ### Reproduction Fusil Lebel
 
+![](/uploads/photo_finale.png)
+
+Dans le cadre du projet de rénovation du monument aux morts de Létricourt avec le LAM et avec le concours d’un binôme d’étudiants de l’EXIA.CESI en stage, l’équipe du LF2L, a réalisé une copie numérique en 3D d’un fusil d’époque pour reconstituer cette partie.
+
+Après la numérisation et le traitement des images, le fusil a été fabriqué par impression 3D (technologie FDM au LF2L). L’objet imprimé a été ensuite peint pour donner un aspect similaire à la statue originale et place dans la statue rénovée.
+
+[Pour en savoir plus.](https://factuel.univ-lorraine.fr/node/9664 "https://factuel.univ-lorraine.fr/node/9664")
+
 ### Reproduction tête d'Apollon
 
 ### Numérisation Lance de Cutry
