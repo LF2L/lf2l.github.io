@@ -34,10 +34,14 @@ Après la numérisation et le traitement des images, le fusil a été fabriqué 
 
 [Pour en savoir plus.](https://factuel.univ-lorraine.fr/node/9664 "https://factuel.univ-lorraine.fr/node/9664")
 
-### Reproduction tête d'Apollon
-
 ### Numérisation Lance de Cutry
 
 En 2018, suite au prêt de la Lance au LAM par le Musée Lorrain nous avons collaboré pour réaliser la numérisation de la lace en utilisant la technique de photogrammétrie et générer ainsi un objet virtuel permettant d'augmenter l'experience des visiteurs.
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/aiYjc"></iframe>
+
+### Reproduction tête d'Apollon
+
+![](/uploads/tete-apollon.png)
+
+Numérisation (Scan Artek Eva) et reproduction en impression par liage de poudre.
