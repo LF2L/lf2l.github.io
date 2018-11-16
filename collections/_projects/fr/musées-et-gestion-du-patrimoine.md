@@ -12,15 +12,13 @@ published: false
 ---
 ## Muséologie et gestion du patrimoine
 
-Le LF2L accompagne les musées de la région dans des approches d'innovation que ce soit pour l'analyse de l'experience des visiteurs, la création des experiences interactives ou par la numérisation d'objets archéologiques pour la rénovation, étude et conservation. 
+Le LF2L accompagne les musées de la région dans des approches d'innovation que ce soit pour l'analyse de l'experience des visiteurs, la création des experiences interactives ou par la numérisation d'objets archéologiques pour la rénovation, étude et conservation.
 
-## Museum Aquarium de Nancy - Analyse de l'experience visiteurs
+## Museum Aquarium de Nancy - Analyse de l'experience de visiteurs
 
-Conçu à partir de 2008, par l’équipe du laboratoire ERPI en partenariat avec des acteurs socio-économiques locaux, le LSCLL est le LL de l’Université de Lorraine. Il a été reconnu et labélisé en 2010 par ENoLL, le réseau européen des Living Lab. En 2013, et en 2015, le LSCLL est devenu membre co-fondateur de France Living Labs et de Francophonie Living Labs.
+En 2016 nous avons réalisée une experimentation en utilisant des dispositif de suivi oculaire (eye-tracking) afin de mieux comprendre l'experience des visiteurs du musée à l'exposition temporaire "[Ces animaux qu'on mange](http://cesanimauxquonmange.fr/v2/ "http://cesanimauxquonmange")" au [MAN](http://www.museumaquariumdenancy.eu "http://www.museumaquariumdenancy"). 
 
-Vidéo
-
-Article scientifique:
+Les résultats de cette expérimentation peuvent être consultés en ligne : [Pour en savoir plus.](https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf "https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf") 
 
 ## LAM - Fusil Lebel
 
