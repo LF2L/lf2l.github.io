@@ -7,7 +7,6 @@ header:
   teaser: "/uploads/Visit.jpg"
   header: "/uploads/Visit.jpg"
 last_modified_at: 2018-10-24 00:00:00 +0000
-published: false
 
 ---
 ## Muséologie et gestion du patrimoine
