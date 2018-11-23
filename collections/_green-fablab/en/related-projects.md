@@ -56,8 +56,8 @@ machines:
 ### Global Initiatives 
 
 
+Some fantastic projects and global initiatives related to the  **Green Fablab**.
 
-Some fantastic projects to the  **Green Fablab**
 
 {% include feature_row id="global-initiatives" %}
 
