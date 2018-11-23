@@ -9,7 +9,7 @@ sidebar:
   nav: Green-Fablab
 
 
-excerpt: Towards a circular economy for 3D printing technology
+excerpt: "Circular economy and 3D printing: Towards a distributed recycling paradigm"
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"

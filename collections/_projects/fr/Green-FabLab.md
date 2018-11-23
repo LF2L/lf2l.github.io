@@ -9,7 +9,8 @@ sidebar:
   nav: Green-Fablab
 
 
-excerpt: Vers une economie circulaire du plastique pour l'impression 3D
+excerpt: "Économie circulaire et impression 3D: Paradigme d'une recyclage local et distribué"
+
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"

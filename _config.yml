@@ -425,21 +425,21 @@ defaults:
       permalink: /fr/:collection/:year/:month/:day/:title/
 
 
-    # GREEN FABLAB PROJECT
+    # GREEN FABLAB PROJECT Folder
   - scope:
       type: green-fablab
     values:
       layout: single
       sidebar:
-        nav: "GF-articles"
+        nav: "Green-Fablab"
 
-    #  INFO - EN
+    # GREEN FABLAB PROJECT - EN
   - scope:
       path: "_green-fablab/en"
     values:
       lang: en
 
-    #  INFO - EN
+    # GREEN FABLAB PROJECT - FR
   - scope:
       path: "_green-fablab/fr"
     values:
