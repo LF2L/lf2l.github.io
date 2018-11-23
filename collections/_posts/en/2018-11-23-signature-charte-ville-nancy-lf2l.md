@@ -1,5 +1,5 @@
 ---
-title: "Signature d'une charte d'intention sur la création d'une chaire avec la Ville de Nancy"
+title: "Signing of a charter of intent on the creation of a chair with the City of Nancy"
 post_teaser: "/assets/uploads/2018/11/23/teaser.jpg"
 post_description: "Le lundi 19 novembre 2018, l'Equipe de Recherche sur les Processus Innovatifs et l'ENSGSI ont eu le plaisir d'accueillir au Lorraine Fab Living Lab, Laurent HENART, Maire de la Ville de Nancy accompagné de Romain PIERRONNET, Adjoint à l'éducation, écoles et ville numérique dans le cadre de la signature d'une charte d'intention sur la création d'une chaire sur la créativité collaborative **Innovation territoriale. Gouvernance et innovation collaborative pour une ville créative**"
 

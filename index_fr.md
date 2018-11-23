@@ -157,7 +157,7 @@ icons:
           
           {% if f.post_description %}
             <div class="archive__item-excerpt">
-              {{ f.post_description | markdownify }}
+              {{ f.post_description | markdownify  }}
             </div>
           {% endif %}
 
