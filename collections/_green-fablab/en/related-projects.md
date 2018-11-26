@@ -22,7 +22,7 @@ global-initiatives:
   
   - image_path: "/assets/images/3-projects/gf/ressources/Plastic-Bank.jpg"
     title: "Plastic Bank"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Plastic Bank creates social and environmental impact in areas with high levels of poverty and plastic pollution by turning plastic waste into a currency."
     url: "https://www.plasticbank.com/"
 
   - image_path: "/assets/images/3-projects/gf/ressources/Perpetual-Plastic.jpg"
@@ -34,7 +34,7 @@ machines:
   - image_path: "http://www.appropedia.org/images/thumb/3/32/Recyclebotrep.png/800px-Recyclebotrep.png"
     alt: "Recycleboot"
     title: "Recyclebot"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "A RecycleBot is a waste plastic extruder that creates 3-D printer filament from waste plastic and natural polymers."
     url: "http://www.appropedia.org/Recyclebot"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -48,8 +48,6 @@ machines:
 
 
 {% include video id="QsqvDTdcJtE" provider="youtube" %}
-
-
 
 
 
@@ -70,7 +68,7 @@ Some fantastic projects and global initiatives related to the  **Green Fablab**.
 
 ## Scientific References
 
-<script src="http://bibbase.org/show?bib=https://raw.githubusercontent.com/LF2L/lf2l.github.io/source/assets/images/3-projects/gf/biblio-GF.bib&jsonp=1"></script> 
+<script src="http://bibbase.org/show?bib=https://raw.githubusercontent.com/LF2L/lf2l.github.io/source/assets/images/3-projects/gf/biblio-GF.bib&jsonp=1&group0=year&folding=1"></script> 
 
 
 ## Additional ressources
