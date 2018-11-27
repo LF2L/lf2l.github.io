@@ -68,8 +68,8 @@ Some fantastic projects and global initiatives related to the  **Green Fablab**.
 
 ## Scientific References
 
-<script src="http://bibbase.org/show?bib=https://raw.githubusercontent.com/LF2L/lf2l.github.io/source/assets/images/3-projects/gf/biblio-GF.bib&jsonp=1&group0=year&folding=1"></script> 
-
+<!-- <script src="http://bibbase.org/show?bib=https://raw.githubusercontent.com/LF2L/lf2l.github.io/source/assets/images/3-projects/gf/biblio-GF.bib&jsonp=1&group0=year&folding=1"></script> 
+ -->
 
 ## Additional ressources
 
