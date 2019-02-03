@@ -78,7 +78,7 @@ Some fantastic projects and global initiatives related to the  **Green Fablab**.
 
 ## Doctoral Thesis
 
-- [Methodological proposition to evaluate polymer recycling in open-source additive manufacturing contexts](http://docnum.univ-lorraine.fr/publicDDOC_T_2016_0291_CRUZ_SANCHEZ.pdf)
+- [Methodological proposition to evaluate polymer recycling in open-source additive manufacturing contexts](https://hal.univ-lorraine.fr/tel-01668459v1)
 
 
 
