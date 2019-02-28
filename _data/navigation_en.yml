@@ -51,10 +51,11 @@ info:
     children:
       - title: "Tarif"
         url: /info/tarif/
-      - title: "Tutorials"
-        url: /info/tutorials/
       - title: "Team"
         url: /info/team/
+      - title: "Tutorials"
+        url: /tutorials/
+      
 
 
 
@@ -121,5 +122,16 @@ Green-Fablab:
     url: "/green-fablab/related-projects/"
 
 
+
+tutorials:
+  - title: "Tutorials on LF2L"
+    url: /tutorial/
+    children:
+      - title: "Laser"
+        url: /
+      - title: "3D Printing"
+        url: /
+      - title: "VR"
+        url: /
 
 
