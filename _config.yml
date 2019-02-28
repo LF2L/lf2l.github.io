@@ -10,8 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                    : "minimal-mistakes-jekyll"
+#theme                    : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -204,6 +205,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -212,6 +214,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives
@@ -302,6 +305,11 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  tutorial:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 
 defaults:
@@ -336,6 +344,32 @@ defaults:
       path: "_concept/fr"
     values:
       lang: fr
+
+
+  # PROJECTS
+  - scope:
+      type: projects
+    values:
+      layout: single
+      sidebar:
+        nav: ""
+    
+    # PROJECTS EN
+  - scope:
+      path: "_projects/en"
+    values:
+      lang: en
+      sidebar:
+        nav: "projects"
+    
+    # PROJECTS FR
+  - scope:
+      path: "_projects/fr"
+    values:
+      lang: fr
+      sidebar:
+        nav: "projects"
+
 
     # COMMUNITIES
   - scope:
@@ -379,7 +413,7 @@ defaults:
     values:
       lang: fr
 
-    # INFO
+    # PRACTICAL INFO
   - scope:
       type: info
     values:
@@ -387,20 +421,20 @@ defaults:
       sidebar:
         nav: "info"
 
-    #  INFO - EN
+    #  PRACTICAL INFO - EN
   - scope:
       path: "_info/en"
     values:
       lang: en
 
-    #  INFO - EN
+    # PRACTICAL INFO - FR
   - scope:
       path: "_info/fr"
     values:
       lang: fr
 
 
-  # _posts folder
+  # POST folder
   - scope:
       type: posts
     values:
@@ -411,13 +445,14 @@ defaults:
       related: false
       sidebar:
         nav: ""
-    # en
+    
+    # POST EN
   - scope:
       path: "_posts/en"
     values:
       lang: en
-    # de
-  
+
+    # POST FR  
   - scope:
       path: "_posts/fr"
     values:
@@ -425,7 +460,7 @@ defaults:
       permalink: /fr/:collection/:year/:month/:day/:title/
 
 
-    # GREEN FABLAB PROJECT Folder
+    # GREEN FABLAB COLLECTION Folder
   - scope:
       type: green-fablab
     values:
@@ -433,88 +468,19 @@ defaults:
       sidebar:
         nav: "Green-Fablab"
 
-    # GREEN FABLAB PROJECT - EN
+    # GREEN FABLAB COLLECTION - EN
   - scope:
       path: "_green-fablab/en"
     values:
       lang: en
 
-    # GREEN FABLAB PROJECT - FR
+    # GREEN FABLAB COLLECTION - FR
   - scope:
       path: "_green-fablab/fr"
     values:
       lang: fr
 
-
-
-
-
-
-
-  # _pages Main Pages of the site
-  - scope:
-      type: pages
-    values:
-      sidebar:
-        nav: ""
-    # en
-  - scope:
-      path: "_pages/en"
-    values:
-      lang: en
-    # de
-  - scope:
-      path: "_pages/fr"
-    values:
-      lang: fr
-
-
-
-  # _publications
-  - scope:
-      type: publications
-    values:
-      sidebar:
-        nav: ""
-    #en
-  - scope:
-      path: "_publications/en"
-    values:
-      lang: en
-      sidebar:
-        nav: "publications"
-
-    #fr
-  - scope:
-      path: "_publications/fr"
-    values:
-      lang: fr
-
-
-  # _PROJECTS
-  - scope:
-      type: projects
-    values:
-      layout: single
-      sidebar:
-        nav: ""
-    #en
-  - scope:
-      path: "_projects/en"
-    values:
-      lang: en
-      sidebar:
-        nav: "projects"
-    #fr
-  - scope:
-      path: "_projects/fr"
-    values:
-      lang: fr
-      sidebar:
-        nav: "projects"
-
-
-# _people
+# PEOPLE COLLECTION
   - scope:
       type: people
     values:
@@ -532,22 +498,51 @@ defaults:
     values:
       lang: fr
 
-# _people
+
+
+    # TUTORIALS COLLECTION
   - scope:
-      type: communities
+      type: tutorial
     values:
       layout: single
+     
 
-    #en
+    # Tutorials Folder - EN
   - scope:
-      path: "_communities/en"
+      path: "_tutorial/en"
     values:
       lang: en
-    #fr
+      sidebar:
+        nav: tutorials
+
+
+    # Tutorials Folder - FR
   - scope:
-      path: "_communities/fr"
+      path: "_tutorial/fr"
     values:
       lang: fr
+
+
+  # # _pages Main Pages of the site
+  # - scope:
+  #     type: pages
+  #   values:
+  #     sidebar:
+  #       nav: ""
+  #   # en
+  # - scope:
+  #     path: "_pages/en"
+  #   values:
+  #     lang: en
+  #   # de
+  # - scope:
+  #     path: "_pages/fr"
+  #   values:
+  #     lang: fr
+
+
+
+
 
 # footer_scripts:
 #   - //ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js
