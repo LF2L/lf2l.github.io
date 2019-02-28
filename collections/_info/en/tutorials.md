@@ -1,6 +1,12 @@
 ---
 title: "Tutorials"
+layout: collection
 permalink: /info/tutorials/
+collection: tutorials
+entries_layout: grid
+classes: wide
+
+
 excerpt: "pratical information"
 date: 2018-09-10
 
@@ -13,5 +19,5 @@ last_modified_at: 2018-09-07
 ---
 
 ## Tutorials
+ Some tutorials developed by our users. 
 
-*coming soon*
