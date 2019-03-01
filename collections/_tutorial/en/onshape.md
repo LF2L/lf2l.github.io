@@ -121,7 +121,7 @@ pour faire une révolution d’un des demi-cercles, en sélectionnant un des dem
 *Tutoriels fait par:*
 
 
-<figure style="width: 230px;" class="align-center" > 
-    <img src="{{ site.baseurl | append:page.image-path | append:'Coline.jpg'}}" alt="" style=" border-radius: 50%;"><figcaption> Colline Falk / Collegue</figcaption> 
+<figure style="width: 150px;" class="align-center" > 
+    <img src="{{ site.baseurl | append:page.image-path | append:'Coline.jpg'}}" alt="" style=" border-radius: 50%;"><figcaption> Colline Falk</figcaption> 
 </figure>
 
