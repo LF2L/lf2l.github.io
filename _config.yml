@@ -521,6 +521,8 @@ defaults:
       path: "_tutorial/fr"
     values:
       lang: fr
+      sidebar:
+        nav: tutorials
 
 
   # # _pages Main Pages of the site

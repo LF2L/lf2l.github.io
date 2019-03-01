@@ -45,18 +45,6 @@ place_tools:
       - title: "Photos"
         url: /place/photos/
 
-info:
-  - title: "Practical info"
-    url: /info/
-    children:
-      - title: "Tarif"
-        url: /info/tarif/
-      - title: "Team"
-        url: /info/team/
-      - title: "Tutorials"
-        url: /tutorial/
-      
-
 
 
 projects:
@@ -122,11 +110,24 @@ Green-Fablab:
     url: "/green-fablab/related-projects/"
 
 
+info:
+  - title: "Practical info"
+    url: /info/
+    children:
+      #- title: "Tarif"
+       # url: /info/tarif/
+      - title: "Team"
+        url: /info/team/
+      - title: "Tutorials"
+        url: /tutorial/
+      
 
 tutorials:
   - title: "Tutorials on LF2L"
     url: /tutorial/
     children:
+      - title: "CAD"
+        url: /
       - title: "Laser"
         url: /
       - title: "3D Printing"

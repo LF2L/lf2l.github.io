@@ -50,18 +50,6 @@ place_tools:
         url: /fr/place/photos/
 
 
-info:
-  - title: "Infos pratiques"
-    url: /fr/info/
-    children:
-      - title: "Tarif"
-        url: /fr/info/tarif/
-      - title: "Tutoriels"
-        url: /fr/info/tutorials/
-      - title: "Équipe"
-        url: /fr/info/team/
-
-
 
 projects:
   - title: "Projets du LF2L"
@@ -126,6 +114,32 @@ Green-Fablab:
   - title: Ressources & Related Projects
     url: "/green-fablab/related-projects/"
 
+
+
+info:
+  - title: "Infos pratiques"
+    url: /fr/info/
+    children:
+#      - title: "Tarif"
+#        url: /fr/info/tarif/
+      - title: "Équipe"
+        url: /fr/info/team/
+      - title: "Tutoriels"
+        url: /fr/tutorial/
+
+
+tutorials:
+  - title: "Tutorials on LF2L"
+    url: /fr/tutorial/
+    children:
+      - title: "CAD"
+        url: /fr/tutorial/onshape/
+      - title: "Laser"
+        url: /
+      - title: "3D Printing"
+        url: /
+      - title: "VR"
+        url: /
 
 
 
