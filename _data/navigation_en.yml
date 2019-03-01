@@ -127,7 +127,7 @@ tutorials:
     url: /tutorial/
     children:
       - title: "CAD"
-        url: /
+        url: /tutorial/onshape/
       - title: "Laser"
         url: /
       - title: "3D Printing"
