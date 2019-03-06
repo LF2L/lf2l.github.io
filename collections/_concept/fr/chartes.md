@@ -9,7 +9,7 @@ header:
   show_overlay_excerpt: true
 sidebar:
   nav: LF2L-concept
-last_modified_at: 2018-09-10 00:00:00 +0000
+last_modified_at: 2019-03-06 00:00:00 +0100
 sponsors:
 - image_path: ''
   title: ''
