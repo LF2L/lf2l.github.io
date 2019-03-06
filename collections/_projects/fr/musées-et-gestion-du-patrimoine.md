@@ -21,25 +21,25 @@ En 2016 nous avons réalisée une experimentation en utilisant des dispositif de
 
 Les résultats de cette expérimentation peuvent être consultés en ligne : [Pour en savoir plus.](https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf "https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf")
 
-## Laboratoire d'Archéologie des Métaux
+## Laboratoire d'Archéologie des Métaux (LAM)
 
-### Reproduction Fusil Lebel
+### Reproduction d'un Fusil Lebel
 
 ![](/uploads/photo_finale.png)
 
-Dans le cadre du projet de rénovation du monument aux morts de Létricourt avec le LAM et avec le concours d’un binôme d’étudiants de l’EXIA.CESI en stage, l’équipe du LF2L, a réalisé une copie numérique en 3D d’un fusil d’époque pour reconstituer cette partie.
+Dans le cadre du projet de rénovation du monument aux morts de Létricourt avec le LAM et avec le concours d’un binôme d’étudiants de l’EXIA.CESI en stage, l’équipe du LF2L, a réalisé une copie numérique en 3D d’un fusil d’époque pour reconstituer cette partie qui avait été détruite.
 
 Après la numérisation et le traitement des images, le fusil a été fabriqué par impression 3D (technologie FDM au LF2L). L’objet imprimé a été ensuite peint pour donner un aspect similaire à la statue originale et place dans la statue rénovée.
 
 [Pour en savoir plus.](https://factuel.univ-lorraine.fr/node/9664 "https://factuel.univ-lorraine.fr/node/9664")
 
-### Numérisation Lance de Cutry
+### Numérisation de la Lance de Cutry
 
-En 2018, suite au prêt de la Lance au LAM par le Musée Lorrain nous avons collaboré pour réaliser la numérisation de la lace en utilisant la technique de photogrammétrie et générer ainsi un objet virtuel permettant d'augmenter l'experience des visiteurs.
+En 2018, le LF2L a collaboré avec le LAM et le Musée Lorrain pour réaliser la numérisation de la[ lance d’apparat de Cutry](http://www.societe-histoire-lorraine.com/cutry/) en utilisant la technique de photogrammétrie. Le LF2L a ainsi généré un objet virtuel permettant d'augmenter l’expérience des visiteurs.
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/aiYjc"></iframe>
 
-### Reproduction tête d'Apollon
+### Reproduction d'une scuplture du IIème siècle : la tête d'Apollon
 
 ![](/uploads/tete-apollon.png)
 
