@@ -1,7 +1,8 @@
 ---
 title: 'Publications liées au LF2L '
 permalink: "/fr//publications/"
-excerpt: Thesis and articles developed at LF2L
+excerpt: Articles et thèses de l'ERPI sur les concepts Fab Living Lab, Living Lab,
+  FabLab
 header:
   overlay_color: "#333"
   overlay_filter: 0.1

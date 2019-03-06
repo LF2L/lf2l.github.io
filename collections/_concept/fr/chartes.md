@@ -55,9 +55,9 @@ sponsors:
   url: http://www.univ-lorraine.fr/
 
 ---
-## Founders
+## Fondateurs
 
-An initivative of :
+Une initiative de :
 
 <div class="flex-center">
 {% include figure
