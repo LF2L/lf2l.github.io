@@ -92,13 +92,13 @@ url= "https://erpi.univ-lorraine.fr/"
 {% include figure
 image_path= "/assets/images/2-concept/partners-chartes/charte-LL.jpg"
 class= "chartes"  
-caption="[Charte of Living Labs](/assets/images/2-concept/partners-chartes/LF2L-Charte.pdf)"
+caption="[Charte des Living Labs](/assets/images/2-concept/partners-chartes/LF2L-Charte.pdf)"
 url= "/assets/images/2-concept/partners-chartes/LF2L-Charte.pdf"
 %}
 {% include figure
 image_path= "/assets/images/2-concept/partners-chartes/charte-fablab.jpg"
 class= "chartes"  
-caption="[Charte of FabLabs](/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf)"
+caption="[Charte des FabLabs](/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf)"
 url= "/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf"
 %}
 </div>
