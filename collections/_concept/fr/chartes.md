@@ -10,6 +10,16 @@ sidebar:
   nav: LF2L-concept
 last_modified_at: 2018-09-10 00:00:00 +0000
 sponsors:
+- image_path: ''
+  title: ''
+  excerpt: ''
+  teaser_class: ''
+  url: ''
+- image_path: ''
+  title: ''
+  excerpt: ''
+  teaser_class: ''
+  url: ''
 - image_path: "/assets/images/2-concept/partners-chartes/sponsors/EDF.jpg"
   title: ''
   excerpt: EDF
