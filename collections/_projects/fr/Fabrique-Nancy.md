@@ -31,8 +31,14 @@ Travaux saison 2 non diffusé - pour toute information, nous consulter
 
 ## Modélisation 3D des flux de circulation
 
-Modélisation 3D des flux de circulation et simulation des scénarios d’usages prospectifs pour accompagner les prises de décisions. 
+Modélisation 3D des flux de circulation et simulation des scénarios d’usages prospectifs pour accompagner les prises de décisions.
 
 Un projet pédagogique de l'ENSGSI et un projet de recherche ERPI, en partenariat avec la Métropole Grand Nancy et FlexSim.
 
-[Multi-objective traffic signal optimization using 3D mesoscopic simulation and evolutionary algorithms](https://hal.univ-lorraine.fr/hal-01796613) Adriana Simona Mihăiţă, Laurent Dupont, Mauricio Camargo _Simulation Modelling Practice and Theory_, Elsevier, 2018, 86, pp.120 - 138. [〈10.1016/j.simpat.2018.05.005〉](https://dx.doi.org/10.1016/j.simpat.2018.05.005)
+![Projet ERPI-ENSGSI ](/uploads/Modelisation Flux Circulation NGC.png "Modelisation Flux Circulation NGC")
+
+Pour aller plus loin : [Multi-objective traffic signal optimization using 3D mesoscopic simulation and evolutionary algorithms](https://hal.univ-lorraine.fr/hal-01796613) Adriana Simona Mihăiţă, Laurent Dupont, Mauricio Camargo _Simulation Modelling Practice and Theory_, Elsevier, 2018, 86, pp.120 - 138. [〈10.1016/j.simpat.2018.05.005〉](https://dx.doi.org/10.1016/j.simpat.2018.05.005)
+
+La vidéo 
+
+    <iframe width="863" height="485" src="https://www.youtube.com/embed/wSphexsNeEw?list=PLVQ7IUpDOr6ikBDtqxuhgiZIBxoEX-fKp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

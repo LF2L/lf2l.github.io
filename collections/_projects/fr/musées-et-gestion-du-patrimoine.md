@@ -1,5 +1,5 @@
 ---
-title: Musées et gestion du patrimoine
+title: Muséologie et Archéologie 3.0
 date: 2018-02-25 00:00:00 +0000
 permalink: "/fr/projects/museum/"
 excerpt: Museum et gestion du patrimoine
