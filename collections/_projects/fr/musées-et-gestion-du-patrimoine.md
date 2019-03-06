@@ -9,17 +9,17 @@ header:
 last_modified_at: 2018-10-24 00:00:00 +0000
 
 ---
-## Muséologie et gestion du patrimoine
+## Muséologie et Archéologie 3.0
 
-Le LF2L accompagne les musées de la région dans des approches d'innovation que ce soit pour l'analyse de l'experience des visiteurs, la création des experiences interactives ou par la numérisation d'objets archéologiques pour la rénovation, étude et conservation.
+Le LF2L accompagne les musées de la région dans des approches d'innovation que ce soit pour l'analyse de l’expérience des visiteurs, la création des expériences interactives ou par la numérisation d'objets archéologiques pour la rénovation, étude et conservation.
 
-## Museum Aquarium de Nancy - Analyse de l'experience de visiteurs
+## Muséum Aquarium de Nancy (MAN) - Analyse de "l’expérience visiteur"
 
 ![](/uploads/Visit.jpg)
 
-En 2016 nous avons réalisée une experimentation en utilisant des dispositif de suivi oculaire (eye-tracking) afin de mieux comprendre l'experience des visiteurs du musée à l'exposition temporaire "[Ces animaux qu'on mange](http://cesanimauxquonmange.fr/v2/ "http://cesanimauxquonmange")" au [MAN](http://www.museumaquariumdenancy.eu "http://www.museumaquariumdenancy").
+En 2016, en partenariat avec l'UNAL (Colombie), nous avons réalisé une expérimentation en utilisant des dispositifs de suivi oculaire (eye-tracking) afin de mieux comprendre l’expérience des visiteurs du musée à l'exposition temporaire "[Ces animaux qu'on mange](http://cesanimauxquonmange.fr/v2/ "http://cesanimauxquonmange")" au [MAN](http://www.museumaquariumdenancy.eu "http://www.museumaquariumdenancy").
 
-Les résultats de cette expérimentation peuvent être consultés en ligne : [Pour en savoir plus.](https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf "https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf")
+Les résultats de cette expérimentation on fait l'objet d'un article scientifique et peuvent être consultés en ligne : [Pour en savoir plus.](https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf "https://www.researchgate.net/profile/Giovanny_Arbelaez_Garces/publication/321058024_Understanding_Museum_visitors%27_experience_through_an_Eye-tracking_study_and_a_Living_Lab_approach/links/5a0af546a6fdccc69ed9c34c/Understanding-Museum-visitors-experience-through-an-Eye-tracking-study-and-a-Living-Lab-approach.pdf")
 
 ## Laboratoire d'Archéologie des Métaux (LAM)
 
