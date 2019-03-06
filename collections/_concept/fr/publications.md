@@ -1,5 +1,5 @@
 ---
-title: LF2L publications
+title: 'Publications liées au LF2L '
 permalink: "/fr//publications/"
 excerpt: Thesis and articles developed at LF2L
 header:
@@ -25,7 +25,8 @@ toc_sticky: true
 
 * Laurent Dupont, Marc Pallot, Olivier Christmann, Simon Richir. A Universal Framework For Systemizing the Evaluation of Immersive And Collaborative Performance. ACM. _VRIC '18: Virtual Reality International Conference - Laval Virtual_, Apr 2018, Laval, France. VRIC '18: Virtual Reality International Conference - Laval Virtual, 2018, [〈10.1145/3234253.3234306〉](https://dx.doi.org/10.1145/3234253.3234306). [〈hal-01868811〉](https://hal.univ-lorraine.fr/hal-01868811)
 * Arbelaez-Garces G., Joseph D., Camargo M., Tran N., Morel L. [Contribution to the objective assessment of technical skills for surgery students: an accelerometer-based approach](https://www.sciencedirect.com/science/article/abs/pii/S0169814117303244), International Journal of Industrial Ergonomics. (IF=1,415)
-* Adriana-Simona Mihaita, Laurent Dupont, Olivier Cherry, Mauricio Camargo, Chen Cai. Air quality monitoring using stationary versus mobile sensing units: a case study from Lorraine, France. _25th ITS World Congress 2018_, Sep 2018, Copenhagen, Netherlands. pp.1-11. [〈hal-01885133〉](https://hal.univ-lorraine.fr/hal-01885133)
+* Mihaita A-S, Dupont L., Cherry O., Camargo M., Chen Cai. Air quality monitoring using stationary versus mobile sensing units: a case study from Lorraine, France. _25th ITS World Congress 2018_, Sep 2018, Copenhagen, Netherlands. pp.1-11. [〈hal-01885133〉](https://hal.univ-lorraine.fr/hal-01885133)
+* Mihaita A-S, Dupont L., Camargo M. Multi-objective traffic signal optimization using 3D mesoscopic simulation and evolutionary algorithms. _Simulation Modelling Practice and Theory_, Elsevier, 2018, 86, pp.120 - 138. [〈10.1016/j.simpat.2018.05.005〉](https://dx.doi.org/10.1016/j.simpat.2018.05.005). [〈hal-01796613〉](https://hal.univ-lorraine.fr/hal-01796613)
 
 ## 2017
 
