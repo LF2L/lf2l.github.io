@@ -29,6 +29,8 @@ Travaux saison 2 non diffusé - pour toute information, nous consulter
 
 ### Saison 3 : Efficience
 
+Pour aller plus loin: Dupont L. Morel L. Hubert J. Guidat C. Study case: Living Lab Mode for urban project design. Emergence of an ad hoc methodology through collaborative innovation. in IEEE International Technology Management Conference & 20th ICE Conference, Bergamo : Italy (2014) – DOI : [https://doi.org/10.1109/ICE.2014.6871550](https://doi.org/10.1109/ICE.2014.6871550 "https://doi.org/10.1109/ICE.2014.6871550")
+
 ## Modélisation 3D des flux de circulation
 
 Modélisation 3D des flux de circulation et simulation des scénarios d’usages prospectifs pour accompagner les prises de décisions.
