@@ -1,7 +1,8 @@
 ---
 title: Partenaires et Chartes
 permalink: "/fr/concept/chartes/"
-excerpt: Partenaires et Chartes
+excerpt: 'Retrouvez notre écossytème collaboratif et les chartes auxquelles nous adhérons
+  ! '
 header:
   overlay_color: "#333"
   overlay_filter: 0.1
