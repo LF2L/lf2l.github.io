@@ -31,5 +31,4 @@ De plus, en vingt ans l'école de l'innovation associée au laboratoire ERPI, l�
 Fort de ses 15 années d'expérience, le LF2L et l'équipe de l'[ERPI](https://erpi.univ-lorraine.fr/) vous accompagne dans la création de votre espace d'innovation sur mesure : parrainage, conseils, partenariat, recherche, etc.
 
 En France, mais aussi à l'étranger !
-
-Lire : Osorio F., Dupont L., Camargo M., Palominos P., Peña J.I., et al.. Design and management of innovation laboratories: Toward a performance assessment tool. _Creativity and Innovation Management_, Wiley, 2019, 28 (1), pp.82-100. [〈](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301)[https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301 "https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301")[〉](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301). [〈10.1111/caim.12301〉](https://dx.doi.org/10.1111/caim.12301). [〈hal-01987047〉](https://hal.archives-ouvertes.fr/hal-01987047)
+Lire : Osorio F., Dupont L., Camargo M., Palominos P., Peña J.I., et al.. [Design and management of innovation laboratories: Toward a performance assessment tool.](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301) _Creativity and Innovation Management_, Wiley, 2019, 28 (1), pp.82-100. 

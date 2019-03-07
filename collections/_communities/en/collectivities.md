@@ -2,7 +2,7 @@
 title: Collectivities
 permalink: "/communities/collectivities/"
 img-path: "/assets/images/4-communities/collectivities/"
-classes: wide
+
 
 excerpt: Collectivities at the LF2L
 header:
@@ -10,9 +10,7 @@ header:
   overlay_image: /assets/images/4-communities/collectivities/header.jpg
   overlay_filter: 0.3
   show_overlay_excerpt: true
-  image_description: Maker at LF2L
-sidebar:
-  nav: communities
+  
 
 last_modified_at: 2018-10-24
 ---
@@ -26,7 +24,7 @@ In this context, LF2L® contributes to the implementation and evaluation of "Sma
 
 LF2L® organizes and implements citizen workshops, contributes to citizen science, participates in scientific and technical dissemination events, etc.
 
->![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'label.png' }}){: .align-right}
+![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'label.png' }}){: .align-right}
 > Metropolis of Greater Nancy elected Innovative Territory OR in December 2016 by the Interconnected 2016 thanks to the *'VélOstan Connecté'* project supported by the LF2L®. 
 
 

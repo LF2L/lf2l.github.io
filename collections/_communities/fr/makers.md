@@ -17,7 +17,7 @@ last_modified_at: 2018-10-24 00:00:00 +0000
 
 La révolution de la communication numérique est derrière nous. Nous vivons à présent la révolution de La Fabrication personnelle ou DIY.
 
-[!\[communities at lf2l\]({{ site.baseurl | append: page.img-path | append:'NYBI.png' }})](http://nybi.cc/){: .align-right}
+[![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'NYBI.png' }})](http://nybi.cc/){: .align-right}
 Pour s’ouvrir au plus grand nombre, le **Lorraine Fab Living Lab®** met à disposition tous les jeudis soirs ses locaux et ses ressources à l’association **NYBI**.
 L’Université de Lorraine permet ainsi à tous ceux qui veulent fabriquer par eux-même, découvrir de nouvelles technologies, apprendre à les utiliser, de bénéficier du matériel et des espaces issus de la recherche.
 
@@ -35,4 +35,5 @@ Le LF2L et l'équipe de l'[ERPI](https://erpi.univ-lorraine.fr/) vous accompagne
 
 En France, mais aussi à l'étranger ! 
 
-Lire : Osorio F., Dupont L., Camargo M., Palominos P., Peña J.I., et al.. Design and management of innovation laboratories: Toward a performance assessment tool. _Creativity and Innovation Management_, Wiley, 2019, 28 (1), pp.82-100. [〈](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301)[https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301 "https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301")[〉](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301). [〈10.1111/caim.12301〉](https://dx.doi.org/10.1111/caim.12301). [〈hal-01987047〉](https://hal.archives-ouvertes.fr/hal-01987047)
+Lire : Osorio F., Dupont L., Camargo M., Palominos P., Peña J.I., et al.. [Design and management of innovation laboratories: Toward a performance assessment tool.](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301) _Creativity and Innovation Management_, Wiley, 2019, 28 (1), pp.82-100. 
+

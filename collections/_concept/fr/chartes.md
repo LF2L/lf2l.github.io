@@ -2,7 +2,8 @@
 title: Partenaires et Chartes
 permalink: "/fr/concept/chartes/"
 excerpt: 'Retrouvez notre écossytème collaboratif et les chartes auxquelles nous adhérons
-  ! '
+  !'
+classes: wide
 header:
   overlay_color: "#333"
   overlay_filter: 0.1
@@ -10,6 +11,7 @@ header:
 sidebar:
   nav: LF2L-concept
 last_modified_at: 2019-03-06 00:00:00 +0100
+
 sponsors:
 - image_path: ''
   title: ''

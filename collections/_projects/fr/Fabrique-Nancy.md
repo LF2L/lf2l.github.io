@@ -5,7 +5,7 @@ permalink: "/fr/projects/fabrique-nancy/"
 excerpt: Un démonstrateur partagé avec le Grand Nancy
 header:
   teaser: "/assets/images/3-projects/fabrique-nancy/teaser.jpg"
-
+last_modified_at: 2019-03-07
 ---
 ## Présentation
 
@@ -47,4 +47,4 @@ Pour aller plus loin : [Multi-objective traffic signal optimization using 3D mes
 
 La vidéo 
 
-    <iframe width="863" height="485" src="https://www.youtube.com/embed/wSphexsNeEw?list=PLVQ7IUpDOr6ikBDtqxuhgiZIBxoEX-fKp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="863" height="485" src="https://www.youtube.com/embed/wSphexsNeEw?list=PLVQ7IUpDOr6ikBDtqxuhgiZIBxoEX-fKp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
