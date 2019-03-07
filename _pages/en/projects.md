@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Projects at LF2L"
 layout: collection
 permalink: /projects/
