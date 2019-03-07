@@ -3,7 +3,7 @@ title: 'Etudiants '
 permalink: "/fr/communities/students/"
 img-path: "/assets/images/4-communities/students/"
 classes: wide
-excerpt: 'Les étudiants et le LF2L '
+excerpt: Bienvenue aux Etudiant-Makers
 header:
   teaser: "/assets/images/4-communities/students/teaser.jpg"
   overlay_image: "/assets/images/4-communities/students/header.jpg"
