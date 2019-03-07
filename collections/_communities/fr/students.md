@@ -1,21 +1,18 @@
 ---
-title: "Students"
-permalink: /fr/communities/students/
+title: 'Etudiants '
+permalink: "/fr/communities/students/"
 img-path: "/assets/images/4-communities/students/"
 classes: wide
-
-excerpt: "Students community at the LF2L"
+excerpt: 'Les étudiants et le LF2L '
 header:
   teaser: "/assets/images/4-communities/students/teaser.jpg"
   overlay_image: "/assets/images/4-communities/students/header.jpg"
   overlay_filter: 0.3
-  show_overlay_excerpt: true 
-  image_description: "Maker at LF2L"
-  
-last_modified_at: 2018-10-24
+  show_overlay_excerpt: true
+  image_description: Maker at LF2L
+last_modified_at: 2018-10-24 00:00:00 +0000
+
 ---
-
-
 ## Vous êtes étudiant à l'ENSGSI ?
 
 
@@ -52,5 +49,3 @@ Des questions relatives à l'ingénierie collaborative, la Smart City, les dispo
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'France.png' }}){: .align-left}
 Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont
-
-

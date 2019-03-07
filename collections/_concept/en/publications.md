@@ -1,7 +1,8 @@
 ---
 title: LF2L publications
 permalink: "/publications/"
-excerpt: Thesis and articles developed at LF2L
+excerpt: Thesis and articles from ERPI Laboratory on Fab Living Lab, Living Lab, Fab
+  Lab
 header:
   overlay_color: "#333"
   overlay_filter: 0.1
