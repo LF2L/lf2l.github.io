@@ -32,4 +32,12 @@ Le LF2L® organise et met en œuvre des ateliers citoyens, contribue à la scien
 
 !\[communities at lf2l\]({{ site.baseurl | append: page.img-path | append:'activités.jpg' }})
 
+## Incarnez vos projets ! Créez votre espace d'innovation, adapté à votre écosystème !
+
+Fort de ses 15 années d'expérience, le LF2L et l'équipe de l'[ERPI](https://erpi.univ-lorraine.fr/) vous accompagne dans la création de votre espace d'innovation sur mesure : parrainage, conseils, partenariat, recherche, etc.
+
+En France, mais aussi à l'étranger !
+
+Lire : Osorio F., Dupont L., Camargo M., Palominos P., Peña J.I., et al.. Design and management of innovation laboratories: Toward a performance assessment tool. _Creativity and Innovation Management_, Wiley, 2019, 28 (1), pp.82-100. [〈](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301)[https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301 "https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301")[〉](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301). [〈10.1111/caim.12301〉](https://dx.doi.org/10.1111/caim.12301). [〈hal-01987047〉](https://hal.archives-ouvertes.fr/hal-01987047)
+
 Contact: **Laurent Dupont**
