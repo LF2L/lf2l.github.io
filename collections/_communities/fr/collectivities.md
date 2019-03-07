@@ -11,7 +11,7 @@ header:
   show_overlay_excerpt: true
   image_description: Maker at LF2L
 sidebar:
-  nav: communautés
+  nav: communautés et intitutions
 last_modified_at: 2019-03-06 00:00:00 +0100
 
 ---
