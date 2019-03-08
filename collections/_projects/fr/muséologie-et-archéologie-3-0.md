@@ -7,7 +7,6 @@ header:
   teaser: "/uploads/08-Open Source hardware production.png"
   header: "/uploads/Visit.jpg"
 last_modified_at: 2019-03-07 00:00:00 +0000
-published: false
 
 ---
 ## Linky by Makers
