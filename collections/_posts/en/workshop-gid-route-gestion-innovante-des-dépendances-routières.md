@@ -6,7 +6,6 @@ post_teaser: "/uploads/JCP.jpg"
 post_description: |-
   50 days' free access!
   Anyone clicking on this link before April 27, 2019 will be taken directly to the final version of our article on Journal of Cleaner Production, which they are welcome to read or download.
-published: false
 
 ---
 # Evaluating air quality by combining stationary, smart mobile pollution monitoring and data-driven modelling  
