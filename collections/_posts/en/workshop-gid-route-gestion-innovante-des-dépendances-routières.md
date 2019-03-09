@@ -1,7 +1,7 @@
 ---
 title: 'Evaluating air quality by combining stationary, smart mobile pollution monitoring
   and data-driven modelling '
-date: 2018-11-14 12:00:00 +0000
+date: 2019-03-09 00:00:00 +0100
 post_teaser: ''
 post_description: |-
   50 days' free access!
