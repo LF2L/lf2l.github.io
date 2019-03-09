@@ -1,11 +1,12 @@
 ---
-title: Workshop GID Route (Gestion Innovante des dépendances routières) 
-date:   2018-11-14 06:00:00 -0600
-post_teaser: "https://raw.githubusercontent.com/LF2L/ERPI/master/assets/images/projects/noremat/workshop/fig-1.jpg"
+title: Workshop GID Route (Gestion Innovante des dépendances routières)
+date: 2018-11-14 12:00:00 +0000
+post_teaser: https://raw.githubusercontent.com/LF2L/ERPI/master/assets/images/projects/noremat/workshop/fig-1.jpg
+post_description: The impact evaluation on the territory of roadside management was
+  the theme of the Workshop held on October 31 on the [Lorraine Fab Living Lab® (LF2L)](http://lf2l.fr/)
+  platform.
 
-post_description: "The impact evaluation on the territory of roadside management was the theme of the Workshop held on October 31 on the [Lorraine Fab Living Lab® (LF2L)](http://lf2l.fr/) platform."
 ---
-
 The impact evaluation on the territory of roadside management was the theme of the Workshop held on October 31 on the [Lorraine Fab Living Lab® (LF2L)](http://lf2l.fr/) platform. 
 
 
