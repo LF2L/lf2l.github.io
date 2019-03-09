@@ -7,7 +7,6 @@ header:
   teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
   image: "/assets/images/3-projects/LSCLL/header.jpg"
 last_modified_at: 2018-10-24 00:00:00 +0000
-published: false
 
 ---
 ## Linky by Makers

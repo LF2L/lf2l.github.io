@@ -2,15 +2,14 @@
 title: Muséologie et Archéologie 3.0
 date: 2018-02-25 00:00:00 +0000
 permalink: "/fr/projects/museum/"
-excerpt: Museum et gestion du patrimoine
+excerpt: Le LF2L au service de la culture scientifique
 header:
   teaser: "/uploads/Visit.jpg"
   header: "/uploads/Visit.jpg"
 last_modified_at: 2019-03-07 00:00:00 +0000
 
 ---
-
-## Muséologie et Archéologie 3.0
+## Le LF2L au service de la culture scientifique
 
 Le LF2L accompagne les musées de la région dans des approches d'innovation que ce soit pour l'analyse de l’expérience des visiteurs, la création des expériences interactives ou par la numérisation d'objets archéologiques pour la rénovation, étude et conservation.
 
