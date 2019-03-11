@@ -4,8 +4,8 @@ date: 2018-02-25 00:00:00 +0000
 permalink: "/projects/lbm/"
 excerpt: Fab Living lab approach on Smart meters and smart grids
 header:
-  teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
-  image: "/assets/images/3-projects/LSCLL/header.jpg"
+  teaser: "/uploads/08-Open Source hardware production.png"
+  image: "/uploads/08-Open Source hardware production.png"
 last_modified_at: 2018-10-24 00:00:00 +0000
 
 ---
