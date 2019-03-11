@@ -9,7 +9,7 @@ header:
 last_modified_at: 2018-10-24 00:00:00 +0000
 
 ---
-## Linky by Makers
+### Fab Living lab approach on Smart meters and smart grids
 
 Linky by Makers (LbM) project explores the development of a user-driven innovation supporting French public electricity distribution network.
 
@@ -19,6 +19,6 @@ more information: [http://linkybymakers.fr/](http://linkybymakers.fr/ "http://li
 
 ![](/uploads/00-LbM & logos fablabs   UL   ENEDIS.jpg)
 
-## Contact
+### Contact
 
 Laurent Dupont: **l.dupont {at} univ-lorraine.fr**

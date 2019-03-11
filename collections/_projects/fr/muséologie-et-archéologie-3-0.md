@@ -9,7 +9,7 @@ header:
 last_modified_at: 2019-03-07 00:00:00 +0000
 
 ---
-## Linky by Makers
+### Usages prospectifs des compteurs communicants et des smart grids
 
 LbM c'est une mutualisation de moyens (Makers – FabLabs – Université – Entreprises)  pour prototyper des solutions citoyennes autour du « Smart Grid ».
 
@@ -19,6 +19,6 @@ pour [en savoir plus sur le projet vous pouvez consulter le site ](http://linkyb
 
 ![](/uploads/00-LbM & logos fablabs   UL   ENEDIS.jpg)
 
-## Contact
+### Contact
 
 Laurent Dupont: **l.dupont {at} univ-lorraine.fr**
