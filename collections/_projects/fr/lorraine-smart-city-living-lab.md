@@ -7,7 +7,6 @@ header:
   teaser: "/uploads/LSCLL&LF2L-FIN-2018.jpg"
   header: "/uploads/2017-06-03-OCL#1-00001-petite.jpg"
 last_modified_at: 2018-10-24 00:00:00 +0000
-published: false
 
 ---
 ## **Université – Inventivité – Citoyenneté**
