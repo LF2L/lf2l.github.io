@@ -4,8 +4,8 @@ date: 2018-02-25 00:00:00 +0000
 permalink: "/fr/projects/open-citizen-lab/"
 excerpt: Permettre au Grand Public de contribuer aux innovations de demain
 header:
-  teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
-  header: "/assets/images/3-projects/LSCLL/header.jpg"
+  teaser: "/uploads/LSCLL&LF2L-FIN-2018.jpg"
+  header: "/uploads/2017-06-03-OCL#1-00001 copie 2.jpg"
 last_modified_at: 2018-10-24 00:00:00 +0000
 published: false
 
@@ -23,8 +23,6 @@ Venez rencontrer des étudiants, des chercheurs, et des enseignants.
 Profitez-en pour expérimenter des créations originales : venez vivre une nouvelle réalité avec des casques de réalité virtuelle. Venez vous "téléporter" dans n’importe quelle ville du monde grâce à la bulle immersive du LF2L. Vivez l’esprit des FabLabs, testez les technologies 3D ou de la robotique et participez à des « Open Citizen Labs » pour contribuer à des projets de recherche dont vous êtes le héros !
 
 Découvrez et testez les projets des élèves ingénieurs de l'ENSGSI et soyez acteurs de l'innovation !
-
- 
 
 ## Contacts
 
