@@ -27,7 +27,7 @@ Découvrez et testez les projets des élèves ingénieurs de l'ENSGSI ou de star
 
 Avec le soutien de :
 
-![](http://www.grandnancy-congresetevenements.com/files/css/logo-destination-nancy.jpg)
+![](http://www.grandnancy-congresetevenements.com/files/css/logo-destination-nancy.jpg)![](https://www.univ-lorraine.fr/sites/www.univ-lorraine.fr/files/logo-universite-de-lorraine.png)![](http://erpi.univ-lorraine.fr/assets/images/logo-ERPI.svg)![](https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2014/01/logo.png)
 
 ## Contacts
 
