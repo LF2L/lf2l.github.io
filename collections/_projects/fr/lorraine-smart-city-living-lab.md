@@ -5,13 +5,13 @@ permalink: "/fr/projects/open-citizen-lab/"
 excerpt: Permettre au Grand Public de contribuer aux innovations de demain
 header:
   teaser: "/uploads/LSCLL&LF2L-FIN-2018.jpg"
-  header: "/uploads/2017-06-03-OCL#1-00001-petite.jpg"
+  header: "/uploads/2017-06-03-OCL#1-00001-petite.png"
 last_modified_at: 2018-10-24 00:00:00 +0000
 
 ---
 ## **Université – Inventivité – Citoyenneté**
 
-## **La recherche dont vous êtes le héros !**
+### **La recherche dont vous êtes le héros !**
 
 L’Université à la Foire Expo Internationale de Nancy… pourquoi ?
 
