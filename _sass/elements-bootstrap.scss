@@ -17,6 +17,15 @@ $carousel-control-opacity: 		.8 !default;
 $carousel-control-opacity: 		.8 !default;
 $carousel-control-icon-width:  	30px !default;
 
+
+$navbar-light-active-color:         rgba($black, .9) !default;
+$navbar-dark-active-color:          $white !default;
+
+$navbar-light-brand-color:                $navbar-light-active-color !default;
+$navbar-light-brand-hover-color:          $navbar-light-active-color !default;
+$navbar-dark-brand-color:                 $navbar-dark-active-color !default;
+$navbar-dark-brand-hover-color:           $navbar-dark-active-color !default;
+
 @import "bootstrap/variables";
 
 
@@ -28,4 +37,5 @@ $carousel-control-icon-width:  	30px !default;
 
 @import "bootstrap/carousel";
 @import "bootstrap/card";
-
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
