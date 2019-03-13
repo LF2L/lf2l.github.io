@@ -1,0 +1,123 @@
+---
+---
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+
+  <!-- Title -->
+    <title>
+      {% if page.title %}
+        {{ page.title }} | {{ site.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+  
+  <!-- Author -->
+    <meta name="author" content="{{ page.author }}" />
+
+  <!-- Description -->
+    {% if page.description %}
+      <meta name="description" content="{{ page.description }}" />
+    {% else %}
+      <meta name="description" content="{{ site.description }}">
+    {% endif %}
+
+  <!-- Reveal CSS -->
+    <link rel="stylesheet" href="{{ "/reveal.js/css/reveal.css" | prepend: site.baseurl }}"/>
+    
+  <!-- Theme CSS -->
+    {%if page.theme %}
+      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
+    {% else %}
+      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
+    {% endif %}
+
+    
+  <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="{{ "/reveal.js/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
+
+
+<!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/reveal.js/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/reveal.js/css/print/paper.css" | prepend: site.baseurl }}';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+    
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides">
+    
+          {{ content }}
+        
+      </div>
+    </div>
+
+
+    <script src="{{ "/reveal.js/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/reveal.js/js/reveal.js" | prepend: site.baseurl }}"></script>
+    
+    <script>
+      // More info about config & dependencies:
+      // - https://github.com/hakimel/reveal.js#configuration
+      // - https://github.com/hakimel/reveal.js#dependencies
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+      
+        // Display a presentation progress bar
+        progress: true,
+
+        // Set default timing of 2 minutes per slide
+        defaultTiming: 120,
+
+        // Display the page number of the current slide
+        slideNumber: true,
+
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: "100%",
+        height: "110%",
+
+
+        // Vertical centering of slides
+        center: true,
+        
+                
+        
+        {%if page.transition %}
+          transition: '{{page.transition}}',
+        {% else %}
+          transition: 'slide', // none/fade/slide/convex/concave/zoom
+        {% endif %}
+
+        dependencies: [
+          { src: "{{ '/reveal.js/plugin/markdown/marked.js' | prepend: site.baseurl }}"  },
+          { src: "{{ '/reveal.js/plugin/markdown/markdown.js' | prepend: site.baseurl }}"  },
+          { src: "{{ '/reveal.js/plugin/notes/notes.js' | prepend: site.baseurl }}", async: true },
+          { src: "{{ '/reveal.js/plugin/highlight/highlight.js' | prepend: site.baseurl }}", async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+        ]
+      });
+    </script>
+  </body>
+</html>
