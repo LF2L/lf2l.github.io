@@ -18,14 +18,16 @@ transition: slide
 ---
 ### Research Axis
 
-<img width="100%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Diapositive9.jpeg' }}">
+<img width="50%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Diapositive9.jpeg' }}">
+
+*PPT from Mauricio Camargo
 
 ---
 ### Application Fields
 
-<img width="100%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Diapositive11.jpeg' }}">
+<img width="50%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Diapositive11.jpeg' }}">
 
-
+*PPT from Mauricio Camargo 
 ---
 
 # Proposals
@@ -37,7 +39,7 @@ transition: slide
 --- 
 ## Cartography 
 
-<img width="100%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Competences.jpg' }}">
+<img width="50%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Competences.jpg' }}">
 
 ---
 
@@ -58,7 +60,7 @@ transition: slide
 ---
 ### Competences according to
 
-<img width="100%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Competences-France.jpg' }}">
+<img width="50%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Competences-France.jpg' }}">
 
 
 [Arrêté du 22 février 2019 définissant les compétences des diplômés du doctorat et inscrivant le doctorat au répertoire national de la certification professionnelle](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038200990&dateTexte=&categorieLien=id) 
