@@ -5,7 +5,7 @@ author: Fabio
 permalink: "/projects/green-fablab/PPT/"
 image-path: "/assets/images/3-projects/gf/presentation/"
 description: A presentation slide for how to use reveal.js in Jekyll
-theme: white-LF2L
+theme: white
 transition: slide
 ---
 

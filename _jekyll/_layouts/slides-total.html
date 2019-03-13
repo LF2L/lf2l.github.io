@@ -28,18 +28,18 @@
     {% endif %}
 
   <!-- Reveal CSS -->
-    <link rel="stylesheet" href="{{ "/reveal.js/css/reveal.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/ppt/css/reveal.css" | prepend: site.baseurl }}"/>
     
   <!-- Theme CSS -->
     {%if page.theme %}
-      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/ppt/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
     {% else %}
-      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/ppt/css/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
     {% endif %}
 
     
   <!-- Theme used for syntax highlighting of code -->
-    <link rel="stylesheet" href="{{ "/reveal.js/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/ppt/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
 
 
 <!-- Printing and PDF exports -->
@@ -47,7 +47,7 @@
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/reveal.js/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/reveal.js/css/print/paper.css" | prepend: site.baseurl }}';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/ppt/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/ppt/css/print/paper.css" | prepend: site.baseurl }}';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
     
@@ -63,8 +63,8 @@
     </div>
 
 
-    <script src="{{ "/reveal.js/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/reveal.js/js/reveal.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ '/ppt/lib/js/head.min.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ '/ppt/js/reveal.js' | prepend: site.baseurl }}"></script>
     
     <script>
       // More info about config & dependencies:
@@ -112,10 +112,10 @@
         {% endif %}
 
         dependencies: [
-          { src: "{{ '/reveal.js/plugin/markdown/marked.js' | prepend: site.baseurl }}"  },
-          { src: "{{ '/reveal.js/plugin/markdown/markdown.js' | prepend: site.baseurl }}"  },
-          { src: "{{ '/reveal.js/plugin/notes/notes.js' | prepend: site.baseurl }}", async: true },
-          { src: "{{ '/reveal.js/plugin/highlight/highlight.js' | prepend: site.baseurl }}", async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+          { src: "{{ '/ppt/plugin/markdown/marked.js' | prepend: site.baseurl }}"  },
+          { src: "{{ '/ppt/plugin/markdown/markdown.js' | prepend: site.baseurl }}"  },
+          { src: "{{ '/ppt/plugin/notes/notes.js' | prepend: site.baseurl }}", async: true },
+          { src: "{{ '/ppt/plugin/highlight/highlight.js' | prepend: site.baseurl }}", async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
         ]
       });
     </script>
