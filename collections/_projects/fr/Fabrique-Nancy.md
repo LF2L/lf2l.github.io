@@ -23,23 +23,11 @@ En particulier la présentation filmée du projet
 
 ![](/uploads/3 saisons La Fabrique.png)
 
-#### Saison 1 : Diagnostic partagé
-
-#### Saison 2 : Focus
-
-* De Nancy grand Cœur à la ville de Charles III : les usages de la Place Charles III
-* EcoQuartier Nancy Grand Cœur Approfondissement des thématiques :
-  * EcoMobilité
-  * Partage des espaces publics
-  * Performance énergétique globale et ville intelligente
-
-Travaux saison 2 non diffusé - pour toute information, nous consulter
-
-#### Saison 3 : Efficience
-
 Pour aller plus loin:
 
 Dupont L. Morel L. Hubert J. Guidat C. Study case: Living Lab Mode for urban project design. Emergence of an ad hoc methodology through collaborative innovation. in IEEE International Technology Management Conference & 20th ICE Conference, Bergamo : Italy (2014) – DOI : [https://doi.org/10.1109/ICE.2014.6871550](https://doi.org/10.1109/ICE.2014.6871550 "https://doi.org/10.1109/ICE.2014.6871550")
+
+Laurent Dupont, Laure Morel, Claudine Guidat, Julien Hubert, Martine Revel. Le « technicien-citoyen » et La Fabrique Nancy Grand Cœur : le prisme de l’usage dans la conception d’un écoquartier. Mermet, Laurent; Salles, Denis. _Environnement : la concertation apprivoisée, contestée, dépassée ?_, De Boeck, 2015, Ouvertures sociologiques, 9782804191085. [〈](http://www.deboecksuperieur.com/titres/132570_3/9782804191085-environnement-la-concertation-apprivoisee-contestee-depassee.html)[http://www.deboecksuperieur.com/titres/132570_3/9782804191085-environnement-la-concertation-apprivoisee-contestee-depassee.html](http://www.deboecksuperieur.com/titres/132570_3/9782804191085-environnement-la-concertation-apprivoisee-contestee-depassee.html "http://www.deboecksuperieur.com/titres/132570_3/9782804191085-environnement-la-concertation-apprivoisee-contestee-depassee.html")[〉](http://www.deboecksuperieur.com/titres/132570_3/9782804191085-environnement-la-concertation-apprivoisee-contestee-depassee.html). [〈hal-01332286〉](https://hal.archives-ouvertes.fr/hal-01332286)
 
 Laurent Dupont, Laure Morel, Marc Pallot. Exploring the Appropriateness of Different Immersive Environments in the Context of an Innovation Process for Smart Cities. _22nd ICE/IEEE International Technology Management Conference_, Jun 2016, Trondhiem, Norway. [〈hal-01331887〉](https://hal.archives-ouvertes.fr/hal-01331887)
 
