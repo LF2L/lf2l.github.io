@@ -21,7 +21,7 @@ Venez rencontrer des étudiants, des chercheurs, des enseignants, des startups.
 
 Profitez-en pour expérimenter des créations originales : venez vivre une nouvelle réalité avec des casques de réalité virtuelle. Venez vous "téléporter" dans n’importe quelle ville du monde grâce à la bulle immersive du LF2L. Vivez l’esprit des FabLabs, testez les technologies 3D ou de la robotique et participez à des « Open Citizen Labs » pour contribuer à des projets de recherche dont vous êtes le héros !
 
-Découvrez et testez les projets des élèves ingénieurs de l'ENSGSI ou de startups créatives et soyez acteurs de l'innovation !
+Découvrez et testez les projets de chercheurs, d'élèves ingénieurs de l'ENSGSI, d'étudiants de l'IUT Charlemagne ou encore de startups créatives et soyez acteurs de l'innovation !
 
 ![](/uploads/LSCLL&LF2L-FIN-2018.jpg)
 
