@@ -11,11 +11,17 @@ last_modified_at: 2019-03-07 00:00:00 +0000
 ---
 ## Co-conception de l'EcoQuartier Nancy Grand Coeur
 
-### Programme Scientifique
+### Programme Scientifique (2008-2012)
 
-Conception, suivi et évaluation dans le cadre du Programme Concertation Décision Environnement : voir le site du
+Conception, suivi et évaluation dans le cadre du Programme Concertation Décision Environnement : voir le résumé et les rapports de recherche sur le site [http://concertation-environnement.fr/index.php/13-apr/apr-en-cours/90-2008-08](http://concertation-environnement.fr/index.php/13-apr/apr-en-cours/90-2008-08 "http://concertation-environnement.fr/index.php/13-apr/apr-en-cours/90-2008-08")
+
+En particulier la présentation filmée du projet
+
+[http://concertation-environnement.fr/VideoCDE/V06/co/V06.html](http://concertation-environnement.fr/VideoCDE/V06/co/V06.html "http://concertation-environnement.fr/VideoCDE/V06/co/V06.html")
 
 ### Processus (déploiement 2011 - 2014)
+
+![](/uploads/3 saisons La Fabrique.png)
 
 #### Saison 1 : Diagnostic partagé
 
