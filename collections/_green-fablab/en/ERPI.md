@@ -68,17 +68,23 @@ transition: slide
 ---
 ### Competences for ERPI
 
-![](https://media.giphy.com/media/h9tY3FscKKZj2/giphy.gif) 
+*Working in progress..* :)
 
-*Working in progress :)* **But..**
+https://erpi.univ-lorraine.fr/Competences.html
+
+
+<img width="50%" class="plain" src="https://media.giphy.com/media/h9tY3FscKKZj2/giphy.gif">
 
 ---
-### Timming
 
-- [Survey Google Forms:](https://docs.google.com/forms/d/e/1FAIpQLSeCeoo6z0pSJfF6uEAq15hHsivM7aQVN2xwGZj7DOphIMk63A/viewform?usp=sf_link) Wednesday 13 /2019
-- **Monday 18 Mars à 17:00 Deadline for answers**
+## Ideas to Explore?
 
-![](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
+So what?
+- Quelle stratègie pour les publications ?
+    + co-concevoir la stratègie par domaine de recherche (seminaire stratègique du labo ? ) 
+- De quelle manière pouvons-nous profiter de la carthographie des competences? 
+    + quels actions mettre en place?
+
 
 
 
