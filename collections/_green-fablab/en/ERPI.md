@@ -68,7 +68,7 @@ transition: slide
 ---
 ### Competences for ERPI
 
-*Working in progress..* :)
+*Work in progress..* :)
 
 https://erpi.univ-lorraine.fr/Competences.html
 
@@ -80,6 +80,7 @@ https://erpi.univ-lorraine.fr/Competences.html
 ## Ideas to Explore?
 
 So what?
+
 - Quelle stratègie pour les publications ?
     + co-concevoir la stratègie par domaine de recherche (seminaire stratègique du labo ? ) 
 - De quelle manière pouvons-nous profiter de la carthographie des competences? 
