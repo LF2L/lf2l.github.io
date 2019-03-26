@@ -87,6 +87,20 @@ So what?
 
 
 
+---
+
+## Questions or sugestions? 
+let us know 
+
+![](https://media.giphy.com/media/4EF5xIO5yiivWh4gGn/giphy.gif)
+
+
+---
+### Level of Research
+
+<img width="50%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'Diapositive14.jpeg' }}">
+
+*PPT from Mauricio Camargo 
 
 
 ---
@@ -119,15 +133,6 @@ https://zenkit.com/
 *Let us know you ideas*
 
 
----
-
-## Questions or sugestions? 
-let us know 
-
-![](https://media.giphy.com/media/4EF5xIO5yiivWh4gGn/giphy.gif)
-
-
----
 
 
   
