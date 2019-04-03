@@ -13,7 +13,7 @@ transition: slide
 <script type="text/template">
 
 
-{% for i in (1..43) %}
+{% for i in (1..46) %}
 ---
 {% assign Diapo = "Diapositive" | append:  i   | append: ".jpeg"  %}
 
