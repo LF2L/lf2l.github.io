@@ -7,6 +7,7 @@ image-path: "/assets/images/competences-ERPI/"
 description: A presentation slide for how to use reveal.js in Jekyll
 theme: white
 transition: slide
+published: false
 ---
 
 
