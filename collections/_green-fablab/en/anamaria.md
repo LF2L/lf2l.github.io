@@ -7,6 +7,7 @@ image-path: "/assets/images/3-projects/gf/anamaria/presentation/"
 description: A presentation slide for how to use reveal.js in Jekyll
 theme: white
 transition: slide
+published: false
 ---
 
 <section data-markdown data-separator="---">
