@@ -1,8 +1,8 @@
 ---
 layout: slides-total
-title: Competences ERPI
+title: Competences
 author: Fabio
-permalink: "/competences-ERPI/"
+permalink: "/competences/"
 image-path: "/assets/images/competences-ERPI/"
 description: A presentation slide for how to use reveal.js in Jekyll
 theme: white
