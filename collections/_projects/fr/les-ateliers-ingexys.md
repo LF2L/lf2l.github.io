@@ -14,6 +14,8 @@ published: false
 
     <iframe src="https://videos.univ-lorraine.fr/video.php?id=7593&width=390&height=270&autostart=false" width="390" height="270" frameborder="0" allowfullscreen=""></iframe>
 
+<iframe src="[http://videos.univ-lorraine.fr/video.php?id=7593&width=390&height=270&autostart=false](http://videos.univ-lorraine.fr/video.php?id=7593&width=390&height=270&autostart=false "http://videos.univ-lorraine.fr/video.php?id=7593&width=390&height=270&autostart=false")"  width="390" height="270" frameborder="0" allowfullscreen=""></iframe>
+
 Applications mobiles, services en ligne, réseaux sociaux …  
 Les technologies digitales ou numériques ont transformé notre quotidien, dans nos vies personnelles et professionnelles.  
 Ces outils sont déjà largement utilisés dans les entreprises.   
@@ -24,5 +26,7 @@ Cette transformation digitale réinvente ou optimise les processus et les modèl
 Mais cette transformation est complexe à mettre en œuvre car elle impacte l’ensemble des secteurs et personnels de l’entreprise, et aussi ses relations avec son écosystème.
 
 Pour réussir cette transformation, l’entreprise doit mettre en place des méthodologies d’accompagnement afin de rendre les équipes AGILES, c’est-à-dire leur permettre d’être réactives aux changements, d’être plus à l’écoute et d’impliquer davantage ses clients, d’anticiper les évolutions des métiers et des marchés et d’accroitre leurs capacités à innover.
+
+Pour en voir plus (accès réservé UL): [https://videos.univ-lorraine.fr/index.php?act=view&id_col=514](https://videos.univ-lorraine.fr/index.php?act=view&id_col=514 "https://videos.univ-lorraine.fr/index.php?act=view&id_col=514")
 
 Contact : [davy.monticolo@univ-lorraine.fr](at:davy.monticolo@univ-lorraine.fr)
