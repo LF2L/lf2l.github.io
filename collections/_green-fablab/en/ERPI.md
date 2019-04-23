@@ -1,13 +1,12 @@
 ---
 layout: slides-total
-title: Competences
 author: Fabio
 permalink: "/competences/"
 image-path: "/assets/images/competences-ERPI/"
 description: A presentation slide for how to use reveal.js in Jekyll
 theme: white
 transition: slide
-published: false
+published: true
 ---
 
 
