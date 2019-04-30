@@ -1,9 +1,9 @@
 ---
 title: 'Vient de paraître : Les écosystèmes d''innovation'
-post_teaser: assets/uploads/2018/04/11/quadriphonia.jpg
-post_description: 'Installations au LF2L du 15 au 19 avril : experiences immersives
-  par LF2L et instruments DIY par BrutPop le programme complet - L''atelier DrawDio
-  Concert Quadriphonia VR par Human games, le 19 avril 20h et 22h Acheter vos places'
+post_teaser: ''
+post_description: Dans le cadre du Réseau de Recherche sur l'Innovation (RRI), publication
+  de l'ouvrage Les écosystèmes d'innovation. Regards Croisés des acteurs clés, L'Harmattan,
+  Paris.
 date: 2018-04-11T06:00:00.000+00:00
 published: false
 
@@ -19,3 +19,5 @@ L'innovation est le résultat d'un processus composé de nombreuses étapes et d
 
   
 _Les auteurs : Xavier BARON, Sophie BOUTILLIER, Alain CLERGEOT, Guillaume COMPAIN, Nicolas CUGIER, Emmanuelle DUBOCAGE, **Laurent DUPONT**, Pascal DUVAUT, Rémi LALLEMENT, Blandine LAPERCHE, Marcos LIMA, Dave MOBHE BOKOKO, Elodie NEDELEC, Hélène PERRIN BOULONNE, Gabriel PLASSAT, Xavier ROY, Michel SALOFF-COSTE, Frédérique SAVEL, Eric SEULLIET, Bérangère L. SZOSTAK, André TORRE, Antonella TUFANO, Brigitte TROUSSE, Isabelle VERILHAC._
+
+**_Les écosystèmes d'innovation. Regards Croisés des acteurs clés_**_,_ L'Harmattan, Paris. [https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=62879&motExact=0&motcle=&mode=AND](https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=62879&motExact=0&motcle=&mode=AND "https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=62879&motExact=0&motcle=&mode=AND")
