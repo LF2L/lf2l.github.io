@@ -4,7 +4,7 @@ post_teaser: ''
 post_description: Dans le cadre du Réseau de Recherche sur l'Innovation (RRI), publication
   de l'ouvrage Les écosystèmes d'innovation. Regards Croisés des acteurs clés, L'Harmattan,
   Paris.
-date: 2018-04-11T06:00:00.000+00:00
+date: 2019-04-30 08:00:00 +0200
 published: false
 
 ---
