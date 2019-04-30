@@ -5,7 +5,6 @@ post_description: Dans le cadre du Réseau de Recherche sur l'Innovation (RRI), 
   de l'ouvrage Les écosystèmes d'innovation. Regards Croisés des acteurs clés, L'Harmattan,
   Paris.
 date: 2019-04-30 08:00:00 +0200
-published: false
 
 ---
 ### LES ÉCOSYSTÈMES D'INNOVATION
