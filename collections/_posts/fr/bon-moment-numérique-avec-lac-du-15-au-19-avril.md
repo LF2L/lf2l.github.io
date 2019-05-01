@@ -1,6 +1,6 @@
 ---
 title: 'Vient de paraître : Les écosystèmes d''innovation'
-post_teaser: http://www.editions-harmattan.fr/catalogue/couv/9782343174372r.jpg
+post_teaser: ''
 post_description: Dans le cadre du Réseau de Recherche sur l'Innovation (RRI), publication
   de l'ouvrage Les écosystèmes d'innovation. Regards Croisés des acteurs clés, L'Harmattan,
   Paris.
