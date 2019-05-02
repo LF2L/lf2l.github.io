@@ -1,12 +1,12 @@
 ---
-title: Open Citizen Labs
-date: 2018-02-25 00:00:00 +0000
+title: Open Citizen Lab
+date: 2018-02-25T00:00:00.000+00:00
 permalink: "/fr/projects/open-citizen-lab/"
 excerpt: Permettre au Grand Public de contribuer aux innovations de demain
 header:
   teaser: "/uploads/LSCLL&LF2L-FIN-2018.jpg"
   header: "/uploads/2017-06-03-OCL1-petite.png"
-last_modified_at: 2018-10-24 00:00:00 +0000
+last_modified_at: 2018-10-24T00:00:00.000+00:00
 
 ---
 ## **Université – Inventivité – Citoyenneté**
