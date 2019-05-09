@@ -4,6 +4,8 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: heading
+  label: Posts
 - type: directory
   path: collections/_posts/fr
   label: Actualités - FR
@@ -16,6 +18,8 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: Team
 - type: directory
   path: collections/_people/fr
   label: People - FR
@@ -76,6 +80,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: Projects
 - type: directory
   path: collections/_projects/fr
   label: Projets  - FR
