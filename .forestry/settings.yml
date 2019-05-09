@@ -32,6 +32,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: Pages of the Menu
 - type: directory
   path: _pages/fr
   label: Pages - FR
@@ -44,6 +46,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: Communities at LF2L
 - type: directory
   path: collections/_communities/fr
   label: Communities - FR
