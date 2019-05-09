@@ -5,6 +5,8 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: heading
+  label: Practical Info
+- type: heading
   label: Posts
 - type: directory
   path: collections/_posts/fr
@@ -60,6 +62,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: ",md"
+- type: heading
+  label: Concept LF2L
 - type: directory
   path: collections/_concept/fr
   label: Concept - FR
