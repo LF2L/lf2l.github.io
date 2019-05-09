@@ -5,8 +5,6 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: heading
-  label: Practical Info
-- type: heading
   label: Posts
 - type: directory
   path: collections/_posts/fr
@@ -21,16 +19,16 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: heading
-  label: Team
+  label: Projects
 - type: directory
-  path: collections/_people/fr
-  label: People - FR
+  path: collections/_projects/fr
+  label: Projets  - FR
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_people/en
-  label: People - ENG
+  path: collections/_projects/en
+  label: Projets - ENG
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -45,6 +43,20 @@ sections:
 - type: directory
   path: _pages/en
   label: Pages- ENG
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+- type: heading
+  label: Team
+- type: directory
+  path: collections/_people/fr
+  label: People - FR
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+- type: directory
+  path: collections/_people/en
+  label: People - ENG
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -76,6 +88,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: Practical Info
 - type: directory
   path: collections/_info/fr
   label: Info - FR
@@ -85,20 +99,6 @@ sections:
 - type: directory
   path: collections/_info/en
   label: Info - ENG
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-- type: heading
-  label: Projects
-- type: directory
-  path: collections/_projects/fr
-  label: Projets  - FR
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-- type: directory
-  path: collections/_projects/en
-  label: Projets - ENG
   create: all
   match: "**/*"
   new_doc_ext: md
