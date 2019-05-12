@@ -32,6 +32,7 @@ gallery:
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-II.jpg"
   alt: Ma thèse en 180s Fabio Cruz
   title: Ma thèse en 180s Fabio Cruz
+
 projects:
 - image_path: "/assets/images/3-projects/gf/articles/proj-1/thumb.png"
   alt: ''
@@ -89,6 +90,82 @@ pedagogical:
   title: "Pedagogical projects Green Fablab at LF2L"
 
 
+Photos2D:
+
+  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg"
+    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg"
+    alt: "Pedagogical projects Green Fablab"
+    title: "2D - Green Fablab at LF2L"
+    aspect: "1"
+  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0014.jpg"
+    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0014.jpg"
+    alt: "Pedagogical projects Green Fablab"
+    title: "2D - Green Fablab at LF2L"
+    aspect: "0.45"
+    end_row: "true"
+
+  - url: "/assets/images/3-projects/gf/2D.png"
+    image_path: "/assets/images/3-projects/gf/2D.png"
+    alt: "Green Fablab at LF2L"
+    title: "2D - Green Fablab at LF2L"
+    aspect: "1"
+    end_row: "true"   
+
+
+  - url: "/assets/images/3-projects/gf/3D.png"
+    image_path: "/assets/images/3-projects/gf/3D.png"
+    alt: "Green Fablab at LF2L"
+    title: "2D - Green Fablab at LF2L"
+    aspect: "1"
+    end_row: "true"
+
+
+  - url: "/assets/images/3-projects/gf/4D.png"
+    image_path: "/assets/images/3-projects/gf/4D.png"
+    alt: "Green Fablab at LF2L"
+    title: "2D - Green Fablab at LF2L"
+    aspect: "1"
+    end_row: "true"
+
+
+Galleria-GF:
+  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg"
+    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg"
+    alt: "Green Fablab at LF2L"
+    title: "2D - Green Fablab at LF2L"
+    aspect: "0.5"    
+  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/2-Nicolas-Maxime/GF-0001.jpg"
+    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/2-Nicolas-Maxime/GF-0001.jpg"
+    alt: "Green Fablab at LF2L"
+    title: "2D - Green Fablab at LF2L"
+    aspect: "1"
+    end_row: "true"
+
+    
+    
+
+evolve-photo:
+  - aspect: "1.3333"
+    url: "butterfly-closeup.jpg"
+    image_path: "butterfly-closeup-640.jpg"
+    alt: "Close up of a butterfly"
+  - aspect: "0.75"
+    url: "sky-scraper-reflection.jpg"
+    image_path: "sky-scraper-reflection-640.jpg"
+    alt: "Reflection of skyscrapers in water"
+    end_row: "true"
+  - aspect: "1.5059"
+    url: "boat-bow.jpg"
+    image_path: "boat-bow-640.jpg"
+    alt: "Bow of a boat"
+  - aspect: "0.4891"
+    url: "pasta-salad-wine.jpg"
+    image_path: "pasta-salad-wine-640.jpg"
+    alt: "Pasta, salads and wine"
+  - aspect: "0.5969"
+    url: "alphabet-teethers.jpg"
+    image_path: "alphabet-teethers-640.jpg"
+    alt: "Alphabet-shaped teethers"
 last_modified_at: 2018-11-15
 ---
 
@@ -171,6 +248,11 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 > The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology.
 > A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
+
+
+
+
+{% include made.by.fabio/flex-gallery  id="Photos2D" caption=" From to 2D to 4D" %} {: .text-right}
 
 
 {: .small  .notice--info}

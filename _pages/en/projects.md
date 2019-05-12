@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Projects at LF2L"
-layout: collection
+layout: splash
 permalink: /projects/
 collection: projects
 entries_layout: grid
@@ -13,14 +13,13 @@ header:
   overlay_filter: rgba(110, 110, 112, 0.5)
   show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
-
-sidebar:
-  nav: "projects"
   
 date: 2018-09-07
 ---
 
-## Projects of the LF2L 
 
+<div class="entries-{{ page.entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+</div>
 
 
