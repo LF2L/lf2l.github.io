@@ -11,11 +11,11 @@ transition: slide
 <section data-markdown data-separator="---">
 <script type="text/template">
 
-<img width="90%" class="plain" src="{{ site.baseurl | append:page.image-path | append: '../Logo-GF.png' }}">
+<img height="800px" class="plain" src="{{ site.baseurl | append:page.image-path | append: '../Logo-GF.png' }}">
 
 ##### à la 
 
-<img width="80%" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'FIN-2019/logo.jpg' }}">
+<img height="800px" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'FIN-2019/logo.jpg' }}">
 
 
 <img height="100px" class="plain" src="{{ site.baseurl | append:page.image-path | append: 'logos/UL-LF2L.png' }}">
