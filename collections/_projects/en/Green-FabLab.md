@@ -71,6 +71,12 @@ partners:
   title: ''
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
 
+- image_path: "/assets/images/3-projects/gf/logos/MTU.png"
+  teaser_class: GF-partners
+  alt: MTU
+  title: ''
+  excerpt: "[Michigan Technological University](https://www.mtu.edu)"  
+
 
 
 pedagogical:
@@ -297,7 +303,7 @@ caption="Pedagogical projects made by students  (*in french*)." %} {: .text-righ
 
 
 {: #GF-partners .GF-titles }
-## Our Partners
+## Our Academical Partners
 
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
