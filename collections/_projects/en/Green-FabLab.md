@@ -255,6 +255,11 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 {% include made.by.fabio/flex-gallery  id="Photos2D" caption=" From to 2D to 4D" %} {: .text-right}
 
 
+
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
+
+
+
 {: .small  .notice--info}
 **For more details:** <br>
 <cite>Cruz Sanchez, F. A., Boudaoud, H., Hoppe, S., & Camargo, M. (2017). </cite>[Polymer recycling in an open-source additive manufacturing context: Mechanical issues](https://doi.org/10.1016/j.addma.2017.05.013). Additive Manufacturing, 17, 87–105. 
