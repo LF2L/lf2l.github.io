@@ -23,7 +23,7 @@ header:
 
 
 
-## Some photos
+## Some photos of our process
 
 
 {% include folder-galleries path="GF/" %}
