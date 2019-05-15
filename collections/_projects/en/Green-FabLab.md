@@ -256,7 +256,6 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 
 
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
 
 
