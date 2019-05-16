@@ -13,3 +13,6 @@ header:
 last_modified_at: 2018-10-24 00:00:00 +0000
 
 ---
+
+
+![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'GSI-lab.jpg' }}){: .align-left}

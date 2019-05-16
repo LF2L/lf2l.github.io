@@ -1,7 +1,7 @@
 ---
 title: 'GSI Lab '
 permalink: "/fr/communities/gsilab/"
-img-path: "/assets/images/4-communities/students/"
+img-path: "/assets/images/4-communities/GSIlab/"
 classes: wide
 excerpt: Bienvenue aux GSI Lab
 header:
@@ -13,3 +13,7 @@ header:
 last_modified_at: 2018-10-24 00:00:00 +0000
 
 ---
+
+
+
+![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'GSI-lab.jpg' }}){: .align-left}
