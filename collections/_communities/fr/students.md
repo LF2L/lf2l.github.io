@@ -13,6 +13,7 @@ header:
 last_modified_at: 2018-10-24 00:00:00 +0000
 
 ---
+
 ## Vous êtes étudiant à l'ENSGSI ?
 
 
@@ -25,9 +26,9 @@ Le **Lorraine Fab Living Lab®** vous ouvre ses portes dans le cadre de cours p�
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'GSI-lab.jpg' }}){: .align-left}
 Pour vos projets personnels : rejoignez l’association **GSI Lab** – tous les jeudis de 14h à 18h au LF2L
 
-<br>
-<br>
-<br>
+Le GSI Lab est une association gérée par des élèves de l'ENSGSI.Fondée en 2009, elle permet à ses adhérents, au sein du Lorraine Fab Living Lab®, de créer  des  objets  et  de  réaliser  des  projets  personnels.  L'utilisation  des machines  au  sein  de  la  plateforme  a  également  un  but  pédagogique,  elle permet en  effet aux étudiants d’acquérir des compétences durant la réalisation de leurs projets.Bureau GSILab 2018-2019.
+
+
 
 {% include figure 
     image_path="/assets/images/4-communities/students/GSILAB-2018-2019.jpg" alt="GSI LAB" 
