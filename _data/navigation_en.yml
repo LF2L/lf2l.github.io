@@ -35,6 +35,9 @@ communities:
         url: /communities/students/
       - title: "Universities"
         url: /communities/universities/
+      - title: "GSI Lab"
+        url: /communities/gsilab/
+  
 
 
 place_tools:
