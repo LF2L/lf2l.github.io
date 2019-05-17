@@ -77,6 +77,14 @@ partners:
   title: ''
   excerpt: "[Michigan Technological University](https://www.mtu.edu)"  
 
+industrial-partners:
+- image_path: "/assets/images/3-projects/gf/logos/holipresse.jpg"
+  teaser_class: GF-partners
+  alt: Holipresse
+  title: ''
+  f_url: "https://www.facebook.com/holipresse/"
+  excerpt: "[Holipresse](https://www.facebook.com/holipresse/)"
+
 
 
 pedagogical:
@@ -150,29 +158,7 @@ Galleria-GF:
     
     
 
-evolve-photo:
-  - aspect: "1.3333"
-    url: "butterfly-closeup.jpg"
-    image_path: "butterfly-closeup-640.jpg"
-    alt: "Close up of a butterfly"
-  - aspect: "0.75"
-    url: "sky-scraper-reflection.jpg"
-    image_path: "sky-scraper-reflection-640.jpg"
-    alt: "Reflection of skyscrapers in water"
-    end_row: "true"
-  - aspect: "1.5059"
-    url: "boat-bow.jpg"
-    image_path: "boat-bow-640.jpg"
-    alt: "Bow of a boat"
-  - aspect: "0.4891"
-    url: "pasta-salad-wine.jpg"
-    image_path: "pasta-salad-wine-640.jpg"
-    alt: "Pasta, salads and wine"
-  - aspect: "0.5969"
-    url: "alphabet-teethers.jpg"
-    image_path: "alphabet-teethers-640.jpg"
-    alt: "Alphabet-shaped teethers"
-last_modified_at: 2018-11-15
+last_modified_at: 2019-05-15
 ---
 
 {: .align-center}
@@ -307,5 +293,14 @@ caption="Pedagogical projects made by students  (*in french*)." %} {: .text-righ
 
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
-
 </div>
+
+{: #GF-partners .GF-titles }
+## Our Industrial Partners
+
+<div id="GF-partners">  
+{% include feature_row id="industrial-partners" %}
+</div>
+
+
+
