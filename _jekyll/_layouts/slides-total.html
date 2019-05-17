@@ -96,9 +96,18 @@
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.
-        width: "100%",
-        height: "100%",
+                       
+        {%if page.width %}
+          width: '{{page.width}}',           
+        {% else %}
+          width: "100%",
+        {% endif %}
 
+        {%if page.height %}
+          height: '{{page.height}}',           
+        {% else %}
+          height: "100%",
+        {% endif %}
 
         // Vertical centering of slides
         center: true,
