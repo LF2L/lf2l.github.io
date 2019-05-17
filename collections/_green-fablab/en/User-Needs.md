@@ -19,7 +19,7 @@ transition: slide
 
 <!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo }}" data-background-size="95%" -->
 
-hola
+
 ---
 
 {% endfor %}
