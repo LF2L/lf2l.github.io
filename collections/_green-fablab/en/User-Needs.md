@@ -2,12 +2,11 @@
 layout: slides-total
 title: "Users Needs v.20"
 author: Fabio
-permalink: "/projects/Users-Needs/"
+permalink: "/projects/userneeds/"
 image-path: "/assets/images/3-projects/User-Needs/"
 description: A presentation slide for how to use reveal.js in Jekyll
 theme: white
 transition: slide
-published: true
 ---
 
 <section data-markdown data-separator="---">
@@ -19,6 +18,7 @@ published: true
 {% assign Diapo =   i   | append: ".jpg"  %}
 
 <!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo  }}" -->
+
 
 {% endfor %}
 
