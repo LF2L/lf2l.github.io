@@ -14,11 +14,13 @@ transition: slide
 
 
 {% for i in (1..17) %}
----
+
 {% assign Diapo =   i   | append: ".jpg"  %}
 
-<!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo  }}" -->
+<!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo }}" data-background-size="95%" -->
 
+hola
+---
 
 {% endfor %}
 
