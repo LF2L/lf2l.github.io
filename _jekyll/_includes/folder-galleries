@@ -1,7 +1,7 @@
 {% if include.path %}
-  {% assign imgpath = "/assets/images/galleries/" | append: include.path %}
+  {% assign imgpath =  include.path %}
 {% else %}
-  {% assign imgpath = '/assets/images/galleries/' %}
+  {% assign imgpath = '/assets/images/galleries/' | append: include.path %}
 {% endif %}
 
 <figure class="third">

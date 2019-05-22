@@ -26,5 +26,5 @@ header:
 ## Some photos of our process
 
 
-{% include folder-galleries path="GF/" %}
+{% include folder-galleries path="/assets/images/3-projects/gf/Gallery/" %}
 
