@@ -1,12 +1,12 @@
 ---
 title: Lorraine Smart City Living Lab
-date: 2018-02-25 00:00:00 +0000
+date: 2018-02-25T00:00:00.000+00:00
 permalink: "/projects/lorraine-smart-city-living-lab/"
 excerpt: an ENoLL Living Lab since 2010
 header:
   teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
   image: "/assets/images/3-projects/LSCLL/header.jpg"
-last_modified_at: 2018-10-24 00:00:00 +0000
+last_modified_at: 2018-10-24T00:00:00.000+00:00
 
 ---
 ![](/uploads/Logos LLs.png)
@@ -44,7 +44,7 @@ It covers: 5 Issues for innovative territories (Details to come)
 
 ## A recognized Living Lab, the result of the actors who make it up
 
-Designed from 2008, by the ERPI laboratory team in partnership with local socio-economic actors, the LSCLL is the LL of the University of Lorraine. It was recognized and accredited in 2010 by ENoLL, the European Living Lab network. In 2013, and in 2015, the LSCLL became a co-founding member of France Living Labs and Francophonie Living Labs.
+Designed from 2008, by the ERPI laboratory team in partnership with local socio-economic actors, the LSCLL is the LL of the University of Lorraine. It was recognized and [accredited in 2010 by ENoLL](https://enoll.org/network/living-labs/?livinglab=lorraine-smart-cities-living-lab), the European Living Lab network. In 2013, and in 2015, the LSCLL became a co-founding member of France Living Labs and Francophonie Living Labs.
 
 The LSCLL is a "_project mode_" led by the ERPI laboratory, with governance open to local actors interested in innovation through use at the service of citizens. The LSCLL does not have its own legal structure. It is the result of the pooling of the resources of actors who wish to collaborate together on a theme, a mechanism, a research question involving users in the development of responses to societal challenges.
 
