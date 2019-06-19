@@ -24,9 +24,10 @@ height: "80%"
 
 <!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo  }}" data-background-size="80%"  -->
 
+---
+
 {% endfor %}
 
----
 
 {% for i in (10..40) %}
 
@@ -34,9 +35,11 @@ height: "80%"
 
 <!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo  }}" data-background-size="80%"  -->
 
+---
+
 {% endfor %}
 
----
+
 
   
 </script>
