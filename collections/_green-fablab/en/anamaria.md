@@ -2,23 +2,37 @@
 layout: slides-total
 title: Green Fablab
 author: Fabio
-permalink: "/projects/green-fablab/anamaria-ppt/"
-image-path: "/assets/images/3-projects/gf/anamaria/presentation/"
+permalink: "/projects/summer-school/"
+image-path: "/assets/images/summer-school/"
 description: A presentation slide for how to use reveal.js in Jekyll
 theme: white
 transition: slide
-published: false
+published: true
+
+width: "80%"
+height: "80%"
+
 ---
 
 <section data-markdown data-separator="---">
 <script type="text/template">
 
 
-{% for i in (1..46) %}
----
-{% assign Diapo = "Diapositive" | append:  i   | append: ".jpeg"  %}
+{% for i in (1..9) %}
 
-<!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo  }}" -->
+{% assign Diapo = "Day II - Protoyping.00" | append:  i   | append: ".jpeg"  %}
+
+<!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo  }}" data-background-size="80%"  -->
+
+{% endfor %}
+
+---
+
+{% for i in (10..40) %}
+
+{% assign Diapo = "Day II - Protoyping.0" | append:  i   | append: ".jpeg"  %}
+
+<!-- .slide: data-background="{{ site.baseurl | append:page.image-path | append: Diapo  }}" data-background-size="80%"  -->
 
 {% endfor %}
 
