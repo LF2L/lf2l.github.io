@@ -155,8 +155,8 @@ Galleria-GF:
     aspect: "1"
     end_row: "true"
 
-    
-    
+
+
 
 last_modified_at: 2019-05-15
 ---
@@ -182,6 +182,10 @@ Therefore, a central issue today is how preserve material resources  to in terms
 > Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a _fabrication spaces_, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
 
 ***
+
+
+{% include video id="c8ZyTJ9-YxU" provider="youtube" %}
+
 
 {: #GF-Images .GF-titles }
 ## Green Fablab en Images
@@ -253,7 +257,7 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 {: .small  .notice--info}
 **For more details:** <br>
-<cite>Cruz Sanchez, F. A., Boudaoud, H., Hoppe, S., & Camargo, M. (2017). </cite>[Polymer recycling in an open-source additive manufacturing context: Mechanical issues](https://doi.org/10.1016/j.addma.2017.05.013). Additive Manufacturing, 17, 87–105. 
+<cite>Cruz Sanchez, F. A., Boudaoud, H., Hoppe, S., & Camargo, M. (2017). </cite>[Polymer recycling in an open-source additive manufacturing context: Mechanical issues](https://doi.org/10.1016/j.addma.2017.05.013). Additive Manufacturing, 17, 87–105.
 
 
 ***
@@ -304,3 +308,4 @@ caption="Pedagogical projects made by students  (*in french*)." %} {: .text-righ
 
 
 
+**Contact**: Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
