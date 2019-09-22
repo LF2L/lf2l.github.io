@@ -6,7 +6,6 @@ header:
   teaser: "/uploads/08-Open Source hardware production.png"
   image: ''
 last_modified_at: 2018-10-24T00:00:00.000+00:00
-published: false
 
 ---
 ### Fab Living lab approach on Smart meters and smart grids
