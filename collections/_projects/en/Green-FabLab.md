@@ -189,8 +189,6 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 
 
-{% include video id="c8ZyTJ9-YxU" provider="youtube" %}
-
 {: #GF-Images .GF-titles }
 ## Green Fablab en Images
 
@@ -312,7 +310,8 @@ caption="Pedagogical projects made by students  (*in french*)." %} {: .text-righ
 
 
 
-## Some examples
+## Some examples of our experiences
+
 
 
 {% include video id="c8ZyTJ9-YxU" provider="youtube" %}
