@@ -183,9 +183,13 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 ***
 
+### Distributing recycling
+
+{% include video id="JxF5gunuM1A" provider="youtube" %}
+
+
 
 {% include video id="c8ZyTJ9-YxU" provider="youtube" %}
-
 
 {: #GF-Images .GF-titles }
 ## Green Fablab en Images
@@ -305,6 +309,14 @@ caption="Pedagogical projects made by students  (*in french*)." %} {: .text-righ
 <div id="GF-partners">  
 {% include feature_row id="industrial-partners" %}
 </div>
+
+
+
+## Some examples
+
+
+{% include video id="c8ZyTJ9-YxU" provider="youtube" %}
+
 
 
 
