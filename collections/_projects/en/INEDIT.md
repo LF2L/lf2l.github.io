@@ -15,7 +15,11 @@ sidebar:
   - title: "Responsables of the project"
     image: http://placehold.it/350x250
     image_alt: "image"
-    text: "Laurent Dupont"
+  - text: "Laurent Dupont "  
+  - text: "Frederique MAYER"
+  - text: "Fedoua KASMI"
+  - text: "Fabio CRUZ"
+  - text: "Brunelle MARCHE"
   - title: "Another Title"
     text: "More text here."
     
