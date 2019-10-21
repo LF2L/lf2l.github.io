@@ -12,8 +12,8 @@ header:
   overlay_filter: 0.3
 
 sidebar:
-  - title: "Responsables of the project"
-  - text: "Laurent Dupont "  
+  - title: "Team WP4"
+  - text: "Laurent DUPONT"  
   - text: "Frederique MAYER"
   - text: "Fedoua KASMI"
   - text: "Brunelle MARCHE"
@@ -23,7 +23,7 @@ sidebar:
 published: false    
 --- 
 
-## Inedit
+## EU H2020  Inedit Project
 
 
 <iframe width="800" height="450" src="https://www.powtoon.com/embed/bXG1pPtGZdn/" frameborder="0"></iframe>
