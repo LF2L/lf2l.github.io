@@ -5,11 +5,11 @@ excerpt: Thesis and articles from ERPI Laboratory on Fab Living Lab, Living Lab,
   Lab
 header:
   overlay_color: "#333"
-  overlay_filter: 0.1
+  overlay_filter: "0.1"
   show_overlay_excerpt: true
 sidebar:
   nav: LF2L-concept
-last_modified_at: 2018-09-10 00:00:00 +0000
+last_modified_at: 2018-09-10T00:00:00.000+00:00
 toc: true
 toc_label: Year
 toc_sticky: true
@@ -51,11 +51,11 @@ toc_sticky: true
 
 ## 2015
 
-* Dupont, L., Morel, L., Guidat, C. (2015) Innovative Public-Private Partnership to Support Smart City: the Case of “Chaire REVES”. Journal of Strategy and Management, Vol. 8 Issue: 3, pp.245-265, https://doi.org/10.1108/JSMA-03-2015-0027
-* Dupont L., Guidat C., Morel L., Skiba N., The Role of Mock-ups in the Anticipation of the User Experience within a Living Lab: an Empirical Study. 2015 International Conference on Engineering, Technology and Innovation (ICE), Belfast, Northern Irland, 22-24 june 2015 DOI: https://doi.org/10.1109/ICE.2015.7438669
-* Osorio Bustamante F., Peña Reyes J.I., Camargo M., Dupont L. Spaces to foster and sustain innovation: Towards a conceptual framework. 2015 International Conference on Engineering, Technology and Innovation (ICE), Belfast, Northern Irland, 22-24 june 2015. DOI: 10.1109/ICE.2015.7438661
-* Morel, L., Dupont, L., Lhoste, P., When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France. Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
-* Dupont L.,Morel, L.,Lhoste, P., Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. In Actes des sessions du colloque Science & You, France, Nancy, June 3-5th, 2015, pp. 230-235.
+* Dupont, L., Morel, L., Guidat, C. (2015) Innovative Public-Private Partnership to Support Smart City: the Case of “Chaire REVES”. Journal of Strategy and Management, Vol. 8 Issue: 3, pp.245-265, [⟨10.1108/JSMA-03-2015-0027⟩](https://dx.doi.org/10.1108/JSMA-03-2015-0027). [⟨hal-01332233⟩](https://hal.archives-ouvertes.fr/hal-01332233)
+* Dupont L., Guidat C., Morel L., Skiba N., The Role of Mock-ups in the Anticipation of the User Experience within a Living Lab: an Empirical Study. 2015 International Conference on Engineering, Technology and Innovation (ICE), Belfast, Northern Irland, 22-24 june 2015 DOI: [⟨10.1109/ICE.2015.7438669⟩](https://dx.doi.org/10.1109/ICE.2015.7438669). [⟨hal-01332219⟩](https://hal.archives-ouvertes.fr/hal-01332219)
+* Osorio Bustamante F., Peña Reyes J.I., Camargo M., Dupont L. Spaces to foster and sustain innovation: Towards a conceptual framework. 2015 International Conference on Engineering, Technology and Innovation (ICE), Belfast, Northern Irland, 22-24 june 2015. DOI: [⟨10.1109/ICE.2015.7438661⟩](https://dx.doi.org/10.1109/ICE.2015.7438661). [⟨hal-01332445⟩](https://hal.archives-ouvertes.fr/hal-01332445)
+* Morel, L., Dupont, L., Lhoste, P., When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France. Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786. [⟨hal-01333488⟩](https://hal.archives-ouvertes.fr/hal-01333488)
+* Dupont L.,Morel, L.,Lhoste, P., Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. In Actes des sessions du colloque Science & You, France, Nancy, June 3-5th, 2015, pp. 230-235. [⟨hal-01331610⟩](https://hal.archives-ouvertes.fr/hal-01331610)
 
 ## 2014
 
