@@ -29,3 +29,7 @@ See more on :
 ### Contact
 
 Laurent Dupont: **l.dupont {at} univ-lorraine.fr**
+
+### Funds
+
+![](/uploads/2019/10/22/eu_flag-2015 copie.jpg) 
