@@ -32,4 +32,4 @@ Laurent Dupont: **l.dupont {at} univ-lorraine.fr**
 
 ### Funds
 
-![](/uploads/2019/10/22/eu_flag-2015 copie.jpg) 
+![](/uploads/2019/10/22/eu_flag-2015 copie.jpg) This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement No. 837626

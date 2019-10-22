@@ -26,3 +26,7 @@ published: false
 ### Let us know what you think
 
 [https://pad.numerique-en-commun.fr/INEDIT-Kickoff](https://pad.numerique-en-commun.fr/INEDIT-Kickoff)
+
+### Funds
+
+![](/uploads/2019/10/22/eu_flag-2015 copie.jpg) This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement No. 869952
