@@ -3,7 +3,7 @@ title: Smagrinet Project
 date: 2018-02-25T00:00:00.000+00:00
 excerpt: Powering Smart Grid Expertise in Europe
 header:
-  teaser: "/uploads/08-Open Source hardware production.png"
+  teaser: "/uploads/LogoSmagrinet-bd.png"
   image: ''
 last_modified_at: 2018-10-24T00:00:00.000+00:00
 
