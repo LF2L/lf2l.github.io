@@ -16,7 +16,7 @@ sidebar:
 - text: Fedoua KASMI
 - text: Brunelle MARCHE
 - text: Fabio CRUZ
-published: true
+published: false
 
 ---
 
