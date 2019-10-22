@@ -16,9 +16,10 @@ sidebar:
 - text: Fedoua KASMI
 - text: Brunelle MARCHE
 - text: Fabio CRUZ
-published: false
+published: true
 
 ---
+
 ## EU H2020 INEDIT Project
 
 <iframe width="800" height="450" src="https://www.powtoon.com/embed/bXG1pPtGZdn/" frameborder="0"></iframe>
