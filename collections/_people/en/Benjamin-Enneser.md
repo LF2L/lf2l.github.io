@@ -1,7 +1,7 @@
 ---
 title: Benjamin Enneser-Serville
 permalink: "/people/Benjamin-Enneser-Serville/"
-excerpt: 
+excerpt: Technological Manager
 date: 2018-04-03 00:00:00 +0000
 author: Benjamin
 header:
