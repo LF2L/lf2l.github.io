@@ -1,8 +1,8 @@
 ---
 title: Fabio CRUZ
 permalink: "/fr/people/Fabio-Cruz/"
-excerpt: Ingenieure de Recherche
-date: 2018-04-03 00:00:00 +0000
+excerpt: Ingenieur de Recherche
+date: 2018-04-03T00:00:00.000+00:00
 author: Fabio Cruz
 header:
   teaser: "/assets/images/6-info/equipe/Fabio.jpg"
