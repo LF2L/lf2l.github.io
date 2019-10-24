@@ -1,9 +1,9 @@
 ---
-title: Laurent Dupont
+title: Laurent DUPONT
 permalink: "/fr/people/Laurent-Dupont/"
 excerpt: Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherche ERPI
   / ENSGSI
-date: 2019-03-07 10:00:44 +0000
+date: 2019-03-07T10:00:44.000+00:00
 author: Laurent Dupont
 header:
   teaser: "/assets/images/6-info/equipe/LD.jpg"
@@ -40,4 +40,4 @@ L. Dupont est de plus membre :
 * Participation à de nombreux événements grands publics, émission de radio ou TV pour diffuser la culture de l'innovation et des sciences.
 * Création et co-animation des Open Citizen Labs depuis 2016 lors de la Foire Internationale de Nancy (environ 115 000 visiteurs).
 * Membre des "ateliers des possibles" de la Métropole Grand Nancy (2014-2017)
-* Membre du Comité d'Orientation de la Transition Écologique de la Ville de Nancy (COTEN) 
+* Membre du Comité d'Orientation de la Transition Écologique de la Ville de Nancy (COTEN)
