@@ -1,14 +1,8 @@
 Benjamin:
   name: "Benjamin Enneser-Serville"
-  bio: "Operateur polyvanlent"
+  bio: "Responsable Technique LF2L / Operateur polyvalent"
   avatar: "/assets/images/6-info/equipe/Benjamin.jpg"
   
-Gregory:
-  name: "Gregory Dupont"
-  bio: " "
-  avatar: "/assets/images/6-info/equipe/GD.jpg"
-
-
 
 Fabio Cruz:
   name: "Fabio Cruz"
@@ -56,7 +50,7 @@ Giovanny Arbelaez:
 
 Laure Morel:
   name: "Laure Morel"
-  bio: "Directrice du Laboratoire ERPI"
+  bio: "Professeur, Directrice de l'ENSGSI"
   avatar: "/assets/images/6-info/equipe/LM.jpg"
   links:
     - label: "Google Scholar"
@@ -65,13 +59,13 @@ Laure Morel:
 
 Pascal Lhoste:
   name: "Pascal L'hoste"
-  bio: "Directeur de l'ENSGSI"
+  bio: "Professeur"
   avatar: "/assets/images/6-info/equipe/PL.jpg"
 
 Laurent Dupont:
   name: "Laurent Dupont"
-  bio: "Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherche ERPI / ENSGSI"
-  avatar: "/assets/images/6-info/equipe/LD.jpg"
+  bio: "Co-fondateur et Responsable Scientifique du LF2L / Ingénieur de Recherche ERPI-ENSGSI"
+  avatar: "/uploads/2019/10/24/2019-04-L_Dupont-2.jpg"
   email: l.dupont@univ-lorraine.fr
   links:
     - label: "Google Scholar"
