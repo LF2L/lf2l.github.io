@@ -15,11 +15,6 @@ Coresponsable du parcours IUVTT (M2 aménagement et urbanisme)
 
 WP Leader [Projet H2020 INEDIT](http://lf2l.fr/projects/inedit/) et Pilote pour ERPI du projet [H2020 Smagrinet](http://lf2l.fr/projects/en/linky-by-makers/)
 
-* [Google Scholar](https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr)
-* [Researchgate](https://www.researchgate.net/profile/Laurent_Dupont7)
-* [Mendeley](https://www.mendeley.com/profiles/laurent-dupont2/)
-* [LinkedIn](http://www.linkedin.com/in/dupontl)
-
 **Recherche :**
 
 Co-fondateur et responsable scientifique du Lorraine Fab Living Lab® (2014) ([www.LF2L.fr](www.LF2L.fr)), plate-forme du Laboratoire ERPI dédiée à l’évaluation prospective des usages et l’acceptabilité des innovations.
