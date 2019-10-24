@@ -6,7 +6,7 @@ excerpt: Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherch
 date: 2019-03-07T10:00:44.000+00:00
 author: Laurent Dupont
 header:
-  teaser: "/assets/images/6-info/equipe/LD.jpg"
+  teaser: https://github.com/LF2L/lf2l.github.io/blob/source/uploads/2019/10/24/2019-04-L_Dupont%20copie.jpg
 
 ---
 Laurent Dupont, Ing . Dr., est Ingénieur de Recherche au laboratoire ERPI (Équipe de Recherche sur les Processus Innovatifs - EA n° 3767) et à l’ENSGSI de l’Université de Lorraine (Qualifié en CNU24 et CNU60).
