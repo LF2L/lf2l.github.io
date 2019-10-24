@@ -1,6 +1,6 @@
 ---
 title: Benjamin Enneser-Serville
-permalink: "/people/Benjamin-Enneser-Serville/"
+permalink: "/people/Benjamin-Ennesser-Serville/"
 excerpt: 
 date: 2018-04-03 00:00:00 +0000
 author: Benjamin
