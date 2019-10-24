@@ -1,5 +1,5 @@
 ---
-title: Pascal L'Hoste
+title: Pascal LHOSTE
 permalink: "/fr/people/Pascal-Lhoste/"
 excerpt: Professeur des Universités
 date: 2018-01-01T00:00:00.000+00:00
