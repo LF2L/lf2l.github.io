@@ -14,7 +14,7 @@ role:
 - IG
 
 ---
-Je suis associé de recherche au laboratoire ERPI.
+Je suis chercheur associé au laboratoire ERPI.
 
 Je travaille spécifiquement à la plateforme de recherche Lorraine Fab Living Lab ([http://lf2l.fr/](http://lf2l.fr/ "http://lf2l.fr/")) sur des sujets liés au processus d'impression 3D.
 
