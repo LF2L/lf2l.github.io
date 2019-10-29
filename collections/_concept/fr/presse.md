@@ -48,82 +48,47 @@ News_2015:
 ## 2019
 
 <div class="wp-playlist-current-item">
-	
 	<img src="https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2019/07/France_Bleu_LF2L_naissance_innovation-mp3-image-150x150.jpg" alt="">
-	
 	<div class="wp-playlist-caption">
 		<span class="wp-playlist-item-meta wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Le recyclage individuel des plastiques 26.06.2019&nbsp;»</span>
 		<span class="wp-playlist-item-meta wp-playlist-item-album">Au coeur de l'innovation en Lorraine - Le recyclage individuel des plastiques</span>
-		
 	</div>
 </div>
 
 <div class="wp-playlist-tracks">
 	<div class="wp-playlist-item wp-playlist-playing">
 		<a class="wp-playlist-caption" href="https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2019/07/France_Bleu_LF2L_recyclage_plastiques.mp3">
-			1. 
-			
-				<span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Le recyclage individuel des plastiques 26.06.2019&nbsp;»</span>
-				
-			
+			1. <span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Le recyclage individuel des plastiques 26.06.2019&nbsp;»</span>
 		</a>
-		
 		<div class="wp-playlist-item-length">3:11</div>
-		
-	</div>
+</div>
 
-	<div class="wp-playlist-item">
+<div class="wp-playlist-item">
 		<a class="wp-playlist-caption" href="https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2019/07/France_Bleu_Lorraine_Fab_Living_Lab.mp3">
-			2. 
-			
-				<span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Découverte du Fab Living Lab de l'université de Lorraine 24.06.2019&nbsp;»</span>
-				
-			
+			2. <span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Découverte du Fab Living Lab de l'université de Lorraine 24.06.2019&nbsp;»</span>
 		</a>
-		
 		<div class="wp-playlist-item-length">3:44</div>
-		
 	</div>
-
 	<div class="wp-playlist-item">
 		<a class="wp-playlist-caption" href="https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2019/07/France_Bleu_LF2L_naissance_innovation.mp3">
-			3. 
-			
-				<span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine -  La naissance de l'innovation. 28.06.2019&nbsp;»</span>
-				
-			
+			3. <span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine -  La naissance de l'innovation. 28.06.2019&nbsp;»</span>
 		</a>
-		
-		<div class="wp-playlist-item-length">3:42</div>
-		
+	<div class="wp-playlist-item-length">3:42</div>
 	</div>
-
 	<div class="wp-playlist-item">
 		<a class="wp-playlist-caption" href="https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2019/07/France_Bleu_LF2L_chirurgie_dentaire.mp3">
-			4. 
-			
-				<span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Chirurgie Dentaire 25.06.2019&nbsp;»</span>
-				
-			
+			4. <span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Chirurgie Dentaire 25.06.2019&nbsp;»</span>
 		</a>
-		
 		<div class="wp-playlist-item-length">3:54</div>
-		
 	</div>
-
 	<div class="wp-playlist-item">
 		<a class="wp-playlist-caption" href="https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2019/07/France_Bleu_emballages_cosmetiques.mp3">
-			5. 
-			
-				<span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Les emballages cosmétiques 27.06.2019&nbsp;»</span>
-				
-			
+			5. <span class="wp-playlist-item-title">«&nbsp;Au coeur de l'innovation en Lorraine - Les emballages cosmétiques 27.06.2019&nbsp;»</span>
 		</a>
-		
 		<div class="wp-playlist-item-length">3:34</div>
-		
 	</div>
 </div>
+
 ## 2018
 
 ## 2017
