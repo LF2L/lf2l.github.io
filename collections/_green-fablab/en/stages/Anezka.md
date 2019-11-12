@@ -2,7 +2,7 @@
 title: "Project: Open Source Melt Flow index"
 class: wide
 date: 2019-11-12
-permalink: /green-fablab/osmfi/
+permalink: /projects/green-fablab/osmfi/
 image-path: "/assets/images/3-projects/gf/stages/anezka/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
@@ -19,16 +19,26 @@ toc_sticky: true
 
 Planning: 
   - title: "Global project"
-    url: /green-fablab/osmfi/
+    url: /projects/green-fablab/osmfi/
 
   - title: "November"
     url: /green-fablab/osmfi/
   - title: "December"
     url: /green-fablab/osmfi/
 
+sidebar:
+  nav: "Planning"
+
+
+partners:
+- image_path: "/assets/images/3-projects/gf/logos/MTU.png"
+  teaser_class: GF-partners
+  alt: MTU
+  title: ''
+  excerpt: "[Michigan Technological University](https://www.mtu.edu)"  
+
 ---
 
-{% include nav_list nav="Planning" %}
 
 
 ## Introduction
@@ -52,6 +62,11 @@ Melt Flow Index (MFI) is an indirect technique to measure the viscosity of polym
 
 Of all the family of capillary flow systems the Melt Flow Indexer is the cheapest and the most widely used. This test can be repeated at two different loads to determine the flow rate ratio (FRR). Flow rate may be determined as a function of applied load so that a qualitative indication of pseudoplasticity is readily obtained by comparing the ratios of flow rate at two different loads. The MI and FRR values provide correlations to the molecular weight and molecular weight distribution. Assuming all other things are equal, the lower the MI values, the higher the molecular weight and the higher the FRR, and the broader the molecular weight distribution.
 
+This projects is in collaboration with MTU
+
+<div id="GF-partners">  
+{% include feature_row id="partners" %}
+</div>
 
 
 
