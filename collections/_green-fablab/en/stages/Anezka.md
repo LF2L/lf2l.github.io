@@ -13,11 +13,11 @@ header:
 
 toc: true
 toc_label: "Project Development"
-toc_icon: "file-alt" 
+toc_icon: "file-alt"
 toc_sticky: true
 
 
-Planning: 
+Planning:
   - title: "Global project"
     url: /projects/green-fablab/osmfi/
 
@@ -47,7 +47,7 @@ partners:
 
 <img width="20%" class="align-left" src="{{ site.baseurl | append:page.image-path | append: 'Anezka.png' }}">
 I am a student coming from the Czech Republic and this academic year (2019/2020).
-I am finishing my Master's degree at UCT Prague in Polymer materials. I came to Nancy in order to participate in research concerning polymer membranes at LCPM and to elaborate on my Master's thesis. At the beginning of November, I joined the Green FabLab team for my six-month internship. During this time I will be working on the project which concerns designing, building and making first trial tests of the Melt Flow Index system for evaluating plastic waste for 3D printing. This project will be in collaboration with Joshua Pearce from Michigan University. 
+I am finishing my Master's degree at UCT Prague in Polymer materials. I came to Nancy in order to participate in research concerning polymer membranes at LCPM and to elaborate on my Master's thesis. At the beginning of November, I joined the Green FabLab team for my six-month internship. During this time I will be working on the project which concerns designing, building and making first trial tests of the Melt Flow Index system for evaluating plastic waste for 3D printing. This project will be in collaboration with Joshua Pearce from Michigan University.
 
 
 
@@ -86,7 +86,7 @@ The main specific goals of this internship are:
 -   Documentation of the prototype.
 -   Establishment a protocol to use considering the user experience.
 
-### Expected elements to the end of the project 
+### Expected elements to the end of the project
 
 The following elements are expected as results:
 
@@ -102,8 +102,8 @@ The following elements are expected as results:
 
 **First week**
 
--[X] Introduction to the project
--[X] Print of the first object
+- [X] Introduction to the project
+- [X] Print of the first object
 
 
 **Second week**
@@ -128,8 +128,3 @@ The following elements are expected as results:
 
 
 ### April
-
-
-
-
-
