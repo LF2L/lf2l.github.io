@@ -27,8 +27,6 @@ Planning:
   - title: "December"
     url: /green-fablab/osmfi/
 
-sidebar:
-  nav: "Planning"
 
 
 partners:

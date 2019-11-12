@@ -27,7 +27,7 @@ Planning:
     url: /green-fablab/osmfi/
 
 sidebar:
-  nav: "Planning"
+  nav: ""
 
 
 partners:
