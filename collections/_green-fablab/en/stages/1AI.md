@@ -15,7 +15,6 @@ sidebar:
   nav: "2019.1AI"
 
 
-
 partners:
 - image_path: "/assets/images/3-projects/gf/stages/2019/1AI/RVM.jpg"
   teaser_class: GF-partners
@@ -88,7 +87,6 @@ students:
 </div>
 
 
-## Tuto
 
 
 ## Planning
