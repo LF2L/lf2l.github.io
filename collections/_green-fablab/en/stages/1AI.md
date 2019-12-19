@@ -1,7 +1,6 @@
 ---
-layout: splash
+layout: single
 title: "A Smart grid of plastics at the “Rives de Meurthe” Neighborhood"
-class: wide
 date: 2019-11-12
 permalink: /projects/green-fablab/2019/1AI/
 image-path: "/assets/images/3-projects/gf/stages/2019/1AI/"
@@ -12,20 +11,8 @@ header:
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
 
-toc: true
-toc_label: "Project Development"
-toc_icon: "file-alt"
-toc_sticky: true
-
-
-Planning:
-  - title: "Global project"
-    url: /projects/green-fablab/osmfi/
-
-  - title: "November"
-    url: /green-fablab/osmfi/
-  - title: "December"
-    url: /green-fablab/osmfi/
+sidebar:
+  nav: "2019.1AI"
 
 
 
@@ -36,43 +23,35 @@ partners:
   title: ''
   excerpt: "[Rives de Meurthe](https://rives-de-meurthe.fr/)"  
 
+students:
+- image_path: "/assets/images/3-projects/gf/stages/2019/1AI/Charline.png"
+  teaser_class: staff
+  alt: " "
+  title: ''
+  excerpt: "Charline JOETS"  
+- image_path: "/assets/images/3-projects/gf/stages/2019/1AI/Margaux.png"
+  teaser_class: staff
+  alt: " "
+  title: ''
+  excerpt: "Margaux GUYADER"  
+- image_path: "/assets/images/3-projects/gf/stages/2019/1AI/Masire.png"
+  teaser_class: staff
+  alt: " "
+  title: ''
+  excerpt: "Masire CAMARA"    
+- image_path: "/assets/images/3-projects/gf/stages/2019/1AI/Samuel.png"
+  teaser_class: staff
+  alt: " "
+  title: ''
+  excerpt: "Samuel DOUDAUD"      
 ---
 
 
 
 ## Introduction
 
-### Étudiants: 1AI Ecole ENSGSI 2019-2020
 
- 
-<img width="20%" class="align-left" src="{{ site.baseurl | append:page.image-path | append: 'Man.jpg' }}">
-- Samuel DOUDAUD
-
-
-<img width="20%" class="align-left" src="{{ site.baseurl | append:page.image-path | append: 'Woman.jpg' }}">
-Masire CAMARA
-
-<img width="20%" class="align-left" src="{{ site.baseurl | append:page.image-path | append: 'Woman.jpg' }}">
-Margaux GUYADER
-
-<img width="20%" class="align-left" src="{{ site.baseurl | append:page.image-path | append: 'Woman.jpg' }}">
-Charline JOETS
-
-
-
-<div class="cf"></div>
-
-### Partners dans ce projet
-
-<div id="GF-partners">  
-{% include feature_row id="partners" %}
-</div>
-
-
-
-## Goals
-
-
+## Objectifs
 
 
 ### Objectifs spécifiques
@@ -92,6 +71,26 @@ Charline JOETS
   + Citoyen: Foire International de Nancy
 
 
+
+### Étudiants: 1AI Ecole ENSGSI 2019-2020
+
+{% include feature_row id="students" layout="four" class="staff" %}
+
+
+
+
+<div class="cf"></div>
+
+### Partners dans ce projet
+
+<div id="GF-partners">  
+{% include feature_row id="partners" %}
+</div>
+
+
+## Tuto
+
+
 ## Planning
 
 {% capture notice-text %}
@@ -101,62 +100,7 @@ Charline JOETS
 {% endcapture %}
 
 
-<div class="notice--danger">
-  <h4>à Faire:</h4>
-  {{ notice-text | markdownify }}
-</div>
 
 
 
 
-
-
-### November 2019
-
--  **Semaine 5-8**
-
-  - [X] Introduction au projet
-  - [X] Prémière test technique avec machine Holipresse. 
-
-
--  **Semaine 11 - 15** 
-
-  - [ ] Description de chaque étudiant et rôle
-  - [ ] Définition d'un planning 
-  - [ ] Définition des outils en commun de travail pour le projet
-  - [ ] Test de récyclage avec machine Holipress. (Photo + Documentation step by step)
-  - [ ] Préparation de prmère réunion avec M.Sacco
-    - [ ] Presentation du projet
-    - [ ] Analyse d'acteur ?   
-
-
-
-- **Semaine 11 - 15** 
-
-  - [ ] Réunion avec M. Dominique Sacco
-
-
-- **Semaine 11 - 15** 
-
-
-
-### December 2019
-
-
-### January 2020
-
-
-### Fevrier 2020
-
-
-### Mars 2020
-
-
-### Avril 2020
-
-### Mai 2020
-
-### Juin 2020
-
-
-### Juillet 2020

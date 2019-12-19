@@ -141,4 +141,21 @@ tutorials:
       - title: "VR"
         url: /
 
+2019.1AI: 
+  - title: "Projet ENSGSI 1AI-2019"
+    url: /projects/green-fablab/2019/1AI/
+    children:
+      - title: "Presentation du projet"
+        url: /projects/green-fablab/2019/1AI/
+
+  - title: "Development du projet"  
+    children:
+      - title: "Novembre"
+        url: /projects/green-fablab/2019/1AI/november/
+      - title: "Decembre"
+        url: /projects/green-fablab/2019/1AI/december/
+      - title: "Janvier 2020"
+        url: /
+#      - title: "Fevrier"
+#        url: /
 
