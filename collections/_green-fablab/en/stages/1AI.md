@@ -56,18 +56,18 @@ students:
 ### Objectifs spécifiques
 
 - Expérimentation de collecte distribué
-- Création et preuve de concept d’une démonstrateur de recyclage au rives de Meurthe
-- Enquêtes sur l’acceptabilité social pour les initiatives des recyclage (à valider avec la partie recherche du projet) 
+- Création et preuve de concept d’un démonstrateur de recyclage aux rives de Meurthe
+- Enquêtes sur l’acceptabilité sociale pour les initiatives des recyclages (à valider avec la partie recherche du projet) 
 
 
 ### Résultats attendus à la fin du projet
 
 - Co-création de la cartographie d'acteurs avec le projet 1AI 
-- Vidéo sur le démostrateur de recyclage sur le récyclage pour chaque acteur:
+- Vidéo sur le démonstrateur de recyclage / sur le récyclage pour chaque acteur:
   + Publique: ENSGSI (GSI Media + Challengue de Recyclage)
   + Publique: Université de Lorraine (BioPôle-IMoPA, Equipe RNA-RNP)
   + Privé: ATP Rives de Meurthe (à définir)
-  + Citoyen: Foire International de Nancy
+  + Citoyen: Foire Internationale de Nancy
 
 
 
