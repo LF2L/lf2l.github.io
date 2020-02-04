@@ -159,3 +159,20 @@ tutorials:
 #      - title: "Fevrier"
 #        url: /
 
+
+
+Climatelabs:
+  - title: "Climatelabs CLT"
+    url: /projects/climatelabs/
+    children:
+      - title: "Instrument"
+        url: /projects/climatelabs/CLT-instrument/
+      - title: "Diagnosis"
+        url: /projects/climatelabs/
+      - title: "Conformation"
+        url: /projects/climatelabs/
+      - title: "Governance"
+        url: /projects/climatelabs/
+      - title: "Information"
+        url: /projects/climatelabs/
+

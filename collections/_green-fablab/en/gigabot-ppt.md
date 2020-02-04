@@ -7,7 +7,7 @@ image-path: "/assets/images/3-projects/gf/gigabot/meeting/"
 description: Presentation of Green Fablab of the University of Lorraine
 theme: white
 transition: slide
-published: true
+published: false
 
 width: "80%"
 height: "80%"

@@ -336,6 +336,11 @@ collections:
     permalink: /:collection/:path/
 
 
+  climatelabs:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 
 defaults:
