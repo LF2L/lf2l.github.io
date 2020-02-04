@@ -77,7 +77,7 @@ partners:
   title: ''
   excerpt: "[Michigan Technological University](https://www.mtu.edu)"  
 
-- image_path: "https://github.com/LF2L/GF-Ana/blob/master/figures/Logos/Univ-Freiburg.png"
+- image_path: "https://raw.githubusercontent.com/LF2L/GF-Ana/master/figures/Logos/Univ-Freiburg.png"
   teaser_class: GF-partners
   alt: "Chair of Societal Transition & Circular Economy"
   title: ''
