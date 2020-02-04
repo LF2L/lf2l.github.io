@@ -23,7 +23,7 @@ sidebar:
 
 # Project Climate Labs
 
-## Changemaker Leader Team (CLT)
+## Task 1.1 Changemaker Leader Team (CLT)
 
 ### Goal of the task
 
@@ -37,17 +37,21 @@ horizontal and open leadership.
 
 Main sub-tasks are:
 
-- Design of the instrument to support the development of effective Changemaker  Leader Teams.
+- [Design of the instrument to support the development of effective Changemaker  Leader Teams.](/projects/climatelabs/CLT-instrument/)
+ 
 - Coordinate and apply internal diagnose of competences and opportunities for conformation of CLT.
+
 - Conformation of CLTs in each partner University
+
 - Set governance system within each CLT that promotes a transparent decision- making process and collaborative leadership 
+
 - Inform of constituted CLTs to all partners
  
 
 **Timming: February 01 - June 30 / 2020**
 
+## Expected outcome
 
-## Expected outcome
 
 - Communication of the requirements for the team conformation.
 - Diagnosis rubric application (each institution).
