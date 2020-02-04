@@ -6,8 +6,9 @@ author: Fabio
 
 excerpt: "Co-creation labs for mitigation and adaptation to Climate Change"
 header:
-  teaser: "/assets/images/3-projects/OSTRL/teaser.jpg"
-  overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
+  teaser: "/assets/images/3-projects/climatelabs/header.jpg"
+  overlay_image: "/assets/images/3-projects/climatelabs/header.jpg"
+  caption: "Photo credit:  Bill Oxford on [Unsplash](https://unsplash.com/@bill_oxford)"
   overlay_filter: 0.5
 
 
