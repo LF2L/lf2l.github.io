@@ -21,8 +21,15 @@ sidebar:
 ---
 
 
+
+
+
 # Context
 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQw_QU_uWtS3CGZEmk-nl53aVgDsLJ3dO0O3bFelmv0fLvQBeeGaTQj9pJ1C7wluA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## some de
 Social innovation labs as collaborative intermediary organisations require skilled labour to manage all the different tasks around the work of a lab. 
 
 Ideally, people working in the lab have work experience in several societal sectors, or at least the mix of team members yields work experience in different sectors (public administration, private, not-for-profit etc.) and different policy fields (education, labour, health etc.). 
