@@ -62,7 +62,7 @@ icons:
   caption="**Innovate**" %}
 </div>
 
-## Inside of the fourth dimmension of Innovation 
+## Inside of the fourth dimension of Innovation 
 {: .text-center}
 
 {% include feature_row id="intro" type="center" %}
