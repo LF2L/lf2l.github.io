@@ -33,12 +33,17 @@ sidebar:
 ## Competences for Social Innovation Lab Teams
 
 
-Social innovation labs as collaborative intermediary organisations require skilled labour to manage all the different tasks around the work of a lab. 
+The creation of Social Innovation Labs needs competencies in order to manage differet type of task around the work of a lab.
 
-Ideally, people working in the lab have work experience in several societal sectors, or at least the mix of team members yields work experience in different sectors (public administration, private, not-for-profit etc.) and different policy fields (education, labour, health etc.). 
-This way, the lab- secretariat itself involves practitioners with diverse perspectives on societal challenges. 
-Furthermore, this mix of lab-secretariat team members generates a multitude of key competencies that effective lab-processes rely on (Civic systems lab 2016; BMUB 2016; Puttick 2014a, Schneidewind 2013):
+Multidisciplinarity and interdisciplinarity teams is an ideally setup.
+People that have work experience in several sectors (public administration, private, not-for-profit etc.) and different policy fields (education, labour, health etc.). 
+In doing so,  the lab itself involves practitioners with diverse perspectives on societal challenges. 
+Furthermore, this mix of team members generates a multitude of key competencies that effective lab-processes rely on:
 
+
+# Goal
+
+> Make an initial competences cartography in order to assest the evolution of the creation of the labs. 
 
 
 
@@ -48,6 +53,21 @@ Furthermore, this mix of lab-secretariat team members generates a multitude of k
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEiLlovi-aSWV98MwyBpxF4EmIMEjsa_6edbvvsqL5I0i6Wg/viewform?embedded=true" width="100%" height="3000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
+
+# Expected results
+
+- Profil for each LA partner university.
+- Identification of competences that are missing. 
+
+
+
+
 # Bibliography
 
-- 
+- Bustamante, F.O., Reyes, J.I.P., Camargo, M., Dupont, L., 2016. Spaces to foster and sustain innovation: Towards a conceptual framework. 2015 IEEE Int. Conf. Eng. Technol. Innov. Int. Technol. Manag. Conf. ICE/ITMC 2015. https://doi.org/10.1109/ICE.2015.7438661
+- Osorio, F., Dupont, L., Camargo, M., Pena, J.I., 2019. Constellation of Innovation Laboratories: A Scientific Outlook. Proc. - 2019 IEEE Int. Conf. Eng. Technol. Innov. ICE/ITMC 2019. https://doi.org/10.1109/ICE.2019.8792816
+- Osorio, F., Dupont, L., Camargo, M., Palominos, P., Peña, J.I., Alfaro, M., 2019. Design and management of innovation laboratories: Toward a performance assessment tool. Creat. Innov. Manag. 28, 82–100. https://doi.org/10.1111/caim.12301
+
+- Puttick, Ruth (2014a): Innovation Teams and Labs. A Practice Guide. With assistance of Nesta's Innovation Skills team. Edited by Nesta, checked on 8/1/2016.
+
+- Wascher, E., Hebel, F., Schrot, K., Schultze, J., 2018. Social Innovation Labs - A starting point for social innovation. Dortmund.
