@@ -27,7 +27,7 @@ sidebar:
 # Context
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQw_QU_uWtS3CGZEmk-nl53aVgDsLJ3dO0O3bFelmv0fLvQBeeGaTQj9pJ1C7wluA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQw_QU_uWtS3CGZEmk-nl53aVgDsLJ3dO0O3bFelmv0fLvQBeeGaTQj9pJ1C7wluA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Competences for Social Innovation Lab Teams
@@ -50,7 +50,7 @@ Furthermore, this mix of team members generates a multitude of key competencies 
 # Methodology
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEiLlovi-aSWV98MwyBpxF4EmIMEjsa_6edbvvsqL5I0i6Wg/viewform?embedded=true" width="100%" height="3000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEiLlovi-aSWV98MwyBpxF4EmIMEjsa_6edbvvsqL5I0i6Wg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
