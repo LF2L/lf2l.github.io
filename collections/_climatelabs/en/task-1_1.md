@@ -27,7 +27,7 @@ sidebar:
 # Context
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQw_QU_uWtS3CGZEmk-nl53aVgDsLJ3dO0O3bFelmv0fLvQBeeGaTQj9pJ1C7wluA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQw_QU_uWtS3CGZEmk-nl53aVgDsLJ3dO0O3bFelmv0fLvQBeeGaTQj9pJ1C7wluA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Competences for Social Innovation Lab Teams
