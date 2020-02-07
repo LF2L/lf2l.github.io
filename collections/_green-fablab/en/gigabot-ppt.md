@@ -2,12 +2,12 @@
 layout: slides-total
 title: Green Fablab
 author: Fabio
-permalink: "/green-fablab/re3d-meeting/"
+permalink: "/green-fablab/presentation/"
 image-path: "/assets/images/3-projects/gf/gigabot/meeting/"
 description: Presentation of Green Fablab of the University of Lorraine
 theme: white
-transition: slide
-published: false
+transition: none
+published: true
 
 width: "80%"
 height: "80%"
