@@ -61,14 +61,17 @@ Main sub-tasks are:
 # Kick-off Workshop March 2 / 2020
 
 
-Let's build the Hero JOurney for each University !!
-
-<a href="https://pad.numerique-en-commun.fr/Climatelabs">Visit our HTML tutorial
-![Work-shop ERPI](/assets/images/3-projects/climatelabs/ERPI-workshop.jpg)
-</a>
+Let's build the Hero Journey for each University !!
 
 
-[https://pad.numerique-en-commun.fr/Climatelabs](https://pad.numerique-en-commun.fr/Climatelabs)
+<figure style="width: 100%" class="align-center"> 
+  <a href="https://pad.numerique-en-commun.fr/Climatelabs">
+    <img src="{{ site.baseurl | append:page.image-path | append:'ERPI-workshop.jpg'}}" alt=""> 
+  </a>
+  <figcaption> <a href="https://pad.numerique-en-commun.fr/Climatelabs" target="_blank">Let's build together this. Click the map </a>. </figcaption> </figure>
+
+
+
 
 
 
