@@ -37,14 +37,10 @@ horizontal and open leadership.
 
 Main sub-tasks are:
 
-- [Design of the instrument to support the development of effective Changemaker  Leader Teams.](/projects/climatelabs/CLT-instrument/)
- 
+- Design of the instrument to support the development of effective Changemaker  Leader Teams.
 - Coordinate and apply internal diagnose of competences and opportunities for conformation of CLT.
-
 - Conformation of CLTs in each partner University
-
 - Set governance system within each CLT that promotes a transparent decision- making process and collaborative leadership 
-
 - Inform of constituted CLTs to all partners
  
 
@@ -60,6 +56,23 @@ Main sub-tasks are:
 - Guide: Principles for building strong inter-university multidisciplinary teams.
 
 **Languages:  Spanish and Portuguese**
+
+
+# Kick-off Workshop March 2 / 2020
+
+
+Let's build the Hero JOurney for each University !!
+
+<a href="https://pad.numerique-en-commun.fr/Climatelabs">Visit our HTML tutorial
+![Work-shop ERPI](/assets/images/3-projects/climatelabs/ERPI-workshop.jpg)
+</a>
+
+
+[https://pad.numerique-en-commun.fr/Climatelabs](https://pad.numerique-en-commun.fr/Climatelabs)
+
+
+
+
 
 
 
