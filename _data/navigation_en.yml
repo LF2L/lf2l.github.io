@@ -162,17 +162,17 @@ tutorials:
 
 
 Climatelabs:
-  - title: "Climatelabs CLT"
+  - title: "Climatelabs"
     url: /projects/climatelabs/
-    children:
-      - title: "Instrument"
-        url: /projects/climatelabs/CLT-instrument/
-      - title: "Diagnosis"
-        url: /projects/climatelabs/
-      - title: "Conformation"
-        url: /projects/climatelabs/
-      - title: "Governance"
-        url: /projects/climatelabs/
-      - title: "Information"
-        url: /projects/climatelabs/
+#    children:
+#      - title: "Instrument"
+#        url: /projects/climatelabs/CLT-instrument/
+#      - title: "Diagnosis"
+#        url: /projects/climatelabs/
+#      - title: "Conformation"
+#        url: /projects/climatelabs/
+#      - title: "Governance"
+#        url: /projects/climatelabs/
+#      - title: "Information"
+#        url: /projects/climatelabs/
 
