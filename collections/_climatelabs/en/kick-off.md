@@ -65,10 +65,10 @@ Let's build the Hero Journey for each University !!
 
 
 <figure style="width: 100%" class="align-center"> 
-  <a href="https://pad.numerique-en-commun.fr/Climatelabs">
+  <a href="https://hackmd.io/@3Xkjjd8FTR6qcpfmQs2OEg/climatelabs/https%3A%2F%2Fhackmd.io%2FhAXZhrIdSmK-_nfA3yythg">
     <img src="{{ site.baseurl | append:page.image-path | append:'ERPI-workshop.jpg'}}" alt=""> 
   </a>
-  <figcaption> <a href="https://pad.numerique-en-commun.fr/Climatelabs" target="_blank">Let's build together this. Click the map </a>. </figcaption> </figure>
+  <figcaption> <a href="https://hackmd.io/@3Xkjjd8FTR6qcpfmQs2OEg/climatelabs/https%3A%2F%2Fhackmd.io%2FhAXZhrIdSmK-_nfA3yythg" target="_blank">Let's build together this. Click the map </a>. </figcaption> </figure>
 
 
 
