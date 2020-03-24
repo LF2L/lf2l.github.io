@@ -2,7 +2,7 @@
 layout: slides-total
 title: Green Fablab
 author: Fabio
-permalink: "/projects/green-fablab/spring-of-innovation/"
+permalink: "/projects/green-fablab/presentation/"
 image-path: "/assets/images/3-projects/gf/presentation/"
 description: A presentation slide for how to use reveal.js in Jekyll
 theme: white

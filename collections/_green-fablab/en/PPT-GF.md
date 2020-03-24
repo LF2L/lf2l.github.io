@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Green Fablab Presentation
 excerpt: "Spring of Innovation March 2020"
-permalink: "/projects/green-fablab/PPT/"
+permalink: "/projects/green-fablab/spring-of-innovation-2020/"
 image-path: "/assets/images/3-projects/gf/presentation/"
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
