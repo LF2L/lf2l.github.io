@@ -38,21 +38,43 @@ projects:
   alt: ''
   title: 'Towards a standard protocol for 3D printers'
   excerpt: "This paper deals with the development, manufacture and testing of a geometrical benchmarking model (GBM) in order to evaluate the geometrical accuracy performance of open source 3D printers."
-  url: "/green-fablab/standard-protocol"  
+  url: "/green-fablab/standard-protocol/"  
   btn_class: btn--info
+
+- image_path: "/assets/images/3-projects/gf/articles/proj-2-1/thumb2.jpg"
+  alt: ''
+  title: 'Recycling and additive manufacturing in an open source context'
+  excerpt: "The coupling of open-source 3D printers and filament extruders can offer the bases of a new distributed polymer recycling paradigm"
+  url: "/green-fablab/polymer-recycling/"  
+  btn_class: btn--info  
+
+
 - image_path: "/assets/images/3-projects/gf/articles/proj-2/thumb.png"
   alt: ''
-  title: Polymer recycling for 3D printing
+  title: Methodology for recycling in 3D printing
   excerpt: "A general methodology to evaluate the recyclability of thermoplastics used as feedstock in open-source 3D printing machines is proposed."
   url: "/green-fablab/recycling-methodology/"
   btn_class: btn--info
-- image_path: "/assets/images/3-projects/gf/articles/proj-3/thumb.png"
-  title: Closed-Loop supply chain for distributed recycling process
-  excerpt: "A conceptual model is developed and proposed for the collection process
-      in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic
-      recycling."
+
+- image_path: "/assets/images/3-projects/gf/articles/pavlo1/thumb.jpg"
+  title: Logistical model for distributed recycling
+  excerpt: "A recycling model network to produce 3D recycled plastic filament and thus contribute to the Circular Economy."
   url: "/green-fablab/logistic/"
   btn_class: btn--info
+
+- image_path: "/assets/images/3-projects/gf/articles/pavlo2/thumb.jpg"
+  title: Closed-Loop supply chain for distributed recycling process
+  excerpt: "Distributed recycling can be thought of as a sort of “smart grid”, composed of small and coordinated recycling units using a Closed Loop Supply Chain (CLSC) network."
+  url: "/green-fablab/closed-loop/"
+  btn_class: btn--info
+
+
+- image_path: "/assets/images/3-projects/gf/articles/arthur/thumb.jpg"
+  title: Direct waste Printing
+  excerpt: "Fused granular fabrication is a promising technique driver to promote further greening of distributed recycling, elimination of the filament extruder system."
+  url: "/green-fablab/direct-recycling/"
+  btn_class: btn--info
+
 
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/CESI.jpg"
@@ -92,6 +114,13 @@ industrial-partners:
   f_url: "https://www.facebook.com/holipresse/"
   excerpt: "[Holipresse](https://www.facebook.com/holipresse/)"
 
+- image_path: "/assets/images/3-projects/gf/logos/Plastif.png"
+  teaser_class: GF-partners
+  alt: Plast'If
+  title: ''
+  f_url: "https://www.plastif.com/"
+  excerpt: "[Plast'If](https://www.plastif.com/)"
+
 
 
 pedagogical:
@@ -112,7 +141,6 @@ pedagogical:
 
 
 Photos2D:
-
   - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg"
     image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg"
     alt: "Pedagogical projects Green Fablab"
@@ -162,9 +190,6 @@ Galleria-GF:
     aspect: "1"
     end_row: "true"
 
-
-
-
 last_modified_at: 2019-05-15
 ---
 
@@ -190,7 +215,7 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 ***
 
-### Distributing recycling
+### Distributed recycling
 
 {% include video id="JxF5gunuM1A" provider="youtube" %}
 
@@ -257,22 +282,14 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 
 
-{% include made.by.fabio/flex-gallery  id="Photos2D" caption=" From to 2D to 4D" %} {: .text-right}
+{% include gallery  id="Photos2D" caption=" From to 2D to 4D" %} {: .text-right}
 
-
-
-
-
-
-{: .small  .notice--info}
-**For more details:** <br>
-<cite>Cruz Sanchez, F. A., Boudaoud, H., Hoppe, S., & Camargo, M. (2017). </cite>[Polymer recycling in an open-source additive manufacturing context: Mechanical issues](https://doi.org/10.1016/j.addma.2017.05.013). Additive Manufacturing, 17, 87–105.
 
 
 ***
 
 {: #GF-research .GF-titles }
-## Our Research
+## Our Publications
 
 <div id="GF-projects">
 {% include feature_row id="projects" %}

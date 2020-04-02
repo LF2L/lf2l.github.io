@@ -89,18 +89,18 @@ Green-Fablab:
       - title: "Recycling for 3DP"
         url: /projects/green-fablab/#GF-Mission
   
-  - title: Our Research
+  - title: Publications
     url: /projects/green-fablab/#GF-research
     children:
-      - title: "Standard Protocol for 3D printers"
-        url: /green-fablab/standard-protocol
+#      - title: "Standard Protocol for 3D printers"
+#        url: /green-fablab/standard-protocol
       
-      - title: "Polymer recycling for 3D printers"
-        url: /green-fablab/recycling-methodology/
-      
-      - title: "Closed-Loop supply chain for 3DP"
-        url: /green-fablab/logistic/
-  - title: Our Pedagogical Projects
+#      - title: "Polymer recycling for 3D printers"
+#        url: /green-fablab/recycling-methodology/      
+#      - title: "Closed-Loop supply chain for 3DP"
+#        url: /green-fablab/logistic/
+
+  - title: Pedagogical projects
     url: /projects/green-fablab/#GF-pedagogical
 
   - title: Our students
@@ -109,7 +109,7 @@ Green-Fablab:
   - title: Partners
     url: /projects/green-fablab/#GF-partners
 
-  - title: Ressources & Related Projects
+  - title: Ressources & related projects
     url: "/green-fablab/related-projects/"
 
   - title: Gallery
