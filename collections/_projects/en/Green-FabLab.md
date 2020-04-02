@@ -107,14 +107,14 @@ partners:
 
 
 industrial-partners:
-- image_path: "/assets/images/3-projects/gf/logos/holipresse.jpg"
+- image_path: "/assets/images/3-projects/gf/logos/holimaker.jpg"
   teaser_class: GF-partners
-  alt: Holipresse
+  alt: Holimaker
   title: ''
   f_url: "https://www.facebook.com/holipresse/"
   excerpt: "[Holipresse](https://www.facebook.com/holipresse/)"
 
-- image_path: "/assets/images/3-projects/gf/logos/Plastif.png"
+- image_path: "/assets/images/3-projects/gf/logos/Plastif.jpg"
   teaser_class: GF-partners
   alt: Plast'If
   title: ''
