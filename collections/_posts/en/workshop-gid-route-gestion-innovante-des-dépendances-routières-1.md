@@ -1,24 +1,16 @@
 ---
-title: Workshop GID Route (Gestion Innovante des dépendances routières)
-date: 2018-11-14T12:00:00.000+00:00
-post_teaser: https://raw.githubusercontent.com/LF2L/ERPI/master/assets/images/projects/noremat/workshop/fig-1.jpg
-post_description: The impact evaluation on the territory of roadside management was
-  the theme of the Workshop held on October 31 on the [Lorraine Fab Living Lab® (LF2L)](http://lf2l.fr/)
-  platform.
+title: 'VRIC ConVRgence 2020: 22nd Virtual Reality International Conference - Laval
+  Virtual'
+date: 2020-04-24 13:00:00 +0200
+post_teaser: ''
+post_description: The annual ConVRgence (VRIC) - Laval Virtual scientific conference
+  - is a global forum for researchers and engineers from industry, academia and research
+  institutes to discuss and exchange ideas, methods and results on Virtual Reality,
+  Augmented Reality, Mixed Reality, new usage scenarios and emerging technologies.
+  The scope of the conference covers a variety of topics ranging from theoretical
+  developments to industrial applications and case studies. You have the opportunity
+  to share your knowledge by submitting and presenting an abstract or a paper.
 published: false
 
 ---
-The impact evaluation on the territory of roadside management was the theme of the Workshop held on October 31 on the [Lorraine Fab Living Lab® (LF2L)](http://lf2l.fr/) platform. 
-
-
-![Noremat - ERPI](https://raw.githubusercontent.com/LF2L/ERPI/master/assets/images/projects/noremat/workshop/fig-2.jpg)
-
-
-Researchers from the [ERPI laboratory](https://erpi.univ-lorraine.fr/) of the University of Lorraine and the company [NOREMAT](http://www.noremat.com/) welcomed representatives from various institutions and organizations such as the Greater Nancy Metropolis, DIR-Est, Cerema, Scalen, Eurovia, Agroparistech as well as several entrepreneurs in the sector. 
-At the end of the workshop, the importance of valuing the benefits of the different interview strategies emerged, as well as adapting them to the local context. Finally, raising awareness and informing citizens about these benefits is essential in order to change attitudes towards a more sustainable management of roadside verges.
-
-![Noremat - ERPI](https://raw.githubusercontent.com/LF2L/ERPI/master/assets/images/projects/noremat/workshop/fig-1.jpg)
-
-[More info](https://erpi.univ-lorraine.fr/fr/projects/gid-route/)
- - **Mauricio Camargo**: mauricio.camargo{at}univ-lorrainfe.fr
-- **Sandra Batista**: sandra.bautista-rodriguez{at}univ-lorrainfe.fr
+Despite the quarantine, ERPI and 2LPN ([**Université de Lorraine**](https://www.linkedin.com/company/universit-de-lorraine/)) have virtually joined Laval virtual - ConVRgence 2020 (VRIC) Virtual Reality International Conference with 3 papers (including 2 papers for interdisciplinary InnCognitif project supported by the EMPP & CLCS scientific poles and by ANR LabCom N-Hum-Inno by ERPI-TEA) ! Thanks to my co-authors [**Mariela Martínez**](https://www.linkedin.com/in/ACoAACXjfGwBHlIg2CbjsLEE_38lktIBWrdzOKE/), [**Giovanny Arbelaez Garces**](https://www.linkedin.com/in/ACoAAAQZD-4BWmMcHOhzij99jo365E2_r3Kgl1w/), [**Anaëlle Hily**](https://www.linkedin.com/in/ACoAACTn8aUBNOHACs9iVTUJZibtQEujmYtNjks/), [**Christel JACOB**](https://www.linkedin.com/in/ACoAAC2mkSEBGHGHrzaKzgGDCqdNQQz2sTg2pjY/), [**Mauricio Camargo**](https://www.linkedin.com/in/ACoAABxLh6UBmmHmXyVrHLfzMawoSq8nYiLO69M/), [**Jérôme Dinet**](https://www.linkedin.com/in/ACoAAAOSbxYB7Kq9u530a_raWL1A6ewYje0g0-c/) and to the organizers & scientific comity [**Simon Richir**](https://www.linkedin.com/in/ACoAAAA3UZMB1IcHqBzhSpeDNDshKqS4WZBxNbc/), [**Sylvain Fleury**](https://www.linkedin.com/in/ACoAAB2XydcBS6Pn5Uvxz00TtCTsswumakP9ipg/), [**Olivier Christmann**](https://www.linkedin.com/in/ACoAAAMknrQBsMoznpq61J0-tpB6FUh-fQEo1aY/)...
