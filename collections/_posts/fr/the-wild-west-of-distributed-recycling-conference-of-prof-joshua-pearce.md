@@ -1,31 +1,13 @@
 ---
-title: The Wild West of Distributed Recycling -  Conference of Prof. Joshua Pearce.
-post_teaser: "/uploads/2019/05/Joshua.jpg"
-post_description: "**The Wild West of Distributed Recycling**---  Only about 9% of
-  plastic waste generated in the U.S. is recycled; and that was before China stopped
-  accepting mixed plastic waste, so in the short term even less plastic will be recycled.
-  The economics of plastic recycling historically have been challenging and there
-  has been little financial incentive to encourage consumers to recycle their plastic
-  waste. Today, however, new open source technologies enable consumers to become prosumers
-  who can convert plastic waste into high value products "
-date: 2019-05-06T06:00:00.000+00:00
-published: false
+title: Covid-19
+post_teaser: ''
+post_description: 'Face à la crise sanitaire, le LF2L se mobilise pour la fabrication
+  de dispositif de protection à destination des professionnels placés en première
+  ligne. Les découpeuses laser de la plateforme ont permis la réalisation d''attache
+  pour visière de protection, plus de 13 000 pièces en PPMA ont ainsi été sorties. '
+date: 2020-04-24 14:00:00 +0200
 
 ---
-![](/uploads/2019/05/Joshua.jpg)
+[**#Covid19**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23Covid19&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D) L'ENSGSI à la rescousse de [**Polytech Nancy - ex ESSTIN**](https://www.linkedin.com/school/191057/?legacySchoolId=191057) ! Le LF2L (Lorraine Fab Living Lab) – plateforme de l'ENSGSI et de son laboratoire de Recherche ERPI – participe depuis plusieurs semaines à l’action collective « Makers contre le COVID » dans la production de visières à destination des soignants de l’Hôpital d'Enfants du CHRU de Nancy, à l’aide d’imprimantes 3D facilement transportables et utilisables par les personnels confinés. En parallèle, Polytech Nancy fabrique des visières en plastique en partenariat avec la Ville de Nancy à destination des commerçants et artisans de Nancy en lien avec le Lycée Loritz. Les matériels nécessaires à la production sont fortement éprouvés certaines machines sont désormais hors service. C’est pourquoi le LF2L rouvre ses portes pour que 5 personnels puissent se relayer autour des découpeuses laser et assurer la poursuite de l’activité de production de plusieurs centaines de visières par jour et ainsi continuer d’équiper les commerçants et artisans du territoire. Un nouvel exemple de solidarité inter-établissements d’enseignements au service d’une cause commune ! [**#ENSGSIetPOLYTECHNancyunisdansladversite**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23ENSGSIetPOLYTECHNancyunisdansladversite&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D) [**#TousuniscontreleCovid**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23TousuniscontreleCovid&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D) [**#MonexperienceUL**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23MonexperienceUL&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D)
 
-Joshua Pearce de la Michigan Tech University et Professeur invité à l’UL- ERPI donnera une conférence exceptionnelle intitulée :
-
-**“The Wild West of Distributed Recycling”**
-
-Only about 9% of plastic waste generated in the U.S. is recycled; and that was before China stopped accepting mixed plastic waste, so in the short term even less plastic will be recycled. The economics of plastic recycling historically have been challenging and there has been little financial incentive to encourage consumers to recycle their plastic waste. Today, however, new open source technologies enable consumers to become prosumers who can convert plastic waste into high value products. What does waste management look like when prosumers recycle their own waste in their own homes? This presentation will discuss this potential in the fully distributed context based on technical research at Michigan Tech and compare it to semi-distributed recycling in the fab lab context being pioneered at the University of Lorraine.
-
-**Date: Wednesday May 15 at 17h30 at** [**Lorraine Fab Living lab**](http://lf2l.fr/info/) **, 49 Bd d'Austrasie à Nancy.**
-
-Prof. Joshua Pearce Professor, Materials Science and Engineering- Professor, Electrical and Computer Engineering Faculty Advisor, Open Source Hardware Enterprise Joshua Pearce a travaillé sur les aspects environnementaux, éthiques, culturels et politiques du progrès technologique d’un point de vue interdisciplinaire. Il a écrit plus de 200 articles scientifiques.
-
-Prof. [Joshua Pearce](https://www.mtu.edu/materials/department/faculty/pearce/) 
-
-Professeur en science et génie des matériaux et en génie électrique et informatique à Michigan Tech. Il est également membre affilié du corps professoral du programme d'études supérieures en politique environnementale et énergétique de MTU et professeur auxiliaire à Mech et à l'Université Queens, au Canada, où il dirige le [Queens Applied Sustainability Group](https://www.appropedia.org/Category:Queens_Applied_Sustainability_Group).
-
-Ses recherches portent sur la durabilité ouverte et appliquée, c'est-à-dire l'application de la science et de l'innovation pour assurer une meilleure qualité de vie pour tous, aujourd'hui et demain, d'une manière juste et équitable, tout en vivant dans les limites des écosystèmes porteurs. Il s'intéresse plus particulièrement à la façon dont l'[énergie solaire](https://www.appropedia.org/Solar_energy) peut être utilisée pour fournir de l'électricité propre et durable grâce à des dispositifs photovoltaïques et comment le partage de matériel et de logiciels libres peut créer des moyens de production durables et équitables (p. ex. créer une [technologie open source](https://www.appropedia.org/Open_source_hardware) ouverte et d'autres matériels libres et à source ouverte).
+![](/uploads/2020/04/24/Equipe LF2L - Covid-19.jpeg)_L'équipe mobilisée pour assurer la production des attaches indispensables pour le bon fonctionnement des visières de protection._ 
