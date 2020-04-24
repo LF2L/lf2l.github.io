@@ -1,7 +1,7 @@
 ---
 title: 'VRIC ConVRgence 2020: 22nd Virtual Reality International Conference - Laval
   Virtual'
-date: 2020-04-24 13:00:00 +0200
+date: 2020-04-23 13:00:00 +0200
 post_teaser: ''
 post_description: The annual ConVRgence (VRIC) - Laval Virtual scientific conference
   - is a global forum for researchers and engineers from industry, academia and research
