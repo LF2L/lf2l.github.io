@@ -14,3 +14,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- collections/_posts/en/test-fabio.md
