@@ -15,4 +15,4 @@ fields:
   name: date
   label: date
 pages:
-- collections/_posts/en/test-fabio.md
+- collections/_posts/en/2020-27-04-post.md
