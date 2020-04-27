@@ -12,12 +12,16 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - template-post
 - type: directory
   path: collections/_posts/en
   label: Actualités - ENG
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - template-post
 - type: heading
   label: Projects
 - type: directory
