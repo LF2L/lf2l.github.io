@@ -15,4 +15,5 @@ fields:
   name: date
   label: date
 pages:
+- collections/_posts/en/2020-04-27-Post.md
 - collections/_posts/en/2020-27-04-Post-1.md
