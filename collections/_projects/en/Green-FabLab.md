@@ -75,6 +75,12 @@ projects:
   url: "/green-fablab/direct-recycling/"
   btn_class: btn--info
 
+- image_path: "/assets/images/3-projects/gf/articles/fabio4/thumb.jpg"
+  title: "Plastic recycling in additive manufacturing: A systematic literature review and opportunities for the circular economy"
+  excerpt: "The rapid technical evolution of additive manufacturing (AM) enables a new path to a circular economy using distributed recycling and production."
+  url: "/green-fablab/review-recycling/"
+  btn_class: btn--info
+
 
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/CESI.jpg"
