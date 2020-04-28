@@ -3,7 +3,7 @@ title: 'VRIC ConVRgence 2020 : 22eme Conférence Internationale de Réalité Vir
   (Laval Virtual) '
 post_teaser: "/uploads/2020/04/24/Illustration - C.jpg"
 post_description: ''
-date: 2020-03-24 00:00:00 +0100
+date: 2020-04-27 00:00:00 +0200
 published: false
 
 ---
