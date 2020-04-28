@@ -1,14 +1,14 @@
 ---
-title: Covid-19
-post_teaser: "/uploads/2020/04/24/Equipe LF2L - Covid-19.jpeg"
-post_description: 'Face à la crise sanitaire, le LF2L se mobilise pour la fabrication
-  de dispositif de protection à destination des professionnels placés en première
-  ligne. Les découpeuses laser de la plateforme ont permis la réalisation d''attache
-  pour visière de protection, plus de 13 000 pièces en PPMA ont ainsi été sorties. '
-date: 2020-04-24T12:00:00.000+00:00
+title: 'VRIC ConVRgence 2020 : 22eme Conférence Internationale de Réalité Virtuelle
+  (Laval Virtual) '
+post_teaser: "/uploads/2020/04/24/Illustration - C.jpg"
+post_description: ''
+date: 2020-03-24 00:00:00 +0100
 published: false
 
 ---
-[**#Covid19**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23Covid19&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D) L'ENSGSI à la rescousse de [**Polytech Nancy - ex ESSTIN**](https://www.linkedin.com/school/191057/?legacySchoolId=191057) ! Le LF2L (Lorraine Fab Living Lab) – plateforme de l'ENSGSI et de son laboratoire de Recherche ERPI – participe depuis plusieurs semaines à l’action collective « Makers contre le COVID » dans la production de visières à destination des soignants de l’Hôpital d'Enfants du CHRU de Nancy, à l’aide d’imprimantes 3D facilement transportables et utilisables par les personnels confinés. En parallèle, Polytech Nancy fabrique des visières en plastique en partenariat avec la Ville de Nancy à destination des commerçants et artisans de Nancy en lien avec le Lycée Loritz. Les matériels nécessaires à la production sont fortement éprouvés certaines machines sont désormais hors service. C’est pourquoi le LF2L rouvre ses portes pour que 5 personnels puissent se relayer autour des découpeuses laser et assurer la poursuite de l’activité de production de plusieurs centaines de visières par jour et ainsi continuer d’équiper les commerçants et artisans du territoire. Un nouvel exemple de solidarité inter-établissements d’enseignements au service d’une cause commune ! [**#ENSGSIetPOLYTECHNancyunisdansladversite**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23ENSGSIetPOLYTECHNancyunisdansladversite&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D) [**#TousuniscontreleCovid**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23TousuniscontreleCovid&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D) [**#MonexperienceUL**](https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6656896629930545152&keywords=%23MonexperienceUL&originTrackingId=4%2BIYEXevMd7y6hMuPL9kxg%3D%3D)
+Malgré les mesures de quarantaine en vigueur actuellement, les laboratoires **ERPI** et **2LPN** (Université de Lorraine) ont rejoint le "**Laval Virtual - ConVRgence 2020 (VRIC) Virtual Reality International Conference**" avec 3 articles universitaires (dont 2 articles pour le projet interdisciplinaire **InnCognitif** soutenu par les pôles scientifiques **EMPP** et **CLCS** et par l'**ANR LabCom N-Hum-Inno** du laboratoire **ERPI** et de l'entreprise **TEA**) ! 
 
-![](/uploads/2020/04/24/Equipe LF2L - Covid-19.jpeg)_L'équipe mobilisée pour assurer la production des attaches indispensables pour le bon fonctionnement des visières de protection._
+Merci aux auteurs [**Mariela Martínez**](https://www.linkedin.com/in/ACoAACXjfGwBHlIg2CbjsLEE_38lktIBWrdzOKE/), [**Giovanny Arbelaez Garces**](https://www.linkedin.com/in/ACoAAAQZD-4BWmMcHOhzij99jo365E2_r3Kgl1w/), [**Anaëlle Hily**](https://www.linkedin.com/in/ACoAACTn8aUBNOHACs9iVTUJZibtQEujmYtNjks/), [**Christel JACOB**](https://www.linkedin.com/in/ACoAAC2mkSEBGHGHrzaKzgGDCqdNQQz2sTg2pjY/), [**Mauricio Camargo**](https://www.linkedin.com/in/ACoAABxLh6UBmmHmXyVrHLfzMawoSq8nYiLO69M/), [**Jérôme Dinet**](https://www.linkedin.com/in/ACoAAAOSbxYB7Kq9u530a_raWL1A6ewYje0g0-c/), [**Laurent Dupont** ](https://www.linkedin.com/in/dupontl/)et aux organisateurs et au comité scientifique [**Simon Richir**](https://www.linkedin.com/in/ACoAAAA3UZMB1IcHqBzhSpeDNDshKqS4WZBxNbc/), [**Sylvain Fleury**](https://www.linkedin.com/in/ACoAAB2XydcBS6Pn5Uvxz00TtCTsswumakP9ipg/), [**Olivier Christmann**](https://www.linkedin.com/in/ACoAAAMknrQBsMoznpq61J0-tpB6FUh-fQEo1aY/)...
+
+![](/uploads/2020/04/24/Illustration - C.jpg)
