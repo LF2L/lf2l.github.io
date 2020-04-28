@@ -14,3 +14,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- collections/_posts/en/covid19.md
