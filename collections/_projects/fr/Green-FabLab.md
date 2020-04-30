@@ -32,7 +32,7 @@ gallery:
 projects:
 - image_path: "/assets/images/3-projects/gf/articles/proj-1/thumb.png"
   alt: ''
-  title: 'Towards a standard protocol for 3D printers '
+  title: 'Vers un protocol standard pour les imprimantes 3D '
   excerpt: Proposition d'un protocole standard d'expérimentation afin de caractériser
     la précision dimensionnelle d'une imprimante 3D open source.
   url: "/fr/green-fablab/standard-protocol"
@@ -40,7 +40,7 @@ projects:
   btn_class: btn--info
 - image_path: "/assets/images/3-projects/gf/articles/proj-2/thumb.png"
   alt: ''
-  title: Polymer recycling for 3D printing
+  title: 'Polymères recyclés pour impression 3D '
   excerpt: Proposition d'une métodologie systematique pour évaluer la recyclabilité
     des thermoplastiques utilisés dans les imprimantes open source.
   url: "/fr/green-fablab/recycling-methodology/"
