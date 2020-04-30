@@ -47,10 +47,9 @@ projects:
   btn_label: Plus de détails
   btn_class: btn--info
 - image_path: "/assets/images/3-projects/gf/articles/proj-3/thumb.png"
-  title: Closed-Loop supply chain for distributed recycling process
-  excerpt: a conceptual model is developed and proposed for the collection process
-    in a Closed Loop Supply Chain (CLSC) network of local and distributed plastic
-    recycling.
+  title: 'Echelle locale réduite de collecte et de redistribution des plastiques recyclés '
+  excerpt: Un modèle conceptuel est développé pour collecter la matière plastique
+    à une échelle locale réduite en vue de redistribuer ce même plastique recyclé.
   url: "/fr/green-fablab/logistic/"
   btn_label: Plus de détails
   btn_class: btn--info
