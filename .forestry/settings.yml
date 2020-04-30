@@ -5,6 +5,20 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: heading
+  label: GreenFablab
+- type: directory
+  path: collections/_green-fablab/fr
+  label: GreenFablab - FR
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
+  path: collections/_green-fablab/en
+  label: GreenFabLab - en
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: heading
   label: Posts
 - type: directory
   path: collections/_posts/fr
