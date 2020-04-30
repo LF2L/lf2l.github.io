@@ -62,7 +62,7 @@ toc_sticky: true
 * Dupont L. Morel L. Hubert J. Guidat C. Study case: Living Lab Mode for urban project design. Emergence of an ad hoc methodology through collaborative innovation. in IEEE International Technology Management Conference & 20th ICE Conference, Bergamo : Italy (2014) – DOI : https://doi.org/10.1109/ICE.2014.6871550
 * Skiba N. Sujet de la thèse : Processus d’innovation centré sur l’utilisateur : identification des besoins et interprétation de données issues de l’intégration de l’utilisateur dans le processus de co-conception. Directeurs de la thèse : Laure Morel et Claudine Guidat. Thèse soutenue le 3 avril 2014.
 
-## 2013 and before
+## 2013 et après
 
 * Skiba, N. ; Morel, L.; Guidat, C.; Camargo, M. How to emphasize the ‘living’ part of Living Lab projects? In IEEE International Technology Management Conference & 19th ICE Conference, The Hague : The Netherlands (2013)
 * Brissel L., Dupont L., Morel L., Contribution to setting up a sustainable learning in an Eco-Neighbourhood development plan based on “serious game” In IEEE International Technology Management Conference & 19th ICE Conference, Centre for Innovation, Campus the Hague, the Netherlands, 24-26 June, 2013. DOI: 10.1109/ITMC.2013.7352607
