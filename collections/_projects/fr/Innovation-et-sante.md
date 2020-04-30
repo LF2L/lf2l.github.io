@@ -1,13 +1,11 @@
 ---
 title: Innovation en Santé et Bien-Être
-date: 2018-09-10 00:00:00 +0000
+date: 2018-09-10T00:00:00.000+00:00
 permalink: "/fr/projects/innovation-on-health/"
 excerpt: Innovation on the health-care field
 header:
   teaser: "/assets/images/3-projects/health/teaser.jpg"
-
 image-path: "/assets/images/3-projects/health/"
-
 partners:
 - image_path: "/assets/images/3-projects/health/logo-EC.png"
   teaser_class: GF-partners
@@ -27,21 +25,21 @@ Que faisons nous en lien avec la santé?
 
 ## Évaluation objective des compétences techniques des chirurgiens.
 
-![Image Sante]({{site.baseurl | append:page.image-path | append:'InnoHealth1.jpg'}}){: .align-right}
+!\[Image Sante\]({{site.baseurl | append:page.image-path | append:'InnoHealth1.jpg'}}){: .align-right}
 
-Accompagnement des chirurgiens dans l'auto-évaluation de leur "performances techniques" par l'utilisation de capteurs physiologiques (e.g. GSR, eye-tracking, ECG). [Pour en savoir plus.](https://doi.org/10.1016/j.ergon.2017.12.002 "https://doi.org/10.1016/j.ergon.2017.12.002")
+Accompagnement des chirurgiens dans l'auto-évaluation de leurs "performances techniques" par l'utilisation de capteurs physiologiques (e.g. GSR, eye-tracking, ECG). [Pour en savoir plus.](https://doi.org/10.1016/j.ergon.2017.12.002 "https://doi.org/10.1016/j.ergon.2017.12.002")
 
 ## Création de "dry-models" au service de la formation et certification des chirurgiens.
 
-![image-right]({{site.baseurl | append:page.image-path |append:'InnoHealth2.png'}}){: .align-left}
+!\[image-right\]({{site.baseurl | append:page.image-path |append:'InnoHealth2.png'}}){: .align-left}
 
-Nous utilisons les technologies d'impression 3D pour fabriquer des modèles d'entrainements chirurgicaux afin de réduire l'utilisation des animaux et des organes humains. La fabrication de cas et de modèles spécifiques facilite les "standards" pour tous les apprenantes lors de leur évaluation. Par ailleurs, en lien avec la démarche "[Green-Fablab](http://lf2l.fr/projects/green-fablab/)", les modèles conçus et utilisés peuvent être recyclés pour en fabriquer de nouveaux et s'inscrire dans un cycle vertueux.
+Nous utilisons les technologies d'impression 3D pour fabriquer des modèles d'entrainements chirurgicaux afin de réduire l'utilisation des animaux et des organes humains. La fabrication de cas et de modèles spécifiques facilite les "standards" pour tous les apprenants lors de leur évaluation. Par ailleurs, en lien avec la démarche "[Green-Fablab](http://lf2l.fr/projects/green-fablab/)", les modèles conçus et utilisés peuvent être recyclés pour en fabriquer de nouveaux et s'inscrire dans un cycle vertueux.
 
 [Pour en savoir plus.](https://ieeexplore.ieee.org/document/8436302 "https://ieeexplore.ieee.org/document/8436302")
 
 ## Perception des Risques du Milieu Urbain par le Piéton Âgé (PRISMUPA)
 
-![image virtual reality]({{site.baseurl | append:page.image-path |append:'virtual_reality.png'}}){: .align-right}
+!\[image virtual reality\]({{site.baseurl | append:page.image-path |append:'virtual_reality.png'}}){: .align-right}
 
 Les piétons âgés sont surreprésentés parmi les victimes de collisions mortelles avec des engins motorisés, les accidents ayant surtout lieu en ville. Les personnes âgées se trouvent également de plus en plus marginalisées et souvent isolées ; leurs déplacements en ville leur apparaissant difficiles et anxiogènes.
 
