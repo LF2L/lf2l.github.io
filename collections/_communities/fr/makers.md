@@ -26,9 +26,9 @@ Le NYBI accueille tous les publics au LF2L tout les jeudis, de 19h à 24h, pour 
 
 Contact et information : [NYBI.CC](http://nybi.cc/)
 
-## Osez! créez votre FabLab ou autre espace d'innovation !
+## Osez ! créez votre FabLab ou autre espace d'innovation !
 
-Le LF2L et l'équipe de l'[ERPI](https://erpi.univ-lorraine.fr/) vous accompagne dans la création de votre espace d'innovation, votre tiers lieux, votre FabLab: parrainage, conseils, partenariat, recherche, etc.
+Le LF2L et l'équipe de l'[ERPI](https://erpi.univ-lorraine.fr/) vous accompagne dans la création de votre espace d'innovation, votre tier-lieu, votre FabLab : parrainage, conseils, partenariat, recherche, etc.
 
 En France, mais aussi à l'étranger !
 
