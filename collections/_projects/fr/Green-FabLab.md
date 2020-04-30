@@ -136,7 +136,7 @@ Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa 
 
 {: #GF-Mission .GF-titles }
 
-Des recherches permettant de mieux développer les innovations sur les systèmes de recyclage de déchets actuels grâce à la fabrication additive open-source sont une opportunité pour contribuer avec le dévelopment d'une économie circulaire.
+Des recherches permettant de mieux développer les innovations sur les systèmes de recyclage de déchets actuels grâce à la fabrication additive open-source sont une opportunité pour contribuer avec le développement d'une économie circulaire.
 
 <figure style="width: 200px" class="align-left">
 <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt="">
@@ -145,8 +145,7 @@ Des recherches permettant de mieux développer les innovations sur les systèmes
 </figcaption>
 </figure>
 
-Cette approche permet de contribuer, tout du moins partiellement, à résoudre la problématique globale que représente l’accumulation de matière plastique dans la nature.
-Le Green Fablab est un vision qui permettra agir sur les défis sociatux actuels vers une paradigme d'economie circulaire ou le concept de déchet sera redefinie.
+Cette approche permet de contribuer, tout du moins partiellement, à résoudre la problématique globale que représente l’accumulation de matière plastique dans la nature. Le Green Fablab est une vision qui permettra d'agir sur les défis sociétaux actuels vers un paradigme d'économie circulaire ou le concept de déchet sera redéfinie.
 
 <br>
 <br>
