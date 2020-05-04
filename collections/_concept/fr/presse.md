@@ -12,6 +12,11 @@ last_modified_at: 2019-03-06T23:00:00.000+00:00
 toc: true
 toc_label: Year
 toc_sticky: true
+News_2020:
+- url: "/assets/images/2-concept/media/2020-05-04.png"
+  image_path: "/assets/images/2-concept/media/2020-05-04.png"
+  alt: ''
+  title: Image 1 title caption
 News_2017:
 - url: "/assets/images/2-concept/media/2017-01-17.jpg"
   image_path: "/assets/images/2-concept/media/2017-01-17.jpg"
@@ -45,6 +50,9 @@ News_2015:
   title: Image 3 title caption
 
 ---
+
+## 2020
+
 ## 2019
 
 <div class="wp-playlist-current-item">
