@@ -42,7 +42,8 @@ La numérisation des fiches idées et leur mise à disposition sur table tactile
 
 ## Capacité à Innover
 
-![](/uploads/2020/05/04/innovationontheweb.png)
+![](/uploads/2020/05/04/innovationontheweb-1.png)
+
 Le laboratoire ERPI met à disposition un outil d’évaluation de la capacité des PME-PMI à innover et d’accompagnement de la stratégie à adopter pour développer un produit, un projet ou un processus innovant. Fruit de 4 ans de recherche, ce logiciel est supporté par une plate-forme numérique www.innovation-on-the-web.com qui rend la démarche de diagnostic facilement accessible pour les entreprises.
 
 ## Modélisation numérique 3D
