@@ -36,6 +36,8 @@ L’espace est aménagé de façon à générer un environnement dédié au trav
 ## Fiche Idées numériques - Tri 2D
 
 ![](/uploads/2020/05/04/tablenumerique.png)
+
+
 La numérisation des fiches idées et leur mise à disposition sur table tactile permet d’augmenter leurs manipulations, les interactions et les échanges entre participants.
 
 ## Capacité à Innover
@@ -48,6 +50,8 @@ Le laboratoire ERPI met à disposition un outil d’évaluation de la capacité 
 ### Modélisation Produit
 
 ![](/uploads/tete-apollon.png)
+
+
 Modélisation de pré-prototype conçu à partir d’outil CAO (Conception Assistée par Ordinateur)
 
 ### Modélisation Ville
@@ -63,6 +67,6 @@ La matérialisation des idées, un élément clé dans le processus d’Innovati
 
 ## Évaluation par l'Usage
 
-![](/uploads/2020/05/04/evaluationusage.png)
+![](/uploads/2020/05/04/evaluationusage-1.png)
 
 L’évaluation par l’usage consiste à créer les conditions de l’objectivation scientifique des pratiques d’usages auprès d’un groupe d’utilisateurs. Selon l’objet, le produit, le bâtiment ou l’espace à évaluer nous pouvons mettre en place des processus ad hoc mobilisant les instruments de mesure idoines (ex : eyes tracking, capteurs physiologiques, captation vidéo, questionnaires, etc.)
