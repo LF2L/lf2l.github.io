@@ -55,7 +55,6 @@ News_2015:
 
 {% include gallery
 id="News_2020"
-caption="This is a sample gallery with **Markdown support**."
 %}
 
 ## 2019
@@ -106,26 +105,22 @@ caption="This is a sample gallery with **Markdown support**."
 
 {% include gallery
 id="News_2018"
-caption="This is a sample gallery with **Markdown support**."
 %}
 
 ## 2017
 
 {% include gallery
 id="News_2017"
-caption="This is a sample gallery with **Markdown support**."
 %}
 
 ## 2016
 
 {% include gallery
 id="News_2016"
-caption="This is a sample gallery with **Markdown support**."
 %}
 
 ## 2015
 
 {% include gallery
 id="News_2015"
-caption="This is a sample gallery with **Markdown support**."
 %}
