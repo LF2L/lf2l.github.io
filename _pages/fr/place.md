@@ -2,7 +2,7 @@
 lang: fr
 layout: single
 classes: wide
-title: Facilities au LF2L
+title: Installations et équipements au LF2L
 permalink: "/fr/place/"
 img-path: "/assets/images/5-place/LF2L/"
 excerpt: 'Nous allons conquérir le monde ! '
