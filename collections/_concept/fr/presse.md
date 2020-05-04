@@ -13,8 +13,8 @@ toc: true
 toc_label: Year
 toc_sticky: true
 News_2020:
-- url: "/assets/images/2-concept/media/2020-05-04.png"
-  image_path: "/assets/images/2-concept/media/2020-05-04.png"
+- url: "/assets/images/2-concept/media/2020-05-04.jpg"
+  image_path: "/assets/images/2-concept/media/2020-05-04.jpg"
   alt: ''
   title: Image 1 title caption
 News_2017:
@@ -52,6 +52,11 @@ News_2015:
 ---
 
 ## 2020
+
+{% include gallery
+id="News_2020"
+caption="This is a sample gallery with **Markdown support**."
+%}
 
 ## 2019
 
@@ -98,6 +103,11 @@ News_2015:
 </div>
 
 ## 2018
+
+{% include gallery
+id="News_2018"
+caption="This is a sample gallery with **Markdown support**."
+%}
 
 ## 2017
 
