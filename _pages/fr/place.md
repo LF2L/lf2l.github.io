@@ -47,12 +47,12 @@ Le laboratoire ERPI met à disposition un outil d’évaluation de la capacité 
 
 ### Modélisation Produit
 
-
+![](/uploads/tete-apollon.png)
 Modélisation de pré-prototype conçu à partir d’outil CAO (Conception Assistée par Ordinateur)
 
 ### Modélisation Ville
 
-{% include video id="wSphexsNeEw" provider="youtube" %}
+![](/uploads/Modelisation Flux Circulation NGC.png)
 
 Modélisation 3D des flux de circulation (exemple des carrefours C129, C201, C100 a, C100 b de l’EcoQuartier Nancy Grand Cœur)
 
@@ -62,5 +62,7 @@ Modélisation 3D des flux de circulation (exemple des carrefours C129, C201, C10
 La matérialisation des idées, un élément clé dans le processus d’Innovation. Et pour cela, une des particularités du LF2L est d’avoir un espace Fab Lab totalement équipé avec des outils numériques qui permettront à tous nos usagers de rendre accessible la fabrication d’objets de façon personnalisée. Également, le laboratoire ERPI développe des programmes de recherche autour du concept de FabLab et son impact sur les enjeux sociétaux actuels. Fab Lab (contraction de l’anglais Fabrication Laboratory « laboratoire de fabrication») rend possible l’invention / l’innovation / la reproduction à travers de quatre équipements de base: Découpe laser, Imprimantes 3D, Fraiseuse numérique, Découpe vinyle
 
 ## Évaluation par l'Usage
+
+![](/uploads/2020/05/04/evaluationusage.png)
 
 L’évaluation par l’usage consiste à créer les conditions de l’objectivation scientifique des pratiques d’usages auprès d’un groupe d’utilisateurs. Selon l’objet, le produit, le bâtiment ou l’espace à évaluer nous pouvons mettre en place des processus ad hoc mobilisant les instruments de mesure idoines (ex : eyes tracking, capteurs physiologiques, captation vidéo, questionnaires, etc.)
