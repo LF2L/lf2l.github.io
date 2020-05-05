@@ -17,6 +17,10 @@ News_2020:
   image_path: "/assets/images/2-concept/media/2020-05-04.jpg"
   alt: ''
   title: Image 1 title caption
+- url: "/assets/images/2-concept/media/2020-05-05.jpg"
+  image_path: "/assets/images/2-concept/media/2020-05-05.jpg"
+  alt: ''
+  title: Image 2 title caption
 News_2017:
 - url: "/assets/images/2-concept/media/2017-01-17.jpg"
   image_path: "/assets/images/2-concept/media/2017-01-17.jpg"
