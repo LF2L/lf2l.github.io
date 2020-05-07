@@ -7,7 +7,7 @@ permalink: "/en/projects/smagrinet/"
 image-path: "/assets/images/3-projects/"
 excerpt: 
 header:
-  teaser: 
+  teaser: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
   overlay_image: "/assets/images/3-projects/smagrinet/smagrinetHeader.jpg"
   overlay_filter: "0.5"
 
