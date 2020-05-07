@@ -25,4 +25,4 @@ LF2L® organizes and implements citizen workshops, contributes to citizen scienc
 
 > Metropolis of Greater Nancy elected Innovative Territory OR in December 2016 by the Interconnected 2016 thanks to the _'VélOstan Connecté'_ project supported by the LF2L®.
 
-!\[communities at lf2l\]({{ site.baseurl | append: page.img-path | append:'activites.jpg' }})
+![communities at lf2l\](/assets/images/4-communities/collectivities/activites.jpg)
