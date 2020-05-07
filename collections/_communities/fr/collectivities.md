@@ -23,10 +23,10 @@ Dans ce cadre, le LF2L® contribue à la mise en œuvre et à l’évaluation de
 
 Le LF2L® organise et met en œuvre des ateliers citoyens, contribue à la science citoyenne, participe à des événements de diffusion scientifiques et technique, etc.
 
-> !\[communities at lf2l\]({{ site.baseurl | append: page.img-path | append:'label.png' }}){: .align-right}
+> !\[communities at lf2l\]((/assets/images/4-communities/collectivities/label.png) {: .align-right}
 > Métropole du Grand Nancy élu Territoire Innovant OR en décembre 2016 par les Interconnectés 2016 grâce au projet VélOstan Connecté accompagné par le LF2L®
 
-!\[communities at lf2l\]({{ site.baseurl | append: page.img-path | append:'activites.jpg' }})
+!\[communities at lf2l\](/assets/images/4-communities/collectivities/activites.jpg)
 
 ## Incarnez vos projets ! Créez votre espace d'innovation, adapté à votre écosystème !
 
@@ -37,4 +37,4 @@ En France, mais aussi à l'étranger !
 Lire : Osorio F., Dupont L., Camargo M., Palominos P., Peña J.I., et al.. [Design and management of innovation laboratories: Toward a performance assessment tool.](https://onlinelibrary.wiley.com/doi/full/10.1111/caim.12301) _Creativity and Innovation Management_, Wiley, 2019, 28 (1), pp.82-100.
 [hal-01987047](https://hal.archives-ouvertes.fr/hal-01987047)
 
-Contact: **Laurent Dupont**
+Contact: **Laurent Dupont** : l.dupont@univ-lorraine.fr 
