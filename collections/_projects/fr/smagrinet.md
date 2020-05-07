@@ -5,8 +5,6 @@ classes: wide
 title: Smagrinet
 permalink: "/fr/projects/smagrinet/"
 image-path: "/assets/images/3-projects/gf/"
-sidebar:
-  nav: Smagrinet
 excerpt: 'Smart Grids ou réseaux éléctriques intelligents pour permettre une gestion plus efficace des réseaux éléctriques'
 header:
   teaser: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
