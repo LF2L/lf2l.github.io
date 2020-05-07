@@ -8,7 +8,7 @@ image-path: "/assets/images/3-projects/"
 excerpt: 
 header:
   teaser: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
-  overlay_image: "/assets/images/3-projects/smagrinet/smagrinetHeader.jpg"
+  overlay_image:
   overlay_filter: "0.5"
 
 last_modified_at: 2020-05-07
