@@ -1,13 +1,21 @@
 ---
-title: H2020 SMAGRINET Project
-date: 2018-02-25T00:00:00.000+00:00
-excerpt: Powering Smart Grid Expertise in Europe
+lang: en
+layout: single
+classes: wide
+title: H2020 Smagrinet Project
+permalink: "/en/projects/smagrinet/"
+image-path: "/assets/images/3-projects/"
+excerpt: 
 header:
-  teaser: "/uploads/LogoSmagrinet-bd.png"
-  image: ''
-last_modified_at: 2018-10-24T00:00:00.000+00:00
+  teaser: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
+  overlay_image: "/assets/images/3-projects/smagrinet/smagrinetHeader.jpg"
+  overlay_filter: "0.5"
+
+last_modified_at: 2020-05-07
 
 ---
+
+
 ![](/uploads/LogoSmagrinet B&W.png)
 
 ### Smagrinet Project - A H2020 Capacity building on Smart Grid
