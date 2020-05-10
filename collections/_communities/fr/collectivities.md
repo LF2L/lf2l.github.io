@@ -23,10 +23,10 @@ Dans ce cadre, le LF2L® contribue à la mise en œuvre et à l’évaluation de
 
 Le LF2L® organise et met en œuvre des ateliers citoyens, contribue à la science citoyenne, participe à des événements de diffusion scientifiques et technique, etc.
 
-> !\[communities at lf2l\]((/assets/images/4-communities/collectivities/label.png) {: .align-right}
+> ![communities at lf2l](/assets/images/4-communities/collectivities/label.png)
 > Métropole du Grand Nancy élu Territoire Innovant OR en décembre 2016 par les Interconnectés 2016 grâce au projet VélOstan Connecté accompagné par le LF2L®
 
-!\[communities at lf2l\](/assets/images/4-communities/collectivities/activites.jpg)
+![communities at lf2l](/assets/images/4-communities/collectivities/activites.jpg)
 
 ## Incarnez vos projets ! Créez votre espace d'innovation, adapté à votre écosystème !
 
