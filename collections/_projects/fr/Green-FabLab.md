@@ -189,4 +189,4 @@ caption="Projets pédagogiques fait par des étudiants." %} {: .text-right}
 {% include feature_row id="partners" %}
 </div>
 
-**Contact**: Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
+**Contact**: Fabio Cruz : cruzsanc1@univ-lorraine.fr
