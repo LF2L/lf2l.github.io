@@ -27,4 +27,4 @@ more information: [http://linkybymakers.fr/](http://linkybymakers.fr/ "http://li
 
 ### Contact
 
-Laurent Dupont: **l.dupont {at} univ-lorraine.fr**
+Laurent Dupont: l.dupont@univ-lorraine.fr
