@@ -36,7 +36,7 @@ See more on :
 
 ### Contact
 
-Laurent Dupont: **<l.dupont@univ-lorraine.fr>**
+Laurent Dupont: l.dupont@univ-lorraine.fr
 
 ### Funds
 
