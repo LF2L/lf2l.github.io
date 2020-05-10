@@ -74,4 +74,4 @@ Without being exhaustive, here are some of the results provided by the LSCLL and
 
 ## Contacts
 
-Laurent Dupont, Ing., Dr., scientific coordinator: **l.dupont {at} univ-lorraine.fr**
+Laurent Dupont, Ing., Dr., scientific coordinator: l.dupont@univ-lorraine.fr
