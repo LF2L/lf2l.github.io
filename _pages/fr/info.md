@@ -20,7 +20,7 @@ last_modified_at: 2018-11-12T00:00:00.000+00:00
 
 ## Horaire
 
-* **Lundi - Vendredi**, 9H-12H et 13H30-17H30
+* **Lundi - Vendredi** : 9H-12H et 13H30-17H30
 
 ## Contactez-nous
 
