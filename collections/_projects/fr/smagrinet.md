@@ -39,4 +39,4 @@ La transition énergétique n’est pas qu’une question technique adressée à
 
 En parallèle des formations universitaires, le projet SMAGRINET conçoit et réalise un programme court en apprentissage mixte pour les acteurs impliqués dans la transition énergétique, dont les industriels, les universitaires, les représentants territoriaux et le grand public. Ces programmes courts sont actuellement développés par les laboratoires GREEN (Kévin Berger) et ERPI (Laurent Dupont et Alex Gabriel) de l'Université de Lorraine et seront disponibles pour le second semestre 2020.
 
-Si vous êtes intéressé par ce projet engagé pour les smart grids dédié à la transition énergétique, n’hésitez pas contacter [Laurent Dupont](mailto:l.dupont@univ-lorraine.fr) ou [Alex Gabriel](mailto:alex.gabriel@univ-lorraine.fr).
+Si vous êtes intéressé par ce projet engagé pour les smart grids dédié à la transition énergétique, n’hésitez pas contacter Laurent Dupont : l.dupont@univ-lorraine.fr ou Alex Gabriel : alex.gabriel@univ-lorraine.fr
