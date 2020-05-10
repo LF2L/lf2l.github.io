@@ -45,7 +45,7 @@ Les ressources et compétences présentes dans le LF2L® permettent d’interpel
 
 Pour plus d'information contact: erpi-lf2l-equipe@univ-lorraine.fr
 
-Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont
+Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont : l.dupont@univ-lorraine.fr
 
 ## Vous êtes étudiant d'une autre Université / Laboratoire?
 
