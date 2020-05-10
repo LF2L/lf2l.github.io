@@ -23,6 +23,6 @@ Le LF2L® accueille ainsi les travaux de la Chaire de Recherche PRINCIP (labéli
 
 ## Vous êtes chercheur ?
 
-La plateforme LF2L® vous intéresse dans le cadre de vos recherches, vous souhaitez collaborer avec le laboratoire ERPI ou participer à l’un de ses programmes de recherche – contactez Laurent Dupont.
+La plateforme LF2L® vous intéresse dans le cadre de vos recherches, vous souhaitez collaborer avec le laboratoire ERPI ou participer à l’un de ses programmes de recherche – contactez Laurent Dupont : l.dupont@univ-lorraine.fr
 
 Pour savoir plus sur notre travail, consultez nos publications scientifiques.
