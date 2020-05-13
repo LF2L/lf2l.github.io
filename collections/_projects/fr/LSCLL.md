@@ -70,4 +70,4 @@ Sans être exhaustif, voici quelques résultats apportés par le LSCLL et projet
 
 ## Contacts
 
-Laurent Dupont, Ing., Dr., Coordinateur Scientifique : l.dupont@univ-lorraine.fr
+Laurent Dupont, Ing., Dr., Coordinateur Scientifique : l.dupont {at} univ-lorraine.fr
