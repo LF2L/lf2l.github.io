@@ -21,4 +21,4 @@ pour en savoir plus sur le projet vous pouvez consulter le site [http://linkybym
 
 ### Contact
 
-Laurent Dupont: **l.dupont@univ-lorraine.fr**
+Laurent Dupont : l.dupont {at} univ-lorraine.fr
