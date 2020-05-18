@@ -36,10 +36,18 @@ News_2016:
   alt: ''
   title: Image 3 title caption
 - url: "/assets/images/2-concept/media/2016-06-23.jpg"
+  image_path: "/assets/images/2-concept/media/2016-07-18.jpg"
+  alt: ''
+  title: Emergence d'un écosystème
+- url: "/assets/images/2-concept/media/2016-06-23.jpg"
   image_path: "/assets/images/2-concept/media/2016-06-23.jpg"
   alt: ''
   title: Image 3 title caption
 News_2015:
+- url: "/assets/images/2-concept/media/2015-01-01.jpg"
+  image_path: "/assets/images/2-concept/media/2015-01-01.jpg"
+  alt: " "
+  title: Quand l'innovation sort de l'imprimante
 - url: "/assets/images/2-concept/media/2015-02-01.jpg"
   image_path: "/assets/images/2-concept/media/2015-02-01.jpg"
   alt: " "
@@ -93,6 +101,10 @@ News_2014:
   image_path: "/assets/images/2-concept/media/2014-10-11-2.jpg"
   alt: ''
   title: Qui n'a pas son FabLab 2/2
+- url: "/assets/images/2-concept/media/2014-12-03.jpg"
+  image_path: "/assets/images/2-concept/media/2014-12-03.jpg"
+  alt: ''
+  title: Les chefs d'entreprises passent au FabLab
  
 ---
 
