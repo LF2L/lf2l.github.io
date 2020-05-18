@@ -38,6 +38,11 @@ News_2018:
   image_path: "/assets/images/2-concept/media/2018-11-15-2.jpg"
   alt: ''
   title: Ces ateliers du futur 2/2
+- url: "/assets/images/2-concept/media/2018-11-24.jpg"
+  image_path: "/assets/images/2-concept/media/2018-11-24.jpg"
+  alt: ''
+  title: Lorraine Fab Living Lab (LF2L)  
+  
 News_2017:
 - url: "/assets/images/2-concept/media/2017-06-10.jpg"
   image_path: "/assets/images/2-concept/media/2017-06-10.jpg"
