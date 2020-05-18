@@ -57,6 +57,10 @@ News_2014:
   image_path: "/assets/images/2-concept/media/2014-10-06.jpg"
   alt: ''
   title: Image 3 title caption
+- url: "/assets/images/2-concept/media/2014-06-20.jpg"
+  image_path: "/assets/images/2-concept/media/2014-06-20.jpg"
+  alt: ''
+  title: Image 3 title caption
 
 ---
 
