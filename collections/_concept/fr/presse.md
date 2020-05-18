@@ -35,10 +35,18 @@ News_2016:
   image_path: "/assets/images/2-concept/media/2016-10-17.jpg"
   alt: ''
   title: Image 3 title caption
-- url: "/assets/images/2-concept/media/2016-06-23.jpg"
+- url: "/assets/images/2-concept/media/2016-07-18.jpg"
   image_path: "/assets/images/2-concept/media/2016-07-18.jpg"
   alt: ''
   title: Emergence d'un écosystème
+- url: "/assets/images/2-concept/media/2016-07-19.jpg"
+  image_path: "/assets/images/2-concept/media/2016-07-19.jpg"
+  alt: ''
+  title: La réalité virtuelle débarque 1/2
+- url: "/assets/images/2-concept/media/2016-07-19-2.jpg"
+  image_path: "/assets/images/2-concept/media/2016-07-19-2.jpg"
+  alt: ''
+  title: La réalité virtuelle débarque 2/2
 - url: "/assets/images/2-concept/media/2016-06-23.jpg"
   image_path: "/assets/images/2-concept/media/2016-06-23.jpg"
   alt: ''
