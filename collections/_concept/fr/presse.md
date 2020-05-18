@@ -21,7 +21,32 @@ News_2020:
   image_path: "/assets/images/2-concept/media/2020-05-05.jpg"
   alt: ''
   title: Image 2 title caption
+News_2018:
+- url: "/assets/images/2-concept/media/2018-04-11.jpg"
+  image_path: "/assets/images/2-concept/media/2018-04-11.jpg"
+  alt: ''
+  title: Le professeur Pearce à l'Université de Lorraine
+- url: "/assets/images/2-concept/media/2018-05-29.jpg"
+  image_path: "/assets/images/2-concept/media/2018-05-29.jpg"
+  alt: ''
+  title: L'Université de Lorraine à la pointe
+- url: "/assets/images/2-concept/media/2018-11-15.jpg"
+  image_path: "/assets/images/2-concept/media/2018-11-15.jpg"
+  alt: ''
+  title: Ces ateliers du futur 1/2
+- url: "/assets/images/2-concept/media/2018-11-15-2.jpg"
+  image_path: "/assets/images/2-concept/media/2018-11-15-2.jpg"
+  alt: ''
+  title: Ces ateliers du futur 2/2
 News_2017:
+- url: "/assets/images/2-concept/media/2017-06-10.jpg"
+  image_path: "/assets/images/2-concept/media/2017-06-10.jpg"
+  alt: ''
+  title: Prendre en compte l'usage et l'usager
+- url: "/assets/images/2-concept/media/2017-03-23.jpg"
+  image_path: "/assets/images/2-concept/media/2017-03-23.jpg"
+  alt: ''
+  title: Une pépinière culturelle et créative
 - url: "/assets/images/2-concept/media/2017-01-17.jpg"
   image_path: "/assets/images/2-concept/media/2017-01-17.jpg"
   alt: ''
@@ -51,6 +76,10 @@ News_2016:
   image_path: "/assets/images/2-concept/media/2016-06-23.jpg"
   alt: ''
   title: Image 3 title caption
+- url: "/assets/images/2-concept/media/2016-06-20.jpg"
+  image_path: "/assets/images/2-concept/media/2016-06-20.jpg"
+  alt: ''
+  title: Du smart Data dans l'usine
 News_2015:
 - url: "/assets/images/2-concept/media/2015-01-01.jpg"
   image_path: "/assets/images/2-concept/media/2015-01-01.jpg"
@@ -165,6 +194,10 @@ id="News_2020"
 		<div class="wp-playlist-item-length">3:34</div>
 	</div>
 </div>
+
+{% include gallery
+id="News_2019"
+%}
 
 ## 2018
 
