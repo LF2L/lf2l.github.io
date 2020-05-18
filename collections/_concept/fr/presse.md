@@ -52,6 +52,11 @@ News_2015:
   image_path: "/assets/images/2-concept/media/2015-05-04.png"
   alt: ''
   title: Image 3 title caption
+  News_2014:
+  - url: "/assets/images/2-concept/media/2014-10-06.jpg"
+  image_path: "/assets/images/2-concept/media/2014-10-06.jpg"
+  alt: ''
+  title: Image 3 title caption
 
 ---
 
@@ -127,4 +132,10 @@ id="News_2016"
 
 {% include gallery
 id="News_2015"
+%}
+
+## 2014
+
+{% include gallery
+id="News_2014"
 %}
