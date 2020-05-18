@@ -56,41 +56,43 @@ News_2014:
 - url: "/assets/images/2-concept/media/2014-10-06.jpg"
   image_path: "/assets/images/2-concept/media/2014-10-06.jpg"
   alt: ''
-  title: Image 3 title caption
+  title: L'école en marche
 - url: "/assets/images/2-concept/media/2014-06-20.jpg"
   image_path: "/assets/images/2-concept/media/2014-06-20.jpg"
   alt: ''
-  title: Image 3 title caption
+  title: J'irais innover chez vous
 - url: "/assets/images/2-concept/media/2014-06-26.jpg"
   image_path: "/assets/images/2-concept/media/2014-06-26.jpg"
   alt: ''
-  title: Image 3 title caption
+  title: LF2L et matériel embarqué
 - url: "/assets/images/2-concept/media/2014-09-11.jpg"
   image_path: "/assets/images/2-concept/media/2014-09-11.jpg"
   alt: ''
-  title: Image 3 title caption
+  title: Têtes chercheuses
 - url: "/assets/images/2-concept/media/2014-11-08.jpg"
   image_path: "/assets/images/2-concept/media/2014-11-08.jpg"
   alt: ''
-  title: Image 3 title caption  
+  title: Un laboratoire de fabrication au collège 
 - url: "/assets/images/2-concept/media/2014-11-21.jpg"
   image_path: "/assets/images/2-concept/media/2014-11-21.jpg"
   alt: ''
-  title: Image 3 title caption    
+  title: Oser l'économie de demain    
 - url: "/assets/images/2-concept/media/2014-06-23.jpg"
   image_path: "/assets/images/2-concept/media/2014-06-23.jpg"
   alt: ''
-  title: Image 3 title caption    
+  title: Le LF2L prend la route    
 - url: "/assets/images/2-concept/media/2014-10-10.jpg"
   image_path: "/assets/images/2-concept/media/2014-10-10.jpg"
   alt: ''
-  title: Image 3 title caption
+  title: Innovation 3D et Evaluation par l'usage
 - url: "/assets/images/2-concept/media/2014-10-11.jpg"
   image_path: "/assets/images/2-concept/media/2014-10-11.jpg"
+  alt: ''
+  title: Qui n'a pas son FabLab 1/2
+- url: "/assets/images/2-concept/media/2014-10-11-2.jpg"
   image_path: "/assets/images/2-concept/media/2014-10-11-2.jpg"
   alt: ''
-  title: Image 3 title caption
-  
+  title: Qui n'a pas son FabLab 2/2
  
 ---
 
