@@ -65,7 +65,11 @@ News_2014:
   image_path: "/assets/images/2-concept/media/2014-06-26.jpg"
   alt: ''
   title: Image 3 title caption
-  
+- url: "/assets/images/2-concept/media/2014-09-11.jpg"
+  image_path: "/assets/images/2-concept/media/2014-09-11.jpg"
+  alt: ''
+  title: Image 3 title caption
+    
 ---
 
 ## 2020
