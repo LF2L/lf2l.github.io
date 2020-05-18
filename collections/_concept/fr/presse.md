@@ -21,6 +21,11 @@ News_2020:
   image_path: "/assets/images/2-concept/media/2020-05-05.jpg"
   alt: ''
   title: Image 2 title caption
+News_2019:
+- url: "/assets/images/2-concept/media/2019-06-01.jpg"
+  image_path: "/assets/images/2-concept/media/2019-06-01.jpg"
+  alt: ''
+  title: Le village des innovations repousse les limites
 News_2018:
 - url: "/assets/images/2-concept/media/2018-04-11.jpg"
   image_path: "/assets/images/2-concept/media/2018-04-11.jpg"
