@@ -20,7 +20,7 @@ last_modified_at: 2020-05-07
 ---
 **Quel est l'objectif principal du projet SMAGRINET ?**
 
-Impliquer la société et former les générations actuelles et futures de travailleurs aux smart grids est un point essentiel du processus de transition énergétique de l'UE. Le projet SMAGRINET (Smart grid competence hub for boosting research, innovation and educational capacities for energy transition) a été conçu pour répondre à cet aspect de la transition énergétique : faire de la connaissance des smart grids une connaissance universelle dans toute l'Europe.
+Impliquer la société et former les générations actuelles et futures de travailleurs aux smart grids est un point essentiel du processus de transition énergétique de l'UE. Le projet [SMAGRINET](https://www.smagrinet.eu) (Smart grid competence hub for boosting research, innovation and educational capacities for energy transition) a été conçu pour répondre à cet aspect de la transition énergétique : faire de la connaissance des smart grids une connaissance universelle dans toute l'Europe.
 
 En 2018, les États membres de l'UE ont produit au total environ 3 000 TWh d'électricité, dont 35 % par des unités de production d'énergie verte. Il s'agit d'une quantité d'énergie considérable, mais pour que l'UE puisse effectivement être conforme aux accords de Paris, des efforts supplémentaires doivent être produits par les états membres et les industries du secteur énergétique. Cela signifie également que les ingénieurs du secteur doivent maitriser les enjeux et les techniques liés à la transition énergétique et aux smart grids. Ce besoin est de plus en plus fort. C’est pourquoi, une formation adéquate doit être mise en place lorsque de nouvelles technologiques sont disponibles.
 
