@@ -61,6 +61,7 @@ News_2017:
   image_path: "/assets/images/2-concept/media/2017-01-17.jpg"
   alt: ''
   title: Image 1 title caption
+- {% include video id="JwFEezKUb0M" provider="youtube" %}
 News_2016:
 - url: "/assets/images/2-concept/media/2016-12-15.jpg"
   image_path: "/assets/images/2-concept/media/2016-12-15.jpg"
