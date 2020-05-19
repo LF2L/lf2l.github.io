@@ -237,3 +237,6 @@ id="News_2015"
 {% include gallery
 id="News_2014"
 %}
+
+[![Alt text](https://img.youtube.com/vi/9UfAzmj1y/0.jpg)](https://www.youtube.com/watch?v=9UfAzmj1y "click to play on Youtube.com)
+
