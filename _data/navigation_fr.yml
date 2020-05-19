@@ -38,8 +38,7 @@ communities:
         url: /fr/communities/students/
       - title: "Universitaires"
         url: /fr/communities/universities/
-      - title: "GSI Lab"
-        url: /fr/communities/gsilab/
+   
 
 
 
@@ -76,6 +75,9 @@ projects:
         
       - title: "Musées et gestion du patrimoine"
         url: /fr/projects/museum/
+        
+      - title: "Smagrinet"
+        url: /fr/projects/smagrinet/
 
 
 
