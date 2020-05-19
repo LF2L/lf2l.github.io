@@ -221,6 +221,9 @@ id="News_2018"
 id="News_2017"
 %}
 
+{% include video id="JwFEezKUb0M" provider="youtube" %}
+
+
 ## 2016
 
 {% include gallery
