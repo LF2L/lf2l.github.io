@@ -220,4 +220,4 @@ id="News_2015"
 id="News_2014"
 %}
 
-<iframe src="[https://www.youtube-nocookie.com/embed/JxF5gunuM1A](https://www.youtube-nocookie.com/embed/JxF5gunuM1A "https://www.youtube-nocookie.com/embed/JxF5gunuM1A")" frameborder="0" allowfullscreen=""></iframe>
+{% include video id="JxF5gunuM1A" provider="youtube" %}
