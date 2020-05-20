@@ -220,4 +220,3 @@ id="News_2015"
 id="News_2014"
 %}
 
-{% include video id="JxF5gunuM1A" provider="youtube" %}
