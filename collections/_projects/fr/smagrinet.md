@@ -52,7 +52,6 @@ Pour en savoir plus :
 
 [Smagrinet sur Youtube](https://www.youtube.com/channel/UC3ZJduqSgycMzqruxDeKDXw?disable_polymer=true "https://www.youtube.com/channel/UC3ZJduqSgycMzqruxDeKDXw?disable_polymer=true")
 
-{% include video id="JxF5gunuM1A" provider="youtube" %}
 
 
 Si vous êtes intéressé par ce projet engagé pour les smart grids dédié à la transition énergétique, n’hésitez pas contacter Laurent Dupont : l.dupont {at} univ-lorraine.fr ou Alex Gabriel : alex.gabriel {at} univ-lorraine.fr
