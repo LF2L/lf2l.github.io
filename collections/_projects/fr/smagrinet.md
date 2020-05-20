@@ -2,7 +2,7 @@
 lang: fr
 layout: single
 classes: wide
-title: Smagrinet
+title: Projet H2020 Smagrinet
 permalink: "/fr/projects/smagrinet/"
 image-path: "/assets/images/3-projects/gf/"
 excerpt: Smart Grids ou réseaux éléctriques intelligents pour permettre une gestion
