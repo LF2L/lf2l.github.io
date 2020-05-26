@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: single
 classes: wide
 title: OSTRL - Competence management
@@ -11,7 +12,7 @@ header:
   overlay_filter: 0.5
 
 
-permalink: "/projects/ostrl/"
+permalink: "/projects/open-hardware-competencies/"
 image-path: "/assets/images/3-projects/OSTRL/"
 description: Competences management in open source hardware
 

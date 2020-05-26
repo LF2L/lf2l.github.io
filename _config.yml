@@ -340,6 +340,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  Fabio:
+    output: true    
+
 
 # Defaults
 
