@@ -5,6 +5,8 @@ classes: wide
 title: Green FabLab
 permalink: "/fr/projects/green-fablab/"
 image-path: "/assets/images/3-projects/gf/"
+
+
 sidebar:
   nav: Green-Fablab
 excerpt: 'Économie circulaire et impression 3D: Paradigme d''un recyclage local et
@@ -29,6 +31,7 @@ gallery:
   image_path: "/assets/images/3-projects/gf/BD/fr/Fabio-MT180-II.jpg"
   alt: Ma thèse en 180s Fabio Cruz
   title: Ma thèse en 180s Fabio Cruz
+
 projects:
 - image_path: "/assets/images/3-projects/gf/articles/proj-1/thumb.png"
   alt: ''
@@ -53,6 +56,8 @@ projects:
   url: "/fr/green-fablab/logistic/"
   btn_label: Plus de détails
   btn_class: btn--info
+
+
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/CESI.jpg"
   teaser_class: GF-partners
@@ -83,10 +88,11 @@ pedagogical:
   alt: Pedagogical projects Green Fablab
   title: Pedagogical projects Green Fablab at LF2L
 last_modified_at: 2018-11-15
-
 ---
-![Green FabLab](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'Logo-GF.png'%7D%7D)
+
 {: .align-center}
+![Logo Green Fablab]( {{ site.baseurl | append:page.image-path | append:'Logo-GF.png'}}  )
+
 
 {% include feature_row id="intro" type="center" %}
 
@@ -108,7 +114,8 @@ caption="BD réalisé dans le cadre de _Ma Thèse en 180s_ de l'UL. [Made by Peb
 
 Les espaces de co-création « open labs » tels que Fab Labs, Living Labs, hackerspaces / makerspaces, TechShops sont des phénomènes émergent en France et dans le monde.
 
-![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'LF2L.jpg'%7D%7D){: .align-left}
+![Image 1](/assets/images/3-projects/gf/LF2L.jpg){: .align-left}
+
 
 Ils constituent un lieu et une démarche portés par des acteurs divers, en vue de renouveler les modalités d’innovation et de création par la mise en œuvre de processus collaboratifs et itératifs, ouverts et donnant lieu à une matérialisation physique ou virtuelle.
 
@@ -153,13 +160,16 @@ Cette approche permet de contribuer, tout du moins partiellement, à résoudre l
 
 ***
 
+{: #GF-research .GF-titles }
 ## Notre recherche
 
-{: #GF-research .GF-titles }
 
 <div id="GF-projects">
 {% include feature_row id="projects" %}
 </div>
+
+
+
 
 ***
 
