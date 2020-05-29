@@ -196,11 +196,15 @@ id="News_2020"
 id="News_2018"
 %}
 
+{% include video id="JwFEezKUb0M" provider="youtube" %}
+
 ## 2017
 
 {% include gallery
 id="News_2017"
 %}
+
+{% include video id="G-98tLRjaOk" provider="youtube" %}
 
 ## 2016
 
@@ -220,3 +224,6 @@ id="News_2015"
 id="News_2014"
 %}
 
+{% include video id="9UfAzmj1y_c" provider="youtube" %}
+
+{% include video id="YJsP5EJAwis" provider="youtube" %}
