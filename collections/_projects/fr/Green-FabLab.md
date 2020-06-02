@@ -91,7 +91,7 @@ last_modified_at: 2018-11-15
 ---
 
 {: .align-center}
-![Logo Green Fablab]( {{ site.baseurl | append:page.image-path | append:'Logo-GF.png'}}  )
+![Logo Green Fablab]({{ site.baseurl | append:page.image-path | append:'Logo-GF.png'}})
 
 
 {% include feature_row id="intro" type="center" %}
@@ -103,7 +103,6 @@ Le concept de **Green Fablab** est lié au croisement de plusieurs tendances soc
 
 ## Green FabLab en Images
 
-{: #GF-Images .GF-titles }
 
 {% include gallery
 caption="BD réalisé dans le cadre de _Ma Thèse en 180s_ de l'UL. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
@@ -129,7 +128,7 @@ Ils constituent un lieu et une démarche portés par des acteurs divers, en vue 
 
 C'est l’une des technologies identifiées comme ayant un fort potentiel d’impact sur les systèmes de production.
 
-![image-left](%7B%7Bsite.baseurl%7Cappend:page.image-path%7Cappend:'3DP.jpg'%7D%7D){: .align-right}
+![image-left]({{ site.baseur | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
 Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa principale particularité par rapport à la fabrication additive classique est le caractère collaboratif de l’open source qui permet des évolutions rapides et créatives, et ceci à moindre coût.
 
@@ -159,7 +158,6 @@ Cette approche permet de contribuer, tout du moins partiellement, à résoudre l
 <br>
 
 ***
-
 {: #GF-research .GF-titles }
 ## Notre recherche
 
@@ -168,32 +166,24 @@ Cette approche permet de contribuer, tout du moins partiellement, à résoudre l
 {% include feature_row id="projects" %}
 </div>
 
-
-
-
 ***
-
 {: #GF-pedagogical .GF-titles }
-
 ## Nos Projets Pédagogiques
 
 {% include gallery id="pedagogical"
 caption="Projets pédagogiques fait par des étudiants." %} {: .text-right}
 
 ***
-
-## Nos Étudiants
-
 {: #GF-students .GF-titles }
+## Nos Étudiants
 
 {% assign carousel = site.data.Green-Fablab.Equipe-fr %}
 {% include carousel  %}
 
 ***
-
+{: #GF-partners .GF-titles }
 ## Nos partenaires
 
-{: #GF-partners .GF-titles }
 
 <div id="GF-partners">
 {% include feature_row id="partners" %}
