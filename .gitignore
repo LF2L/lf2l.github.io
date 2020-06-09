@@ -8,7 +8,7 @@ _site/
 *.sublime-workspace
 .bundle
 vendor
-
+Gemfile.lock
 
 node_modules/
 
