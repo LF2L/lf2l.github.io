@@ -13,7 +13,7 @@ header:
   image_description: LF2L Concept
 sidebar:
   nav: LF2L-concept
-last_modified_at: 2018-10-24
+last_modified_at: 2020-06-22 00:00:00 +0200
 
 ---
 # Concept Fab Living Lab
