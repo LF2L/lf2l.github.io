@@ -45,6 +45,12 @@ toc_sticky: true
 
 ## 2019
 
+* **Jonathan Lacroix** [L’approche Urban Living Lab pour insuffler l’innovation en urbanisme ? Contribution à la conception d’une ingénierie de pilotage de l’innovation urbaine : application à l’Opération d’Intérêt National d’Alzette Belval](https://hal.univ-lorraine.fr/tel-02518459)
+
+  Sciences de l'ingénieur \[physics\]. Université de Lorraine, 2019. Français. [⟨NNT : 2019LORR0185⟩](https://www.theses.fr/2019LORR0185)
+* **Giang Tran**  [From “shared diagnosis” to “shared action” : how Living Lab process can support decision-making process involving citizen for Smart City](https://hal.univ-lorraine.fr/tel-02517128)
+
+  Engineering Sciences \[physics\]. Université de Lorraine, 2019. English. [⟨NNT : 2019LORR0168⟩](https://www.theses.fr/2019LORR0168)
 * **Laurent Dupont.** Lorraine Fab Living Lab : Mise en place d’un éco-système de co-production. _Rencontres semestrielles sur les liens entre la Ville et l’Université - Les Entretiens de Sceaux 2e session “Territoire apprenant.. id est ?”_, Vallée Scientifique de la Bièvre; Association des Villes Universitaires de France; Ville de Sceaux, Jun 2019, Sceaux, France. [⟨hal-02412591⟩](https://hal.archives-ouvertes.fr/hal-02412591)
 * **Ferney Osorio, Laurent Dupont, Mauricio Camargo,** José Ismael Peña. Constellation of Innovation Laboratories: A Scientific Outlook. _2019 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)_, Jun 2019, Valbonne Sophia-Antipolis, France. pp.1-10, [⟨10.1109/ICE.2019.8792816⟩](https://dx.doi.org/10.1109/ICE.2019.8792816). [⟨hal-02266978⟩](https://hal.archives-ouvertes.fr/hal-02266978)
 * **Ferney Osorio, Laurent Dupont, Mauricio Camargo,** Pedro Palominos, José Ismael Peña, Miguel Alfaro. Design and management of innovation laboratories: Toward a performance assessment tool. _Creativity and Innovation Management_, Wiley, 2019, 28 (1), pp.82-100. [⟨10.1111/caim.12301⟩](https://dx.doi.org/10.1111/caim.12301). [⟨hal-01987047⟩](https://hal.archives-ouvertes.fr/hal-01987047)
