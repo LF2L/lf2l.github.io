@@ -17,10 +17,19 @@ toc_sticky: true
 ---
 ## 2020
 
+* **Fabio Cruz Sanchez, Hakim Boudaoud, Mauricio Camargo**, Joshua Pearce [Plastic recycling in additive manufacturing: a systematic literature review and opportunities for the circular economy](https://hal.archives-ouvertes.fr/hal-02560191)
+
+  _Journal of Cleaner Production_, Elsevier, 2020, 264, pp.121602. [⟨10.1016/j.jclepro.2020.121602⟩](https://dx.doi.org/10.1016/j.jclepro.2020.121602)
 * **Laurent Dupont, Laure Morel.** Les espaces Do It Yourself, vivre ou survivre ?. 2020. [⟨hal-02878128⟩](https://hal.archives-ouvertes.fr/hal-02878128) [Lien blog Alternatives Economiques](https://blogs.alternatives-economiques.fr/reseauinnovation/2020/02/21/les-espaces-do-it-yourself-vivre-ou-survivre)
 * Sophie Boutillier, Ignasi Capdevila, **Laurent Dupont, Laure Morel.** Collaborative spaces promoting creativity and innovation. _Journal of Innovation Economics & Management_, De Boeck Supérieur 2020, 31 (1), pp.1-9. [⟨10.3917/jie.031.0001⟩](https://dx.doi.org/10.3917/jie.031.0001). [⟨hal-02878132⟩](https://hal.archives-ouvertes.fr/hal-02878132)
 * Sophie Boutillier, Ignasi Capdevila, **Laurent Dupont, Laure Morel.** Espaces et nouvelles formes d’organisation du travail créatif. _Innovations - Revue d’économie et de management de l’innovation_, De Boeck Supérieur, 2020, N°61 (1), pp.5-13. [⟨10.3917/inno.061.0005⟩](https://dx.doi.org/10.3917/inno.061.0005). [⟨hal-02446557⟩](https://hal.archives-ouvertes.fr/hal-02446557)
+* **Pavlo Santander, Fabio Cruz Sanchez, Hakim Boudaoud, Mauricio Camargo** [Closed loop supply chain network for local and distributed plastic recycling for 3D printing: a MILP-based optimization approach](https://hal.archives-ouvertes.fr/hal-02398793)
+
+  _Resources, Conservation and Recycling_, Elsevier, 2020, 154, pp.104531. [⟨10.1016/j.resconrec.2019.104531⟩](https://dx.doi.org/10.1016/j.resconrec.2019.104531)
 * **Ferney Osorio, Laurent Dupont, Mauricio Camargo,** Carlos Sandoval, José Ismael Peña. Shaping a Public Innovation Laboratory in Bogota: Learning through Time, Space and Stakeholders. _Journal of Innovation Economics & Management_, De Boeck Supérieur 2020, n°31 (1), pp.69-100. [⟨10.3917/jie.pr1.0066⟩](https://dx.doi.org/10.3917/jie.pr1.0066). [⟨hal-02453808⟩](https://hal.archives-ouvertes.fr/hal-02453808)
+* **Linda Acosta Salgado, Eric Bonjour, Auguste Rakotondranaivo** [Towards an improved acceptability assessment model of innovative solutions in the design phase](https://hal.archives-ouvertes.fr/hal-02845177)
+
+  _International Journal of Business Information Systems_, Inderscience, 2020, 1 (1), pp.1. [⟨10.1504/IJBIS.2020.10029802⟩](https://dx.doi.org/10.1504/IJBIS.2020.10029802)
 
 ## 2019
 
