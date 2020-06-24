@@ -17,6 +17,18 @@ toc_sticky: true
 ---
 ## 2020
 
+* **Anaëlle Hily,** Christel Jacob, **Laurent Dupont, Giovanny Arbelaez,** Jérôme Dinet, **Mauricio Camargo** [Reliability of virtual reality for user experience in spatial cognition: an exploratory approach](https://hal.archives-ouvertes.fr/hal-02553833)
+
+  _ConVRgence (VRIC) Virtual Reality International Conference 2020_, Laval Virtual, Apr 2020, Laval, France. pp.68-80
+* **Mariela Martinez, Giovanny Arbelaez Garces, Laurent Dupont, Anaëlle Hily, Mauricio Camargo,** Christel Jacob, Jérôme Dinet [Physiological assessment of User eXprience supported by Immersive Environments: First input from a literature review](https://hal.archives-ouvertes.fr/hal-02551341)
+
+  _ConVRgence (VRIC) Virtual Reality International Conference_, Laval Virtual, Apr 2020, Laval, France. pp.89-108
+* **Giovanny Arbelaez Garces**, Julien Michaux, **Mauricio Camargo,** Nicolas Ferveur [Development of an IMU-based ergonomics assessment tool for virtual reality](https://hal.univ-lorraine.fr/hal-02565428)
+
+  _ConVRgence (VRIC) Virtual Reality International Conference Proceedings_, Apr 2020, Laval, France. [⟨10.20870/IJVR.2020..3316⟩](https://dx.doi.org/10.20870/IJVR.2020..3316)
+* **Maxence Arnould, Laure Morel,** Meriem Fournier [Living lab organization and practices as useful tools to stimulate innovation in forestry practices](https://hal.univ-lorraine.fr/hal-02507196)
+
+  _Governing and managing forests for multiple ecosystem services across the globe_, Feb 2020, Bonn, Germany
 * **Fabio Cruz Sanchez, Hakim Boudaoud, Mauricio Camargo**, Joshua Pearce [Plastic recycling in additive manufacturing: a systematic literature review and opportunities for the circular economy](https://hal.archives-ouvertes.fr/hal-02560191)
 
   _Journal of Cleaner Production_, Elsevier, 2020, 264, pp.121602. [⟨10.1016/j.jclepro.2020.121602⟩](https://dx.doi.org/10.1016/j.jclepro.2020.121602)
