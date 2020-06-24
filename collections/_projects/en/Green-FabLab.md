@@ -200,7 +200,7 @@ last_modified_at: 2019-05-15
 ---
 
 {: .align-center}
-![Logo Green Fablab]({{site.baseurl|append:page.image-path|append:'Logo-GF.png'}})
+![Logo Green Fablab]({{ site.baseurl | append:page.image-path|append:'Logo-GF.png'}})
 
 {% include feature_row id="intro" type="center" %}
 

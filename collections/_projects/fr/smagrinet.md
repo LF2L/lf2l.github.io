@@ -2,24 +2,25 @@
 lang: fr
 layout: single
 classes: wide
-title: Smagrinet
+title: Projet H2020 Smagrinet
 permalink: "/fr/projects/smagrinet/"
 image-path: "/assets/images/3-projects/gf/"
-excerpt: 'Smart Grids ou réseaux éléctriques intelligents pour permettre une gestion plus efficace des réseaux éléctriques'
+excerpt: Smart Grids ou réseaux éléctriques intelligents pour permettre une gestion
+  plus efficace des réseaux éléctriques
 header:
   teaser: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
   overlay_image: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
   overlay_filter: "0.5"
 intro:
-- excerpt: "**Former les étudiants et travailleurs aux smarts grids, tel est l’un des objectifs du projet européen SMAGRINET dans lequel est impliquée l’Université de Lorraine.**"
-
+- excerpt: "**Former les étudiants et travailleurs aux smarts grids, tel est l’un
+    des objectifs du projet européen SMAGRINET dans lequel est impliquée l’Université
+    de Lorraine.**"
 last_modified_at: 2020-05-07
 
 ---
-
 **Quel est l'objectif principal du projet SMAGRINET ?**
 
-Impliquer la société et former les générations actuelles et futures de travailleurs aux smart grids est un point essentiel du processus de transition énergétique de l'UE. Le projet SMAGRINET (Smart grid competence hub for boosting research, innovation and educational capacities for energy transition) a été conçu pour répondre à cet aspect de la transition énergétique : faire de la connaissance des smart grids une connaissance universelle dans toute l'Europe.
+Impliquer la société et former les générations actuelles et futures de travailleurs aux smart grids est un point essentiel du processus de transition énergétique de l'UE. Le projet [SMAGRINET](https://www.smagrinet.eu) (Smart grid competence hub for boosting research, innovation and educational capacities for energy transition) a été conçu pour répondre à cet aspect de la transition énergétique : faire de la connaissance des smart grids une connaissance universelle dans toute l'Europe.
 
 En 2018, les États membres de l'UE ont produit au total environ 3 000 TWh d'électricité, dont 35 % par des unités de production d'énergie verte. Il s'agit d'une quantité d'énergie considérable, mais pour que l'UE puisse effectivement être conforme aux accords de Paris, des efforts supplémentaires doivent être produits par les états membres et les industries du secteur énergétique. Cela signifie également que les ingénieurs du secteur doivent maitriser les enjeux et les techniques liés à la transition énergétique et aux smart grids. Ce besoin est de plus en plus fort. C’est pourquoi, une formation adéquate doit être mise en place lorsque de nouvelles technologiques sont disponibles.
 
@@ -39,4 +40,18 @@ La transition énergétique n’est pas qu’une question technique adressée à
 
 En parallèle des formations universitaires, le projet SMAGRINET conçoit et réalise un programme court en apprentissage mixte pour les acteurs impliqués dans la transition énergétique, dont les industriels, les universitaires, les représentants territoriaux et le grand public. Ces programmes courts sont actuellement développés par les laboratoires GREEN (Kévin Berger) et ERPI (Laurent Dupont et Alex Gabriel) de l'Université de Lorraine et seront disponibles pour le second semestre 2020.
 
-Si vous êtes intéressé par ce projet engagé pour les smart grids dédié à la transition énergétique, n’hésitez pas contacter [Laurent Dupont](mailto:l.dupont@univ-lorraine.fr) ou [Alex Gabriel](mailto:alex.gabriel@univ-lorraine.fr).
+Pour en savoir plus :
+
+[Smagrinet](https://www.smagrinet.eu/ "https://www.smagrinet.eu/")
+
+[Smagrinet sur Twitter](https://twitter.com/smagrinet "https://twitter.com/smagrinet")
+
+[Smagrinet sur Linkedin](https://www.linkedin.com/company/smagrinet/ "https://www.linkedin.com/company/smagrinet/")
+
+[Smagrinet sur Facebook](https://www.facebook.com/smagrinet/ "https://www.facebook.com/smagrinet/")
+
+[Smagrinet sur Youtube](https://www.youtube.com/channel/UC3ZJduqSgycMzqruxDeKDXw?disable_polymer=true "https://www.youtube.com/channel/UC3ZJduqSgycMzqruxDeKDXw?disable_polymer=true")
+
+
+
+Si vous êtes intéressé par ce projet engagé pour les smart grids dédié à la transition énergétique, n’hésitez pas contacter Laurent Dupont : l.dupont {at} univ-lorraine.fr ou Alex Gabriel : alex.gabriel {at} univ-lorraine.fr

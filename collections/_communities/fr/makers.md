@@ -17,7 +17,8 @@ last_modified_at: 2018-10-24T00:00:00.000+00:00
 
 La révolution de la communication numérique est derrière nous. Nous vivons à présent la révolution de La Fabrication personnelle ou DIY.
 
-[!\[communities at lf2l\]({{ site.baseurl | append: page.img-path | append:'NYBI.png' }})](http://nybi.cc/){: .align-right}
+![communities at lf2l](/assets/images/4-communities/makers/NYBI.png)
+
 Pour s’ouvrir au plus grand nombre, le **Lorraine Fab Living Lab®** met à disposition tous les jeudis soirs ses locaux et ses ressources à l’association **NYBI**. L’Université de Lorraine permet ainsi à tous ceux qui veulent fabriquer par eux-mêmes, découvrir de nouvelles technologies, apprendre à les utiliser, de bénéficier du matériel et des espaces issus de la recherche.
 
 ## Comment profiter du LF2L ?

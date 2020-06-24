@@ -29,4 +29,4 @@ ENEDIS poursuit la modernisation des réseaux de distribution d’électricité 
 
 Le Grand Nancy inscrit notamment cette démarche dans l’émergence du Technopôle Renaissance à Nancy. Cet espace territorial de collaboration et de fertilisation croisée constituera un environnement pertinent pour le déploiement des travaux et recherches d’une Chaire partenariale portant sur les domaines essentiels de la Ville Durable.
 
-Voir notamment : Dupont, L., Morel, L., Guidat, C. (2015) Innovative Public-Private Partnership to Support Smart City: the Case of “Chaire REVES”. Journal of Strategy and Management, Vol. 8 Issue: 3, pp.245-265, https://doi.org/10.1108/JSMA-03-2015-0027
+Voir notamment : Dupont, L., Morel, L., Guidat, C. (2015) Innovative Public-Private Partnership to Support Smart City: the Case of “Chaire REVES”. Journal of Strategy and Management, Vol. 8 Issue: 3, pp.245-265, <https://doi.org/10.1108/JSMA-03-2015-0027>

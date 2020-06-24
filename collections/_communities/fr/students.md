@@ -21,8 +21,8 @@ last_modified_at: 2018-10-24 00:00:00 +0000
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'ENSGSI.jpg' }}){: .align-left}
 Le **Lorraine Fab Living Lab®** vous ouvre ses portes dans le cadre de cours pédagogiques. Pour une utilisation ponctuelle des machines (type FabLab : découpe laser, imprimante 3D, CNC, etc.) dans le cadre d'un projet: 
 
-- établir une convention auprès d’Amélie Varnier
-- réserver par mail les machines auprès de : Grégory Dupont /  Benjamin Enneser-Serville
+- compléter la charte d'utilisation des ressources du LF2L et l'envoyer par email à Frédérick Fontaine : frederick.fontaine@univ-lorraine.fr avec Benjamin Enneser-Serville en copie : benjamin.ennesser-serville@univ-lorraine.fr
+qui vous confirmerons la réservation et la disponibilité des espaces et ressources demandés.
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'GSI-lab.jpg' }}){: .align-left}
 Pour vos projets personnels : rejoignez l’association **GSI Lab** – tous les jeudis de 14h à 18h au LF2L
@@ -45,7 +45,7 @@ Les ressources et compétences présentes dans le LF2L® permettent d’interpel
 
 Pour plus d'information contact: erpi-lf2l-equipe@univ-lorraine.fr
 
-Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont
+Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont : l.dupont@univ-lorraine.fr
 
 ## Vous êtes étudiant d'une autre Université / Laboratoire?
 

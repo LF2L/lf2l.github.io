@@ -31,4 +31,4 @@ Avec le soutien de :
 
 ## Contacts
 
-Laurent Dupont : l.dupont@univ-lorraine.fr
+Laurent Dupont : l.dupont {at} univ-lorraine.fr
