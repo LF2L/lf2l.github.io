@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.5
 
 
-permalink: "/projects/climatelabs/"
+permalink: "/projects/climatelabs/CLT/"
 image-path: "/assets/images/3-projects/climatelabs/"
 description: Climatelabs project for UL
 
