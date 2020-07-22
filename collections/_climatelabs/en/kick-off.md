@@ -16,6 +16,44 @@ permalink: "/projects/climatelabs/"
 image-path: "/assets/images/3-projects/climatelabs/"
 description: Climatelabs project for UL
 
+
+UCaldas:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/P0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/thumbs/P0.jpg
+    alt: "Changemaker Leader Team: Universidad de Caldas"
+    title: "Changemaker Leader Team: Universidad de Caldas"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/P1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/thumbs/P1.jpg
+    alt: "Changemaker Leader Team: Universidad de Caldas"
+    title: "Changemaker Leader Team: Universidad de Caldas"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/P2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/thumbs/P2.jpg
+    alt: "Changemaker Leader Team: Universidad de Caldas"
+    title: "Changemaker Leader Team: Universidad de Caldas"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/P3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/thumbs/P3.jpg
+    alt: "Changemaker Leader Team: Universidad de Caldas"
+    title: "Changemaker Leader Team: Universidad de Caldas"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/P4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/thumbs/P4.jpg
+    alt: "Changemaker Leader Team: Universidad de Caldas"
+    title: "Changemaker Leader Team: Universidad de Caldas"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/P5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/thumbs/P5.jpg
+    alt: "Changemaker Leader Team: Universidad de Caldas"
+    title: "Changemaker Leader Team: Universidad de Caldas"
+ 
+
+
+
+
+
+
+
+
+
+
+
 sidebar:
   nav: "Climatelabs"
 ---
@@ -72,8 +110,12 @@ Let's build the Hero Journey for each University !!
 
 
 
+# Changemaker Leader Teams
 
 
+## Universidad de Caldas
+
+{% include gallery id="UCaldas" %}
 
 
 

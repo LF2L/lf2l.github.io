@@ -1,0 +1,6 @@
+
+Create thumbnail
+mogrify  -format jpg -path thumbs -thumbnail 200x150 *.jpeg
+
+Crop Image
+convert *.jpeg -crop 1470x1050+470+30 UCaldas.jpg
