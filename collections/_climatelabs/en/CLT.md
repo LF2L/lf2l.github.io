@@ -44,43 +44,43 @@ UCaldas:
     title: "Changemaker Leader Team: Universidad de Caldas"
 
 
-    UManizales:
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-0.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-0.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-1.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-1.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-2.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-2.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-3.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-3.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-4.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-4.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-5.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-5.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-6.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-6.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-7.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-7.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-      - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-8.jpg
-        image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-8.jpg
-        alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
-        title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+UManizales:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-5.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-6.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-6.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-7.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-7.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-8.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-8.jpg
+    alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+    title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
 
 
 
