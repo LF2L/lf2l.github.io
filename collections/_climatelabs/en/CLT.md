@@ -42,8 +42,6 @@ UCaldas:
     image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/thumbs/P5.jpg
     alt: "Changemaker Leader Team: Universidad de Caldas"
     title: "Changemaker Leader Team: Universidad de Caldas"
-
-
 UManizales:
   - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/P-0.jpg
     image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-0.jpg
@@ -81,15 +79,219 @@ UManizales:
     image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UManizales/thumbs/P-8.jpg
     alt: "Changemaker Leader Team: Universidad de Manizales - Colombia"
     title: "Changemaker Leader Team: Universidad de Manizales - Colombia"
+UQuindio:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-5.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-6.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-6.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-7.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-7.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-8.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-8.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"    
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/P-9.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UQuindio/thumbs/P-9.jpg
+    alt: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+    title: "Changemaker Leader Team: Universidad del Quindio - Colombia"
+Uniminuto:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Uniminuto - Colombia"
+    title: "Changemaker Leader Team: Uniminuto - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Uniminuto - Colombia"
+    title: "Changemaker Leader Team: Uniminuto - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Uniminuto - Colombia"
+    title: "Changemaker Leader Team: Uniminuto - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Uniminuto - Colombia"
+    title: "Changemaker Leader Team: Uniminuto - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Uniminuto - Colombia"
+    title: "Changemaker Leader Team: Uniminuto - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/P-5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/thumbs/P-5.jpg
+    alt: "Changemaker Leader Team: Uniminuto - Colombia"
+    title: "Changemaker Leader Team: Uniminuto - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/P-6.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Uniminuto/thumbs/P-6.jpg
+    alt: "Changemaker Leader Team: Uniminuto - Colombia"
+    title: "Changemaker Leader Team: Uniminuto - Colombia"
+UTP:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+    title: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+    title: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+    title: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+    title: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+    title: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/P-5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UTP/thumbs/P-5.jpg
+    alt: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
+    title: "Changemaker Leader Team: Universidad Tecnologica de Pereira - Colombia"
 
+PUCRS:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+    title: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+    title: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+    title: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+    title: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+    title: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/P-5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/PUCRS/thumbs/P-5.jpg
+    alt: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+    title: "Changemaker Leader Team: Pontifícia Universidade Católica do Rio Grande do Sul - Brazil"
+Unicap:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-5.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-6.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-6.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-7.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-7.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-8.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-8.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-9.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-9.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/P-10.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/Unicap/thumbs/P-10.jpg
+    alt: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
+    title: "Changemaker Leader Team: Universidade Católica de Pernambuco - Brazil"
 
-
-
-
-
-
-
-
+TEC:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+    title: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+    title: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+    title: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+    title: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/TEC/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+    title: "Changemaker Leader Team: Tecnológico de Monterrey - México"
+UDG:
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/P-0.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/thumbs/P-0.jpg
+    alt: "Changemaker Leader Team: Universidad de Guadalajara - México"
+    title: "Changemaker Leader Team: Universidad de Guadalajara - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/P-1.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/thumbs/P-1.jpg
+    alt: "Changemaker Leader Team: Universidad de Guadalajara - México"
+    title: "Changemaker Leader Team: Universidad de Guadalajara - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/P-2.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/thumbs/P-2.jpg
+    alt: "Changemaker Leader Team: Universidad de Guadalajara - México"
+    title: "Changemaker Leader Team: Universidad de Guadalajara - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/P-3.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/thumbs/P-3.jpg
+    alt: "Changemaker Leader Team: Universidad de Guadalajara - México"
+    title: "Changemaker Leader Team: Universidad de Guadalajara - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/P-4.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/thumbs/P-4.jpg
+    alt: "Changemaker Leader Team: Universidad de Guadalajara - México"
+    title: "Changemaker Leader Team: Universidad de Guadalajara - México"
+  - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/P-5.jpg
+    image_path: /assets/images/3-projects/climatelabs/wp1.1/CLT/UDG/thumbs/P-5.jpg
+    alt: "Changemaker Leader Team: Universidad de Guadalajara - México"
+    title: "Changemaker Leader Team: Universidad de Guadalajara - México"
 
 
 
@@ -135,7 +337,7 @@ Main sub-tasks are:
 **Languages:  Spanish and Portuguese**
 
 
-# Kick-off Workshop March 2 / 2020
+# Kick-off Workshop
 
 
 Let's build the Hero Journey for each University !!
@@ -149,13 +351,53 @@ Let's build the Hero Journey for each University !!
 
 
 
-# Changemaker Leader Teams
-
+# Changemaker Leader Teams --- Colombia
 
 ## Universidad de Caldas
 
-{% include gallery id="UCaldas" %}
+{% include gallery id="UCaldas" caption= "Universidad de Caldas - Colombia" %}
 
 ## Universidad de Manizales
 
-{% include gallery id="UManizales" %}
+{% include gallery id="UManizales" caption= "Universidad de Manizales - Colombia" %}
+
+
+## Universidad del Quindio
+
+{% include gallery id="UQuindio" caption= "Universidad del Quindio - Colombia" %}
+
+
+## Corporación Universitaria Minuto de Dios
+{% include gallery id="Uniminuto" caption= "Corporación Universitaria Minuto de Dios - Colombia" %}
+
+
+## Universidad Tecnologica de Pereira
+
+{% include gallery id="UTP" caption= "Universidad Tecnologica de Pereira - Colombia" %}
+
+
+# Changemaker Leader Teams --- Brazil
+
+## Pontifícia Universidade Católica do Rio Grande do Sul - Brazil
+
+{% include gallery id="PUCRS" caption="Pontifícia Universidade Católica do Rio Grande do Sul - Brazil" %}
+
+
+
+## Universidade Católica de Pernambuco
+
+{% include gallery id="Unicap" caption="Universidade Católica de Pernambuco - Brazil" %}
+
+
+
+
+# Changemaker Leader Teams --- Mexico
+
+## Tecnológico de Monterrey
+
+{% include gallery id="TEC" caption="Tecnológico de Monterrey - México" %}
+
+
+## Universidad de Guadalajara
+
+{% include gallery id="UDG" caption="Universidad de Guadalajara - México" %}
