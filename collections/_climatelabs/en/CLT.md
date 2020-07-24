@@ -6,16 +6,13 @@ author: Fabio
 
 excerpt: "Co-creation labs for mitigation and adaptation to Climate Change"
 header:
-  teaser: "/assets/images/3-projects/climatelabs/header.jpg"
-  overlay_image: "/assets/images/3-projects/climatelabs/header.jpg"
-  caption: "Photo credit:  Bill Oxford on [Unsplash]()"
+  teaser: "/assets/images/3-projects/climatelabs/header.png"
+  overlay_image: "/assets/images/3-projects/climatelabs/header.png"  
   overlay_filter: 0.5
-
 
 permalink: "/projects/climatelabs/CLT/"
 image-path: "/assets/images/3-projects/climatelabs/"
 description: Climatelabs project for UL
-
 
 UCaldas:
   - url: /assets/images/3-projects/climatelabs/wp1.1/CLT/UCaldas/P0.jpg
