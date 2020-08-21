@@ -6,13 +6,12 @@ permalink: "/fr/projects/"
 collection: projects
 entries_layout: grid
 classes: wide
-
-excerpt: "Quelques projets de recherches du LF2L"
+excerpt: ''
 header:
-  overlay_image: "assets/images/banners/LF2L-2.jpg"
-  overlay_filter: rgba(110, 110, 112, 0.5)
+  overlay_image: "/assets/images/publications/articles.jpg"
+  overlay_filter: 0.3
   show_overlay_excerpt: true
-  image_description: "Equipe de Recherche sur les Processus Innovatifs"
+  image_description: Equipe de Recherche sur les Processus Innovatifs
 
 date: 2018-09-07 00:00:00 +0000
 
