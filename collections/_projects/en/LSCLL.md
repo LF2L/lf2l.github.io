@@ -13,7 +13,7 @@ last_modified_at: 2018-10-24T00:00:00.000+00:00
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the Université de Lorraine at the service of citizens and territories
 
-The Université de Lorraine supported and developed Living Lab in the Grand Est region since 2008! 
+The Université de Lorraine supported and developed Living Lab in the Grand Est region since 2008!
 
 Based on the universality of the university and its multidisciplinarity, the Lorraine Smart Cities Living Lab (LSCLL) experiments in terms of projects, governance and support platform.
 
@@ -47,15 +47,16 @@ It covers: 5 Issues for innovative territories (Details to come)
 
 ## Some current projects
 
-Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen projects involving the Université de Lorraine: 
+Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen projects involving the Université de Lorraine:
 
 ![](/uploads/eu_flag-2015.jpg)
 
-* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe. 
+* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe.
 * [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
 * [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional "DIT" approach involving users, suppliers, etc.
 
-*  "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA" (Humans & Trees) project - In this project involving more than 100 regional partners, the Living lab approach supports the network of "DHDA" relay structures and places with the public (e.g. [LF2L](http://lf2l.fr), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.) DHDA is one of the 24 national winners of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation" (Territories of Innovation).
+  [logo_investirlavenir_rvb.png?itok=SI3DFVVd](https://www.gouvernement.fr/sites/default/files/styles/illustration-centre/public/contenu/illustration/2018/10/logo_investirlavenir_rvb.png?itok=SI3DFVVd "logo_investirlavenir_rvb.png?itok=SI3DFVVd")
+* "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA" (Humans & Trees) project - In this project involving more than 100 regional partners, the Living lab approach supports the network of "DHDA" relay structures and places with the public (e.g. [LF2L](http://lf2l.fr), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.) DHDA is one of the 24 national winners of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation" (Territories of Innovation).
 * [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation pédagogique" (Territories of Pedagogical Innovation)
 
 ## A recognized Living Lab, the result of the actors who make it up
