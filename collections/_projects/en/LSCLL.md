@@ -49,7 +49,7 @@ Designed from 2008, by the ERPI laboratory team in partnership with local socio-
 
 The LSCLL is a "_project mode_" led by the ERPI laboratory, with governance open to local actors interested in innovation through use at the service of citizens. The LSCLL does not have its own legal structure. It is the result of the meeting of the resources of actors who wish to collaborate together on a theme, a mechanism, a research question involving users in the development of responses to societal challenges.
 
-The term "_Lorraine_" refers to the initial territory of anchorage, it corresponds to the territory of the University of Lorraine, and works with all continents.
+The term "_Lorraine_" refers to the initial territory of anchorage, it corresponds to the territsory of the University of Lorraine, and works with all continents.
 The notion of "_Smart Cities_" is understood in the very broad sense covering all the possible themes of territories, their challenges and the transitions they are facing.
 
 In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIRECCTE Lorraine and the Lorraine Region on the basis of European funding (ERDF). Since 2011, the LSCLL has been funded by the ERPI laboratory's research projects.

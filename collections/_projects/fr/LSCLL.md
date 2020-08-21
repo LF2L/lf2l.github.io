@@ -1,23 +1,22 @@
 ---
 title: Lorraine Smart City Living Lab
-date: 2018-02-25T00:00:00.000+00:00
+date: 2020-06-29 22:00:00 +0000
 permalink: "/fr/projects/lorraine-smart-city-living-lab/"
 excerpt: Le Living lab du Grand Est membre d'ENoLL depuis 2010
 header:
   teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
   header: "/assets/images/3-projects/LSCLL/header.jpg"
-last_modified_at: 2018-10-24T00:00:00.000+00:00
+last_modified_at: 2020-06-29 22:00:00 +0000
 
 ---
 ![](/uploads/Logos LLs.png)
 
 ## Le Lorraine Smart Cities Living Lab (LSCLL) de l’Université de Lorraine au service des citoyens et des territoires
 
-Déjà 10 ans de Living Lab en Région Grand Est !
-En 2018, le Lorraine Smart Cities Living Lab (LSCLL) fête ses 10 ans d’existence et d’expérimentations en matière de projets, de gouvernance et de plate-forme support.
+Plus de 10 ans de Living Lab en Région Grand Est ! En 2018, le Lorraine Smart Cities Living Lab (LSCLL) a fêté ses 10 ans d’existence et d’expérimentations en matière de projets, de gouvernance et de plate-forme support.
 
 Le Lorraine Smart Cities Living Lab est un Centre de ressource collaboratif de l’Université de Lorraine, pour appuyer et relier les différents labs thématiques et territoriaux intégrant les usagers et mettant en œuvre des approches collaboratives au service de la Recherche, du Développement des Innovations, des Formations et d’une Culture Citoyenne. Le LSCLL cherche à développer des Partenariat Public Privé Population (PPPP) pour diffuser l'innovation et les pratiques liées.
-Le LSCLL fédère plusieurs équipes de l'Université de Lorraine. En 2018, l'INRA a rejoint la gouvernance du LSCLL dans le cadre du projet TIGA [Des Hommes et des Arbres](http://www.dhda2018.fr/)
+Le LSCLL fédère plusieurs équipes de l'Université de Lorraine. En 2018, l'INRA a rejoint la gouvernance du LSCLL dans le cadre du projet TIGA [Des Hommes et des Arbres](https://www.grandnancy.eu/la-metropole/des-hommes-et-des-arbres-les-racines-de-demain/)
 
 Il expérimente, développe et capitalise une dynamique d’universalité reposant sur
 Un Espace universitaire juridiquement neutre
@@ -65,7 +64,7 @@ Sans être exhaustif, voici quelques résultats apportés par le LSCLL et projet
 * Le Projet européen LILA avec Promotech CEI : Test produit ou service à l'international (2012-2013)
 * Des dizaines de Démonstrateurs : M-Learning, La Fabrique Nancy Grand Cœur, Simulation flux de circulation 3D, Muséum-Aquarium de Nancy, Smart City Living Lab d'Alzette-Belval, Linky by Makers, VélOstan Connectés, etc. (pages dédiés à venir)
 * Des dizaines de conférences et témoignages en France et à l’étranger
-* Le parrainage de plusieurs Living Labs aujourd'hui reconnus : [Technoport au Luxembourg](https://enoll.org/network/living-labs/?livinglab=technoport-living-lab-luxembourg), [Aktan à Orléan](https://aktan.fr/living-lab/)
+* Le parrainage de plusieurs Living Labs aujourd'hui reconnus : [Technoport au Luxembourg](https://enoll.org/network/living-labs/?livinglab=technoport-living-lab-luxembourg), [Aktan à Orléan](https://aktan.fr/living-lab/), 
 * L'accompagnement dans le développement d'espaces d'innovation en Grande Région Est : ex TUBA à Mulhouse, Pole Innovation Territorial à Dieuze, etc., en Colombie (réseau des ViveLabs), au Canada, etc.
 
 ## Contacts
