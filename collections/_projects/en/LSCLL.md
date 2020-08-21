@@ -49,11 +49,14 @@ It covers: 5 Issues for innovative territories (Details to come)
 
 Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen projects involving the Université de Lorraine: 
 
+![](/uploads/eu_flag-2015.jpg)
+
 * [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe. 
 * [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
 * [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional "DIT" approach involving users, suppliers, etc.
-*  "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA" (Humans & Trees) project - Living lab approach supports the network of "DHDA" relay structures and places with the public - see also [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837) 
-* [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation pédagogique" (Territories of Pedagogical Innovation) 
+
+*  "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA" (Humans & Trees) project - In this project involving more than 100 regional partners, the Living lab approach supports the network of "DHDA" relay structures and places with the public (e.g. [LF2L](http://lf2l.fr), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.) DHDA is one of the 24 national winners of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation" (Territories of Innovation).
+* [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation pédagogique" (Territories of Pedagogical Innovation)
 
 ## A recognized Living Lab, the result of the actors who make it up
 
