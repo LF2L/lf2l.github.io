@@ -37,7 +37,7 @@ communities:
         url: /communities/universities/
       - title: "GSI Lab"
         url: /communities/gsilab/
-
+  
 
 
 place_tools:
@@ -52,7 +52,7 @@ place_tools:
 
 projects:
   - title: "LF2L Projets"
-    children:
+    children:      
       - title: "Chaire PRINCIP"
         url: /projects/princip/
 
@@ -60,7 +60,7 @@ projects:
         url: /projects/reves/
 
       - title: "La Fabrique"
-        url: /projects/fabrique-nancy/
+        url: /projects/fabrique-nancy/ 
 
       - title: "Lorraine Smart City Living Lab"
         url: /projects/lorraine-smart-city-living-lab/
@@ -70,14 +70,14 @@ projects:
 
       - title: "Green FabLab"
         url: /projects/green-fablab/
-
+        
       - title: "Museums and cultural heritage"
         url: /projects/museum/
 
 
 
 Green-Fablab:
-  - title: Green FabLab
+  - title: Green FabLab    
     url: /projects/green-fablab/
     children:
       - title: "In images"
@@ -88,15 +88,15 @@ Green-Fablab:
         url: /projects/green-fablab/#OS3DP
       - title: "Recycling for 3DP"
         url: /projects/green-fablab/#GF-Mission
-
+  
   - title: Publications
     url: /projects/green-fablab/#GF-research
     children:
 #      - title: "Standard Protocol for 3D printers"
 #        url: /green-fablab/standard-protocol
-
+      
 #      - title: "Polymer recycling for 3D printers"
-#        url: /green-fablab/recycling-methodology/
+#        url: /green-fablab/recycling-methodology/      
 #      - title: "Closed-Loop supply chain for 3DP"
 #        url: /green-fablab/logistic/
 
@@ -126,7 +126,7 @@ info:
         url: /info/team/
       - title: "Tutorials"
         url: /tutorial/
-
+      
 
 tutorials:
   - title: "Tutorials on LF2L"
@@ -141,14 +141,14 @@ tutorials:
       - title: "VR"
         url: /
 
-2019.1AI:
+2019.1AI: 
   - title: "Projet ENSGSI 1AI-2019"
     url: /projects/green-fablab/2019/1AI/
     children:
       - title: "Presentation du projet"
         url: /projects/green-fablab/2019/1AI/
 
-  - title: "Development du projet"
+  - title: "Development du projet"  
     children:
       - title: "Novembre"
         url: /projects/green-fablab/2019/1AI/novembre/
@@ -162,18 +162,17 @@ tutorials:
 
 
 Climatelabs:
-  - title: "Climatelabs WP1.1"
+  - title: "Climatelabs"
     url: /projects/climatelabs/
-    children:
-    - title: "Goal of the Task WP 1.1"
-      url: /projects/climatelabs/CLT/#task-11-changemaker-leader-team-clt
-    - title: "Kick Off Meeting"
-      url: /projects/climatelabs/CLT/#kick-off-workshop
-  - title: "Changemaker Leader Teams (CLT)"
-    children:
-      - title: "Colombia"
-        url: /projects/climatelabs/CLT/#changemaker-leader-teams--colombia
-      - title: "Brazil"
-        url: /projects/climatelabs/CLT/#changemaker-leader-teams--brazil
-      - title: "Mexico"
-        url: /projects/climatelabs/CLT/#changemaker-leader-teams--mexico
+#    children:
+#      - title: "Instrument"
+#        url: /projects/climatelabs/CLT-instrument/
+#      - title: "Diagnosis"
+#        url: /projects/climatelabs/
+#      - title: "Conformation"
+#        url: /projects/climatelabs/
+#      - title: "Governance"
+#        url: /projects/climatelabs/
+#      - title: "Information"
+#        url: /projects/climatelabs/
+

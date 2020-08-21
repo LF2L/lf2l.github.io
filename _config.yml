@@ -318,15 +318,15 @@ collections:
   publications:
     output: true
     permalink: /:path/
-
+  
   projects:
     output: true
     permalink: /:collection/:path/
-
+  
   people:
     output: true
     permalink: /:collection/:path/
-
+  
   green-fablab:
     output: true
     permalink: /:collection/:path/
@@ -341,7 +341,7 @@ collections:
     permalink: /:collection/:path/
 
   Fabio:
-    output: true
+    output: true    
 
 
 # Defaults
@@ -387,7 +387,7 @@ defaults:
       layout: single
       sidebar:
         nav: ""
-
+    
     # PROJECTS EN
   - scope:
       path: "_projects/en"
@@ -395,7 +395,7 @@ defaults:
       lang: en
       sidebar:
         nav: "projects"
-
+    
     # PROJECTS FR
   - scope:
       path: "_projects/fr"
@@ -484,18 +484,18 @@ defaults:
       related: false
       sidebar:
         nav: ""
-
+    
     # POST EN
   - scope:
       path: "_posts/en"
     values:
       lang: en
 
-    # POST FR
+    # POST FR  
   - scope:
       path: "_posts/fr"
     values:
-      lang: fr
+      lang: fr           
       permalink: /fr/:collection/:year/:month/:day/:title/
 
 
@@ -544,7 +544,7 @@ defaults:
       type: tutorial
     values:
       layout: single
-
+     
 
     # Tutorials Folder - EN
   - scope:
@@ -616,22 +616,22 @@ reveal_theme: black.css
 reveal_transition: default
 
 # Path to the used theme (defaults to the Reveal.js standard theme path)
-reveal_theme_path: reveal.js/css/theme/
+reveal_theme_path: reveal.js/css/theme/ 
 
 # Additional custom CSS paths
-extra_css:
+extra_css: 
 
 # Custom CSS for highlighting (defaults to reveal.js/lib/css/zenburn.css)
-highlight_style_sheet:
+highlight_style_sheet: 
 
 # Embed Server-side speaker notes?
 reveal_notes_server: false
 
 # Additional reveal.js options
-reveal_options:
+reveal_options: 
 
 # Additional reveal.js dependencies
-reveal_dependencies:
+reveal_dependencies: 
 
 # Reveal.js subdirectory
 reveal_path: reveal.js/
@@ -646,3 +646,13 @@ reveal_path: reveal.js/
 #markdown: kramdown
 #highlighter: rouge
 #markdown_ext: ignoreme
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,0 @@
-
-Crop Image
-convert *.jpeg -crop 1470x1050+470+30 P.jpg
-
-
-mkdir thumbs
-
-# Create thumbs
-mogrify  -format jpg -path thumbs -thumbnail 200x150 *.jpg
