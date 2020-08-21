@@ -70,17 +70,18 @@ The notion of "_Smart Cities_" is understood in the very broad sense covering al
 
 In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIRECCTE Lorraine and the Lorraine Region on the basis of European funding (ERDF). Since 2011, the LSCLL has been funded by the ERPI laboratory's research projects.
 
-## Summary of the main results (2008-2017)
+## Summary of the main results (2008-2020)
 
 Without being exhaustive, here are some of the results provided by the LSCLL and projects promoted within the framework of the LSCLL or developed in line with its dynamics (2008 - 2018):
 
-* 27 Scientific publications: fundamentals and methodologies, capitalisation and dissemination (see: [Publications sections](/publications/)).
-* 3 PhD theses defended (L. Dupont, N. Skiba, J. Hubert) and 3 ongoing (A. Convolte, J. Lacroix, G. Tran).
+* more than 50 Scientific publications, thesis, reports: fundamentals and methodologies, capitalisation and dissemination (see: [Publications sections](http://lf2l.fr/publications/)).
+* 6 PhD theses defended: [L. Dupont](http://www.theses.fr/2009INPL069N) (2009 - Collaborative engineering and spaces), [N. Skiba](http://www.theses.fr/2014LORR0027) (2014 - user-driven co-design), [J. Hubert](http://www.theses.fr/2017LORR0083) (2017 - Use of Electric mobility), [A. Convolte ](http://www.theses.fr/2018LORR0243)(2018 - active mobility), [J. Lacroix](http://www.theses.fr/2019LORR0185) (2019 - urban Living Lab), [G. Tran](http://www.theses.fr/2019LORR0168) (2019 - decision-making process involving multistakehoders and multicriteria).
+* 5 ongoing PhD project: F. Osorio (Innovation spaces), [L. Acosta](https://erpi.univ-lorraine.fr/people/Linda-Acosta/) (health - elderly care), [M. Arnould](https://erpi.univ-lorraine.fr/people/Maxence-Arnould/) (Wood ressources - Forest), V. Labouheure (Pedagogy), G. Prosnot (Digital Twin)
 * A research project with EDF.
 * A collaborative Chair: the REVES Chair (2014-2019) supported by ENEDIS, EDF, the Greater Nancy Metropolitan Area and the University of Lorraine.
-* Guest of honour at the International Fair of Nancy in 2017 (36 m2 stand) and 2018 (90 m2 stand) to deploy the Open Citizen Labs,
+* Guest of honour at the International Fair of Nancy in 2017 (36 m2 stand), 2018 (90 m2 stand), 2019 (250 m2 stand) to deploy the Open Citizen Labs,
 * The Lorraine Fab Living Lab® Platform (www.lf2l.fr): collaborative innovation space, new generation scientific instrumentation at the service of participatory science.
-* A training module at TELECOM Nancy: "Engineering and Application of Data Masses" or Big Data Smart Cities
+* A training module at TELECOM Nancy: ["Artificial Intelligence and Big Data" for Smart Cities](http://iamd-mom.telecomnancy.univ-lorraine.fr/)
 * The co-founding of the Réseau France Living Labs in 2012-2013 and the Francophonie Living Labs network in 2015 (with the support of the Consulate General of France in Quebec City)
 * [Ingexys Innovation Workshops](http://masterprojter.wixsite.com/lesaiu), operational since 2009
 * The European LILA Project with Promotech CEI: International product or service test (2012-2013)
