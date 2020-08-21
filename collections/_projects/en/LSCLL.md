@@ -9,7 +9,7 @@ header:
 last_modified_at: 2018-10-24T00:00:00.000+00:00
 
 ---
-![](/uploads/2020/08/21/2020-08-21_bandeau-lscll.png)
+![](/uploads/Logos LLs.png)
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the Université de Lorraine at the service of citizens and territories
 
@@ -49,7 +49,7 @@ Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen 
 
 ![](/uploads/eu_flag-2015.jpg)
 
-* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe.
+* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in Europe.
 * [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
 * [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional "DIT" approach involving users, suppliers, etc.
 
@@ -67,6 +67,8 @@ The term "_Lorraine_" refers to the initial territory of anchorage, it correspon
 The notion of "_Smart Cities_" is understood in the very broad sense covering all the possible themes of territories, their challenges and the transitions they face.
 
 In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIRECCTE Lorraine and the Lorraine Region on the basis of European funding (ERDF). Since 2011, the LSCLL has been funded by the ERPI laboratory's research projects.
+
+![](/uploads/2020/08/21/2020-08-21_bandeau-lscll.png)
 
 ## Summary of the main results (2008-2020)
 
