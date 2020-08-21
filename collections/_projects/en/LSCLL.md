@@ -43,9 +43,11 @@ It covers: 5 Issues for innovative territories (Details to come)
 * The Art of Living and Moving
 * Health and well-being at all stages of life
 
+![](/uploads/2020/08/21/logo-ul-et-lscll.png)
+
 ## Some current projects
 
-Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen projects involving the Université de Lorraine:
+Since 2019, Lorraine Smart City living Lab support several National or European projects involving the Université de Lorraine:
 
 ![](/uploads/eu_flag-2015.jpg)
 
