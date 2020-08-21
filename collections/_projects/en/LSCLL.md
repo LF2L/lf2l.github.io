@@ -83,7 +83,7 @@ Without being exhaustive, here are some of the results provided by the LSCLL and
 * The co-founding of the Réseau France Living Labs in 2012-2013 and the Francophonie Living Labs network in 2015 (with the support of the Consulate General of France in Quebec City)
 * [Ingexys Innovation Workshops](http://masterprojter.wixsite.com/lesaiu), operational since 2009
 * The European LILA Project with Promotech CEI: International product or service test (2012-2013)
-* Dozens of Demonstrators: M-Learning, La Fabrique Nancy Grand Cœur, 3D traffic flow simulation, Muséum-Aquarium de Nancy, Smart City Living Lab d'Alzette-Belval, Linky by Makers, VélOstan Connectés, etc. (dedicated pages to come)
+* Dozens of Demonstrators: M-Learning, La Fabrique Nancy Grand Cœur, 3D traffic flow simulation, Muséum-Aquarium de Nancy, Smart City Living Lab d'Alzette-Belval, [Linky by Makers](http://linkybymakers.fr/in-english/), VélOstan Connectés, etc. (dedicated pages to come)
 * Dozens of conferences and testimonies in France and abroad
 * The sponsorship of several Living Labs now recognized: [Technoport in Luxembourg](https://enoll.org/network/living-labs/?livinglab=technoport-living-lab-luxembourg), [Aktan in Orléan](https://aktan.fr/living-lab/)
 * Support in the development of innovation spaces in the Greater East Region: ex TUBA in Mulhouse, Pole Territorial Innovation in Dieuze, etc., in Colombia (ViveLabs network), in Canada, etc.
