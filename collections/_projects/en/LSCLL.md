@@ -14,15 +14,15 @@ last_modified_at: 2018-10-24T00:00:00.000+00:00
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the University of Lorraine at the service of citizens and territories
 
 Already 10 years of Living Lab in the Grand Est region!
-In 2018, the Lorraine Smart Cities Living Lab (LSCLL) celebrates its 10th anniversary and experiments in terms of projects, governance and support platform.
+In 2018, the Lorraine Smart Cities Living Lab (LSCLL) has celebrated its 10th anniversary and experiments in terms of projects, governance and support platform.
 
 The Lorraine Smart Cities Living Lab is a collaborative resource centre of the University of Lorraine, to support and link the various thematic and territorial labs integrating users and implementing collaborative approaches in the service of Research, Development of Innovations, Training and a Citizen Culture. The LSCLL seeks to develop Public Private Population Partnerships (PPPPs) to disseminate innovation and related practices.
 
-The LSCLLL brings together several teams from the University of Lorraine. In 2018, INRA joined the governance of the LSCLL as part of the TIGA project "[Des Hommes et des Arbres](http://www.dhda2018.fr/)"
+The LSCLLL brings together several teams from the University of Lorraine. In 2018, INRA has joined the governance of the LSCLL as part of the TIGA project "[Des Hommes et des Arbres](http://www.dhda2018.fr/)"
 
-It experiments, develops and capitalizes on a dynamic of universality based on
+It experiments, develops and capitalizes on a dynamic of universality based on:
 
-* A legally neutral university space
+* A legally neutral university environment
 * A third party guarantor
 * A university foundation
   A [Fab Living Lab Engineering](/concept/)  proposing an integrated process:
@@ -31,25 +31,26 @@ It experiments, develops and capitalizes on a dynamic of universality based on
 * Test by use
 
 Open Citizen Labs engineering, for:
-Facilitate access to places where users and citizens are present
-Involve them in all stages of a project
 
-It covers: 5 Issues for innovative territories (Details to come)
+* Facilitate access to places where users and citizens are present
+* Involve them in every stages of a project
 
-* The Man / Nature Relationship
+It covers 5 Issues for innovative territories: *(Details to come)*
+
+* The human / Nature Relationship
 * The Digital Transition
 * The Energy and Ecological Transition
 * The Art of Living and Moving
-* Health and well-being at all stages of life
+* Health and well-being at every stages of life
 
 ## A recognized Living Lab, the result of the actors who make it up
 
-Designed from 2008, by the ERPI laboratory team in partnership with local socio-economic actors, the LSCLL is the LL of the University of Lorraine. It was recognized and [accredited in 2010 by ENoLL](https://enoll.org/network/living-labs/?livinglab=lorraine-smart-cities-living-lab), the European Living Lab network. In 2013, and in 2015, the LSCLL became a co-founding member of France Living Labs and Francophonie Living Labs.
+Designed from 2008, by the ERPI laboratory team in partnership with local socio-economic actors, the LSCLL is the Living Lab (LL) of the University of Lorraine. It was recognized and [accredited in 2010 by ENoLL](https://enoll.org/network/living-labs/?livinglab=lorraine-smart-cities-living-lab), the European Living Lab network. In 2013, and in 2015, the LSCLL became a co-founding member of France Living Labs and Francophonie Living Labs.
 
-The LSCLL is a "_project mode_" led by the ERPI laboratory, with governance open to local actors interested in innovation through use at the service of citizens. The LSCLL does not have its own legal structure. It is the result of the pooling of the resources of actors who wish to collaborate together on a theme, a mechanism, a research question involving users in the development of responses to societal challenges.
+The LSCLL is a "_project mode_" led by the ERPI laboratory, with governance open to local actors interested in innovation through use at the service of citizens. The LSCLL does not have its own legal structure. It is the result of the meeting of the resources of actors who wish to collaborate together on a theme, a mechanism, a research question involving users in the development of responses to societal challenges.
 
 The term "_Lorraine_" refers to the initial territory of anchorage, it corresponds to the territory of the University of Lorraine, and works with all continents.
-The notion of "_Smart Cities_" is understood in the very broad sense covering all the possible themes of territories, their challenges and the transitions they face.
+The notion of "_Smart Cities_" is understood in the very broad sense covering all the possible themes of territories, their challenges and the transitions they are facing.
 
 In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIRECCTE Lorraine and the Lorraine Region on the basis of European funding (ERDF). Since 2011, the LSCLL has been funded by the ERPI laboratory's research projects.
 
@@ -74,4 +75,4 @@ Without being exhaustive, here are some of the results provided by the LSCLL and
 
 ## Contacts
 
-Laurent Dupont, Ing., Dr., scientific coordinator: l.dupont@univ-lorraine.fr
+Laurent Dupont, Ing., Dr., scientific coordinator: l.dupont {at} univ-lorraine.fr
