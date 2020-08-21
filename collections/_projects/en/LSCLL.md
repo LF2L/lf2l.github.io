@@ -25,15 +25,9 @@ It experiments, develops and capitalizes on a dynamic of universality based on
 
 * A legally neutral university space
 * A third party guarantor
-* A university foundation
-  A [Fab Living Lab Engineering](/concept/)  proposing an integrated process:
-* Ideation
-* Materialization
-* Test by use
-
-Open Citizen Labs engineering, for:
-Facilitate access to places where users and citizens are present
-Involve them in all stages of a project
+* A university foundation: [NIT Foundation](http://fondation-nit.univ-lorraine.fr/)
+* A [Fab Living Lab Engineering](http://lf2l.fr/concept/) proposing an integrated process: 2D - Ideation; 3D - Materialization ; 4D Test by use
+* Open Citizen Labs engineering, for: Facilitate access to places where users and citizens are present; Involve them in all stages of a project
 
 It covers: 5 Issues for innovative territories (Details to come)
 
