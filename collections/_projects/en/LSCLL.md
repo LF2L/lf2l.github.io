@@ -21,13 +21,7 @@ The Lorraine Smart Cities Living Lab is a collaborative resource centre of the U
 
 The LSCLLL brings together several teams from the University of Lorraine. In 2018, [INRAE Grand Est](https://www.inrae.fr/centres/grand-est-nancy) and [AgroParisTech centre de Nancy](http://www2.agroparistech.fr/Centre-de-Nancy-733.html) joined the governance of the LSCLL as part of the TIGA project "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/)"
 
-Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen projects involving the Université de Lorraine: 
-
-* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe. 
-* [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
-* [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) 
-*  "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA" (Humans & Trees) project - Living lab approach supports the network of "DHDA" relay structures and places with the public
-* [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation pédagogique" (Territories of Pedagogical Innovation) 
+* 
 
 It experiments, develops and capitalizes on a dynamic of universality based on
 
@@ -50,6 +44,16 @@ It covers: 5 Issues for innovative territories (Details to come)
 * The Energy and Ecological Transition
 * The Art of Living and Moving
 * Health and well-being at all stages of life
+
+## Some current projects
+
+Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen projects involving the Université de Lorraine: 
+
+* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe. 
+* [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
+* [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional "DIT" approach involving users, suppliers, etc.
+*  "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA" (Humans & Trees) project - Living lab approach supports the network of "DHDA" relay structures and places with the public - see also [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837) 
+* [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation pédagogique" (Territories of Pedagogical Innovation) 
 
 ## A recognized Living Lab, the result of the actors who make it up
 
