@@ -21,8 +21,6 @@ The Lorraine Smart Cities Living Lab is a collaborative resource centre of the U
 
 The LSCLLL brings together several teams from the University of Lorraine. In 2018, [INRAE Grand Est](https://www.inrae.fr/centres/grand-est-nancy) and [AgroParisTech centre de Nancy](http://www2.agroparistech.fr/Centre-de-Nancy-733.html) joined the governance of the LSCLL as part of the TIGA project "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/)"
 
-* 
-
 It experiments, develops and capitalizes on a dynamic of universality based on
 
 * A legally neutral university space
@@ -55,7 +53,7 @@ Since 2019, Lorraine Smart City living Lab support several Natiaonal or Europen 
 * [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
 * [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional "DIT" approach involving users, suppliers, etc.
 
-  [logo_investirlavenir_rvb.png?itok=SI3DFVVd](https://www.gouvernement.fr/sites/default/files/styles/illustration-centre/public/contenu/illustration/2018/10/logo_investirlavenir_rvb.png?itok=SI3DFVVd "logo_investirlavenir_rvb.png?itok=SI3DFVVd")
+  ![](/uploads/2020/08/21/logo_investirlavenir_rvb_petit.png)
 * "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA" (Humans & Trees) project - In this project involving more than 100 regional partners, the Living lab approach supports the network of "DHDA" relay structures and places with the public (e.g. [LF2L](http://lf2l.fr), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.) DHDA is one of the 24 national winners of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation" (Territories of Innovation).
 * [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action "Territoires d'innovation pédagogique" (Territories of Pedagogical Innovation)
 
