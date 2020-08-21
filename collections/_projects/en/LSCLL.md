@@ -18,7 +18,13 @@ In 2018, the Lorraine Smart Cities Living Lab (LSCLL) celebrates its 10th annive
 
 The Lorraine Smart Cities Living Lab is a collaborative resource centre of the University of Lorraine, to support and link the various thematic and territorial labs integrating users and implementing collaborative approaches in the service of Research, Development of Innovations, Training and a Citizen Culture. The LSCLL seeks to develop Public Private Population Partnerships (PPPPs) to disseminate innovation and related practices.
 
-The LSCLLL brings together several teams from the University of Lorraine. In 2018, INRAE Grand Est and AgroParisTech centre de Nancy joined the governance of the LSCLL as part of the TIGA project "Des Hommes et des Arbres"
+The LSCLLL brings together several teams from the University of Lorraine. In 2018, INRAE Grand Est and AgroParisTech centre de Nancy joined the governance of the LSCLL as part of the TIGA project "[Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/)"
+
+Since 2019, Lorraine Smart City living Lab support several Europen project involving Université de Lorraine: 
+
+* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe. 
+* [CLIMATE LABS:](https://erpi.univ-lorraine.fr/projects/Climatelabs/) Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
+* [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process)
 
 It experiments, develops and capitalizes on a dynamic of universality based on
 
