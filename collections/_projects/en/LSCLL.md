@@ -9,7 +9,7 @@ header:
 last_modified_at: 2018-10-24T00:00:00.000+00:00
 
 ---
-![](/uploads/Logos LLs.png)
+![](/uploads/2020/08/21/2020-08-21_bandeau-lscll.png)
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the Université de Lorraine at the service of citizens and territories
 
