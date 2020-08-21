@@ -11,10 +11,11 @@ last_modified_at: 2018-10-24T00:00:00.000+00:00
 ---
 ![](/uploads/Logos LLs.png)
 
-## The Lorraine Smart Cities Living Lab (LSCLL) of the University of Lorraine at the service of citizens and territories
+## The Lorraine Smart Cities Living Lab (LSCLL) of the Université de Lorraine at the service of citizens and territories
 
-Already 10 years of Living Lab in the Grand Est region!
-In 2018, the Lorraine Smart Cities Living Lab (LSCLL) celebrates its 10th anniversary and experiments in terms of projects, governance and support platform.
+The Université de Lorraine supported and developed Living Lab in the Grand Est region since 2008! 
+
+Based on the universality of the university and its multidisciplinarity, the Lorraine Smart Cities Living Lab (LSCLL) experiments in terms of projects, governance and support platform.
 
 The Lorraine Smart Cities Living Lab is a collaborative resource centre of the University of Lorraine, to support and link the various thematic and territorial labs integrating users and implementing collaborative approaches in the service of Research, Development of Innovations, Training and a Citizen Culture. The LSCLL seeks to develop Public Private Population Partnerships (PPPPs) to disseminate innovation and related practices.
 
@@ -24,7 +25,7 @@ Since 2019, Lorraine Smart City living Lab support several Europen project invol
 
 * [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in europe. 
 * [CLIMATE LABS:](https://erpi.univ-lorraine.fr/projects/Climatelabs/) Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
-* [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process)
+* [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) 
 
 It experiments, develops and capitalizes on a dynamic of universality based on
 
