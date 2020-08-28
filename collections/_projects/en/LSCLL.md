@@ -10,7 +10,7 @@ last_modified_at: 2018-10-24T00:00:00.000+00:00
 
 ---
 
-![LSCLL](/assets/images/projects/LSCLL/bandeau.png)
+![LSCLL](/assets/images/3-projects/LSCLL/bandeau.png)
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the Université de Lorraine at the service of citizens and territories
 
@@ -42,7 +42,7 @@ It covers: 5 Issues for innovative territories (Details to come)
 
 
 
-![smartUL](/assets/images/projects/LSCLL/smartUL.png){:height="300px" width="300px"}  
+![smartUL](/assets/images/3-projects/LSCLL/smartUL.png){:height="300px" width="300px"}  
  
 
 ## Some current projects
@@ -56,7 +56,7 @@ Since 2019, Lorraine Smart City living Lab support several National or European 
 + [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional “DIT” approach involving users, suppliers, etc.  
 
 
-![smartUL](/assets/images/projects/LSCLL/marianne.png){:height="150px" width="150px"} 
+![smartUL](/assets/images/3-projects/LSCLL/marianne.png){:height="150px" width="150px"} 
  
 + [“Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA” (Humans & Trees) project - In this project involving more than 100 regional partners, the Living lab approach supports the network of “DHDA” relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.) DHDA is one of the 24 national winners of the French PIA3 (Investment in the Future Programme) action “Territoires d’innovation” (Territories of Innovation).
 + [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action “Territoires d’innovation pédagogique” (Territories of Pedagogical Innovation)
@@ -74,7 +74,7 @@ The notion of "Smart Cities" is understood in the very broad sense covering all 
 In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIRECCTE Lorraine and the Lorraine Region on the basis of European funding (ERDF). Since 2011, the LSCLL has been funded by the ERPI laboratory's research projects.  
 
 
-![Logos](/assets/images/projects/LSCLL/bandeaulogo.png)  
+![Logos](/assets/images/3-projects/LSCLL/bandeaulogo.png)  
 
 ## Summary of the main results (2008-2017)
 
