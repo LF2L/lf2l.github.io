@@ -1,9 +1,9 @@
 ---
-title: Giovanny Arbelaez
+title: Giovanny ARBELAEZ
 permalink: /fr/people/Giovanny-Arbelaez/
 excerpt: "Post-Doc, Ingénieur de recherche"
 date:  2018-03-04
-author: Giovanny Arbelaez
+author: Giovanny ARBELAEZ
 header:
   teaser: /assets/images/6-info/equipe/GA.jpg
 

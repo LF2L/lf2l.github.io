@@ -1,9 +1,9 @@
 ---
-title: Giovanny Arbelaez
+title: Giovanny ARBELAEZ
 permalink: "/people/Giovanny-Arbelaez/"
 excerpt: Research Associate
 date: 2018-03-04 00:00:00 +0000
-author: Giovanny Arbelaez
+author: Giovanny ARBELAEZ
 header:
   teaser: "/assets/images/6-info/equipe/GA.jpg"
 tags:
