@@ -1,7 +1,7 @@
 ---
 title: Lorraine Smart Cities Living Lab
 date: 2018-02-25T00:00:00.000+00:00
-permalink: "/projects/lorraine-smart-cities-living-lab/"
+permalink: "/projects/lorraine-smart-city-living-lab/"
 excerpt: an ENoLL Living Lab since 2010
 header:
   teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
