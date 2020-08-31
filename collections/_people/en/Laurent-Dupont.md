@@ -5,7 +5,7 @@ excerpt: LF2L Co-founder & Scientific manager - Research Engineer at ERPI / ENSG
 date: 2018-04-01T10:00:44.000+00:00
 author: Laurent Dupont
 header:
-  teaser: https://github.com/LF2L/lf2l.github.io/blob/source/uploads/2019/10/24/2019-04-L_Dupont%20copie.jpg
+  teaser: "/assets/images/6-info/equipe/LD.jpg"
 
 ---
 **Laurent Dupont**, Eng. PhD. is senior researcher at ERPI Laboratory (Research Team on innovative Processes, Université de Lorraine, France).   

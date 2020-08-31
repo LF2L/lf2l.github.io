@@ -5,7 +5,7 @@ excerpt: Director of ERPI
 last_modified_at: 2018-09-19
 author: Mauricio Camargo
 header:
-  teaser: "/assets/images/people/Mauricio-Camargo.jpg"
+  teaser: "/assets/images/6-info/equipe/MC.jpg"
 orden: Camargo
 role: Prof
 
