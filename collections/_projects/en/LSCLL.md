@@ -48,6 +48,8 @@ It covers: 5 Issues for innovative territories (Details to come)
 ## Some current projects
 
 Since 2019, Lorraine Smart City living Lab support several National or European projects involving the Université de Lorraine:
+
+![LSCLL](/assets/images/3-projects/LSCLL/eu.png){:height="300px" width="300px"}
  
 + [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in Europe.  
 

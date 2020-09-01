@@ -49,6 +49,8 @@ Il couvre : 5 Enjeux pour des territoires d’innovations (Précisions à venir)
 ## Quelques projets actuels 
 
 Depuis 2019, Lorraine Smart City living Lab soutient plusieurs projets nationaux ou européens impliquant l'Université de Lorraine:
+
+![LSCLL](/assets/images/3-projects/LSCLL/eu.png){:height="300px" width="300px"} 
  
 + [SMAGRINET](https://www.smagrinet.eu/) - un projet de renforcement des capacités de l'UE renforçant l'expérience des réseaux intelligents en Europe.
 
