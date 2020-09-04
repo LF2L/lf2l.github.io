@@ -33,7 +33,7 @@ It covers: 5 Issues for innovative territories (Details to come)
 
 * The Man / Nature Relationship
 * The Digital Transition
-* The Energy and Ecological Transition (see DLLD 2020 presentation)
+* The Energy and Ecological Transition ([see DLLD 2020 presentation](/uploads/2020/09/04/2020-09-04_lscll_orienrted-energy-env.pdf))
 * The Art of Living and Moving
 * Health and well-being at all stages of life
 
