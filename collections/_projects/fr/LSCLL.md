@@ -7,7 +7,34 @@ header:
   teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
   header: "/assets/images/3-projects/LSCLL/header.jpg"
 last_modified_at: 2018-10-24T00:00:00.000+00:00
+classes: wide
 
+
+DLLD2020:
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-1.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-1.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-2.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-2.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-3.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-3.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-4.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-4.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-5.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-5.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-6.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-6.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont        
 ---
 ![LSCLL](/assets/images/3-projects/LSCLL/bandeau.png)
 
@@ -29,14 +56,6 @@ Il expérimente, développe et capitalise sur une dynamique d'universalité bas�
 + Un [Fab Living Lab Engineering](http://lf2l.fr/concept/) proposant un processus intégré: 2D - Idéation; 3D - Matérialisation; Test 4D par utilisation
 + Ingénierie Open Citizen Labs, pour: Faciliter l'accès aux lieux où les utilisateurs et les citoyens sont présents; Les impliquer dans toutes les étapes d'un projet  
 
-Il couvre: 5 enjeux pour les territoires innovants (détails à venir)
-
-+ La relation homme / nature
-+ La transition numérique
-+ La transition énergétique et écologique
-+ L'art de vivre et de bouger
-+ Santé et bien-être à toutes les étapes de la vie
-
 Il couvre : 5 Enjeux pour des territoires d’innovations (Précisions à venir)
 
 * La Relation Homme / Nature
@@ -44,6 +63,13 @@ Il couvre : 5 Enjeux pour des territoires d’innovations (Précisions à venir)
 * La Transition énergétique et écologique
 * L'Art d’habiter et de se déplacer
 * La Santé et bien-être à tous les âges de la vie  
+
+Check la présentation *Digital Living Labs Day 2020* 
+
+
+{% include gallery  id="DLLD2020" caption="Digital Living Lab Days 2020 - Laurent Dupont" %} {: .text-right}
+
+
 
 ![smartUL](/assets/images/3-projects/LSCLL/smartUL.png){:height="300px" width="300px"}  
 ## Quelques projets actuels 

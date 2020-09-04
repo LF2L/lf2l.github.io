@@ -7,7 +7,36 @@ header:
   teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
   image: "/assets/images/3-projects/LSCLL/header.jpg"
 last_modified_at: 2018-10-24T00:00:00.000+00:00
+classes: wide
 
+image-path: "/assets/images/3-projects/LSCLL/"
+
+
+DLLD2020:
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-1.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-1.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-2.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-2.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-3.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-3.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-4.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-4.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-5.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-5.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont
+- url: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-6.jpg"
+  image_path: "/assets/images/3-projects/LSCLL/DLLD2020/ppt/slide-6.jpg"
+  alt: Digital Living Lab Day 2020 - Laurent Dupont
+  title: Digital Living Lab Day 2020 - Laurent Dupont        
 ---
 ![LSCLL](/assets/images/3-projects/LSCLL/bandeau.png)
 
@@ -33,9 +62,13 @@ It covers: 5 Issues for innovative territories (Details to come)
 
 * The Man / Nature Relationship
 * The Digital Transition
-* The Energy and Ecological Transition ([see DLLD 2020 presentation](/uploads/2020/09/04/2020-09-04_lscll_orienrted-energy-env.pdf))
+* The Energy and Ecological Transition
 * The Art of Living and Moving
 * Health and well-being at all stages of life
+
+Check the *Digital Living Labs Day 2020* presentation:
+
+{% include gallery  id="DLLD2020" caption="Digital Living Lab Days 2020 - Laurent Dupont" %} {: .text-right}
 
 ![smartUL](/assets/images/3-projects/LSCLL/smartUL.png){:height="300px" width="300px"}
 
