@@ -34,7 +34,6 @@ icons:
 
 
 ---
-{% include carousel.html height="20" unit="%" duration="7" %}  
 
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
 
