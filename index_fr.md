@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: "Lorraine Fab Living Lab (LF2L®)"
-layout: splash
+layout: splash2
 permalink: /fr/
 locale: fr-FR
 

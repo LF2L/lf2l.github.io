@@ -1,19 +1,10 @@
 ---
 lang: en
 title: "Lorraine Fab Living Lab"
-layout: splash
+layout: splash2
 permalink: /
 
-header:
-  image: banner
-  banner:
-    id: home
-    time: 20000
-    images:
-      - url: /assets/images/1-home/banner/banner01.jpg
-      - url: /assets/images/1-home/banner/banner02.jpg
-      - url: /assets/images/1-home/banner/banner03.jpg
-      - url: /assets/images/1-home/banner/banner04.jpg
+
   
 intro: 
   - excerpt: "The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm  bringing together in the same space complementary advanced tools.  The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual  framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators."
