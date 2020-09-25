@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Info pratique du Lorraine Fab Living Lab
+title: Informations pratiques du LF2L
 permalink: "/fr/info/"
 excerpt: L'expertise scientifique pour accompagner vos projets
 header:
@@ -18,7 +18,7 @@ last_modified_at: 2018-11-12T00:00:00.000+00:00
 
 ![Plan Acces to LF2L](/assets/images/6-info/plan-acces-LF2L.jpg)
 
-## Horaire
+## Horaires
 
 * **Lundi - Vendredi** : 9H-12H et 13H30-17H30
 
