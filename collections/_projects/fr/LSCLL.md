@@ -1,7 +1,7 @@
 ---
 title: Lorraine Smart Cities Living Lab
 date: 2018-02-25T00:00:00.000+00:00
-permalink: "/fr/projects/lorraine-smart-city-living-lab/"
+permalink: "/fr/projects/lorraine-smart-cities-living-lab/"
 excerpt: Le Living lab du Grand Est membre d'ENoLL depuis 2010
 header:
   teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
