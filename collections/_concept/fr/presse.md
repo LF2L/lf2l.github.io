@@ -13,6 +13,10 @@ toc: true
 toc_label: Year
 toc_sticky: true
 News_2020:
+- url: "/assets/images/2-concept/media/GreenFabLab.png"
+  image_path: "/assets/images/2-concept/media/GreenFabLab.png"
+  alt: "Metropoly page 26 octobre 2020"
+  title: Image 1 title caption
 - url: "/assets/images/2-concept/media/2020-05-04.jpg"
   image_path: "/assets/images/2-concept/media/2020-05-04.jpg"
   alt: ''
@@ -145,6 +149,17 @@ News_2014:
 {% include gallery
 id="News_2020"
 %}
+
+{:refdef: style="text-align: center;"}
+<a href="https://3dprint.com/266887/universite-de-lorraine-direct-waste-printing-pla-versus-fff-3d-printing/">![Direct Waste Printing]({{ site.baseimg }}/assets/images/2-concept/media/3DPRINT.png){:height="50%" width="50%"}  
+Université de Lorraine: Direct Waste Printing with PLA Pellets Versus FDM 3D Printing</a>{: refdef}
+
+
+{:refdef: style="text-align: center;"}
+<a href="https://3dprint.com/266683/improving-circular-economy-3d-printing-plastic-recycling/">![Improving the circular economy of 3D printing]({{ site.baseimg }}/assets/images/2-concept/media/3DPRINT.png){:height="50%" width="50%"}  
+Improving the Circular Economy of 3D Printing with Plastic Recycling</a>{: refdef}
+
+
 
 ## 2019
 
