@@ -1,4 +1,0 @@
-
-## Goal of the month
-
-

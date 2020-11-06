@@ -10,12 +10,14 @@ header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
+tags:
+-
 ---
 
 # Plastic recycling in additive manufacturing: A systematic literature review and opportunities for the circular economy
 
 
-## Source 
+## Source
 
 {% capture notice-text %}
 
