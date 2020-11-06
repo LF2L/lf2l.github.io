@@ -1,17 +1,16 @@
 ---
 classes: wide
-title: Green FabLab
-date: 2020-04-10
+title: "Green Fablab"
+excerpt: "Towards a circular economy for 3D printing technology"
+description: "Polymer recycling in an open-source additive manufacturing context: Mechanical issues"
 permalink: /green-fablab/review-recycling/
 image-path: "/assets/images/3-projects/gf/"
-
-excerpt: "The coupling of open-source 3D printers and filament extruders can offer the bases of a new distributed polymer recycling paradigm"
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
-tags:
--
+tags: [Distributed recycling, Plastic recycling, Additive manufacturing, 3D printing, Circular economy]
+date: 2020-04-10
 ---
 
 # Plastic recycling in additive manufacturing: A systematic literature review and opportunities for the circular economy

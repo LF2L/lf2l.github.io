@@ -1,18 +1,16 @@
 ---
 classes: wide
-description: "Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder: Comparison to Fused Filament Fabrication on Open Source Desktop 3D Printers
-. 3D Printing and Additive Manufacturing"
-title: "Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder: Comparison to Fused Filament Fabrication on Open Source Desktop 3D Printers
-. 3D Printing and Additive Manufacturing"
+title: "Green Fablab"
+excerpt: "Towards a circular economy for 3D printing technology"
+description: "Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder: Comparison to Fused Filament Fabrication on Open Source Desktop 3D Printers"
 date: 2020-03-10
 permalink: "/green-fablab/direct-recycling/"
 image-path: "/assets/images/3-projects/gf/"
-excerpt: "The coupling of open-source 3D printers and filament extruders can offer the bases of a new distributed polymer recycling paradigm"
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
-
+tags: [fused granular fabrication, recycling, polylactic acid, tensile properties, distributed recycling]
 ---
 
 # Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder: Comparison to Fused Filament Fabrication on Open Source Desktop 3D Printers
@@ -41,3 +39,5 @@ Nevertheless, the granulometry could have an influence the reproducibility of th
 **Keywords**: Fused Granular Fabrication,  recycling, polylactic acid,  tensile properties, distributed recycling
 
 ## On the media
+
+- [Université de Lorraine: Direct Waste Printing with PLA Pellets Versus FDM 3D Printing](https://3dprint.com/266887/universite-de-lorraine-direct-waste-printing-pla-versus-fff-3d-printing/)
