@@ -35,6 +35,12 @@ Le GSI Lab est une association gérée par des élèves de l'ENSGSI.Fondée en 2
     image_path="/assets/images/4-communities/students/GSILAB-2018-2019.jpg" alt="GSI LAB" 
     caption="Bureau GSILab 2018-2019" 
 %}
+[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'laser.jpg' }}){: .align-left})
+[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'Trombinoscope GSILab 2020.jpg' }}){: .align-left})
+[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'candle_holder.jpg' }}){: .align-left})
+[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'plot.jpg' }}){: .align-left})
+[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'laser_screen.jpg' }}){: .align-left})
+
 
 
 
