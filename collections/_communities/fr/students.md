@@ -10,45 +10,57 @@ header:
   overlay_filter: 0.3
   show_overlay_excerpt: true
   image_description: Maker at LF2L
-last_modified_at: 2018-10-24 00:00:00 +0000
+last_modified_at: 2020-11-09 00:00:00 +0000
 
 ---
 
 
 ## Vous êtes étudiant à l'ENSGSI ?
 ![ENSGI logo]({{ site.baseurl | append: page.img-path | append:'ENSGSI.jpg' }}){: .align-right}
+
 Le **Lorraine Fab Living Lab®** vous ouvre ses portes dans le cadre de cours pédagogiques.
-- Pour une utilisation ponctuelle des machines (type FabLab : découpe laser, imprimante 3D, CNC, etc.) dans le cadre d'un projet : compléter la charte d'utilisation des ressources du LF2L et l'envoyer par email à Frédérick Fontaine (<frederick.fontaine@univ-lorraine.fr>) avec Benjamin Enneser-Serville en copie (<benjamin.ennesser-serville@univ-lorraine.fr>) qui vous confirmerons la réservation et la disponibilité des espaces et ressources demandés.
+- **Pour une utilisation ponctuelle des machines** (type FabLab : découpe laser, imprimante 3D, CNC, etc.) dans le cadre d'un projet : compléter la charte d'utilisation des ressources du LF2L et l'envoyer par email à Frédérick Fontaine (<frederick.fontaine@univ-lorraine.fr>) avec Benjamin Enneser-Serville en copie (<benjamin.ennesser-serville@univ-lorraine.fr>) qui vous confirmerons la réservation et la disponibilité des espaces et ressources demandés.
+- **Pour vos projets personnels** : rejoignez l’association **GSI Lab** – tous les jeudis de 14h à 18h au LF2L
 
-- Pour vos projets personnels : rejoignez l’association **GSI Lab** – tous les jeudis de 14h à 18h au LF2L
-
-# Qui sommes nous ?
+### Qui sommes nous ?
 ![GSILab logo]({{ site.baseurl | append: page.img-path | append:'GSI-lab.png' }}){: .align-left}
-Le GSI Lab est une association gérée par des élèves de l'ENSGSI. Fondée en 2009, elle permet à ses adhérents de créer des objets et de réaliser des projets personnels au sein du Lorraine Fab Living Lab®. L'utilisation des machines a également un but pédagogique, elle permet en effet aux étudiants d’acquérir des compétences durant la réalisation de leurs projets.
 
-![GSILab members]({{ site.baseurl | append: page.img-path | append:'Trombinoscope GSILab 2020.jpg' }}){: .align-left}
+Le **GSI Lab** est une association gérée par des élèves de l'**ENSGSI**. Fondée en 2009, elle permet à ses adhérents de créer des objets et de réaliser des projets personnels au sein du **Lorraine Fab Living Lab®**. L'utilisation des machines a également un but pédagogique, elle permet en effet aux étudiants d’acquérir des compétences durant la réalisation de leurs projets.
 
+![GSILab members]({{ site.baseurl | append: page.img-path | append:'Trombinoscope GSILab 2020.jpg' }}){: .center}
 
-[comment]: # ({% include figure 
-    image_path="/assets/images/4-communities/students/GSILAB-2018-2019.jpg" alt="GSI LAB" 
-    caption="Bureau GSILab 2018-2019" 
-%})
-
-# Comment s'inscrire au GSI Lab ?
+### Comment s'inscrire au GSI Lab ?
 L'inscription est réservée aux étudiants de l'**ENSGSI**
 Pour vous inscrire, il vous suffit de vous rendre au **Lorraine Fab Living Lab®** les jeudis entre 14h et 18h ou de contacter tout simplement un membres du bureau.
 
-# Comment réaliser vos projets ?
+### Comment réaliser vos projets ?
 Vous souhaitez réaliser vos projets mais vous n'avez pas (encore) les compétences pour le réaliser ? L'équipe du **GSI Lab** est là pour vous aider et vous former sur les différentes machines et sur les divers logiciels (découpeuse laser, imprimante 3D, Lasercut, Inventor, Solidworks, slicers...)
 
-# Quelques exemples d'objets réalisés au **LF2L®**
-[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'laser.jpg' }}){: .align-left})
-[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'Trombinoscope GSILab 2020.jpg' }}){: .align-left})
-[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'candle_holder.jpg' }}){: .align-left})
-[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'plot.jpg' }}){: .align-left})
-[comment]: # (![GSILab members]({{ site.baseurl | append: page.img-path | append:'laser_screen.jpg' }}){: .align-left})
+### Quelques exemples d'objets réalisés au **LF2L®**
 
-# Pour finir, quelques liens pour en découvrir plus sur nos activités
+<table>
+	<tr>
+		<td>
+			<img src="/assets/images/4-communities/students/plot.jpg" alt="3D printed stuff" width="800" height="800" />
+		</td>
+		<td>
+			<img src="/assets/images/4-communities/students/candle_holder.jpg" alt="wood candle holder" width="800" height="800" />
+		</td>
+		<td>
+			<img src="/assets/images/4-communities/students/laser_screen.jpg" alt="command screen of laser machine" width="800" height="800" />
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="/assets/images/4-communities/students/laser.jpg" alt="laser machines" width="1600" height="800" />
+		</td>
+		<td>
+			<img src="/assets/images/4-communities/students/earth.jpg" alt="3D printed earth" width="800" height="800" />
+		</td>
+	</tr>
+</table>
+
+### Pour finir, quelques liens pour en découvrir plus sur nos activités
 - Nos créations en accès libre sur [thingiverse](https://www.thingiverse.com/gsilab/designs)
 - Notre page [Facebook](https://www.facebook.com/gsilab.ensgsi)
 - ainsi que le [groupe des membres](https://www.facebook.com/groups/lesmakersdugsilab/)
@@ -64,11 +76,12 @@ Les ressources et compétences présentes dans le LF2L® permettent d’interpel
 
 Pour plus d'information contact: <erpi-lf2l-equipe@univ-lorraine.fr>
 
-Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont : <l.dupont@univ-lorraine.fr>
+Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont <l.dupont@univ-lorraine.fr>
 
 --------------
 
 ## Vous êtes étudiant d'une autre Université / Laboratoire?
 
 ![communities at lf2l]({{ site.baseurl | append: page.img-path | append:'France.png' }}){: .align-left}
-Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont
+
+Des questions relatives à l'ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l'innovation ou de mécénat scientifique et technique contact : Laurent Dupont <l.dupont@univ-lorraine.fr>
