@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.3
   show_overlay_excerpt: true
   image_description: Maker at LF2L
-last_modified_at: 2020-11-09 00:00:00 +0000
+last_modified_at: 2020-11-10 00:00:00 +0000
 
 ---
 
@@ -20,18 +20,18 @@ last_modified_at: 2020-11-09 00:00:00 +0000
 
 Le **Lorraine Fab Living Lab®** vous ouvre ses portes dans le cadre de cours pédagogiques.
 - **Pour une utilisation ponctuelle des machines** (type FabLab : découpe laser, imprimante 3D, CNC, etc.) dans le cadre d'un projet : complétez la charte d'utilisation des ressources du LF2L et envoyez là par email à Frédérick Fontaine (<frederick.fontaine@univ-lorraine.fr>) avec Benjamin Enneser-Serville en copie (<benjamin.ennesser-serville@univ-lorraine.fr>). Ils vous confirmeront la réservation et la disponibilité des espaces et ressources demandés.
-- **Pour vos projets personnels** : rejoignez l’association **GSI Lab** – tous les jeudis de 14h à 18h au LF2L
+- **Pour vos projets personnels** : rejoignez l’association **GSI Lab** – tous les jeudis de 13h30 à 17h30 au LF2L
 
-### Qui sommes nous ?
+### GSI LAb : Qui sommes nous ?
 ![GSILab logo]({{ site.baseurl | append: page.img-path | append:'GSI-lab.png' }}){: .align-left}
 
-Le **GSI Lab** est une association gérée par des élèves de l'**ENSGSI**. Fondée en 2009, elle permet à ses adhérents de créer des objets et de réaliser des projets personnels au sein du **Lorraine Fab Living Lab®**. L'utilisation des machines a également un but pédagogique et permet aux étudiants d’acquérir des compétences tout au long de la réalisation de leurs projets.
+Le **GSI Lab** est une association gérée par des élèves de l'**ENSGSI**. Fondée en 2015, elle permet à ses adhérents de créer des objets et de réaliser des projets personnels au sein du **Lorraine Fab Living Lab®**. L'utilisation des machines a également un but pédagogique et permet aux étudiants d’acquérir des compétences tout au long de la réalisation de leurs projets.
 
 ![GSILab members]({{ site.baseurl | append: page.img-path | append:'Trombinoscope GSILab 2020.jpg' }}){: .center}
 
 ### Comment s'inscrire au GSI Lab ?
 L'inscription est réservée aux étudiants de l'**ENSGSI**
-Pour vous inscrire, il vous suffit de vous rendre au **Lorraine Fab Living Lab®** les jeudis entre 14h et 18h ou de contacter tout simplement un membres du bureau.
+Pour vous inscrire, il vous suffit de vous rendre au **Lorraine Fab Living Lab®** ([plan])(http://lf2l.fr/info/) les jeudis entre 14h et 18h ou de contacter tout simplement un membre du bureau.
 
 ### Comment réaliser vos projets ?
 Vous souhaitez réaliser vos projets mais vous n'avez pas (encore) les compétences pour le réaliser ? L'équipe du **GSI Lab** est là pour vous aider et vous former sur les différentes machines et sur les divers logiciels (découpeuse laser, imprimante 3D, Lasercut, Inventor, Solidworks, slicers...)
@@ -41,13 +41,13 @@ Vous souhaitez réaliser vos projets mais vous n'avez pas (encore) les compéten
 <table>
 	<tr>
 		<td>
-			<img src="/assets/images/4-communities/students/plot.jpg" alt="3D printed stuff" width="800" height="800" />
+			<img src="/assets/images/4-communities/students/plot.JPG" alt="3D printed stuff" width="800" height="800" />
 		</td>
 		<td>
 			<img src="/assets/images/4-communities/students/candle_holder.jpg" alt="wood candle holder" width="800" height="800" />
 		</td>
 		<td>
-			<img src="/assets/images/4-communities/students/laser_screen.jpg" alt="command screen of laser machine" width="800" height="800" />
+			<img src="/assets/images/4-communities/students/laser_screen.JPG" alt="command screen of laser machine" width="800" height="800" />
 		</td>
 	</tr>
 	<tr>
@@ -55,7 +55,7 @@ Vous souhaitez réaliser vos projets mais vous n'avez pas (encore) les compéten
 			<img src="/assets/images/4-communities/students/laser.jpg" alt="laser machines" width="1600" height="800" />
 		</td>
 		<td>
-			<img src="/assets/images/4-communities/students/earth.jpg" alt="3D printed earth" width="800" height="800" />
+			<img src="/assets/images/4-communities/students/earth.JPG" alt="3D printed earth" width="800" height="800" />
 		</td>
 	</tr>
 </table>
