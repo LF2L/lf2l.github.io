@@ -16,12 +16,12 @@ tags: [stages, internships]
 
 # Green Fablab Application process
 
-Projects at LF2L are on extreme relation with innovation topics and European priorities.
+Projects at LF2L are on extreme relation with innovation topics and societal priorities.
 3D printing and plastic recycling areas represent one of the fastest growing scientific and industrial fields and the open source hardware movement (particularly RepRap 3-D printers) is exploding.
-That said we are always looking for highly-motivated excellent students that share our research interests.
+We are always looking for highly-motivated excellent students that share our research interests.
 Ideal applicants have a history and a portfolio already built up in the areas of our research or closely related areas.
 
-Therefore, competitive graduate students need to be in the top 10% in grades. Also, writing and argumentation skills in english is a major requirement (TOEFL scores >100, IELTS scores >7.5).
+Therefore, competitive graduate students need to be in the top 10% in grades. Also, writing and argumentation skills in english is a key requirement (TOEFL scores >100, IELTS scores >7.5).
 
 
 ## Potential Graduate & Undergraduate Students
@@ -33,25 +33,28 @@ Internships of masters students are generally fully funded according to the [pub
 
 ## Group Application Process
 
-The vision of Green Fablab is develop (in part or whole) "free and open source science"  on sustainability, poverty reduction, and appropriate technology. We work on developing a wide range of methodologies and case studies to present the experience in scientific (open access) journals.
+The vision of Green Fablab is to develop (in part or whole) "free and open source science"  on sustainability and appropriate technology. We work on developing a wide range of methodologies and case studies to present the experience in scientific (open access) journals.
 
 If after reading about our work you would like to join, please do the following:
 
-Send us an CV and cover letter (or portafolio), and if you are qualified and a good match for an open funded project you will be contacted.
+**Send us an CV and cover letter (or portafolio), and if you are qualified and a good match for an open funded project you will be contacted.**
 
 We are both constantly looking for students and applying for funding - sometimes there is not match immediately - we are sorry that we do not always have positions.
 
 # Expectations for New Researchers
 
 At LF2L (and [ERPI Laboratory](https://erpi.univ-lorraine.fr/)), our goal is to perform world-class research to change the world for the better.
+**LF2L members have made a decision to make our research one of the top priorities in their lives**. **This has made the group very successful**.
+We are consistently one of the most productive research groups at the University.
+
 We focus on development of new methodologies and technologies using open science paradigm to ensure a better quality of life for all, now and into the future, in a just and equitable manner, whilst living within the limits of supporting ecosystems.
 
 Specifically, we are interested in exploring innovation processes in a multi-scale and multi-actor dimensions and its impact in the future. This is true for different topics including open source 3D printing and recycling, virtual reality, among others.
 
-For the case of Green Fablab, we would like to understanding the scenarios for societal acceptability of distributed recycling using how open source hardware. . We have a strong open access policy - we want the world to use our work.
-**LF2L members have made a decision to make our research one of the top priorities in their lives**. **This has made the group very successful**. We are consistently one of the most productive research groups at the University.
+For the case of Green Fablab, we would like to understanding the scenarios for societal acceptability of distributed recycling using open source hardware.
+We have a strong open access policy - we want the world to use our work.
 
-It also makes being a group member a more than "full time" job - particularly for graduate students. Expect to work long hard hours - this is how you succeed at world-class competitive research. However, it is not "work" like at McDonalds - but work for yourself. *If you are only here to collect a paycheck this is not the right lab for you.*
+It also makes being a group member a more than "full time" job - particularly for graduate students. Expect to work long hard hours - this is how you succeed at world-class competitive research. However, it is not "work" like at Summer Job or McDonalds - but work for yourself. *If you are only here to collect a paycheck this is not the right lab for you.*
 
 If you ever feel that a member of the group is not meeting the expectations in this page please let us know asap. This is particularly important if you are unable to perform to the best of your ability or able to rapidly complete your project. **All the members of the lab are committed to fixing problems that arise**.
 
@@ -69,10 +72,10 @@ If you ever feel that a member of the group is not meeting the expectations in t
 
 Our role at LF2L is to help you develop as a researcher, to guide you through grad school, and, eventually, to help you obtain the type of position you want. In addition:
 
-- We will do my best to help you become an excellent researcher, and help position you to be a leader in your chosen sub-field.
+- We will do our best to help you become an excellent researcher, and help position you to be a leader in your chosen sub-field.
 - We will provide you with multiple opportunities to work on secondary projects with fellow group members to expand your skills and publishing record.
 - We will provide honest, constructive feedback on the work you do in the lab.
-- We will do my best to provide a supportive, safe, and fun work environment.
+- We will do our best to provide a supportive, safe, and fun work environment.
 - We will provide honest and thoughtful advice on your progress toward your degree and professional decisions.
 - We will work with you to set aggressive, but reasonable research goals for your core project.
 
@@ -97,13 +100,12 @@ Doing high quality research requires lots of hard work, and doing great research
 
 
 
-
-
-# My Expectations of You
+# Our Expectations of You
 
 As advisors of your work, we have several additional expectations of you.
 
-- Commit to becoming an *excellent researcher*. Frankly, We expect you to be awesome - and well above the productivity of average students at your level both nationally and within your Department. While you are at LF2L, we are committed to training and advising you and securing the resources necessary to support your work (e.g. supplies for your experiments and in most cases your salary). This takes a lot of work that I am happy to undertake as long you are doing your best to be successful.
+- Commit to becoming an *excellent researcher*. Frankly, We expect you to be **awesome** - and well above the productivity of average students at your level both nationally and within your department. While you are at LF2L, we are committed to training and advising you and securing the resources necessary to support your work (e.g. supplies for your experiments and in most cases your salary). This takes a lot of work that we are happy to undertake as long you are doing your best to be successful.
+
 - Listen to the advice we give you. If you do not understand why - ask. You do not always need to do what I suggest, but if you consistently ignore my advice, it doesn't make sense for me to be your advisor.
 - Make research a higher priority than course work. While you are expected to do well in your classes, you excel in graduate school by doing great research, not by getting perfect grades.
 - Minimize the time wasted on mandatory training for anything that will not benefit your research directly.
@@ -116,11 +118,12 @@ As advisors of your work, we have several additional expectations of you.
 - Write a "manuscript based thesis" (Your thesis will be made up of several published - or submitted papers -- normally 3X for MS and 5X+ for PhD)
 - Do your best to only utilize free and open source software to complete your research (Zotero, Latex, R, etc).
 
-- Keep track of important graduate program deadlines. It is your job to keep track of deadlines for your advancement through the graduate program (e.g., completing your comprehensive exam, courses, and advancement to candidacy). You should let me us when one of these is coming up at least 2 quarters in advance, and then follow up as needed after that point. We do not track these dates for you. If you have questions about the deadlines, please contact the graduate school.
-- To not divulge non-public information about the group without our permission. This includes information about ongoing research projects and "insider" information that we may share with you about our partner companies or other organizations. This is true EVEN if you know we will open source it eventually.
-Do not sign up for conferences, submit abstracts or submit papers for review without my permission.
+- Keep track of important graduate program deadlines. It is your job to keep track of deadlines for your advancement through the graduate program (e.g., completing your comprehensive exam, courses, and advancement to candidacy). You should let me us when one of these is coming up at least 3 weeks in advance, and then follow up as needed after that point. We do not track these dates for you. If you have questions about the deadlines, please contact the graduate school.
+
+- To not divulge _non-public information_ about the group without our permission. This includes information about ongoing research projects and "insider" information that we may share with you about our partner companies or other organizations. _This is true EVEN if you know we will open source it eventually._
+- Do not sign up for conferences, submit abstracts or submit papers for review without our permission.
 - Do not submit your thesis to your committee without our permission.
-- Never make up data. We have never had an academic honesty problem and we want to keep it that way. In research, the reputation of our lab and of each of us is critically important.
+- **Never make up data**. We have never had an academic honesty problem and we want to keep it that way. In research, the reputation of our lab and of each of us is critically important.
 - **Never plagiarize. Always cite your sources**. The prohibition against copying material from papers, etc. from outside our group without proper attribution is absolute. However, within the group we often reuse text and figures on an individual student's theses, slide decks, etc. As members of a research group, we are all collaborators, and at one time or another we will all use materials created by another group member. For papers and student talks, I will typically be aware of the reuse, and will ensure that it acceptable. For theses and dissertations, the university will require you to obtain signatures to allow the use of others' work in your thesis. If you ever have a question about whether borrowing slides or text from another lab member's work is acceptable, ask us and ask them.
 - Time off (for Grad students only). You get 4 weeks (on summer) off during the year in addition to university holidays and significant events. Ask permission before you plan time off. In general you will receive it as long as you are making good progress towards your degree. However, before purchasing tickets you MUST have your work done (e.g. papers or abstracts for conferences written for a deadline).
 
