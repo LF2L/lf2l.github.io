@@ -39,8 +39,6 @@ partners:
 
 ---
 
-
-
 ## Introduction
 
 ### Student: Anezka Kristanova
