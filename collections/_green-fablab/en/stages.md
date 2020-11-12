@@ -106,7 +106,7 @@ As advisors of your work, we have several additional expectations of you.
 
 - Commit to becoming an *excellent researcher*. Frankly, We expect you to be **awesome** - and well above the productivity of average students at your level both nationally and within your department. While you are at LF2L, we are committed to training and advising you and securing the resources necessary to support your work (e.g. supplies for your experiments and in most cases your salary). This takes a lot of work that we are happy to undertake as long you are doing your best to be successful.
 
-- Listen to the advice we give you. If you do not understand why - ask. You do not always need to do what I suggest, but if you consistently ignore my advice, it doesn't make sense for me to be your advisor.
+- Listen to the advice we give you. If you do not understand why - _ask_. You do not always need to do what I suggest, but if you consistently ignore our advice, it doesn't make sense for us to be your advisors.
 - Make research a higher priority than course work. While you are expected to do well in your classes, you excel in graduate school by doing great research, not by getting perfect grades.
 - Minimize the time wasted on mandatory training for anything that will not benefit your research directly.
 - Get our permission before undertaking any projects outside the group either at school or otherwise. There are two reasons for this: 1) we am legally accountable for how researchers funded on my grants spend their time and 2) by default, we expect that you will devote all of your research time to projects in MOST, regardless of how you are funded. This is particularly the case for working outside of the group or starting a business.

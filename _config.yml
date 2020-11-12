@@ -340,8 +340,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  Fabio:
+  Lic-AFTER:
     output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -564,6 +565,24 @@ defaults:
         nav: tutorials
 
 
+    # LIcence AFTER collection
+  - scope:
+      path: Lic-AFTER
+    values:
+      layout: single
+
+    # CONCEPT - EN
+  - scope:
+      path: "_Lic-AFTER/en"
+    values:
+      lang: en
+    # CONCEPT - FR
+  - scope:
+      path: "_Lic-AFTER/fr"
+    values:
+      lang: fr
+
+
   # # _pages Main Pages of the site
   # - scope:
   #     type: pages
@@ -609,32 +628,6 @@ defaults:
 
 
 
-# The Reveal theme
-reveal_theme: black.css
-
-# The Reveal transition
-reveal_transition: default
-
-# Path to the used theme (defaults to the Reveal.js standard theme path)
-reveal_theme_path: reveal.js/css/theme/
-
-# Additional custom CSS paths
-extra_css:
-
-# Custom CSS for highlighting (defaults to reveal.js/lib/css/zenburn.css)
-highlight_style_sheet:
-
-# Embed Server-side speaker notes?
-reveal_notes_server: false
-
-# Additional reveal.js options
-reveal_options:
-
-# Additional reveal.js dependencies
-reveal_dependencies:
-
-# Reveal.js subdirectory
-reveal_path: reveal.js/
 
 # # Exclude directories and/or files from the conversion
 # exclude:
