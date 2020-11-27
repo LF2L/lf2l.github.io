@@ -98,4 +98,4 @@ url= "/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf"
 
 ## Collaborative Ecosystem
 
-![](/uploads/2020/11/27/partners-lf2l-2020.png)
+![](/uploads/2020/11/27/partner-lf2l-2020-en.png)
