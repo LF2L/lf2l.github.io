@@ -1,17 +1,16 @@
 ---
 title: Partenaires et Chartes
 permalink: "/fr/concept/chartes/"
-excerpt: 'Retrouvez notre écossytème collaboratif et les chartes auxquelles nous adhérons
-  !'
+excerpt: Retrouvez notre écossytème collaboratif et les chartes auxquelles nous adhérons
+  !
 classes: wide
 header:
   overlay_color: "#333"
-  overlay_filter: 0.1
+  overlay_filter: "0.1"
   show_overlay_excerpt: true
 sidebar:
   nav: LF2L-concept
-last_modified_at: 2019-03-06 00:00:00 +0100
-
+last_modified_at: 2019-03-06T00:00:00.000+01:00
 sponsors:
 - image_path: ''
   title: ''
@@ -107,4 +106,4 @@ url= "/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf"
 
 ## Un écosystème collaboratif !
 
-![](/uploads/Partenaires-LF2L.png)
+![](/uploads/2020/11/27/partners-lf2l-2020.png)
