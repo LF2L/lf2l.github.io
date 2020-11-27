@@ -9,7 +9,7 @@ header:
   show_overlay_excerpt: true
 sidebar:
   nav: LF2L-concept
-last_modified_at: 2019-03-06T00:00:00.000+01:00
+last_modified_at: 2020-11-26 23:00:00 +0000
 toc: false
 toc_label: Partners & Charts
 image-path: "/assets/images/2-concept/partners-chartes/"
