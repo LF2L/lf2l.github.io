@@ -13,3 +13,4 @@ post_teaser: "/assets/images/post/apurteaser.png"
 
 **Retrouvez le rapport complet ici** 
 <a href="https://www.apur.org/fr/nos-travaux/lieux-innovants-sites-universitaires">![Icone rapport]({{ site.baseimg }}/assets/images/icone/moleskine.png){:height="15%" width="15%"}</a>
+
