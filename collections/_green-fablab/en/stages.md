@@ -2,7 +2,7 @@
 classes: wide
 title: "Green Fablab"
 excerpt: "Towards a circular economy for 3D printing technology"
-description: "Stages "
+description: "Stages charter"
 date: 2020-03-10
 permalink: "/green-fablab/internships/"
 image-path: "/assets/images/3-projects/gf/"
