@@ -28,30 +28,31 @@ partners:
 
 ## Proposition of Internship
 
-The development of systemic solutions for plastic wastes is a major societal challenge in medium/long terms.
-The INEDIT ProjectThe Green Fablab project is based on our recent article of Distributed Recycling via additive Manufacturing (DRAM) approach
-The context of this internship project is placed in the **Quality (I)** phase.
+<img width="40%" class="align-left" src="https://raw.githubusercontent.com/LF2L/ERPI/master/assets/images/projects/inedit/teaser.png">
+The [INEDIT (open INnovation Ecosystems for Do It Together process)](http://erpi.univ-lorraine.fr/projects/INEDIT/) is a research project obtained in the framework of the European Union's H2020 programme starting in autumn 2019 for a duration of 36 months.
+
+INEDIT creates an open innovation European DIT ecosystem for sustainable furniture co-creation.
+It channels the creativity of consumers, shapes it through designers’ professional skills, and makes it viable by leveraging on the expertise of production specialists in order to deliver sustainable, smart and personalized new products in a shorter time to market.
+INEDIT intends to demonstrate the capacity to turn the well-known ‘Do It Yourself’ (DIY) approach applied by individuals within FabLabs into a professional approach named ‘Do It Together’ (DIT).
+
+Therefore, to create sustainable furniture, we developed a Distributed Recycling via additive Manufacturing (DRAM) approach:
 
 ![Lorraine Fab Living Lab](/assets/images/3-projects/gf/DRAM.png)
 [See our paper in this link](/green-fablab/review-recycling/)
 
-
-The development of cutting-edges technologies such as IoT and additive manufacturing can converge to propose options to create local closed loops for DRAM.
+Thus, the context of this internship project is placed in the **Recovery (I)** phase.  
+The development of local closed loops for DRAM is a major goal for sustainable furniture co-creation  integring a DIT approach as driver.
 
 ## Industrial Ecology
 
-One of the focus for the reduction of plastic waste sink is the identification of potential source easealy to collect and treat on innovations laboratoires/spaces as fablabs, hacker/maker spaces.
-In the same way, to create a symbiosis network needs competences in determination of the actor involved, the
-
+One of the focus for the reduction of plastic waste sink is the identification of potential source easily to collect and treat on innovations laboratoires/spaces as fablabs, hacker/maker spaces.
+In the same way, to create a symbiosis network is needed identifying the competences, barriers and opportunities of the actors involved.
 
 ## Goal
 
-The main goal of the project is **to create a local network for distributed recycling**.
-Moreover, to establish the organizational analysis to assure this experimentation.
-
+The main goal of the project is **to create a local network for distributed recycling** using a smart collector open hardware as driver. Moreover, to establish the organizational analysis to assure this experimentation.
 
 ### Specific goals
-
 
 - To deploy an open source collector in the LF2L neighborhood to collect plastic
 - Creation of social analysis of based on industrial ecology and territorial development approach.
@@ -81,5 +82,7 @@ Moreover, to establish the organizational analysis to assure this experimentatio
 First, read our [Internship guide](/green-fablab/internships/).
 Then, send us your CV and cover letter. If additional questions, let us know
 
-- Alaa Hassan (Alaa.Hassan{at}univ-lorraine.fr)
-- Hakim Boudaoud (Hakim.Boudaoud{at}univ-lorraine.fr)
+- Fedoua Kasmi (fedoua.kasmi{at}univ-lorraine.fr)
+- Alaa Hassan (alaa.hassan{at}univ-lorraine.fr)
+- Hakim Boudaoud (hakim.boudaoud{at}univ-lorraine.fr)
+- Fabio Cruz
