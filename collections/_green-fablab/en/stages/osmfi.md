@@ -48,8 +48,8 @@ Taking into account the sustainability notion which is a currently  major societ
 
 We have developed various works on technical and logistical point of view to recycle plastic inside the LF2L.
 
-However, One key point is missing. *How we can evaluate the 'usefulnee' of plastic waste material to be recycled via DRAM approach'.
-This is a major technical aspect to understant characteristics of the recycled materials.
+However, One key point is missing. *How can we evaluate the 'usefulness' of plastic waste material to be recycled via DRAM approach'*.
+This is a major technical aspect in order to understand the characteristics of the recycled materials.
 
 ### Open Source Melt flow Index
 
@@ -70,7 +70,7 @@ This projects is in collaboration with MTU
 
 
 
-## Goals
+## Goal
 
 The main goal of the project is **to design, built and test an open hardware melt flow index system for the LF2L conditions**.
 Moreover, to establish the quality and reproducibility of the test process with respect to the commercial test machines.
