@@ -5,11 +5,11 @@ classes: wide
 excerpt: Our Partners and Charts
 header:
   overlay_color: "#333"
-  overlay_filter: 0.1
+  overlay_filter: "0.1"
   show_overlay_excerpt: true
 sidebar:
   nav: LF2L-concept
-last_modified_at: 2019-03-06 00:00:00 +0100
+last_modified_at: 2020-11-26 23:00:00 +0000
 toc: false
 toc_label: Partners & Charts
 image-path: "/assets/images/2-concept/partners-chartes/"
@@ -96,6 +96,6 @@ url= "/assets/images/2-concept/partners-chartes/Charte-FabLab.pdf"
 %}
 </div>
 
-## Collaborative Ecosystem 
+## Collaborative Ecosystem
 
-![](/uploads/Partenaires-LF2L.png)
+![](/uploads/2020/11/27/partner-lf2l-2020-en.png)

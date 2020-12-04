@@ -1,9 +1,9 @@
 ---
 title: "Project: Open Source Melt Flow index"
 class: wide
-date: 2019-11-12
+date: 2020-12-04
 permalink: /projects/green-fablab/osmfi/
-image-path: "/assets/images/3-projects/gf/stages/anezka/"
+image-path: "/assets/images/3-projects/gf/stages/osmfi/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
@@ -26,9 +26,6 @@ Planning:
   - title: "December"
     url: /green-fablab/osmfi/
 
-sidebar:
-  nav: ""
-
 
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/MTU.png"
@@ -39,15 +36,20 @@ partners:
 
 ---
 
-## Introduction
+## Proposition of Internship
 
-### Student: Anezka Kristanova
+The Green Fablab project is based on our recent article of Distributed Recycling via additive Manufacturing (DRAM) approach
+The context of this internship project is placed in the **Quality (V)** phase.
 
-<img width="20%" class="align-left" src="{{ site.baseurl | append:page.image-path | append: 'Anezka.png' }}">
-I am a student coming from the Czech Republic and this academic year (2019/2020).
-I am finishing my Master's degree at UCT Prague in Polymer materials. I came to Nancy in order to participate in research concerning polymer membranes at LCPM and to elaborate on my Master's thesis. At the beginning of November, I joined the Green FabLab team for my six-month internship. During this time I will be working on the project which concerns designing, building and making first trial tests of the Melt Flow Index system for evaluating plastic waste for 3D printing. This project will be in collaboration with Joshua Pearce from Michigan University.
+![Lorraine Fab Living Lab](/assets/images/3-projects/gf/DRAM.png)
+[See our paper in this link](/green-fablab/review-recycling/)
 
+Taking into account the sustainability notion which is a currently  major societal issue, the FabLab concept goes towards a better use the resources present in these spaces.
 
+We have developed various works on technical and logistical point of view to recycle plastic inside the LF2L.
+
+However, One key point is missing. *How can we evaluate the 'usefulness' of plastic waste material to be recycled via DRAM approach'*.
+This is a major technical aspect in order to understand the characteristics of the recycled materials.
 
 ### Open Source Melt flow Index
 
@@ -68,9 +70,10 @@ This projects is in collaboration with MTU
 
 
 
-## Goals
+## Goal
 
-> The main goal of the project is to design, built and test an open source melt flow index system for the LF2L Moreover, to establish the quality and reproducibility of the test process with respect to the commercial test machines.
+The main goal of the project is **to design, built and test an open hardware melt flow index system for the LF2L conditions**.
+Moreover, to establish the quality and reproducibility of the test process with respect to the commercial test machines.
 
 
 ### Specific goals
@@ -89,40 +92,17 @@ The main specific goals of this internship are:
 The following elements are expected as results:
 
 1.  Benchmarking of the available open source testing machines taking to account the time, expertise, difficulty to maintain and cost.
-2.  Development of technical features to consider. (e.g. Quality Function Deployment (QFD)?, Analyse de la valeur?)
+2.  Development of technical features to consider.
 3.  CAD models with the final version of the prototypes
 4.  An on-line platform (e.g. a wiki, html page) for a complete documentation
 5.  Bill of Materials (BOM)
 6.  CAD model
 
+## Timming: February 2021 - Sept 2021
 
-## Planning
+## Contact
+First, read our [Internship guide](/green-fablab/internships/).
+Then, send us your CV and cover letter. If additional questions, let us know
 
-**First week**
-
-- [X] Introduction to the project
-- [X] Print of the first object
-
-
-**Second week**
-
--[X] Introduction to the project
-
-
-
-
-### November
-
-### December
-
-
-### January
-
-
-### February
-
-
-### Mars
-
-
-### April
+- Alaa Hassan (Alaa.Hassan{at}univ-lorraine.fr)
+- Hakim Boudaoud (Hakim.Boudaoud{at}univ-lorraine.fr)
