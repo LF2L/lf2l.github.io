@@ -41,7 +41,7 @@ Therefore, to create sustainable furniture, we developed a Distributed Recycling
 [See our paper in this link](/green-fablab/review-recycling/)
 
 Thus, the context of this internship project is placed in the **Recovery (I)** phase.  
-The development of local closed loops for DRAM is a major goal for sustainable furniture co-creation  integring a DIT approach as driver.
+The development of local closed loops for DRAM is a major goal for sustainable furniture co-creation considering a DIT approach as key driver.
 
 ## Industrial Ecology
 
