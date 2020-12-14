@@ -39,7 +39,7 @@ partners:
 ## Proposition of Internship
 
 The Green Fablab project is based on our recent article of Distributed Recycling via additive Manufacturing (DRAM) approach
-The context of this internship project is placed in the **Quality (V)** phase.
+The context of this internship project is placed in the **Quality (VI)** phase.
 
 ![Lorraine Fab Living Lab](/assets/images/3-projects/gf/DRAM.png)
 [See our paper in this link](/green-fablab/review-recycling/)
