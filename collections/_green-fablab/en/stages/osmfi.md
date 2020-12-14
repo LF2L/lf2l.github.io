@@ -48,7 +48,7 @@ Taking into account the sustainability notion which is a currently  major societ
 
 We have developed various works on technical and logistical point of view to recycle plastic inside the LF2L.
 
-However, One key point is missing. *How can we evaluate the 'usefulness' of plastic waste material to be recycled via DRAM approach'*.
+However, one key point is missing. *How can we evaluate the 'usefulness' of plastic waste material to be recycled via DRAM approach'*.
 This is a major technical aspect in order to understand the characteristics of the recycled materials.
 
 ### Open Source Melt flow Index
@@ -60,9 +60,9 @@ accuracy) are related to the initial state of the material. **Melt Flow Index** 
 
 Melt Flow Index (MFI) is an indirect technique to measure the viscosity of polymers, which is also correlated with the and the molecular weight of a polymer. It is used in polymer technology as a product specification since this value gives an indication of the processing properties of the polymer. The polymer is heated in a small oven and a normal load is applied to the molten material. The melted material is extruded through an orifice and the weight of the extruded material over a 10-min period is recorded as the melt index (MI) value. The value of MFI is expressed as the mass of polymer melt pushed from the heated cylinder of the extrusion plastometer through its precision bore orifice by its piston in a period of time, the standard units of the value being grams per ten minutes (g/10 min). The weight used was 2.16 Kg and the temperature was 180.
 
-Of all the family of capillary flow systems the Melt Flow Indexer is the cheapest and the most widely used. This test can be repeated at two different loads to determine the flow rate ratio (FRR). Flow rate may be determined as a function of applied load so that a qualitative indication of pseudoplasticity is readily obtained by comparing the ratios of flow rate at two different loads. The MI and FRR values provide correlations to the molecular weight and molecular weight distribution. Assuming all other things are equal, the lower the MI values, the higher the molecular weight and the higher the FRR, and the broader the molecular weight distribution.
+Of all the family of capillary flow systems, the Melt Flow Indexer is the cheapest and the most widely used. This test can be repeated at two different loads to determine the flow rate ratio (FRR). Flow rate may be determined as a function of applied load so that a qualitative indication of pseudoplasticity is readily obtained by comparing the ratios of flow rate at two different loads. The MI and FRR values provide correlations to the molecular weight and molecular weight distribution. Assuming all other things are equal, the lower the MI values, the higher the molecular weight and the higher the FRR, and the broader the molecular weight distribution.
 
-This projects is in collaboration with MTU
+This projects is in collaboration with [Michigan Technical University](https://www.mtu.edu/) (USA)
 
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
@@ -93,16 +93,22 @@ The following elements are expected as results:
 
 1.  Benchmarking of the available open source testing machines taking to account the time, expertise, difficulty to maintain and cost.
 2.  Development of technical features to consider.
-3.  CAD models with the final version of the prototypes
+3.  Bill of Materials (BOM) and CAD models with the final version.
 4.  An on-line platform (e.g. a wiki, html page) for a complete documentation
-5.  Bill of Materials (BOM)
-6.  CAD model
+5.  Functional prototype
+6.  Test results
+
 
 ## Timming: February 2021 - Sept 2021
+
+## Profile
+
+- Mechanical / Mechatronics / Industrial engineering students with skills on product design
 
 ## Contact
 First, read our [Internship guide](/green-fablab/internships/).
 Then, send us your CV and cover letter. If additional questions, let us know
 
-- Alaa Hassan (Alaa.Hassan{at}univ-lorraine.fr)
-- Hakim Boudaoud (Hakim.Boudaoud{at}univ-lorraine.fr)
+- Alaa Hassan (alaa.hassan{at}univ-lorraine.fr)
+- Hakim Boudaoud (hakim.Boudaoud{at}univ-lorraine.fr)
+- Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
