@@ -54,22 +54,22 @@ The main goal of the project is **to create a local network for distributed recy
 
 ### Specific goals
 
-- To deploy an open source collector in the LF2L neighborhood to collect plastic
-- Creation of social analysis of based on industrial ecology and territorial development approach.
-- Création et preuve de concept d’un démonstrateur de recyclage aux rives de Meurthe
-- Enquêtes sur l’acceptabilité sociale pour les initiatives des recyclages (à valider avec la partie recherche du projet)
+- To deploy an open source collector in the LF2L neighborhood to collect plastic.
+- Social network analysis based on industrial ecology and territorial development approach in order to evaluate the acceptability for this type of recycling.
+- First documentation of the local recycling demonstrator at the Rivess de Meurthe neighborhood.
 
 
 ### Results
 
-- Cartography of stakeholders for a closed loop network
-- Documentation via interviews, vidéo on the deployment of the experimentation for each actor:
+- Cartography of stakeholders for a closed loop network and the local waste management options for particular plastic wastes.  
+- Evaluation and documentation (and eventually statistical analysis) on the deployment of the experimentation for each actor:
   + Public institution: ENSGSI (GSI Media + Recycling challengue)
   + Private: ATP Rives de Meurthe
   + Citizen: Foire Internationale de Nancy
 
 
 ### Partners of the project
+
 
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
@@ -78,6 +78,11 @@ The main goal of the project is **to create a local network for distributed recy
 
 ## Timming: February 2021 - Sept 2021
 
+## Candidate profile
+
+- Industrial / Urban enginnering students with focus on territorial development.
+
+
 ## Contact
 First, read our [Internship guide](/green-fablab/internships/).
 Then, send us your CV and cover letter. If additional questions, let us know
@@ -85,4 +90,4 @@ Then, send us your CV and cover letter. If additional questions, let us know
 - Fedoua Kasmi (fedoua.kasmi{at}univ-lorraine.fr)
 - Alaa Hassan (alaa.hassan{at}univ-lorraine.fr)
 - Hakim Boudaoud (hakim.boudaoud{at}univ-lorraine.fr)
-- Fabio Cruz
+- Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
