@@ -88,6 +88,5 @@ First, read our [Internship guide](/green-fablab/internships/).
 Then, send us your CV and cover letter. If additional questions, let us know
 
 - Fedoua Kasmi (fedoua.kasmi{at}univ-lorraine.fr)
-- Alaa Hassan (alaa.hassan{at}univ-lorraine.fr)
 - Hakim Boudaoud (hakim.boudaoud{at}univ-lorraine.fr)
 - Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
