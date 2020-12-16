@@ -47,7 +47,7 @@ In the same way, to create a symbiosis network is needed identifying the compete
 
 ## Goal
 
-The main goal of the project is **to create a local network for distributed recycling** using a smart collector open hardware as driver. Moreover, to establish the organizational analysis to assure this experimentation.
+The main goal of the project is **to create a demonstrator of local network for distributed recycling**, identifying the organizational aspects and main drivers to evaluate this approach.
 
 
 ## Missions
@@ -89,7 +89,7 @@ Understand the motivations, needs and constraints of stakeholders with regard to
 ## Candidate profile
 
 - Industrial / Urban engineering students with focus on territorial development.
-- English and French skills are required to be able to meet local actors. 
+- English and French skills are required to be able to meet local actors.
 
 
 ## Contact
