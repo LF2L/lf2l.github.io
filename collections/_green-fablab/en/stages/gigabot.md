@@ -1,8 +1,8 @@
 ---
 title: "Project: Open Source Melt Flow index"
 class: wide
-date: 2020-12-15
-permalink: /projects/green-fablab/osmfi/
+date: 2020-12-16
+permalink: /projects/green-fablab/gigabot/
 image-path: "/assets/images/3-projects/gf/stages/osmfi/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
@@ -38,7 +38,7 @@ partners:
 
 ## Proposition of Internship
 
-The Green Fablab project is based on our recent article of Distributed Recycling via additive Manufacturing (DRAM) approach
+The Green Fablab project is based on our recent article of Distributed Recycling via additive Manufacturing (DRAM) approach.
 The context of this internship project is placed in the **Quality (VI)** phase.
 
 ![Lorraine Fab Living Lab](/assets/images/3-projects/gf/DRAM.png)
