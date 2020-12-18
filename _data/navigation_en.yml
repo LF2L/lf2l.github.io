@@ -53,6 +53,9 @@ place_tools:
 projects:
   - title: "LF2L Projets"
     children:
+      - title: "Climatelabs"
+        url: /projects/climatelabs/
+
       - title: "Chaire PRINCIP"
         url: /projects/princip/
 

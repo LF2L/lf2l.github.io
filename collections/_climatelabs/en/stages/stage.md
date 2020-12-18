@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Climate Labs project
-author: Fabio
+date: 2020-12-12
 
 excerpt: "Co-creation labs for mitigation and adaptation to Climate Change"
 header:
@@ -30,9 +30,9 @@ In a term of three years, it is expected to train scholars, students and staff m
 
 The project seeks, ultimately, to build strong and connected areas of innovation and applied research within universities impacting the overall capacities and strategies of the partner countries to mitigate and adapt to climate change.
 
-More information at the project’s website.
+More information at the project’s website: [http://climate-labs.org/](http://climate-labs.org/)
 
-## The mission of Université of Lorraine
+## Mission of the Université of Lorraine
 
 We, at the Université of Lorraine, are in charge of leading the design and implementation of the Climate Labs Incubation Program - CLIP. This program is conceived as a 4-month hands-on iterative process that should enable the partner teams to advance in the strategic design and launch of their Climate Lab and pilot project. The CLIP is built upon three fundamental conceptual pillars: Climate Change, Social Innovation and Innovation Labs.
 
@@ -48,11 +48,14 @@ Development and support the content design and production for the CLIP (audiovis
 Monitoring and assessment of the implementation and results of the CLIP
 
 
-## Expected Results
+## Expected Results
+
 Formalization of the content for the Climate Labs Incubation Program - CLIP understanding the pertinence and identify main structuring points for the implementation.
 A compilation (toolbox) of methods and instruments to support the operationalization of the CLIP in the form of virtual workshops, tools, canvases, ice-breakers etc...
+
 A compilation of cases and experiences drawn from the collaborative process with the project partners.
 Support in the implementation of the program with the Latin-American partners.
+
 Final report (in English) with the compilation of the main learning and successful points of the implementation of the CLIP, as well as improvement points and perspectives
 
 **Internship Dates: March to September 2021**
