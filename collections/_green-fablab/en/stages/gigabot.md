@@ -1,9 +1,8 @@
 ---
-title: "Project: Open Source Melt Flow index"
+title: "Internship: Quality in Fused Granular Deposition for distributed recycling"
 class: wide
-date: 2020-12-16
-permalink: /projects/green-fablab/gigabot/
-image-path: "/assets/images/3-projects/gf/stages/osmfi/"
+permalink: /green-fablab/internships/inedit-fgf/
+image-path: "/assets/images/3-projects/gf/stages/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
@@ -16,87 +15,86 @@ toc_label: "Project Development"
 toc_icon: "file-alt"
 toc_sticky: true
 
-
-Planning:
-  - title: "Global project"
-    url: /projects/green-fablab/osmfi/
-
-  - title: "November"
-    url: /green-fablab/osmfi/
-  - title: "December"
-    url: /green-fablab/osmfi/
-
-
-partners:
-- image_path: "/assets/images/3-projects/gf/logos/MTU.png"
-  teaser_class: GF-partners
-  alt: MTU
-  title: ''
-  excerpt: "[Michigan Technological University](https://www.mtu.edu)"  
-
 ---
 
-## Proposition of Internship
+# Project: Quality in Fused Granular Deposition for distributed recycling
+## Context
 
-The Green Fablab project is based on our recent article of Distributed Recycling via additive Manufacturing (DRAM) approach.
-The context of this internship project is placed in the **Quality (VI)** phase.
+Since few years ago, the ERPI laboratory developeda research platform on innovation processes called the [Lorraine Fab Living Lab  (LF2L)](http://lf2l.fr/)^[More details: http://lf2l.fr/] to the development of projects  in a living lab approach taking into account the  *User Centered Design* principles.
+The main goal is to develop research for prospective assessment of innovative usages
+<!-- The LF2L physical environment is constituted by a *Collaborative* and a *FabLab* spaces. -->
+<!-- The collaborative space allows users to foster co-operation in engineering design with different stakeholders in order to new create concepts/designs. -->
+<!-- On the other hand, FabLab space allows users to materialize the concepts/designs  in an easy and quick way in order to have an prospective evaluation. -->
 
-![Lorraine Fab Living Lab](/assets/images/3-projects/gf/DRAM.png)
-[See our paper in this link](/green-fablab/review-recycling/)
+The [INEDIT (open INnovation Ecosystems for Do It Together process)](http://erpi.univ-lorraine.fr/projects/INEDIT/) is a research project obtained in the framework of the European Union's H2020 program starting in autumn 2019 for a duration of 36 months develped at the LF2L.
 
-Taking into account the sustainability notion which is a currently  major societal issue, the FabLab concept goes towards a better use the resources present in these spaces.
+INEDIT project seeks to create an open innovation European DIT ecosystem for sustainable furniture co-creation.
+The main idea is to to deliver sustainable, smart and personalized new products in a shorter time to market through the creativity of consumers, shaping it through designers’ professional skills, and makes it viable by leveraging on the expertise of production specialists.
 
-We have developed various works on technical and logistical point of view to recycle plastic inside the LF2L.
+INEDIT intends to demonstrate the capacity to turn the well-known **‘Do-It-Yourself’ (DIY)** approach applied by individuals within FabLabs into a professional approach named **‘Do-It-Together’ (DIT)**.
 
-However, one key point is missing. *How can we evaluate the 'usefulness' of plastic waste material to be recycled via DRAM approach'*.
+
+## Distributed recycling via Additive Manufacturing
+
+Circular economy is a major societal challenge in order to increase the recycling loop of plastic materials.  Therefore, the FabLab concept goes towards a better use of the resources present in these spaces.
+Thus, one of the main output for INEDIT project is to evaluate the technical viability of Distributed Recycling via additive Manufacturing (DRAM) approach, based on our recent article as illustrated in the figure 1.
+The global ambition is to develop a Green Fablab initiative (http://lf2l.fr/green-fablab/) to
+create sustainable furniture.
+
+![Distributed Recycling via Additive Manufacturing. [See our paper in this link http://lf2l.fr/green-fablab/review-recycling/](http://lf2l.fr/green-fablab/review-recycling/)](http://lf2l.fr/assets/images/3-projects/gf/DRAM.png){width=70%}
+
+
+The use of filament in the 3D printer is the establish method to the material deposition in the additive manufacturing context.
+Nevertheless, the fabrication of filament is one step time-consuming and it does not add value to the printed object using a mono-material.
+Indeed, The use of filament feedstock increases costs and narrows the variety of materials that can be used.
+
+**The context of this internship project is placed at the *Feedstock (IV)*, Printing (V) and  Quality (VI) phases.**
+Recently, a technology called Fused granular fabrication (FGF) is becoming very interesting given the fact of the adaptation of open-source (OS) 3D printers with domestic waste plastic extruders. This approach have been explored as a new prospective to polymer recycling in order to print object directly from recycled pellet as feedstock material.
+
+![Fused Granular Fabrication](https://raw.githubusercontent.com/LF2L/INEDIT-WP6/main/figures/Gigabot/Gigaboot.jpg){: width=30%}
+![Fused Granular Fabrication](https://raw.githubusercontent.com/LF2L/INEDIT-WP6/main/figures/Gigabot/Gigaboot-02.jpg){: width=50%}
+
+
+@Arthur2020[^1] to evaluate the performance of the Fused Filament Fabrication and FGF techniques in terms of technical and economical dimensions at the desktop 3D printing scale. Recycled and virgin polylactic acid material was studied by using five different types of recycling feedstocks: commercial filament, pellets, distributed filament, distributed pellets, and shredded waste.
+
+The major interest of this approach is the reduction of cost and greenhouse gas emissions related to waste collection and transportation as well as the environmental impact of manufacturing custom plastic parts.
+This distributed polymer recycling approach could be an additional alternative to the conventional centralized polymer recycling [@Baechler2013[^2]; @Santander2020[^3]].
+
+Taking into account the significant growing adoption of open-source (OS) 3D printing, distributed polymer recycling approach could be highly relevant as current recycling rates are particularly low.
+
+However, one key point is missing. *How can we evaluate the 'robustness' of the FGF process to treat  plastic waste material including PLA, ABS, HDPE via DRAM approach'?*.
 This is a major technical aspect in order to understand the characteristics of the recycled materials.
-
-### Open Source Melt flow Index
-
-<img width="40%" class="align-left" src="{{ site.baseurl | append:page.image-path | append: 'MFI.jpg' }}">
-Rheological properties are one of the most important parameters in the quality assessment of the polymer materials. Viscosity and fluidity of the material are related to the polymer's molecular structure, which is
-correlated to the process parameters to take into account in the injection or printing process . Therefore, the final quality of the fabricated object (e.g. resistance, surface finish, dimensional
-accuracy) are related to the initial state of the material. **Melt Flow Index** is one of the rheological properties to measure with the purpose to qualify the recycled material is for 3D printing process.
-
-Melt Flow Index (MFI) is an indirect technique to measure the viscosity of polymers, which is also correlated with the and the molecular weight of a polymer. It is used in polymer technology as a product specification since this value gives an indication of the processing properties of the polymer. The polymer is heated in a small oven and a normal load is applied to the molten material. The melted material is extruded through an orifice and the weight of the extruded material over a 10-min period is recorded as the melt index (MI) value. The value of MFI is expressed as the mass of polymer melt pushed from the heated cylinder of the extrusion plastometer through its precision bore orifice by its piston in a period of time, the standard units of the value being grams per ten minutes (g/10 min). The weight used was 2.16 Kg and the temperature was 180.
-
-Of all the family of capillary flow systems, the Melt Flow Indexer is the cheapest and the most widely used. This test can be repeated at two different loads to determine the flow rate ratio (FRR). Flow rate may be determined as a function of applied load so that a qualitative indication of pseudoplasticity is readily obtained by comparing the ratios of flow rate at two different loads. The MI and FRR values provide correlations to the molecular weight and molecular weight distribution. Assuming all other things are equal, the lower the MI values, the higher the molecular weight and the higher the FRR, and the broader the molecular weight distribution.
-
-This projects is in collaboration with [Michigan Technical University](https://www.mtu.edu/) (USA)
-
-<div id="GF-partners">  
-{% include feature_row id="partners" %}
-</div>
-
 
 
 ## Goal
 
-The main goal of the project is **to design, built and test an open hardware melt flow index system for the LF2L conditions**.
-Moreover, to establish the quality and reproducibility of the test process with respect to the commercial test machines.
+The main goal of the project is **to evaluate the printing quality and reproducibility of a Fused Granular Fabrication machine designed as  an open hardware to test the reliability to print recycled assets collected at LF2L conditions**.
+
+<!-- The development of 3D printers using direct extrusion systems to print can be one research axis for the development of the 3D printing process using recycled materials.  -->
+<!-- This aspect could  further improve the adoption of the additive manufacturing technology. -->
+<!-- However, the lack of a precise volumetric control of the extrusion is a limiting factor for the shape/form of the printed objects.  -->
+<!-- Without the use of filament retraction feature, the creation of simple models is only possible after some manual tuning of rotation speed according to the current temperature and viscosity of the melted pellets. -->
 
 
 ### Specific goals
 
 The main specific goals of this internship are:
 
--   Mechanical Design process considering the technical and user requirements
--   Fabrication considering the resources of a innovation space such as FabLabs
--   Realization of first trials test using virgin material (e.g. PLA) for calibration purposes.
--   Calibration test with regard to the commercial machines
--   Documentation of the prototype.
--   Establishment a protocol to use considering the user experience.
+- Realization of first trials test using virgin material (e.g. PLA) for calibration purposes and calibration test with regard to the commercial machines
+- Evaluate the limits conditions of the open hardware machine using Design of Experiments (DoE) approach
+- Fabrication of printing samples to validate the quality  considering the INEDIT project conditions
+- Documentation of the test as scientific article defining the protocol, the user experience and the implications for DRAM.
+
 
 ### Expected elements to the end of the project
 
 The following elements are expected as results:
 
-1.  Benchmarking of the available open source testing machines taking to account the time, expertise, difficulty to maintain and cost.
-2.  Development of technical features to consider.
-3.  Bill of Materials (BOM) and CAD models with the final version.
-4.  An on-line platform (e.g. a wiki, html page) for a complete documentation
-5.  Functional prototype
-6.  Test results
+- Benchmarking of the available literature  on the FGF process considering.
+- Design a benchmarking model to evaluate the printability for FGF.
+- Development of technical rapport considering the experimentation protocol.
+- An on-line platform (e.g. a wiki, html page) for a complete documentation
+- Test results of the evaluation
 
 
 ## Timming: February 2021 - Sept 2021
@@ -106,9 +104,18 @@ The following elements are expected as results:
 - Mechanical / Mechatronics / Industrial engineering students with skills on product design
 
 ## Contact
-First, read our [Internship guide](/green-fablab/internships/).
+
+First, read our [Internship guide](http://lf2l.fr/green-fablab/internships/).
 Then, send us your CV and cover letter. If additional questions, let us know
 
-- Alaa Hassan (alaa.hassan{at}univ-lorraine.fr)
-- Hakim Boudaoud (hakim.Boudaoud{at}univ-lorraine.fr)
-- Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
+- Hakim Boudaoud (hakim.Boudaoud[at]univ-lorraine.fr)
+- Fabio Cruz (cruzsanc1[at]univ-lorraine.fr)
+
+# References
+
+
+[^1]: Alexandre, Arthur, Fabio A. Cruz Sanchez, Hakim Boudaoud, Mauricio Camargo, and Joshua M. Pearce. 2020. “Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder: Comparison to Fused Filament Fabrication on Open-Source Desktop Three-Dimensional Printers.” 3d Print. Addit. Manuf., April, 3dp.2019.0195. https://doi.org/10.1089/3dp.2019.0195.
+
+[^2]: Baechler, Christian, Matthew DeVuono, and Joshua M Pearce. 2013. “Distributed recycling of waste polymer into RepRap feedstock.” Rapid Prototyp. J. 19 (2): 118–25. https://doi.org/10.1108/13552541311302978.
+
+[^3]: Santander, Pavlo, Fabio A Cruz Sanchez, Hakim Boudaoud, and Mauricio Camargo. 2020. “Closed loop supply chain network for local and distributed plastic recycling for 3D printing: a MILP-based optimization approach.” Resour. Conserv. Recycl. 154 (March): 104531. https://doi.org/10.1016/j.resconrec.2019.104531.
