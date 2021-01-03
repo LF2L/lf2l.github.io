@@ -17,7 +17,7 @@ toc_sticky: true
 
 ---
 
-# Project: Quality in Fused Granular Deposition for distributed recycling
+# Internship: Quality in Fused Granular Deposition for distributed recycling
 ## Context
 
 Since few years ago, the ERPI laboratory developeda research platform on innovation processes called the [Lorraine Fab Living Lab  (LF2L)](http://lf2l.fr/)^[More details: http://lf2l.fr/] to the development of projects  in a living lab approach taking into account the  *User Centered Design* principles.
