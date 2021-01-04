@@ -9,7 +9,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import "elements-bootstrap"; 
+@import "elements-bootstrap";
 
 
 
@@ -27,7 +27,7 @@
 .page__content {
   h2 {
     padding-bottom: 0.5em;
-    // border-bottom: 2px solid $silver;      
+    // border-bottom: 2px solid $silver;
   }
 }
 
@@ -39,7 +39,7 @@ hr {
   display: block;
   margin: 2em 0;
   border: 0;
-  border-top: 3px solid $silver; 
+  border-top: 3px solid $silver;
 }
 
 b, strong{
@@ -68,7 +68,7 @@ b, strong{
 
 // HOME PAGE
 #header{
-  background-image: url(../images/1-home/header/Background-ERPI.jpg);  
+  background-image: url(../images/1-home/header/Background-ERPI.jpg);
 }
 
 
@@ -82,10 +82,10 @@ b, strong{
 
 .icons{
   text-align: center;
-  width:100px; 
+  width:100px;
   display: inline-block;
   margin: 0 40px;
-  
+
   img {
     max-width: 30px;
   }
@@ -95,9 +95,9 @@ b, strong{
 
 }
 
-.icons-community{     
+.icons-community{
   text-align: center;
-  width:100px;    
+  width:100px;
   margin: 0 20px;
   display: inline-block;
 
@@ -106,13 +106,13 @@ b, strong{
     }
   figcaption{
     font-size: 1em;
-  }  
-} 
+  }
+}
 
 
-// For Staff 
+// For Staff
 .staff {
-  text-align: center;   
+  text-align: center;
   margin: 0 20px;
   // display: inline-block;
   justify-content: center;
@@ -121,7 +121,7 @@ b, strong{
   img {
     width: 100%;
     border-radius: 50%;
-   } 
+   }
 }
 
 
@@ -143,35 +143,13 @@ b, strong{
 
 
 // PAGES
-@import "pages/Green-Fablab"; 
-@import "pages/partners-chartes"; 
+@import "pages/Green-Fablab";
+@import "pages/partners-chartes";
 
-@import "figures"; 
-
-
-
-  
-
-  
+@import "figures";
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footnotes {
+  color: mix(#fff, $gray, 5%);
+}

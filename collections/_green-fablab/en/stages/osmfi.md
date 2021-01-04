@@ -1,7 +1,7 @@
 ---
 title: "Project: Open Source Melt Flow index"
 class: wide
-date: 2020-12-04
+date: 2020-12-15
 permalink: /projects/green-fablab/osmfi/
 image-path: "/assets/images/3-projects/gf/stages/osmfi/"
 

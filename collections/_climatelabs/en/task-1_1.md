@@ -36,14 +36,14 @@ sidebar:
 The creation of Social Innovation Labs needs competencies in order to manage differet type of task around the work of a lab.
 
 Multidisciplinarity and interdisciplinarity teams is an ideally setup.
-People that have work experience in several sectors (public administration, private, not-for-profit etc.) and different policy fields (education, labour, health etc.). 
-In doing so,  the lab itself involves practitioners with diverse perspectives on societal challenges. 
+People that have work experience in several sectors (public administration, private, not-for-profit etc.) and different policy fields (education, labour, health etc.).
+In doing so,  the lab itself involves practitioners with diverse perspectives on societal challenges.
 Furthermore, this mix of team members generates a multitude of key competencies that effective lab-processes rely on:
 
 
 # Goal
 
-> Make an initial competences cartography in order to assest the evolution of the creation of the labs. 
+> Make an initial competences cartography in order to assest the evolution of the creation of the labs.
 
 
 
@@ -57,7 +57,7 @@ Furthermore, this mix of team members generates a multitude of key competencies 
 # Expected results
 
 - Profil for each LA partner university.
-- Identification of competences that are missing. 
+- Identification of competences that are missing.
 
 
 

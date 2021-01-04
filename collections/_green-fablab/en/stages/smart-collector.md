@@ -11,9 +11,6 @@ header:
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
   overlay_filter: 0.5
 
-sidebar:
-  nav: "2019.1AI"
-
 
 partners:
 - image_path: "/assets/images/3-projects/gf/stages/2019/1AI/RVM.jpg"
@@ -23,7 +20,6 @@ partners:
   excerpt: "[Rives de Meurthe](https://rives-de-meurthe.fr/)"  
 
 ---
-
 
 
 ## Proposition of Internship
@@ -45,25 +41,37 @@ The development of local closed loops for DRAM is a major goal for sustainable f
 
 ## Industrial Ecology
 
-One of the focus for the reduction of plastic waste sink is the identification of potential source easily to collect and treat on innovations laboratoires/spaces as fablabs, hacker/maker spaces.
+One of the focus for the reduction of plastic waste sink is the identification of potential source easily to collect and treat on innovations laboratories/spaces as fablabs, hacker/maker spaces.
 In the same way, to create a symbiosis network is needed identifying the competences, barriers and opportunities of the actors involved.
+
 
 ## Goal
 
-The main goal of the project is **to create a local network for distributed recycling** using a smart collector open hardware as driver. Moreover, to establish the organizational analysis to assure this experimentation.
-
-### Specific goals
-
-- To deploy an open source collector in the LF2L neighborhood to collect plastic.
-- Social network analysis based on industrial ecology and territorial development approach in order to evaluate the acceptability for this type of recycling.
-- First documentation of the local recycling demonstrator at the Rivess de Meurthe neighborhood.
+The main goal of the project is **to create a demonstrator of local network for distributed recycling**, identifying the organizational aspects and main drivers to evaluate this approach.
 
 
-### Results
+## Missions
 
+- Diagnosis of the territorial context of the distributed plastic network (economic, social, environmental, political and technological).
+- Identify the actual and potential stakeholders forming the recycling network
+Understand the motivations, needs and constraints of stakeholders with regard to the plastic collection and recycling process.
+- Studying the impact at the territorial level.
+
+## Methodology
+
+- Literature review on the concepts and understanding of their articulation: industrial ecology, industrial symbiosis, short circuits, distributed recycling, etc.
+- Case study is based on the deployment of an open-source collector in the LF2L neighborhood to collect plastic waste.
+- Elaboration of the appropriate methodology for the field survey (data collection)
+- Conducting field interviews with the identified stakeholders
+- Analysis and processing of data and confrontation with theoretical questionings
+
+
+## Expected results
+
+- Understanding the conditions of emergence and development (constraints and levers) of distributed networks of recycled plastic.
 - Cartography of stakeholders for a closed loop network and the local waste management options for particular plastic wastes.  
 - Evaluation and documentation (and eventually statistical analysis) on the deployment of the experimentation for each actor:
-  + Public institution: ENSGSI (GSI Media + Recycling challengue)
+  + Public institution: ENSGSI School
   + Private: ATP Rives de Meurthe
   + Citizen: Foire Internationale de Nancy
 
@@ -80,7 +88,8 @@ The main goal of the project is **to create a local network for distributed recy
 
 ## Candidate profile
 
-- Industrial / Urban enginnering students with focus on territorial development.
+- Industrial / Urban engineering students with focus on territorial development.
+- English and French skills are required to be able to meet local actors.
 
 
 ## Contact
@@ -88,6 +97,6 @@ First, read our [Internship guide](/green-fablab/internships/).
 Then, send us your CV and cover letter. If additional questions, let us know
 
 - Fedoua Kasmi (fedoua.kasmi{at}univ-lorraine.fr)
-- Alaa Hassan (alaa.hassan{at}univ-lorraine.fr)
+- Laurent Dupont (l.dupont{at}univ-lorraine.fr)
 - Hakim Boudaoud (hakim.boudaoud{at}univ-lorraine.fr)
 - Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
