@@ -42,21 +42,21 @@ The Climate Laboratory project offers a 6-month internship for a master's level 
 
 ## Methodology / Main Activities
 
-Conduct literature review on the concepts Climate Change, Social Innovation, Innovation Labs, Incubation and Strategic Design.
-Benchmark of incubation programs on social entrepreneurship, climate action and/or innovation
-Development and support the content design and production for the CLIP (audiovisual supports, tools or activities, interviews, etc..7).
-Monitoring and assessment of the implementation and results of the CLIP
+- Conduct literature review on the concepts Climate Change, Social Innovation, Innovation Labs, Incubation and Strategic Design.
+- Benchmark of incubation programs on social entrepreneurship, climate action and/or innovation
+- Development and support the content design and production for the CLIP (audiovisual supports, tools or activities, interviews, etc..7).
+- Monitoring and assessment of the implementation and results of the CLIP
 
 
 ## Expected Results
 
-Formalization of the content for the Climate Labs Incubation Program - CLIP understanding the pertinence and identify main structuring points for the implementation.
-A compilation (toolbox) of methods and instruments to support the operationalization of the CLIP in the form of virtual workshops, tools, canvases, ice-breakers etc...
+1. Formalization of the content for the Climate Labs Incubation Program - CLIP understanding the pertinence and identify main structuring points for the implementation.
+1. A compilation (toolbox) of methods and instruments to support the operationalization of the CLIP in the form of virtual workshops, tools, canvases, ice-breakers etc...
 
-A compilation of cases and experiences drawn from the collaborative process with the project partners.
+1. A compilation of cases and experiences drawn from the collaborative process with the project partners.
 Support in the implementation of the program with the Latin-American partners.
 
-Final report (in English) with the compilation of the main learning and successful points of the implementation of the CLIP, as well as improvement points and perspectives
+1. Final report (in English) with the compilation of the main learning and successful points of the implementation of the CLIP, as well as improvement points and perspectives
 
 **Internship Dates: March to September 2021**
 
@@ -64,11 +64,11 @@ Final report (in English) with the compilation of the main learning and successf
 ## Candidate Profile
 
 Master level students from industrial/urban engineering, design or business with focus on territorial development, innovation management or strategic design
+
 English skills are required to be able to communicate with the project partners. Since this is a project with latin-american, Spanish skills are desirable but not mandatory.
 
 ## Contact
 
 Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
 Ferney Osorio (ferney.osorio-bustamante{at}univ-lorraine.fr)
-Laurent Dupont (l.dupont{at}univ-lorraine.fr)
 Mauricio Camargo (mauricio.camargo{at}univ-lorraine.fr)
