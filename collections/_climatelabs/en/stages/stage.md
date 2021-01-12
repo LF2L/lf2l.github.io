@@ -30,11 +30,13 @@ In a term of three years, it is expected to train scholars, students and staff m
 
 The project seeks, ultimately, to build strong and connected areas of innovation and applied research within universities impacting the overall capacities and strategies of the partner countries to mitigate and adapt to climate change.
 
+
 More information at the project’s website: [http://climate-labs.org/](http://climate-labs.org/)
 
 ## Mission of the Université of Lorraine
 
 We, at the Université of Lorraine, are in charge of leading the design and implementation of the Climate Labs Incubation Program - CLIP. This program is conceived as a 4-month hands-on iterative process that should enable the partner teams to advance in the strategic design and launch of their Climate Lab and pilot project. The CLIP is built upon three fundamental conceptual pillars: Climate Change, Social Innovation and Innovation Labs.
+
 
 ## Internship Goal
 
@@ -42,21 +44,23 @@ The Climate Laboratory project offers a 6-month internship for a master's level 
 
 ## Methodology / Main Activities
 
-- Conduct literature review on the concepts Climate Change, Social Innovation, Innovation Labs, Incubation and Strategic Design.
+- Conduct literature review on the concepts Climate Change, Social Innovation, Innovation Labs, Incubation and Strategic Design
 - Benchmark of incubation programs on social entrepreneurship, climate action and/or innovation
-- Development and support the content design and production for the CLIP (audiovisual supports, tools or activities, interviews, etc..7).
-- Monitoring and assessment of the implementation and results of the CLIP
+- Development and support the content design and production for the CLIP (audiovisual supports, tools or activities, interviews, etc…)
+Monitoring and assessment of the implementation and results of the CLIP
+
 
 
 ## Expected Results
 
 1. Formalization of the content for the Climate Labs Incubation Program - CLIP understanding the pertinence and identify main structuring points for the implementation.
-1. A compilation (toolbox) of methods and instruments to support the operationalization of the CLIP in the form of virtual workshops, tools, canvases, ice-breakers etc...
 
-1. A compilation of cases and experiences drawn from the collaborative process with the project partners.
+2. A compilation (toolbox) of methods and instruments to support the operationalization of the CLIP in the form of virtual workshops, tools, canvases, ice-breakers etc...
+
+3. A compilation of cases and experiences drawn from the collaborative process with the project partners.
 Support in the implementation of the program with the Latin-American partners.
 
-1. Final report (in English) with the compilation of the main learning and successful points of the implementation of the CLIP, as well as improvement points and perspectives
+4. Final report (in English) with the compilation of the main learning and successful points of the implementation of the CLIP, as well as improvement points and perspectives
 
 **Internship Dates: March to September 2021**
 
@@ -65,10 +69,10 @@ Support in the implementation of the program with the Latin-American partners.
 
 Master level students from industrial/urban engineering, design or business with focus on territorial development, innovation management or strategic design
 
-English skills are required to be able to communicate with the project partners. Since this is a project with latin-american, Spanish skills are desirable but not mandatory.
+English skills are required to be able to communicate with the project partners. Since this is a project with Latin-American, Spanish skills are desirable but not mandatory.
 
-## Contact
+## Contact
 
-Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
-Ferney Osorio (ferney.osorio-bustamante{at}univ-lorraine.fr)
-Mauricio Camargo (mauricio.camargo{at}univ-lorraine.fr)
+- Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
+- Ferney Osorio (ferney.osorio-bustamante{at}univ-lorraine.fr)
+- Mauricio Camargo (mauricio.camargo{at}univ-lorraine.fr)
