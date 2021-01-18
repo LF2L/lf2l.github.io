@@ -31,7 +31,7 @@ We seek students at the engineering courses and masters levels for research in d
 
 ## Funding
 Internships of masters students are generally fully funded according to the [public guidelines](https://www.service-public.fr/particuliers/vosdroits/F32131). Only the highest quality students interested in a masters degree will be considered.
-Here you can find an estimation of the funding for a master: https://www.service-public.fr/simulateur/calcul/gratification-stagiaire
+Here you can find an estimation of the funding for a master: [https://www.service-public.fr/simulateur/calcul/gratification-stagiaire](https://www.service-public.fr/simulateur/calcul/gratification-stagiaire)
 
 
 Students are generally ranked in the top 10% of their class or higher at an internationally-reputable institution and have undertaken some major project in applied sustainability before joining the group (e.g. organized Engineers Without Borders chapters at their former schools) or open hardware/software (e.g. hackerspace / fablabs).
