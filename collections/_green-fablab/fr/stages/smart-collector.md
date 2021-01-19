@@ -2,7 +2,7 @@
 title: "Développement d’une communauté locale de recyclage de plastique en circuit court: le cas du quartier de Rives de Meurthe "
 class: wide
 date: 2020-12-04
-permalink: /projects/green-fablab/smart-collector/
+permalink: /fr/projects/green-fablab/smart-collector/
 image-path: "/assets/images/3-projects/gf/stages/smart-collector/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
