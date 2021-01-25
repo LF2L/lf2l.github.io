@@ -3,7 +3,6 @@ title: "Développement d’une communauté locale de recyclage de plastique en c
 class: wide
 date: 2020-12-04
 permalink: /fr/projects/green-fablab/smart-collector/
-image-path: "/assets/images/3-projects/gf/stages/smart-collector/"
 
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
