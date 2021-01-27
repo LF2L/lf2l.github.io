@@ -33,73 +33,6 @@ icons:
 
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
 
-
-<div class="community">
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-materialiser.png" 
-  class= "icons"  
-  alt="Materialize a LF2L" 
-  caption="**Materialize**" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-associer.png" 
-  class= "icons"  
-  alt="Associer at LF2L" 
-  caption="**Associate**" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-innover.png" 
-  class= "icons"  
-  alt="Innover at LF2L" 
-  caption="**Innovate**" %}
-</div>
-
-## Inside of the fourth dimension of Innovation 
-{: .text-center}
-
-{% include feature_row id="intro" type="center" %}
-
-
-
-
-
-## Communities 
-{: .text-center}
-
-<div class="community">
-{% include figure
-  image_path="/assets/images/1-home/presentation/Entreprises.png" 
-  class= "icons-community"  
-  alt="" 
-  caption="Entreprises"
-  url= "/communities/enterprises/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Makers.png" 
-  class= "icons-community"  
-  alt="" 
-  caption="Makers" 
-  url= "/communities/makers/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Etudiants.png" 
-  class= "icons-community"  
-  alt="" 
-  caption="Etudiants" 
-  url= "/communities/students/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Universitaires.png" 
-  class= "icons-community"  
-  alt=" " 
-  caption="Universities" 
-  url= "/communities/enterprises/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Institutions.png" 
-  class= "icons-community"  
-  alt=" " 
-  caption="Collectivities" 
-  url= "/communities/collectivities/" %}
-</div>
-
-
-
-
 ## News
 {: .text-center}
 
@@ -173,6 +106,75 @@ icons:
 See our complete
 [News]({{ site.url }}/news/ "Give me an click, world"){: .btn .btn--primary }
 {: .text-right}
+
+
+<div class="community">
+{% include figure 
+  image_path="/assets/images/1-home/presentation/icon-materialiser.png" 
+  class= "icons"  
+  alt="Materialize a LF2L" 
+  caption="**Materialize**" %}
+{% include figure 
+  image_path="/assets/images/1-home/presentation/icon-associer.png" 
+  class= "icons"  
+  alt="Associer at LF2L" 
+  caption="**Associate**" %}
+{% include figure 
+  image_path="/assets/images/1-home/presentation/icon-innover.png" 
+  class= "icons"  
+  alt="Innover at LF2L" 
+  caption="**Innovate**" %}
+</div>
+
+## Inside of the fourth dimension of Innovation 
+{: .text-center}
+
+{% include feature_row id="intro" type="center" %}
+
+
+
+
+
+## Communities 
+{: .text-center}
+
+<div class="community">
+{% include figure
+  image_path="/assets/images/1-home/presentation/Entreprises.png" 
+  class= "icons-community"  
+  alt="" 
+  caption="Entreprises"
+  url= "/communities/enterprises/" %}
+{% include figure 
+  image_path="/assets/images/1-home/presentation/Makers.png" 
+  class= "icons-community"  
+  alt="" 
+  caption="Makers" 
+  url= "/communities/makers/" %}
+{% include figure 
+  image_path="/assets/images/1-home/presentation/Etudiants.png" 
+  class= "icons-community"  
+  alt="" 
+  caption="Etudiants" 
+  url= "/communities/students/" %}
+{% include figure 
+  image_path="/assets/images/1-home/presentation/Universitaires.png" 
+  class= "icons-community"  
+  alt=" " 
+  caption="Universities" 
+  url= "/communities/enterprises/" %}
+{% include figure 
+  image_path="/assets/images/1-home/presentation/Institutions.png" 
+  class= "icons-community"  
+  alt=" " 
+  caption="Collectivities" 
+  url= "/communities/collectivities/" %}
+</div>
+
+
+
+
+
 
 
 

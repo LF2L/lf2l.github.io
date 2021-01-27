@@ -6,7 +6,7 @@ permalink: "/info/"
 excerpt: A scientific expertise to support your projects
 header:
   overlay_image: assets/images/banners/LF2L-5.jpg
-  overlay_filter: 0.3
+
   show_overlay_excerpt: true
 
 sidebar:
@@ -15,6 +15,9 @@ sidebar:
 last_modified_at: 2018-11-12 00:00:00 +0000
 ---
 
+## Social network
+
+<a href="https://www.facebook.com/LorraineFabLivingLab">![Logo Facebook]({{ site.baseimg }}/assets/images/6-info/facebook.png){:height="200%" width="20%"}</a> 
 
 ## Access 
 
@@ -25,7 +28,7 @@ last_modified_at: 2018-11-12 00:00:00 +0000
 
 ## Schedule
 
-- **Monday - Friday**, 9:00am à 18:00pm 
+- **Monday - Friday**: 9:00am - 12:00pm and 13:30pm - 17:00pm 
 
 ## Contact information
 

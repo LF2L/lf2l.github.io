@@ -7,9 +7,9 @@ main:
     url: /fr/projects/
   - title: "Communauté"
     url: /fr/communities/
-  - title: "Lieu & Equipement"
+  - title: "Lieu & Equipements"
     url: /fr/place/
-  - title: "Info pratique"
+  - title: "Infos pratiques"
     url: /fr/info/
   - title: ':gb:'
     url: /
@@ -43,7 +43,7 @@ communities:
 
 
 place_tools:
-  - title: "Lieu et Equipement"
+  - title: "Lieu et Equipements"
     children:
       - title: "NomadLab"
         url: /fr/place/nomadlab/
