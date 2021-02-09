@@ -56,6 +56,17 @@ Inaugurated in June 2014, as part of the French Tech festival, the Lorraine Fab 
 
 ## Sources
 
+* Boutillier S., Capdevila I., Dupont L., Morel L. Espaces et nouvelles formes d’organisation du travail créatif. Innovations - Revue d’économie et de management de l'innovation, De Boeck Supérieur, 2020, N°61 (1), pp.5-13. [https://doi.org/10.3917/inno.061.0005](https://doi.org/10.3917/inno.061.0005) [⟨hal-02446557⟩](https://hal.archives-ouvertes.fr/hal-01987047)
+* Boutillier S., Capdevila I., Dupont L., Morel L. Collaborative spaces promoting creativity and innovation. Journal of Innovation Economics & Management, De Boeck Supérieur 2020, 31 (1), pp.1-9. [https://doi.org/10.3917/jie.031.0001](https://doi.org/10.3917/jie.031.0001). [⟨hal-02878132⟩](https://hal.archives-ouvertes.fr/hal-02878132)
+* Osorio F., Dupont L., Camargo M., Sandoval c., Peña J.I.. Shaping a Public Innovation Laboratory in Bogota: Learning through Time, Space and Stakeholders. Journal of Innovation Economics & Management, De Boeck Supérieur 2020, n°31 (1), pp.69-100. [https://doi.org/10.3917/jie.pr1.0066](10.3917/jie.pr1.0066). [⟨hal-02453808⟩](https://hal.archives-ouvertes.fr/hal-02453808)
+
+
+## 2019
+
+* Dupont L. Giovanny Arbelaez Garces. Immersive Collaborative Innovation. Tohoku University / Lorraine University seminar - Health, Technology, and Humanities in the XXI Century, Sep 2019, Nancy, France. [⟨hal-02307769⟩](https://hal.archives-ouvertes.fr/hal-02307769)
+
+* Ferney Osorio, Laurent Dupont, Mauricio Camargo, José Ismael Peña. Constellation of Innovation Laboratories: A Scientific Outlook. 2019 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC), Jun 2019, Valbonne Sophia-Antipolis, France. pp.1-10, ⟨10.1109/ICE.2019.8792816⟩. [https://hal.archives-ouvertes.fr/hal-02266978](https://hal.archives-ouvertes.fr/hal-02266978)
+
 * Dupont, L., Pallot, M., Morel, L. (2016) [Exploring the Appropriateness of Different Immersive Environments in the Context of an Innovation Process for Smart Cities](https://hal.archives-ouvertes.fr/hal-01331887). 22nd ICE/IEEE International Technology Management Conference, Trondhiem, Norway, 13-15 June. Draft
 
 * Dupont L.,Morel, L.,Lhoste, P., [Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. In Actes des sessions du colloque Science & You](https://hal.archives-ouvertes.fr/hal-01331610), France, Nancy, June 3-5th, 2015, pp. 230-235. Papier LF2L. Lien vers les actes complets
