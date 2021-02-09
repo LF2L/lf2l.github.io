@@ -57,11 +57,8 @@ Inaugurated in June 2014, as part of the French Tech festival, the Lorraine Fab 
 ## Sources
 
 * Boutillier S., Capdevila I., Dupont L., Morel L. Espaces et nouvelles formes d’organisation du travail créatif. Innovations - Revue d’économie et de management de l'innovation, De Boeck Supérieur, 2020, N°61 (1), pp.5-13. [https://doi.org/10.3917/inno.061.0005](https://doi.org/10.3917/inno.061.0005) [⟨hal-02446557⟩](https://hal.archives-ouvertes.fr/hal-01987047)
+
 * Boutillier S., Capdevila I., Dupont L., Morel L. Collaborative spaces promoting creativity and innovation. Journal of Innovation Economics & Management, De Boeck Supérieur 2020, 31 (1), pp.1-9. [https://doi.org/10.3917/jie.031.0001](https://doi.org/10.3917/jie.031.0001). [⟨hal-02878132⟩](https://hal.archives-ouvertes.fr/hal-02878132)
-* Osorio F., Dupont L., Camargo M., Sandoval c., Peña J.I.. Shaping a Public Innovation Laboratory in Bogota: Learning through Time, Space and Stakeholders. Journal of Innovation Economics & Management, De Boeck Supérieur 2020, n°31 (1), pp.69-100. [https://doi.org/10.3917/jie.pr1.0066](10.3917/jie.pr1.0066). [⟨hal-02453808⟩](https://hal.archives-ouvertes.fr/hal-02453808)
-
-
-## 2019
 
 * Dupont L. Giovanny Arbelaez Garces. Immersive Collaborative Innovation. Tohoku University / Lorraine University seminar - Health, Technology, and Humanities in the XXI Century, Sep 2019, Nancy, France. [⟨hal-02307769⟩](https://hal.archives-ouvertes.fr/hal-02307769)
 
