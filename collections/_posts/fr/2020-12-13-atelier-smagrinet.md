@@ -5,6 +5,7 @@ post_teaser: "/assets/images/post/smagrinet4.jpg"
 ---
 
 # Retour sur la semaine de formation « Énergie et territoire » de l’ENSGSI #
+publié le 7/12/2020 sur [http://factuel.univ-lorraine.fr/node/15749](http://factuel.univ-lorraine.fr/node/15749)
 
 **Du 16 et 20 novembre 2020, s’est déroulé, pour la 2e année consécutive, une semaine d’atelier « Énergie et territoire » dans le cadre du master 2 Aménagement et urbanisme, parcours [Innovation Urbaine pour des villes et territoires en transformation (IUVTT) de l’École nationale supérieure en génie des systèmes et de l’innovation (ENSGSI)](https://www.ensgsi.univ-lorraine.fr/formations/masters/IUVTT/).**
 
