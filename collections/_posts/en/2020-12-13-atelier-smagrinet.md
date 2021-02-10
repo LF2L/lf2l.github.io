@@ -5,6 +5,7 @@ post_teaser: "/assets/images/post/smagrinet4.jpg"
 ---
 
 # Feedback on the "Energy and territory" training week at ENSGSI #
+Published, 2020-12-07 on [http://factuel.univ-lorraine.fr/node/15749](http://factuel.univ-lorraine.fr/node/15749)
 
 **From November 16 to 20, 2020, a week of "Energy and Territory" workshop took place for the second year in a row as part of the Master 2 Urban Planning and Planning, course [Innovation Urbaine pour des villes et territoires en transformation (IUVTT) of l’École nationale supérieure en génie des systèmes et de l’innovation (ENSGSI)](https://www.ensgsi.univ-lorraine.fr/formations/masters/IUVTT/).**
 
