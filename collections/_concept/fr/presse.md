@@ -12,6 +12,8 @@ last_modified_at: 2019-03-06T23:00:00.000+00:00
 toc: true
 toc_label: Year
 toc_sticky: true
+
+
 News_2020:
 - url: "/assets/images/2-concept/media/GreenFabLab.png"
   image_path: "/assets/images/2-concept/media/GreenFabLab.png"
@@ -144,6 +146,19 @@ News_2014:
   allowfullscreen=""></iframe>
 
 ---
+
+## 2021
+
+{% include gallery
+id="News_2021"
+%}
+
+{:refdef: style="text-align: center;"}
+<a href="https://www.cge.asso.fr/liste-actualites/la-demarche-ddrs-au-coeur-de-la-vie-a-lensgsi/">![Conférence Grandes Ecoles]({{ site.baseimg }}/assets/images/2-concept/media/2021-01-03.jpg){:height="50%" width="50%"}  
+La démarche DD&RS au cœur de la vie à l’ENSGSI</a>{: refdef}
+
+
+
 ## 2020
 
 {% include gallery

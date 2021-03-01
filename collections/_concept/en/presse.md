@@ -59,6 +59,17 @@ News_2015:
 
 ---
 
+## 2021
+
+{% include gallery
+id="News_2021"
+%}
+
+{:refdef: style="text-align: center;"}
+<a href="https://www.cge.asso.fr/liste-actualites/la-demarche-ddrs-au-coeur-de-la-vie-a-lensgsi/">![Conférence Grandes Ecoles]({{ site.baseimg }}/assets/images/2-concept/media/2021-01-03.jpg){:height="50%" width="50%"}  
+The DD&RS approach at the heart of life at ENSGSI</a>{: refdef}
+
+
 ## 2020 
 
 {% include gallery 
