@@ -49,21 +49,21 @@ toc_sticky: true
 
 ## 2017
 
-* Dupont, L., Pallot, M., Morel, L., Christmann, O., Boly, V., and Richir, S. (2017) Exploring Mixed-methods Instruments for Performance Evaluation of Immersive Collaborative Environments, The International Journal of Virtual Reality. 17(02), pp1-29. (IF=0,79 ; H-ind=16)
-* Cruz Sanchez F., Boudaoud H., Hoppe S., Camargo M., Polymer Recycling in an Open-Source Additive Manufacturing Context: Mechanical Issues. Additive Manufacturing. 17 (2017). pp. 87-105
-* Dupont, L., Gabriel, A., Camargo, M., Guidat, C. (2017) Collaborative Innovation Projects Engaging Open Communities: a Case Study on Emerging Challenges. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June.
-* Tran, G., Camargo, M., Dupont, L., Mayer, F. (2017) A review of methods for modelling shared decisionmaking process in a smart city living lab. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June.
-* Lacroix, J., Dupont, L., Guidat, C. Hamez, G. (2017) “Smarterized” urban project process with Living Lab approach: exploration through a case study. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June.
-* Pallot, M., Dupont, L., Christmann, O., Richir, S., Boly V., Morel, L. (2017) ICE Breaking: Disentangling Factors Affecting the Performance of Immersive Co-creation Environments, Laval Virtual VRIC ’17, March 22 – 26, 2017, Laval, France.
-* Hubert Julien. Sujet de thèse : Intégration du point de vue de l’usager et du citoyen dans un processus d’innovation. Application au déploiement d’un dispositif d’électro- mobilité dans le sillon lorrain. Directeur de la thèse : Claudine Guidat. Thèse CIFRE ENEDIS (ex. ERDF). Thèse soutenue le 20 juin 2017
+* Dupont, L., Pallot, M., Morel, L., Christmann, O., Boly, V., and Richir, S. (2017) Exploring Mixed-methods Instruments for Performance Evaluation of Immersive Collaborative Environments, The International Journal of Virtual Reality. 17(02), pp1-29. (IF=0,79 ; H-ind=16) [〈hal-02283881〉](https://hal.univ-lorraine.fr/hal-02283881)
+* Cruz Sanchez F., Boudaoud H., Hoppe S., Camargo M., Polymer Recycling in an Open-Source Additive Manufacturing Context: Mechanical Issues. Additive Manufacturing. 17 (2017). pp. 87-105 [〈hal-01629449〉](https://hal.univ-lorraine.fr/hal-01629449)
+* Dupont, L., Gabriel, A., Camargo, M., Guidat, C. (2017) Collaborative Innovation Projects Engaging Open Communities: a Case Study on Emerging Challenges. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June. [〈hal-01582548〉](https://hal.univ-lorraine.fr/hal-01582548)
+* Tran, G., Camargo, M., Dupont, L., Mayer, F. (2017) A review of methods for modelling shared decisionmaking process in a smart city living lab. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June. [〈hal-01723983〉](https://hal.univ-lorraine.fr/hal-01723983)
+* Lacroix, J., Dupont, L., Guidat, C. Hamez, G. (2017) “Smarterized” urban project process with Living Lab approach: exploration through a case study. 2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC), Madeira Island, Portugal 27-29 June. [〈hal-01723984〉](https://hal.univ-lorraine.fr/hal-01723984)
+* Pallot, M., Dupont, L., Christmann, O., Richir, S., Boly V., Morel, L. (2017) ICE Breaking: Disentangling Factors Affecting the Performance of Immersive Co-creation Environments, Laval Virtual VRIC ’17, March 22 – 26, 2017, Laval, France. [〈hal-01723989〉](https://hal.univ-lorraine.fr/hal-01723989)
+* Hubert Julien. Sujet de thèse : Intégration du point de vue de l’usager et du citoyen dans un processus d’innovation. Application au déploiement d’un dispositif d’électro- mobilité dans le sillon lorrain. Directeur de la thèse : Claudine Guidat. Thèse CIFRE ENEDIS (ex. ERDF). Thèse soutenue le 20 juin 2017. [〈hal-01759585〉](https://hal.univ-lorraine.fr/tel-01759585)
 
 ## 2016
 
 * Morel L., Leroux S. Fab Labs: Innovative user, John Wiley & Sons, 30 juin 2016 – 146 pages.
-* Morel L., Leroux S. Fab Labs : L’usager Innovateur, Série Smart innovation coordonnée par Dimitri Uzunidis. ISTE Editions. Collection Innovation, entrepreneuriat et gestion 126 pages – ISBN : 978-1-78405-128-0 (papier) ISBN : 978-1-78405-128-9 (E-Book).
-* Hubert, H. Dupont, L., Guidat, C. (2016) Use as essential factor for Technology Adoption: Case study of electric vehicle’s uses in French regional Ecosystem. 22nd ICE/IEEE International Technology Management Conference, Trondhiem, Norway, 13-15 June.
-* Parra Morantes, P., Arbelaez-Garces, G., Camargo, M. Dupont, L., Peñarete, S. Understanding Museum visitors’ experience through an Eye-tracking study and a Living Lab approach. 22nd ICE/IEEE International Technology Management Conference Trondheim, Norway, 13-15 June. 2016
-* Arbelaez-Garces G., Bonjour E, Rakotondranaivo A. New product acceptability evaluation and improvement model with knowledge reuse. 8th IFAC Conference on Manufacturing Modeling, Management & Control. Troyes – France, 28-30 June. 2016
+* Morel L., Leroux S. Fab Labs : L’usager Innovateur, Série Smart innovation coordonnée par Dimitri Uzunidis. ISTE Editions. Collection Innovation, entrepreneuriat et gestion 126 pages – ISBN : 978-1-78405-128-0 (papier) ISBN : 978-1-78405-128-9 (E-Book). [〈hal-01960097〉](https://hal.univ-lorraine.fr/hal-01960097)
+* Hubert, H. Dupont, L., Guidat, C. (2016) Use as essential factor for Technology Adoption: Case study of electric vehicle’s uses in French regional Ecosystem. 22nd ICE/IEEE International Technology Management Conference, Trondhiem, Norway, 13-15 June. [〈hal-02510621〉](https://hal.univ-lorraine.fr/hal-02510621)
+* Parra Morantes, P., Arbelaez-Garces, G., Camargo, M. Dupont, L., Peñarete, S. Understanding Museum visitors’ experience through an Eye-tracking study and a Living Lab approach. 22nd ICE/IEEE International Technology Management Conference Trondheim, Norway, 13-15 June. 2016. [〈hal-02083876〉](https://hal.univ-lorraine.fr/hal-02083876)
+* Arbelaez-Garces G., Bonjour E, Rakotondranaivo A. New product acceptability evaluation and improvement model with knowledge reuse. 8th IFAC Conference on Manufacturing Modeling, Management & Control. Troyes – France, 28-30 June. 2016. 〈hal-01523218〉](https://hal.univ-lorraine.fr/hal-01523218)
 * Dupont, L., Pallot, M., Morel, L. (2016) Exploring the Appropriateness of Different Immersive Environments in the Context of an Innovation Process for Smart Cities. _22nd ICE/IEEE International Technology Management Conference_, Trondhiem, Norway, 13-15 June. [〈hal-01331887〉](https://hal.archives-ouvertes.fr/hal-01331887)
 
 ## 2015
@@ -76,8 +76,8 @@ toc_sticky: true
 
 ## 2014
 
-* Dupont L. Morel L. Hubert J. Guidat C. Study case: Living Lab Mode for urban project design. Emergence of an ad hoc methodology through collaborative innovation. in IEEE International Technology Management Conference & 20th ICE Conference, Bergamo : Italy (2014) – DOI : https://doi.org/10.1109/ICE.2014.6871550
-* Skiba N. Sujet de la thèse : Processus d’innovation centré sur l’utilisateur : identification des besoins et interprétation de données issues de l’intégration de l’utilisateur dans le processus de co-conception. Directeurs de la thèse : Laure Morel et Claudine Guidat. Thèse soutenue le 3 avril 2014.
+* Dupont L. Morel L. Hubert J. Guidat C. Study case: Living Lab Mode for urban project design. Emergence of an ad hoc methodology through collaborative innovation. in IEEE International Technology Management Conference & 20th ICE Conference, Bergamo : Italy (2014) – DOI : https://doi.org/10.1109/ICE.2014.6871550. [〈hal-01332260〉](https://hal.univ-lorraine.fr/hal-01332260)
+* Skiba N. Sujet de la thèse : Processus d’innovation centré sur l’utilisateur : identification des besoins et interprétation de données issues de l’intégration de l’utilisateur dans le processus de co-conception. Directeurs de la thèse : Laure Morel et Claudine Guidat. Thèse soutenue le 3 avril 2014. [〈tel-01750684〉](https://hal.univ-lorraine.fr/tel-01750684)
 
 ## 2013 et avant
 
