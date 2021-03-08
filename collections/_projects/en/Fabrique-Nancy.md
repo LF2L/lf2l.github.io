@@ -4,7 +4,7 @@ date: 2018-02-25 00:00:00 +0000
 permalink: "/projects/fabrique-nancy/"
 excerpt: Un démonstrateur partagé avec le Grand Nancy
 header:
-  teaser: "/assets/images/3-projects/fabrique-nancy/teaser.jpg"
+  teaser: "/assets/images/3-projects/fabrique-nancy/teaser1.jpg"
 
 ---
 ## Presentation

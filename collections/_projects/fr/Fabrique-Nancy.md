@@ -5,7 +5,7 @@ permalink: "/fr/projects/fabrique-nancy/"
 excerpt: 'Démonstrateur partagé avec le Grand Nancy pour la Co-conception par l''usage
   d''un EcoQuartier '
 header:
-  teaser: "/assets/images/3-projects/fabrique-nancy/teaser.jpg"
+  teaser: "/assets/images/3-projects/fabrique-nancy/teaser1.jpg"
 last_modified_at: 2019-03-07 00:00:00 +0000
 
 ---

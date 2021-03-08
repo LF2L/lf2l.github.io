@@ -4,7 +4,7 @@ date: 2018-02-25T00:00:00.000+00:00
 permalink: "/projects/lorraine-smart-cities-living-lab/"
 excerpt: an ENoLL Living Lab since 2010
 header:
-  teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
+  teaser: "/assets/images/3-projects/LSCLL/teaser2.jpg"
   image: "/assets/images/3-projects/LSCLL/header.jpg"
 last_modified_at: 2018-10-24T00:00:00.000+00:00
 classes: wide

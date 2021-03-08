@@ -4,7 +4,7 @@ date: 2018-02-25T00:00:00.000+00:00
 permalink: "/fr/projects/lorraine-smart-cities-living-lab/"
 excerpt: Le Living lab du Grand Est membre d'ENoLL depuis 2010
 header:
-  teaser: "/assets/images/3-projects/LSCLL/teaser.jpg"
+  teaser: "/assets/images/3-projects/LSCLL/teaser2.jpg"
   header: "/assets/images/3-projects/LSCLL/header.jpg"
 last_modified_at: 2018-10-24T00:00:00.000+00:00
 classes: wide

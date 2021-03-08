@@ -1,7 +1,7 @@
 ---
 title: Meriem Fournier, Présidente du Centre INRAE Grand Est Nancy 
 excerpt: "2021, la recherche du site lorrain continue"
-post_teaser: "/assets/images/post/inrae.png"
+post_teaser: "/assets/images/post/inrae2.jpg"
 ---
 
 

@@ -8,7 +8,7 @@ image-path: "/assets/images/3-projects/gf/"
 excerpt: Smart Grids ou réseaux éléctriques intelligents pour permettre une gestion
   plus efficace des réseaux éléctriques
 header:
-  teaser: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
+  teaser: "/assets/images/3-projects/smagrinet/smagrinet2.jpg"
   overlay_image: "/assets/images/3-projects/smagrinet/smagrinet1.jpg"
   overlay_filter: "0.5"
 intro:
