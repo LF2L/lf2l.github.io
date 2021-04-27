@@ -153,6 +153,10 @@ News_2014:
 id="News_2021"
 %}
 
+
+<a href="https://www.lesechos.fr/pme-regions/innovateurs/imprimer-du-mobilier-en-3d-avec-des-bouchons-ou-des-masques-usages-1309883">![Impression 3D]({{ site.baseimg }}/assets/images/2-concept/media/gigabot.jpg){:height="50%" width="50%"}  
+Imprimer du mobilier en 3D avec des bouchons ou des masques usagés</a>{: refdef}
+
 {:refdef: style="text-align: center;"}
 <a href="https://www.cge.asso.fr/liste-actualites/la-demarche-ddrs-au-coeur-de-la-vie-a-lensgsi/">![Conférence Grandes Ecoles]({{ site.baseimg }}/assets/images/2-concept/media/2021-01-03.png){:height="50%" width="50%"}  
 La démarche DD&RS au cœur de la vie à l’ENSGSI</a>{: refdef}
