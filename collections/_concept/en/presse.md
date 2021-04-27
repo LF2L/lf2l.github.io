@@ -65,8 +65,11 @@ News_2015:
 id="News_2021"
 %}
 
+<a href="https://www.lesechos.fr/pme-regions/innovateurs/imprimer-du-mobilier-en-3d-avec-des-bouchons-ou-des-masques-usages-1309883">![3D Print]({{ site.baseimg }}/assets/images/2-concept/media/gigabot.jpg){:height="50%" width="50%"}  
+Print furnitures with bottle cap and used surgical mask</a>{: refdef}
+
 {:refdef: style="text-align: center;"}
-<a href="https://www.cge.asso.fr/liste-actualites/la-demarche-ddrs-au-coeur-de-la-vie-a-lensgsi/">![Conférence Grandes Ecoles]({{ site.baseimg }}/assets/images/2-concept/media/2021-01-03.jpg){:height="50%" width="50%"}  
+<a href="https://www.cge.asso.fr/liste-actualites/la-demarche-ddrs-au-coeur-de-la-vie-a-lensgsi/">![Conférence Grandes Ecoles]({{ site.baseimg }}/assets/images/2-concept/media/2021-01-03.png){:height="50%" width="50%"}  
 The DD&RS approach at the heart of life at ENSGSI</a>{: refdef}
 
 
