@@ -154,11 +154,17 @@ id="News_2021"
 %}
 
 
+<a href="https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/nancy-du-mobilier-imprime-en-3d-avec-des-dechets-en-plastique-un-programme-de-recherche-europeen-2075791.html">![France 3 grand est]({{ site.baseimg }}/assets/images/2-concept/media/france3.jpg){:height="50%" width="50%"}  
+Nancy : du mobilier imprimé en 3D avec des déchets en plastique, un programme de recherche européen</a>{: refdef}
+
+<a href="https://www.ouest-france.fr/grand-est/nancy-54000/et-si-vos-meubles-etaient-imprimes-en-3d-grace-a-du-plastique-recycle-7255499?fbclid=IwAR399edLyvc8wOsi9VZefbl7LmOXWQ4Z9ojbJPwVlTPsAisMmT_b97YrUFY">![Ouest France]({{ site.baseimg }}/assets/images/2-concept/media/ouestfrance.png){:height="50%" width="50%"}  
+Et si vos meubles étaient imprimés en 3D grâce à du plastique recyclé ?</a>{: refdef}
+
 <a href="https://www.lesechos.fr/pme-regions/innovateurs/imprimer-du-mobilier-en-3d-avec-des-bouchons-ou-des-masques-usages-1309883">![Impression 3D]({{ site.baseimg }}/assets/images/2-concept/media/gigabot.jpg){:height="50%" width="50%"}  
 Imprimer du mobilier en 3D avec des bouchons ou des masques usagés</a>{: refdef}
 
 {:refdef: style="text-align: center;"}
-<a href="https://www.cge.asso.fr/liste-actualites/la-demarche-ddrs-au-coeur-de-la-vie-a-lensgsi/">![Conférence Grandes Ecoles]({{ site.baseimg }}/assets/images/2-concept/media/2021-01-03.png){:height="50%" width="50%"}  
+<a href="https://www.cge.asso.fr/liste-actualites/la-demarche-ddrs-au-coeur-de-la-vie-a-lensgsi/">![Conférence Grandes Ecoles]({{ site.baseimg }}/assets/images/2-concept/media/2021-01-03.png){:height="25%" width="25%"}  
 La démarche DD&RS au cœur de la vie à l’ENSGSI</a>{: refdef}
 
 
