@@ -7,8 +7,8 @@ locale: fr-FR
 
 
 header:
-  
-intro: 
+
+intro:
   - excerpt: "Le **Lorraine Fab Living Lab® (LF2L®)** permet d’accompagner la création et l’obtention de résultats immédiats grâce à un processus établi basé sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le LF2L® facilite le travail de réflexion collaborative et de développement de l’innovation. L’originalité du LF2L® est de pouvoir accueillir, accompagner, associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) via un dispositif scientifique et technique capable d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d’évolution)"
 
 icons:
@@ -31,11 +31,23 @@ icons:
     teaser_class: icons
     title_class: icons
 
+founders:
+  - image_path: "/assets/images/2-concept/partners-chartes/ERPI.jpg"
+    excerpt: "[ERPI Laboratory](https://erpi.univ-lorraine.fr/)"
+    teaser_class: GF-partners
+  - image_path: "/assets/images/2-concept/partners-chartes/ENSGSI.jpg"
+    teaser_class: GF-partners
+    excerpt: "[ENSGSI](https://www.ensgsi.univ-lorraine.fr/)"
 
 
 ---
 
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
+
+
+**Une initiative de** :
+
+{% include feature_row id="founders" %}
 
 ## Actualités
 {: .text-center}
@@ -68,7 +80,7 @@ icons:
                 {% endif %}
               alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
-            
+
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
@@ -81,11 +93,11 @@ icons:
               <h2 class="archive__item-title">{{ f.title }}</h2>
             </a>            
           {% endif %}
-          
+
           <p class="small">
           {{ f.date  | date: "%B %-d, %Y" }}
           </p>
-          
+
           {% if f.post_description %}
             <div class="archive__item-excerpt">
               {{ f.post_description | markdownify  }}
@@ -98,7 +110,7 @@ icons:
                 {{ f.btn_label | default: "Plus de détails" }}
               </a>
             </p>
-            
+
           {% endif %}
         </div>
       </div>
@@ -115,20 +127,20 @@ Regardez nos actualités
 
 
 <div class="community">
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-materialiser.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/icon-materialiser.png"
   class= "icons"  
-  alt="Materialize a LF2L" 
+  alt="Materialize a LF2L"
   caption="**Materialize**" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-associer.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/icon-associer.png"
   class= "icons"  
-  alt="Associer at LF2L" 
+  alt="Associer at LF2L"
   caption="**Associate**" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-innover.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/icon-innover.png"
   class= "icons"  
-  alt="Innover at LF2L" 
+  alt="Innover at LF2L"
   caption="**Innovate**" %}
 </div>
 
@@ -142,55 +154,33 @@ Regardez nos actualités
 
 <div class="community">
 {% include figure
-  image_path="/assets/images/1-home/presentation/Entreprises.png" 
+  image_path="/assets/images/1-home/presentation/Entreprises.png"
   class= "icons-community"  
-  alt="" 
+  alt=""
   caption="Entreprises"
   url= "/fr/communities/enterprises/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Makers.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Makers.png"
   class= "icons-community"  
-  alt="" 
-  caption="Makers" 
+  alt=""
+  caption="Makers"
   url= "/fr/communities/makers/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Etudiants.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Etudiants.png"
   class= "icons-community"  
-  alt="" 
-  caption="Etudiants" 
+  alt=""
+  caption="Etudiants"
   url= "/fr/communities/students/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Universitaires.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Universitaires.png"
   class= "icons-community"  
-  alt=" " 
-  caption="Universities" 
+  alt=" "
+  caption="Universities"
   url= "/fr/communities/enterprises/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Institutions.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Institutions.png"
   class= "icons-community"  
-  alt=" " 
-  caption="Collectivities" 
+  alt=" "
+  caption="Collectivities"
   url= "/fr/communities/collectivities/" %}
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
