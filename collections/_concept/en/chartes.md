@@ -59,24 +59,6 @@ sponsors:
   url: http://www.univ-lorraine.fr/
 
 ---
-## Founders
-
-An initivative of :
-
-<div class="flex-center">
-{% include figure
-image_path="/assets/images/2-concept/partners-chartes/ERPI.jpg"
-class= "partners"  
-caption="[ERPI Laboratory](https://erpi.univ-lorraine.fr/)"
-url= "https://erpi.univ-lorraine.fr/"
-%}
-{% include figure
-image_path="/assets/images/2-concept/partners-chartes/ENSGSI.jpg"
-class= "partners"  
-caption="[ENSGSI](https://erpi.univ-lorraine.fr/)"
-url= "https://erpi.univ-lorraine.fr/"
-%}
-</div>
 
 ## Chartes
 

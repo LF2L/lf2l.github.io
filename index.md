@@ -5,8 +5,8 @@ layout: splash2
 permalink: /
 
 
-  
-intro: 
+
+intro:
   - excerpt: "The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm  bringing together in the same space complementary advanced tools.  The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual  framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators."
 
 icons:
@@ -29,9 +29,25 @@ icons:
     teaser_class: icons
     title_class: icons
 
+founders:
+  - image_path: /assets/images/2-concept/partners-chartes/ERPI.jpg
+    alt: "placeholder image 1"
+    title: [ERPI Laboratory](https://erpi.univ-lorraine.fr/)
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/2-concept/partners-chartes/ENSGSI.jpg
+    alt: "placeholder image 1"
+    title: [ENSGSI](https://erpi.univ-lorraine.fr/)
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."    
 ---
 
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
+
+
+**An initiative of** :
+
+{% include feature_row id="founders" %}
+
+
 
 ## News
 {: .text-center}
@@ -64,7 +80,7 @@ icons:
                 {% endif %}
               alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
-            
+
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
@@ -77,11 +93,11 @@ icons:
               <h2 class="archive__item-title">{{ f.title }}</h2>
             </a>            
           {% endif %}
-          
+
           <p class="small">
           {{ f.date  | date: "%B %-d, %Y" }}
           </p>
-          
+
           {% if f.post_description %}
             <div class="archive__item-excerpt">
               {{ f.post_description | markdownify  }}
@@ -94,7 +110,7 @@ icons:
                 {{ f.btn_label |  default: "Learn More" }}
               </a>
             </p>
-            
+
           {% endif %}
         </div>
       </div>
@@ -109,24 +125,24 @@ See our complete
 
 
 <div class="community">
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-materialiser.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/icon-materialiser.png"
   class= "icons"  
-  alt="Materialize a LF2L" 
+  alt="Materialize a LF2L"
   caption="**Materialize**" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-associer.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/icon-associer.png"
   class= "icons"  
-  alt="Associer at LF2L" 
+  alt="Associer at LF2L"
   caption="**Associate**" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/icon-innover.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/icon-innover.png"
   class= "icons"  
-  alt="Innover at LF2L" 
+  alt="Innover at LF2L"
   caption="**Innovate**" %}
 </div>
 
-## Inside of the fourth dimension of Innovation 
+## Inside of the fourth dimension of Innovation
 {: .text-center}
 
 {% include feature_row id="intro" type="center" %}
@@ -135,47 +151,38 @@ See our complete
 
 
 
-## Communities 
+## Communities
 {: .text-center}
 
 <div class="community">
 {% include figure
-  image_path="/assets/images/1-home/presentation/Entreprises.png" 
+  image_path="/assets/images/1-home/presentation/Entreprises.png"
   class= "icons-community"  
-  alt="" 
+  alt=""
   caption="Entreprises"
   url= "/communities/enterprises/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Makers.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Makers.png"
   class= "icons-community"  
-  alt="" 
-  caption="Makers" 
+  alt=""
+  caption="Makers"
   url= "/communities/makers/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Etudiants.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Etudiants.png"
   class= "icons-community"  
-  alt="" 
-  caption="Etudiants" 
+  alt=""
+  caption="Etudiants"
   url= "/communities/students/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Universitaires.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Universitaires.png"
   class= "icons-community"  
-  alt=" " 
-  caption="Universities" 
+  alt=" "
+  caption="Universities"
   url= "/communities/enterprises/" %}
-{% include figure 
-  image_path="/assets/images/1-home/presentation/Institutions.png" 
+{% include figure
+  image_path="/assets/images/1-home/presentation/Institutions.png"
   class= "icons-community"  
-  alt=" " 
-  caption="Collectivities" 
+  alt=" "
+  caption="Collectivities"
   url= "/communities/collectivities/" %}
 </div>
-
-
-
-
-
-
-
-
-
