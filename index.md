@@ -4,8 +4,6 @@ title: "Lorraine Fab Living Lab"
 layout: splash2
 permalink: /
 
-
-
 intro:
   - excerpt: "The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm  bringing together in the same space complementary advanced tools.  The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual  framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators."
 
@@ -30,14 +28,15 @@ icons:
     title_class: icons
 
 founders:
-  - image_path: /assets/images/2-concept/partners-chartes/ERPI.jpg
-    alt: "placeholder image 1"
-    title: [ERPI Laboratory](https://erpi.univ-lorraine.fr/)
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/2-concept/partners-chartes/ENSGSI.jpg
-    alt: "placeholder image 1"
-    title: [ENSGSI](https://erpi.univ-lorraine.fr/)
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."    
+  - image_path: "/assets/images/2-concept/partners-chartes/ERPI.jpg"
+    excerpt: "[ERPI Laboratory](https://erpi.univ-lorraine.fr/)"
+    teaser_class: GF-partners
+  - image_path: "/assets/images/2-concept/partners-chartes/ENSGSI.jpg"
+    teaser_class: GF-partners
+    excerpt: "[ENSGSI](https://www.ensgsi.univ-lorraine.fr/)"
+
+
+
 ---
 
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
@@ -47,6 +46,12 @@ founders:
 
 {% include feature_row id="founders" %}
 
+
+
+## Inside of the fourth dimension of Innovation
+{: .text-center}
+
+{% include feature_row id="intro" type="center" %}
 
 
 ## News
@@ -142,10 +147,6 @@ See our complete
   caption="**Innovate**" %}
 </div>
 
-## Inside of the fourth dimension of Innovation
-{: .text-center}
-
-{% include feature_row id="intro" type="center" %}
 
 
 
