@@ -42,9 +42,10 @@ founders:
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
 
 
-**An initiative of** :
+<center><b>An initiative of:</b></center>
 
-{% include feature_row id="founders" %}
+<center><a href="https://erpi.univ-lorraine.fr/"><img src="/assets/images/2-concept/partners-chartes/ERPI.jpg" height="250" width="250" title="ERPI Laboratory" alt="Logo ERPI"></a>
+<a href="https://www.ensgsi.univ-lorraine.fr/"><img src="/assets/images/2-concept/partners-chartes/ENSGSI.jpg" height="250" width="250" title="ENSGSI" alt="Logo ENSGSI"></a></center>
 
 
 
