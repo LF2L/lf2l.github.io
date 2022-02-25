@@ -7,18 +7,14 @@ permalink: "/projects/green-fablab/"
 image-path: "/assets/images/3-projects/gf/"
 sidebar:
   nav: Green-Fablab
-
-
-excerpt: "Circular economy and 3D printing: Towards a distributed recycling paradigm"
+excerpt: 'Circular economy and 3D printing: Towards a distributed recycling paradigm'
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
-  overlay_filter: 0.5
-
+  overlay_filter: "0.5"
 intro:
 - excerpt: "**The creation of a local recycling process for open source 3D printing
     technology can open new opportunities for a circular economy**"
-
 gallery:
 - url: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
@@ -32,56 +28,55 @@ gallery:
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-II.jpg"
   alt: Ma thèse en 180s Fabio Cruz
   title: Ma thèse en 180s Fabio Cruz
-
 projects:
 - image_path: "/assets/images/3-projects/gf/articles/proj-1/thumb.png"
   alt: ''
-  title: 'Towards a standard protocol for 3D printers'
-  excerpt: "This paper deals with the development, manufacture and testing of a geometrical benchmarking model (GBM) in order to evaluate the geometrical accuracy performance of open source 3D printers."
-  url: "/green-fablab/standard-protocol/"  
+  title: Towards a standard protocol for 3D printers
+  excerpt: This paper deals with the development, manufacture and testing of a geometrical
+    benchmarking model (GBM) in order to evaluate the geometrical accuracy performance
+    of open source 3D printers.
+  url: "/green-fablab/standard-protocol/"
   btn_class: btn--info
-
 - image_path: "/assets/images/3-projects/gf/articles/proj-2-1/thumb2.jpg"
   alt: ''
-  title: 'Recycling and additive manufacturing in an open source context'
-  excerpt: "The coupling of open-source 3D printers and filament extruders can offer the bases of a new distributed polymer recycling paradigm"
-  url: "/green-fablab/polymer-recycling/"  
-  btn_class: btn--info  
-
-
+  title: Recycling and additive manufacturing in an open source context
+  excerpt: The coupling of open-source 3D printers and filament extruders can offer
+    the bases of a new distributed polymer recycling paradigm
+  url: "/green-fablab/polymer-recycling/"
+  btn_class: btn--info
 - image_path: "/assets/images/3-projects/gf/articles/proj-2/thumb.png"
   alt: ''
   title: Methodology for recycling in 3D printing
-  excerpt: "A general methodology to evaluate the recyclability of thermoplastics used as feedstock in open-source 3D printing machines is proposed."
+  excerpt: A general methodology to evaluate the recyclability of thermoplastics used
+    as feedstock in open-source 3D printing machines is proposed.
   url: "/green-fablab/recycling-methodology/"
   btn_class: btn--info
-
 - image_path: "/assets/images/3-projects/gf/articles/pavlo1/thumb.jpg"
   title: Logistical model for distributed recycling
-  excerpt: "A recycling model network to produce 3D recycled plastic filament and thus contribute to the Circular Economy."
+  excerpt: A recycling model network to produce 3D recycled plastic filament and thus
+    contribute to the Circular Economy.
   url: "/green-fablab/logistic/"
   btn_class: btn--info
-
 - image_path: "/assets/images/3-projects/gf/articles/pavlo2/thumb.jpg"
   title: Closed-Loop supply chain for distributed recycling process
-  excerpt: "Distributed recycling can be thought of as a sort of “smart grid”, composed of small and coordinated recycling units using a Closed Loop Supply Chain (CLSC) network."
+  excerpt: Distributed recycling can be thought of as a sort of “smart grid”, composed
+    of small and coordinated recycling units using a Closed Loop Supply Chain (CLSC)
+    network.
   url: "/green-fablab/closed-loop/"
   btn_class: btn--info
-
-
 - image_path: "/assets/images/3-projects/gf/articles/arthur/thumb.jpg"
   title: Direct waste Printing
-  excerpt: "Fused granular fabrication is a promising technique driver to promote further greening of distributed recycling, elimination of the filament extruder system."
+  excerpt: Fused granular fabrication is a promising technique driver to promote further
+    greening of distributed recycling, elimination of the filament extruder system.
   url: "/green-fablab/direct-recycling/"
   btn_class: btn--info
-
 - image_path: "/assets/images/3-projects/gf/articles/fabio4/thumb.jpg"
-  title: "Plastic recycling in additive manufacturing: A systematic literature review and opportunities for the circular economy"
-  excerpt: "The rapid technical evolution of additive manufacturing (AM) enables a new path to a circular economy using distributed recycling and production."
+  title: 'Plastic recycling in additive manufacturing: A systematic literature review
+    and opportunities for the circular economy'
+  excerpt: The rapid technical evolution of additive manufacturing (AM) enables a
+    new path to a circular economy using distributed recycling and production.
   url: "/green-fablab/review-recycling/"
   btn_class: btn--info
-
-
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/CESI.jpg"
   teaser_class: GF-partners
@@ -98,107 +93,87 @@ partners:
   alt: LRGP
   title: ''
   excerpt: "[Laboratoire Réactions et Génie des Procédés](http://lrgp-nancy.cnrs.fr/)"
-
 - image_path: "/assets/images/3-projects/gf/logos/MTU.png"
   teaser_class: GF-partners
   alt: MTU
   title: ''
-  excerpt: "[Michigan Technological University](https://www.mtu.edu)"  
-
-- image_path: "https://raw.githubusercontent.com/LF2L/GF-Ana/master/figures/Logos/Univ-Freiburg.png"
+  excerpt: "[Michigan Technological University](https://www.mtu.edu)"
+- image_path: https://raw.githubusercontent.com/LF2L/GF-Ana/master/figures/Logos/Univ-Freiburg.png
   teaser_class: GF-partners
-  alt: "Chair of Societal Transition & Circular Economy"
+  alt: Chair of Societal Transition & Circular Economy
   title: ''
   excerpt: "[Chair of Societal Transition & Circular Economy - Uni Freiburg](https://www.transition.uni-freiburg.de/)"
-
-
 industrial-partners:
 - image_path: "/assets/images/3-projects/gf/logos/holimaker.jpg"
   teaser_class: GF-partners
   alt: Holimaker
   title: ''
-  f_url: "https://www.facebook.com/holipresse/"
+  f_url: https://www.facebook.com/holipresse/
   excerpt: "[Holipresse](https://www.facebook.com/holipresse/)"
-
 - image_path: "/assets/images/3-projects/gf/logos/Plastif.jpg"
   teaser_class: GF-partners
   alt: Plast'If
   title: ''
-  f_url: "https://www.plastif.com/"
+  f_url: https://www.plastif.com/
   excerpt: "[Plast'If](https://www.plastif.com/)"
-
-
-
 pedagogical:
 - url: "/assets/images/3-projects/gf/pedagogical/1-romain-alexis.jpg"
   image_path: "/assets/images/3-projects/gf/pedagogical/1-romain-alexis.jpg"
-  alt: "Pedagogical projects Green Fablab"
-  title: "Pedagogical projects Green Fablab at LF2L"
-
+  alt: Pedagogical projects Green Fablab
+  title: Pedagogical projects Green Fablab at LF2L
 - url: "/assets/images/3-projects/gf/pedagogical/2-nicolas-maxime.jpg"
   image_path: "/assets/images/3-projects/gf/pedagogical/2-nicolas-maxime.jpg"
-  alt: "Pedagogical projects Green Fablab"
-  title: "Pedagogical projects Green Fablab at LF2L"
-
+  alt: Pedagogical projects Green Fablab
+  title: Pedagogical projects Green Fablab at LF2L
 - url: "/assets/images/3-projects/gf/pedagogical/3-eudes.jpg"
   image_path: "/assets/images/3-projects/gf/pedagogical/3-eudes.jpg"
-  alt: "Pedagogical projects Green Fablab"
-  title: "Pedagogical projects Green Fablab at LF2L"
-
-
+  alt: Pedagogical projects Green Fablab
+  title: Pedagogical projects Green Fablab at LF2L
 Photos2D:
-  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg"
-    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg"
-    alt: "Pedagogical projects Green Fablab"
-    title: "2D - Green Fablab at LF2L"
-    aspect: "1"
-  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0014.jpg"
-    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0014.jpg"
-    alt: "Pedagogical projects Green Fablab"
-    title: "2D - Green Fablab at LF2L"
-    aspect: "0.45"
-    end_row: "true"
-
-  - url: "/assets/images/3-projects/gf/2D.png"
-    image_path: "/assets/images/3-projects/gf/2D.png"
-    alt: "Green Fablab at LF2L"
-    title: "2D - Green Fablab at LF2L"
-    aspect: "1"
-    end_row: "true"   
-
-
-  - url: "/assets/images/3-projects/gf/3D.png"
-    image_path: "/assets/images/3-projects/gf/3D.png"
-    alt: "Green Fablab at LF2L"
-    title: "2D - Green Fablab at LF2L"
-    aspect: "1"
-    end_row: "true"
-
-
-  - url: "/assets/images/3-projects/gf/4D.png"
-    image_path: "/assets/images/3-projects/gf/4D.png"
-    alt: "Green Fablab at LF2L"
-    title: "2D - Green Fablab at LF2L"
-    aspect: "1"
-    end_row: "true"
-
-
+- url: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg
+  image_path: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0005.jpg
+  alt: Pedagogical projects Green Fablab
+  title: 2D - Green Fablab at LF2L
+  aspect: "1"
+- url: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0014.jpg
+  image_path: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/4-Paul-Timothee/GF-LF2L-0014.jpg
+  alt: Pedagogical projects Green Fablab
+  title: 2D - Green Fablab at LF2L
+  aspect: "0.45"
+  end_row: 'true'
+- url: "/assets/images/3-projects/gf/2D.png"
+  image_path: "/assets/images/3-projects/gf/2D.png"
+  alt: Green Fablab at LF2L
+  title: 2D - Green Fablab at LF2L
+  aspect: "1"
+  end_row: 'true'
+- url: "/assets/images/3-projects/gf/3D.png"
+  image_path: "/assets/images/3-projects/gf/3D.png"
+  alt: Green Fablab at LF2L
+  title: 2D - Green Fablab at LF2L
+  aspect: "1"
+  end_row: 'true'
+- url: "/assets/images/3-projects/gf/4D.png"
+  image_path: "/assets/images/3-projects/gf/4D.png"
+  alt: Green Fablab at LF2L
+  title: 2D - Green Fablab at LF2L
+  aspect: "1"
+  end_row: 'true'
 Galleria-GF:
-  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg"
-    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg"
-    alt: "Green Fablab at LF2L"
-    title: "2D - Green Fablab at LF2L"
-    aspect: "0.5"    
-  - url: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/2-Nicolas-Maxime/GF-0001.jpg"
-    image_path: "https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/2-Nicolas-Maxime/GF-0001.jpg"
-    alt: "Green Fablab at LF2L"
-    title: "2D - Green Fablab at LF2L"
-    aspect: "1"
-    end_row: "true"
-
+- url: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg
+  image_path: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg
+  alt: Green Fablab at LF2L
+  title: 2D - Green Fablab at LF2L
+  aspect: "0.5"
+- url: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/2-Nicolas-Maxime/GF-0001.jpg
+  image_path: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/2-Nicolas-Maxime/GF-0001.jpg
+  alt: Green Fablab at LF2L
+  title: 2D - Green Fablab at LF2L
+  aspect: "1"
+  end_row: 'true'
 last_modified_at: 2019-05-15
----
 
+---
 {: .align-center}
 ![Logo Green Fablab]({{ site.baseurl | append:page.image-path|append:'Logo-GF.png'}})
 
@@ -225,9 +200,8 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 {% include video id="JxF5gunuM1A" provider="youtube" %}
 
-
-
 {: #GF-Images .GF-titles }
+
 ## Green Fablab en Images
 
 {% include gallery
@@ -285,16 +259,12 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 > The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology.
 > A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
 
-
-
-
 {% include gallery  id="Photos2D" caption=" From to 2D to 4D" %} {: .text-right}
-
-
 
 ***
 
 {: #GF-research .GF-titles }
+
 ## Our Publications
 
 <div id="GF-projects">
@@ -304,16 +274,16 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 ***
 
 {: #GF-pedagogical .GF-titles }
+
 ## Our Pedagogical projects
 
 {% include gallery id="pedagogical"
-caption="Pedagogical projects made by students  (*in french*)." %} {: .text-right}
-
-
+caption="Pedagogical projects made by students  (_in french_)." %} {: .text-right}
 
 ***
 
 {: #GF-students .GF-titles }
+
 ## Our Students
 
 {% assign carousel = site.data.Green-Fablab.Equipe-en %}
@@ -321,10 +291,8 @@ caption="Pedagogical projects made by students  (*in french*)." %} {: .text-righ
 
 ***
 
-
-
-
 {: #GF-partners .GF-titles }
+
 ## Our Academical Partners
 
 <div id="GF-partners">  
@@ -332,21 +300,15 @@ caption="Pedagogical projects made by students  (*in french*)." %} {: .text-righ
 </div>
 
 {: #GF-partners .GF-titles }
+
 ## Our Industrial Partners
 
 <div id="GF-partners">  
 {% include feature_row id="industrial-partners" %}
 </div>
 
-
-
 ## Some examples of our experiences
-
-
 
 {% include video id="c8ZyTJ9-YxU" provider="youtube" %}
 
-
-
-
-**Contact**: Fabio Cruz (cruzsanc1{at}univ-lorraine.fr)
+**Contact**: Fabio Cruz (cruzsanc1@univ-lorraine.fr)
