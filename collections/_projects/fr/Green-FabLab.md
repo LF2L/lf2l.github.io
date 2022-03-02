@@ -129,7 +129,7 @@ Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa 
 
 ***
 
-## Potentiel du processus de recyclage pour la technologie d'impression 3D
+## Potentiel du processus de recyclage pour la technologie<br> d'impression 3D
 
 {: #GF-Mission .GF-titles }
 
