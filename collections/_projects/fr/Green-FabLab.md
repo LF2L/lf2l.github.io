@@ -100,7 +100,7 @@ Le concept de **Green Fablab** est lié au croisement de plusieurs tendances soc
 {% include gallery
 caption="BD réalisé dans le cadre de _Ma Thèse en 180s_ de l'UL. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
 
-## Innovation Spaces
+## Espaces d'innovation
 
 {: #inno-spaces .GF-titles }
 
@@ -114,7 +114,7 @@ Ils constituent un lieu et une démarche portés par des acteurs divers, en vue 
 
 ***
 
-## Open Source 3D Printing
+## Impression 3D Open Source
 
 {: #OS3DP .GF-titles }
 
@@ -129,7 +129,7 @@ Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa 
 
 ***
 
-## Potential of the recycling process for 3D printing technology
+## Potentiel du processus de recyclage pour la technologie d'impression 3D
 
 {: #GF-Mission .GF-titles }
 
