@@ -222,8 +222,6 @@ Our objectives and values of Green FabLab :
 
 ![](/uploads/2022/04/13/comm_sc2.png)
 
-![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
-
 ## Potential of the recycling process for 3D printing technology
 
 <figure style="width: 230px" class="align-left"> <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt=""> <figcaption> <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>. </figcaption> </figure>
@@ -258,9 +256,9 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
 
- Academical and Industrials </div>
+Academical and Industrials </div>
 
-ERPI, ENSGSI, Octroi, 
+ERPI, ENSGSI, Octroi,
 
 {: #GF-partners .GF-titles }
 
