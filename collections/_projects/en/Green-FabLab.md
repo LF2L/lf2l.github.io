@@ -205,7 +205,7 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 ## Open Source Plastic Recycling Technology
 
-Definition of Open source 3D Printing 
+Definition of Open source 3D Printing
 
 The different machine we used :
 
@@ -215,11 +215,15 @@ The different machine we used :
 * SheetPress
 * Machine injection
 
-Smart Collector : 
+Smart Collector :
+
+![](/uploads/2022/04/13/comm_smartcollectors_partners.png)
+
+![](/uploads/2022/04/13/comm_sc2.png)
 
 ## Open Source 3D Printing vs Injection Moulding
 
-![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right} 
+![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
 ## Potential of the recycling process for 3D printing technology
 
