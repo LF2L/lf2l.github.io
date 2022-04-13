@@ -10,7 +10,7 @@ sidebar:
 excerpt: 'Circular economy and 3D printing: Towards a distributed recycling paradigm'
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
-  overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
+  overlay_image: "/uploads/2022/04/13/img_1817.png"
   overlay_filter: "0.5"
 intro:
 - excerpt: "**The creation of a local recycling process for open source 3D printing
