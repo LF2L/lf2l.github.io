@@ -262,10 +262,8 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
  Academical and Industrials </div>
 
+ERPI, ENSGSI, Octroi, 
+
 {: #GF-partners .GF-titles }
-
-## Some examples of our experiences
-
-{% include video id="c8ZyTJ9-YxU" provider="youtube" %}
 
 **Contact**: Fabio Cruz (cruzsanc1@univ-lorraine.fr)
