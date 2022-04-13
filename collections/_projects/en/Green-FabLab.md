@@ -196,12 +196,6 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 ***
 
-### Distributed recycling
-
-{% include video id="JxF5gunuM1A" provider="youtube" %}
-
-{: #GF-Images .GF-titles }
-
 ## Green Fablab en Images
 
 {% include gallery
