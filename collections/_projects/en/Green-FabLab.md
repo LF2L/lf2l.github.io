@@ -186,7 +186,7 @@ The concept of **Green FabLab** is the intersection of several societal trends.
 From one side, there have been an growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
 The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of appropiation for the 3D printing technology, doing the filament fused deposition the most used technique in the additive manufacturing world.
 
-!{: .align-left}
+![](/uploads/2022/04/13/img_1817.png){: .align-center}
 
 <!-- Innovation Spaces -->
 In a parallelal way, the proliferation of innovation spaces such as Fablabs, hackerspaces, makerspaces, it is creating a meeting place for passionate people about technology and the digital tools for the local fabrication/repairing/hacking uses.
