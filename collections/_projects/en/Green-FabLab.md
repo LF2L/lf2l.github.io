@@ -194,12 +194,11 @@ logo INEDIT + logo EU, numéro du projet...
 
 For more informations, check out : [https://www.inedit-project.eu/](https://www.inedit-project.eu/ "https://www.inedit-project.eu/")
 
-<!-- Innovation Spaces -->
-In a parallelal way, the proliferation of innovation spaces such as Fablabs, hackerspaces, makerspaces, it is creating a meeting place for passionate people about technology and the digital tools for the local fabrication/repairing/hacking uses.
-
 <!-- Conclusion -->
 Finally, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious.
 Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
+
+Our objectives and values of Green FabLab :
 
 > Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a _fabrication spaces_, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
 

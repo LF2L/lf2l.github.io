@@ -95,11 +95,6 @@ Le concept de **Green Fablab** est lié au croisement de plusieurs tendances soc
 
 {% include video id="c8ZyTJ9-YxU" provider="youtube" %}
 
-## Green FabLab en Images
-
-{% include gallery
-caption="BD réalisé dans le cadre de _Ma Thèse en 180s_ de l'UL. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
-
 ## Espaces d'innovation
 
 {: #inno-spaces .GF-titles }
