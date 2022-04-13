@@ -203,40 +203,23 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 > Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a _fabrication spaces_, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
 
-## Innovation Spaces
+## Open Source Plastic Recycling Technology
 
-![image-left]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
+Definition of Open source 3D Printing 
 
-There is an increasingly interest of organizations in creating dedicated environments to foster innovation processes. Depending of the context, these physical environments can take form of laboratories with different kind of spaces such as creativity and prototyping rooms, co-workings spaces, testing rooms, etc.
+The different machine we used :
 
-According to the literature an “innovation laboratory” is a room or a set of rooms designed for spatial reconfiguration, participant observation, writing spaces, materials for visualization (post-it notes, paper, pens, cards), and ICT to support brainstorming and distributed group working.
+* Gigabot X XL
+* HangPrinter
+* HoliPress
+* SheetPress
+* Machine injection
 
-Looking for a more integral definition, an innovation laboratory can be described as: **_facilities for encouraging creative behaviors and supporting innovative projects through the provision of appropriate resources, visualization and prototyping facilities, and the ability to reconfigure new projects_**.
+Smart Collector : 
 
-**For more details:** <br>
-<cite>F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont,</cite> --- [“Spaces to foster and sustain innovation: Towards a conceptual framework,”](https://ieeexplore.ieee.org/abstract/document/7438661) in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015.
-{: .small  .notice--primary}
+## Open Source 3D Printing vs Injection Moulding
 
-***
-
-{: #OS3DP .GF-titles }
-
-## Open Source 3D Printing
-
-![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
-
-Additive Manufacturing (AM) is the name given to all the fabrication technologies in which the working principle is the layer-by-layer material deposition, as a contrast to the more traditional subtractive manufacturing methodologies.
-
-This basic principle drives nearly all AM machines, with some variations in terms of the techniques used for creating layers and in bonding them together.
-Different synonyms have been evoked (e.g. rapid prototyping, additive fabrication, additive processes, additive techniques, additive layer manufacturing, layer manufacturing, solid freeform fabrication) throughout the development of this manufacturing process.
-
-Thanks to the expiration of Fused Deposition Modeling (FDM) patent in the mid-2000s which it is one additive manufacturing technique, Adrian Bowyer and his team at the University of Bath worked on the concept of self-replicating machines which are able of manufacturing their own parts by themselves.
-
-They designed in order to be simple and easy to use that anyone would be able to build them. _This was the start of the_ [_RepRap project (or Replicating Rapid-prototyper)_](https://reprap.org/wiki/RepRap) _and the open source Additive Manufacturing technology_
-
-***
-
-{: #GF-Mission .GF-titles }
+![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right} 
 
 ## Potential of the recycling process for 3D printing technology
 
