@@ -122,7 +122,7 @@ Mais aussi plus largement, sur notre style de vie dans les années à venir. Sa 
 
 ***
 
-## Potentiel du processus de recyclage pour la technologie<br> d'impression 3D
+## Opportunités du processus de recyclage pour la technologie d'impression 3D
 
 {: #GF-Mission .GF-titles }
 
@@ -136,11 +136,6 @@ Des recherches permettant de mieux développer les innovations sur les systèmes
 </figure>
 
 Cette approche permet de contribuer, tout du moins partiellement, à résoudre la problématique globale que représente l’accumulation de matière plastique dans la nature. Le Green Fablab est une vision qui permettra d'agir sur les défis sociétaux actuels vers un paradigme d'économie circulaire ou le concept de déchet sera redéfinie.
-
-<br>
-<br>
-<br>
-<br>
 
 ***
 
@@ -163,21 +158,18 @@ caption="Projets pédagogiques fait par des étudiants." %} {: .text-right}
 
 ***
 
-{: #GF-students .GF-titles }
-
-## Nos Étudiants
-
-{% assign carousel = site.data.Green-Fablab.Equipe-fr %}
-{% include carousel  %}
-
-***
-
 {: #GF-partners .GF-titles }
 
 ## Nos partenaires
 
-<div id="GF-partners">
-{% include feature_row id="partners" %}
+<div id="GF-partners"> {% include feature_row id="partners" %}
+
+Academical and Industrials </div>
+
+ERPI, ENSGSI, Octroi,
+
+{: #GF-partners .GF-titles }
+
 </div>
 
 **Contact**: Fabio Cruz : cruzsanc1@univ-lorraine.fr
