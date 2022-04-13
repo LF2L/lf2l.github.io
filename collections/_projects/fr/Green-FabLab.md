@@ -3,7 +3,7 @@ lang: fr
 layout: single
 classes: wide
 title: Green FabLab
-permalink: "/uploads/2022/04/13/img_1817.png"
+permalink: fr/
 image-path: "/assets/images/3-projects/gf/"
 sidebar:
   nav: Green-Fablab
