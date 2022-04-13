@@ -3,7 +3,7 @@ lang: fr
 layout: single
 classes: wide
 title: Green FabLab
-permalink: fr/
+permalink: fr/projects/green-fablab/
 image-path: "/assets/images/3-projects/gf/"
 sidebar:
   nav: Green-Fablab
