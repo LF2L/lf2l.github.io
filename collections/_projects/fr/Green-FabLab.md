@@ -7,7 +7,8 @@ permalink: "/uploads/2022/04/13/img_1817.png"
 image-path: "/assets/images/3-projects/gf/"
 sidebar:
   nav: Green-Fablab
-excerpt: 'Économie circulaire et impression : Paradigme d''un recyclage local et distribué'
+excerpt: 'Économie circulaire et impression 3D : Paradigme d''un recyclage local et
+  distribué'
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
   overlay_image: "/assets/images/3-projects/gf/teaser-2.jpg"
