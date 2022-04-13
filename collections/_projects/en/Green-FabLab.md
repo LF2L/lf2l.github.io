@@ -188,6 +188,12 @@ The creation of the fantastic [RepRap Projet](https://reprap.org/), an open sour
 
 ![](/uploads/2022/04/13/img_1817.png){: .align-center}
 
+This project is financed by Inedit......
+
+logo INEDIT + logo EU, numéro du projet...
+
+For more informations, check out : [https://www.inedit-project.eu/](https://www.inedit-project.eu/ "https://www.inedit-project.eu/")
+
 <!-- Innovation Spaces -->
 In a parallelal way, the proliferation of innovation spaces such as Fablabs, hackerspaces, makerspaces, it is creating a meeting place for passionate people about technology and the digital tools for the local fabrication/repairing/hacking uses.
 
