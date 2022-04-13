@@ -194,15 +194,6 @@ Therefore, a central issue today is how preserve material resources  to in terms
 
 > Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a _fabrication spaces_, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
 
-***
-
-## Green Fablab en Images
-
-{% include gallery
-caption="Comic made in the _Ma Thèse en 180s from UL_. [Made by PebFox](http://www.pebfox.com/blog/)" %} {: .text-right}
-
-{: #inno-spaces .GF-titles }
-
 ## Innovation Spaces
 
 ![image-left]({{site.baseurl | append:page.image-path | append:'LF2L.jpg'}}){: .align-left}
