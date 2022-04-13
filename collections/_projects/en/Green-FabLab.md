@@ -204,9 +204,9 @@ Our objectives and values of Green FabLab :
 
 ## Open Source Plastic Recycling Technology
 
-Definition of Open source 3D Printing
+#### Open Source 3D Printing vs Injection Moulding :
 
-The different machine we used :
+##### The different machine we used :
 
 * Gigabot X XL
 * HangPrinter
@@ -214,13 +214,13 @@ The different machine we used :
 * SheetPress
 * Machine injection
 
-Smart Collector :
+##### Smart Collector :
 
 ![](/uploads/2022/04/13/comm_smartcollectors_partners.png)
 
 ![](/uploads/2022/04/13/comm_sc2.png)
 
-## Open Source 3D Printing vs Injection Moulding
+## 
 
 ![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
@@ -228,7 +228,7 @@ Smart Collector :
 
 <figure style="width: 230px" class="align-left"> <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt=""> <figcaption> <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>. </figcaption> </figure>
 
-There is a great potential of Additive Manufacturing (AM) to contribute to a sustainable manufacturing. And it is reasonable to expect that AM will positively impact the societal development in the next decades to come. The development of sustainable principles, applications and practices play a key role in research activity in order to enable environmentally friendly, economically advantageous, and societal benefit-driven AM methodologies.
+There is a great potential of Additive Manufacturing (AM) and Injection Moulding to contribute to a sustainable manufacturing. And it is reasonable to expect that AM will positively impact the societal development in the next decades to come. The development of sustainable principles, applications and practices play a key role in research activity in order to enable environmentally friendly, economically advantageous, and societal benefit-driven AM methodologies.
 
 Energy, material consumption and environmental impacts are vital aspects that AM can better act to optimize in the manufacturing industrial context.
 On the basis of these concepts, some major goals have been outlined in order to fully incorporate sustainability principles in the AM processes.
@@ -253,39 +253,18 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ***
 
-{: #GF-pedagogical .GF-titles }
-
-## Our Pedagogical projects
-
-{% include gallery id="pedagogical"
-caption="Pedagogical projects made by students  (_in french_)." %} {: .text-right}
-
-***
-
-{: #GF-students .GF-titles }
-
-## Our Students
-
-{% assign carousel = site.data.Green-Fablab.Equipe-en %}
-{% include carousel  %}
-
-***
-
 {: #GF-partners .GF-titles }
 
-## Our Academical Partners
+## Our Partners
 
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
+
+ Academical
 </div>
+-
 
 {: #GF-partners .GF-titles }
-
-## Our Industrial Partners
-
-<div id="GF-partners">  
-{% include feature_row id="industrial-partners" %}
-</div>
 
 ## Some examples of our experiences
 
