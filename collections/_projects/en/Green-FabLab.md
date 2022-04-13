@@ -220,8 +220,6 @@ Our objectives and values of Green FabLab :
 
 ![](/uploads/2022/04/13/comm_sc2.png)
 
-## 
-
 ![image-left]({{site.baseurl | append:page.image-path | append:'3DP.jpg'}}){: .align-right}
 
 ## Potential of the recycling process for 3D printing technology
@@ -265,5 +263,9 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 ERPI, ENSGSI, Octroi, 
 
 {: #GF-partners .GF-titles }
+
+## Upcoming Events
+
+* ICE-IAMOT : 19th to 23st June 2022, in Nancy, France
 
 **Contact**: Fabio Cruz (cruzsanc1@univ-lorraine.fr)
