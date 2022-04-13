@@ -188,6 +188,8 @@ The creation of the fantastic [RepRap Projet](https://reprap.org/), an open sour
 
 ![](/uploads/2022/04/13/img_1817.png){: .align-center}
 
+(from left to right : Laurent DUPONT, Benjamin, Alexandre, Fabio CRUZ, Catalina, Cristian, Fedoua.)
+
 This project is financed by Inedit......
 
 logo INEDIT + logo EU, numéro du projet...
@@ -237,8 +239,6 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 > The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology.
 > A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
 
-{% include gallery  id="Photos2D" caption=" From to 2D to 4D" %} {: .text-right}
-
 ***
 
 {: #GF-research .GF-titles }
@@ -266,6 +266,6 @@ ERPI, ENSGSI, Octroi,
 
 ## Upcoming Events
 
-* ICE-IAMOT : 19th to 23st June 2022, in Nancy, France
+* Conference ICE-IAMOT : 19th to 23st June 2022, in Nancy, France
 
 **Contact**: Fabio Cruz (cruzsanc1@univ-lorraine.fr)
