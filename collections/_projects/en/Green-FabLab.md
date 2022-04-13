@@ -2,7 +2,7 @@
 lang: en
 layout: single
 classes: wide
-title: Green Fablab
+title: Green FabLab
 permalink: "/projects/green-fablab/"
 image-path: "/assets/images/3-projects/gf/"
 sidebar:
