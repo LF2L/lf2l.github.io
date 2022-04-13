@@ -260,9 +260,7 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
 
- Academical
-</div>
--
+ Academical and Industrials </div>
 
 {: #GF-partners .GF-titles }
 
