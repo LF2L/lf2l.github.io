@@ -93,23 +93,21 @@ last_modified_at: 2018-11-15
 <!-- Intro -->
 Le concept de **Green Fablab** est lié au croisement de plusieurs tendances sociétales tels que l'interêt croisant pour l'impression 3D, le développement des espaces d'open innovation (e.g. fablabs, living labs) et la prise de conscience croissante de protéger l'environnement et de soutenir un développement durable. Aujourd'hui, la création d'une filière locale de recyclage est une des pistes majeures pour formaliser une approche distribuée de la réutilisation de matières plastiques. L'intégration de ces matières recyclées dans ces espaces de co-création permet de considérer ces déchets comme des gisements et de les transformer en "nouvelles matières premières". Le concept de Green FabLab s'appuie dès lors sur les principes de l'économie circulaire et collaborative, modèle qui est à présent essentiel pour faire face aux défis actuels de la société.
 
-{% include video id="c8ZyTJ9-YxU" provider="youtube" %}
-
-## Espaces d'innovation
-
-{: #inno-spaces .GF-titles }
-
-Les espaces de co-création « open labs » tels que Fab Labs, Living Labs, hackerspaces / makerspaces, TechShops sont des phénomènes émergent en France et dans le monde.
-
-![Image 1](/assets/images/3-projects/gf/LF2L.jpg){: .align-left}
-
-Ils constituent un lieu et une démarche portés par des acteurs divers, en vue de renouveler les modalités d’innovation et de création par la mise en œuvre de processus collaboratifs et itératifs, ouverts et donnant lieu à une matérialisation physique ou virtuelle.
-
-Ils constituent un lieu et une démarche portés par des acteurs divers, en vue de renouveler les modalités d’innovation et de création par la mise en œuvre de processus collaboratifs et itératifs, ouverts et donnant lieu à une matérialisation physique ou virtuelle.
-
 ***
 
-## Impression 3D Open Source
+## Technologie de Recyclage de Plastique en Open Source
+
+#### Open Source 3D Printing vs Injection Moulding :
+
+##### The different machine we used :
+
+* Gigabot X XL
+* HangPrinter
+* HoliPress
+* SheetPress
+* Machine injection
+
+##### Smart Collector :
 
 {: #OS3DP .GF-titles }
 
