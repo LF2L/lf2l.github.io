@@ -173,18 +173,14 @@ Galleria-GF:
   aspect: "1"
   end_row: 'true'
 last_modified_at: 2019-05-15
+published: false
 
 ---
-{: .align-center}
-![Logo Green Fablab]({{ site.baseurl | append:page.image-path|append:'Logo-GF.png'}})
+{: .align-center} ![Logo Green Fablab]({{ site.baseurl | append:page.image-path|append:'Logo-GF.png'}})
 
 {% include feature_row id="intro" type="center" %}
 
-<!-- Intro -->
-The concept of **Green FabLab** is the intersection of several societal trends.
-<!-- 3D Printing -->
-From one side, there have been an growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
-The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of appropiation for the 3D printing technology, doing the filament fused deposition the most used technique in the additive manufacturing world.
+The concept of **Green FabLab** is the intersection of several societal trends. From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology. The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of appropiation for the 3D printing, doing the filament fused deposition the most used technique in the additive manufacturing world.
 
 ![](/uploads/2022/04/13/img_1817.png){: .align-center}
 
@@ -196,9 +192,7 @@ logo INEDIT + logo EU, numéro du projet...
 
 For more informations, check out : [https://www.inedit-project.eu/](https://www.inedit-project.eu/ "https://www.inedit-project.eu/")
 
-<!-- Conclusion -->
-Finally, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious.
-Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
+<!-- Conclusion --> Finally, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
 
 Our objectives and values of Green FabLab :
 
@@ -228,14 +222,11 @@ Our objectives and values of Green FabLab :
 
 There is a great potential of Additive Manufacturing (AM) and Injection Moulding to contribute to a sustainable manufacturing. And it is reasonable to expect that AM will positively impact the societal development in the next decades to come. The development of sustainable principles, applications and practices play a key role in research activity in order to enable environmentally friendly, economically advantageous, and societal benefit-driven AM methodologies.
 
-Energy, material consumption and environmental impacts are vital aspects that AM can better act to optimize in the manufacturing industrial context.
-On the basis of these concepts, some major goals have been outlined in order to fully incorporate sustainability principles in the AM processes.
+Energy, material consumption and environmental impacts are vital aspects that AM can better act to optimize in the manufacturing industrial context. On the basis of these concepts, some major goals have been outlined in order to fully incorporate sustainability principles in the AM processes.
 
-The integration of recycled material for the 3D printing technology and in the innovation spaces is a potential approach to contribute to the current sustainability issues in the world.
-Plastic recycling process of the sourrounding areas (street, neighborhood) could be carried out at small lot sizes minimizing, energy consumptions, and carbon emissions compared to the tradition centralized systems.
+The integration of recycled material for the 3D printing technology and in the innovation spaces is a potential approach to contribute to the current sustainability issues in the world. Plastic recycling process of the sourrounding areas (street, neighborhood) could be carried out at small lot sizes minimizing, energy consumptions, and carbon emissions compared to the tradition centralized systems.
 
-> The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology.
-> A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
+> The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology. A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
 
 ***
 
@@ -243,9 +234,7 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 ## Our Publications
 
-<div id="GF-projects">
-{% include feature_row id="projects" %}
-</div>
+<div id="GF-projects"> {% include feature_row id="projects" %} </div>
 
 ***
 
