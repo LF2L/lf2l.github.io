@@ -10,12 +10,42 @@ sidebar:
 excerpt: 'Circular economy and 3D printing: Towards a distributed recycling paradigm'
 header:
   teaser: "/assets/images/3-projects/gf/teaser.jpg"
-  overlay_image: "/uploads/2022/04/13/img_1817.png"
+  overlay_image: "/assets/images/3-projects/gf/teaser4.jpg"
   overlay_filter: "0.5"
-  show_overlay_excerpt: false
+  show_overlay_excerpt: true
+
 intro:
-- excerpt: "**The creation of a local recycling process for open source 3D printing
-    technology can open new opportunities for a circular economy**"
+- excerpt: "**Local plastic recycling for open source 3D printing can open new opportunities for a circular economy**"
+
+
+
+octroi:
+- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi-1.jpg"
+  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi-1.jpg"
+  alt: Green Fablab at Octroi Nancy
+  title: Green Fablab at Octroi Nancy
+- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg"
+  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg"
+  alt: Green Fablab at Octroi Nancy
+  title: Green Fablab at Octroi Nancy
+- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg"
+  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg"
+  alt: Green Fablab at Octroi Nancy
+  title: Green Fablab at Octroi Nancy
+- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg"
+  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg"
+  alt: Green Fablab at Octroi Nancy
+  title: Green Fablab at Octroi Nancy
+- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg"
+  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg"
+  alt: Green Fablab at Octroi Nancy
+  title: Green Fablab at Octroi Nancy
+- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg"
+  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg"
+  alt: Green Fablab at Octroi Nancy
+  title: Green Fablab at Octroi Nancy
+
+
 gallery:
 - url: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
@@ -29,6 +59,7 @@ gallery:
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-II.jpg"
   alt: Ma thèse en 180s Fabio Cruz
   title: Ma thèse en 180s Fabio Cruz
+
 projects:
 - image_path: "/assets/images/3-projects/gf/articles/proj-1/thumb.png"
   alt: ''
@@ -78,6 +109,7 @@ projects:
     new path to a circular economy using distributed recycling and production.
   url: "/green-fablab/review-recycling/"
   btn_class: btn--info
+
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/CESI.jpg"
   teaser_class: GF-partners
@@ -160,6 +192,7 @@ Photos2D:
   title: 2D - Green Fablab at LF2L
   aspect: "1"
   end_row: 'true'
+
 Galleria-GF:
 - url: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg
   image_path: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg
@@ -173,60 +206,49 @@ Galleria-GF:
   aspect: "1"
   end_row: 'true'
 last_modified_at: 2019-05-15
-published: false
+published: true
 
 ---
-{: .align-center} ![Logo Green Fablab]({{ site.baseurl | append:page.image-path|append:'Logo-GF.png'}})
+
+![Logo Green Fablab]({{ site.baseurl | append:page.image-path|append:'Logo-GF.png'}})
 
 {% include feature_row id="intro" type="center" %}
 
-The concept of **Green FabLab** is the intersection of several societal trends. From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology. The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of appropiation for the 3D printing, doing the filament fused deposition the most used technique in the additive manufacturing world.
 
-![](/uploads/2022/04/13/img_1817.png){: .align-center}
 
-(from left to right : Laurent DUPONT, Benjamin, Alexandre, Fabio CRUZ, Catalina, Cristian, Fedoua.)
 
-This project is financed by Inedit......
+The concept of **Green FabLab** is the intersection of several societal trends.
+From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
+The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of local manufacturing.
+Also, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
 
-logo INEDIT + logo EU, numéro du projet...
+{% include gallery id="octroi" caption="Green Fablab at Octroi Nancy" %}
 
-For more informations, check out : [https://www.inedit-project.eu/](https://www.inedit-project.eu/ "https://www.inedit-project.eu/")
 
-<!-- Conclusion --> Finally, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
 
-Our objectives and values of Green FabLab :
 
-> Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a _fabrication spaces_, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
+<figure style="width: 230px" class="align-right">
+  <img src='/assets/images/3-projects/inedit/logo.jpg' alt=""> <figcaption>
+  <a href="https://www.inedit-project.eu/" target="_blank">Photo by: Peb</a>.
+  </figcaption>
+</figure>
+Today, we are participating in the [EU Project INEDIT](https://www.inedit-project.eu/ "https://www.inedit-project.eu/"), piloted by the ERPI Laboratory.
+INEDIT stand for the development of new forms of design using the [*Do-It-Together*](https://hal.univ-lorraine.fr/hal-03024062/document) approach and conceive the furniture in the next short future.
+The University of Lorraine is seeking for making feasible the idea of printing objects from recycled plastics for the personalized furniture.
 
-## Open Source Plastic Recycling Technology
-
-#### Open Source 3D Printing vs Injection Moulding :
-
-##### The different machine we used :
-
-* Gigabot X XL
-* HangPrinter
-* HoliPress
-* SheetPress
-* Machine injection
-
-##### Smart Collector :
-
-![](/uploads/2022/04/13/comm_smartcollectors_partners.png)
-
-![](/uploads/2022/04/13/comm_sc2.png)
-
-## Potential of the recycling process for 3D printing technology
-
-<figure style="width: 230px" class="align-left"> <img src="{{ site.baseurl | append:page.image-path | append:'Recycling.jpg'}}" alt=""> <figcaption> <a href="http://www.pebfox.com/" target="_blank">Photo by: Peb</a>. </figcaption> </figure>
-
-There is a great potential of Additive Manufacturing (AM) and Injection Moulding to contribute to a sustainable manufacturing. And it is reasonable to expect that AM will positively impact the societal development in the next decades to come. The development of sustainable principles, applications and practices play a key role in research activity in order to enable environmentally friendly, economically advantageous, and societal benefit-driven AM methodologies.
+There is a great potential of Additive Manufacturing (AM) and manual injection moulding to contribute to a sustainable manufacturing.
+The integration of recycled material for the 3D printing technology and in the innovation spaces is a potential approach to contribute to the current sustainability issues in the world.
+AM will positively impact the societal development in the next decades to come.
+The development of sustainable principles, applications and practices play a key role in research activity in order to enable environmentally friendly, economically advantageous, and societal benefit-driven AM methodologies.
 
 Energy, material consumption and environmental impacts are vital aspects that AM can better act to optimize in the manufacturing industrial context. On the basis of these concepts, some major goals have been outlined in order to fully incorporate sustainability principles in the AM processes.
 
-The integration of recycled material for the 3D printing technology and in the innovation spaces is a potential approach to contribute to the current sustainability issues in the world. Plastic recycling process of the sourrounding areas (street, neighborhood) could be carried out at small lot sizes minimizing, energy consumptions, and carbon emissions compared to the tradition centralized systems.
 
-> The purpose of the **Green Fablab** project is to study the technical and logistical feasability to use material recycling  on open source 3D printers, in order to establish a sustainable waste management option for this technology. A _distributed polymer_ recycling process could be a new paradigme that can open new scenarios in the near future.
+Plastic recycling process of the sourrounding areas (street, neighborhood) could be carried out at small lot sizes minimizing, energy consumptions, and carbon emissions compared to the tradition centralized systems.
+
+
+> Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a _fabrication spaces_, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
+
 
 ***
 

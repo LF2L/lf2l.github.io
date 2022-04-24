@@ -49,6 +49,8 @@ founders:
 
 
 
+
+
 ## Inside of the fourth dimension of Innovation
 {: .text-center}
 
