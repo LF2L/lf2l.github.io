@@ -13,39 +13,34 @@ header:
   overlay_image: "/assets/images/3-projects/gf/teaser4.jpg"
   overlay_filter: "0.5"
   show_overlay_excerpt: true
-
 intro:
-- excerpt: "**Local plastic recycling for open source 3D printing can open new opportunities for a circular economy**"
-
-
-
+- excerpt: "**Local plastic recycling for open source 3D printing can open new opportunities
+    for a circular economy**"
 octroi:
-- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi-1.jpg"
-  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi-1.jpg"
+- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi-1.jpg
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi-1.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
-- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg"
-  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg"
+- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
-- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg"
-  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg"
+- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
-- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg"
-  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg"
+- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
-- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg"
-  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg"
+- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
-- url: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg"
-  image_path: "https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg"
+- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
-
-
 gallery:
 - url: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-I.jpg"
@@ -59,7 +54,6 @@ gallery:
   image_path: "/assets/images/3-projects/gf/BD/en/Fabio-MT180-II.jpg"
   alt: Ma thèse en 180s Fabio Cruz
   title: Ma thèse en 180s Fabio Cruz
-
 projects:
 - image_path: "/assets/images/3-projects/gf/articles/proj-1/thumb.png"
   alt: ''
@@ -109,7 +103,6 @@ projects:
     new path to a circular economy using distributed recycling and production.
   url: "/green-fablab/review-recycling/"
   btn_class: btn--info
-
 partners:
 - image_path: "/assets/images/3-projects/gf/logos/CESI.jpg"
   teaser_class: GF-partners
@@ -192,7 +185,6 @@ Photos2D:
   title: 2D - Green Fablab at LF2L
   aspect: "1"
   end_row: 'true'
-
 Galleria-GF:
 - url: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg
   image_path: https://raw.githubusercontent.com/LF2L/Green-FabLab/master/Images/Students/1-Alexis-Romain/GF-0037.jpg
@@ -206,16 +198,11 @@ Galleria-GF:
   aspect: "1"
   end_row: 'true'
 last_modified_at: 2019-05-15
-published: true
 
 ---
-
 ![Logo Green Fablab]({{ site.baseurl | append:page.image-path|append:'Logo-GF.png'}})
 
 {% include feature_row id="intro" type="center" %}
-
-
-
 
 The concept of **Green FabLab** is the intersection of several societal trends.
 From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
@@ -224,16 +211,13 @@ Also, the impact of the human activity to the environment and natural resources 
 
 {% include gallery id="octroi" caption="Green Fablab at Octroi Nancy" %}
 
-
-
-
 <figure style="width: 230px" class="align-right">
-  <img src='/assets/images/3-projects/inedit/logo.jpg' alt=""> <figcaption>
-  <a href="https://www.inedit-project.eu/" target="_blank">Photo by: Peb</a>.
-  </figcaption>
+<img src='/assets/images/3-projects/inedit/logo.jpg' alt=""> <figcaption>
+<a href="https://www.inedit-project.eu/" target="_blank"></a>.
+</figcaption>
 </figure>
 Today, we are participating in the [EU Project INEDIT](https://www.inedit-project.eu/ "https://www.inedit-project.eu/"), piloted by the ERPI Laboratory.
-INEDIT stand for the development of new forms of design using the [*Do-It-Together*](https://hal.univ-lorraine.fr/hal-03024062/document) approach and conceive the furniture in the next short future.
+INEDIT stand for the development of new forms of design using the [_Do-It-Together_](https://hal.univ-lorraine.fr/hal-03024062/document) approach and conceive the furniture in the next short future.
 The University of Lorraine is seeking for making feasible the idea of printing objects from recycled plastics for the personalized furniture.
 
 There is a great potential of Additive Manufacturing (AM) and manual injection moulding to contribute to a sustainable manufacturing.
@@ -243,12 +227,9 @@ The development of sustainable principles, applications and practices play a key
 
 Energy, material consumption and environmental impacts are vital aspects that AM can better act to optimize in the manufacturing industrial context. On the basis of these concepts, some major goals have been outlined in order to fully incorporate sustainability principles in the AM processes.
 
-
 Plastic recycling process of the sourrounding areas (street, neighborhood) could be carried out at small lot sizes minimizing, energy consumptions, and carbon emissions compared to the tradition centralized systems.
 
-
 > Our vision of **Green Fablab** (or Hackerspace, or Makespace) is that in these geographically distributed spaces, they can be considered not only as a _fabrication spaces_, but also a recycling, remanufacturing and refurbishing places in order to contribute to a more circular economy.
-
 
 ***
 
