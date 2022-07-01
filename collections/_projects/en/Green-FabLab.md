@@ -204,6 +204,12 @@ last_modified_at: 2019-05-15
 
 {% include feature_row id="intro" type="center" %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZ_vO1GB0-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+{% include video id="YZ_vO1GB0-Q" provider="youtube" %}
+
+
 The concept of **Green FabLab** is the intersection of several societal trends.
 From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
 The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of local manufacturing.
