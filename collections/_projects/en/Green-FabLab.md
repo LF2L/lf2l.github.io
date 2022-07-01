@@ -204,8 +204,6 @@ last_modified_at: 2019-05-15
 
 {% include feature_row id="intro" type="center" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZ_vO1GB0-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 {% include video id="YZ_vO1GB0-Q" provider="youtube" %}
 
