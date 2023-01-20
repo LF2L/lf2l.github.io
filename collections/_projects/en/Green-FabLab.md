@@ -21,24 +21,12 @@ octroi:
   image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi-1.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
-- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg
-  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-11-17-octroi.jpg
-  alt: Green Fablab at Octroi Nancy
-  title: Green Fablab at Octroi Nancy
-- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg
-  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2021-12-Octroi.jpg
-  alt: Green Fablab at Octroi Nancy
-  title: Green Fablab at Octroi Nancy
 - url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg
   image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/octroi/2022-04-14-octroi.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
 - url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg
   image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Inedit/WP6/global/2022-04-01-gf.jpg
-  alt: Green Fablab at Octroi Nancy
-  title: Green Fablab at Octroi Nancy
-- url: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg
-  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Green-Fablab/12-Product/2022-04-01-injection.jpg
   alt: Green Fablab at Octroi Nancy
   title: Green Fablab at Octroi Nancy
 gallery:
@@ -212,6 +200,8 @@ The concept of **Green FabLab** is the intersection of several societal trends.
 From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
 The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of local manufacturing.
 Also, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/195910988@N02/albums/72177720305004914" title="Green FabLab"><img src="https://live.staticflickr.com/65535/52608601548_61666220b0_c.jpg" width="800" height="600" alt="Green FabLab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 {% include gallery id="octroi" caption="Green Fablab at Octroi Nancy" %}
 
