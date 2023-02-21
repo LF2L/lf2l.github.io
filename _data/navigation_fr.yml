@@ -126,10 +126,10 @@ info:
     children:
 #      - title: "Tarif"
 #        url: /fr/info/tarif/
-      - title: "Équipe"
-        url: /fr/info/team/
-      - title: "Tutoriels"
-        url: /fr/tutorial/
+  - title: "Équipe"
+    url: /fr/info/team/
+  - title: "Politique Qualité"
+    url: /fr/concept/quality/
 
 
 tutorials:

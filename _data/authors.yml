@@ -15,12 +15,6 @@ Fabio Cruz:
     - label: "Researchgate"
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Fabio_Cruz_Sanchez"
-    - label: "Mendeley"
-      icon: "ai ai-mendeley"
-      url: "https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/"
-    - label: "Academia"
-      icon: "ai ai-academia"
-      url: "https://univ-lorraine.academia.edu/FabioACruzS"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/fabio-cruz/"      
@@ -29,38 +23,21 @@ Fabio Cruz:
       url: "https://twitter.com/fabbiocrux"  
 
 
-Giovanny Arbelaez:
-  name: "Giovanny ARBELAEZ"
+Anaelle-Hily:
+  name: "Anaëlle HILY"
   bio: "Research associate on acceptability assessment"
-  avatar: "/assets/images/6-info/equipe/GA.jpg"
-  links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en"
-    - label: "Mendeley"
-      icon: "ai ai-mendeley"
-      url: "https://www.mendeley.com/profiles/gaarbelaez/"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/gaarbelaez"      
-    - label: "Twitter"
-      icon: "fab fa-twitter-square"
-      url: "https://twitter.com/gaarbelaez"  
+  avatar: "/assets/images/6-info/equipe/Anaelle-Hily.jpg"
 
 
 Laure Morel:
   name: "Laure Morel"
   bio: "Professeur, Directrice de l'ENSGSI"
   avatar: "/assets/images/6-info/equipe/LM.jpg"
-  links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr"
 
-Pascal Lhoste:
-  name: "Pascal L'hoste"
-  bio: "Professeur"
-  avatar: "/assets/images/6-info/equipe/PL.jpg"
+Mauricio:
+  name: "Mauricio Camargo"
+  bio: "Directeur ERPI / Professeur des Universités)"
+  avatar: "/assets/images/6-info/equipe/MC.jpg"
 
 Laurent Dupont:
   name: "Laurent Dupont"
@@ -74,18 +51,24 @@ Laurent Dupont:
     - label: "Researchgate"
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Laurent_Dupont7"
-    - label: "Mendeley"
-      icon: "ai ai-mendeley"
-      url: "https://www.mendeley.com/profiles/laurent-dupont2/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "http://www.linkedin.com/in/dupontl"      
 
-Frédérick Fontaine:
-  name: "Frédérick FONTAINE"
-  bio: "Opérateur polyvalent / Multiskilled operator"
-  avatar: "/assets/images/6-info/equipe/fred.png"
 
+
+Alex:
+  name: "Alex Gabriel"
+  bio: " "
+  avatar: "/assets/images/6-info/equipe/Alex-Gabriel.jpg"
+  email: alex.gabriel@univ-lorraine.fr
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=6htoUl4AAAAJ&hl=en&oi=ao"
+    - label: "Researchgate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Alex-Gabriel-2"
 
 
 

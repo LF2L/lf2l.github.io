@@ -6,7 +6,6 @@ date: 2018-04-03 00:00:00 +0000
 author: Fabio Cruz
 header:
   teaser: "/assets/images/6-info/equipe/Fabio.jpg"
-
 ---
 
 I'm research associate at the ERPI Laboratory.

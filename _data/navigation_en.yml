@@ -22,6 +22,7 @@ LF2L-concept:
   - title: "Partners & Charts"
     url: /concept/chartes/
 
+
 communities:
   - title: "Communities at the LF2L"
     children:
@@ -127,10 +128,10 @@ info:
     children:
       #- title: "Tarif"
        # url: /info/tarif/
-      - title: "Team"
-        url: /info/team/
-      - title: "Tutorials"
-        url: /tutorial/
+  - title: "Team"
+    url: /info/team/
+  - title: "Quality policy"
+    url: /concept/quality/
 
 
 tutorials:

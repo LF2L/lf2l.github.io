@@ -2,7 +2,7 @@
 title: 'Publications liées au LF2L'
 layout: single
 classes: wide
-permalink: "/fr//publications/"
+permalink: "/fr/publications/"
 excerpt: Articles et thèses de l'ERPI sur les concepts Fab Living Lab, Living Lab,
   FabLab
 header:
