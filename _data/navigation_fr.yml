@@ -128,8 +128,8 @@ info:
 #        url: /fr/info/tarif/
   - title: "Équipe"
     url: /fr/info/team/
-  - title: "Politique Qualité"
-    url: /fr/concept/quality/
+  # - title: "Politique Qualité"
+  #   url: /fr/concept/quality/
 
 
 tutorials:
