@@ -23,11 +23,11 @@ last_modified_at: 2018-09-07
 
 ## The LF2L, one of the innovation labs listed by the MESR
 
-![](https://inspiration.dgesip.fr/images/MESR_web.svg)
+![](https://inspiration.dgesip.fr/images/MESR_web.svg){: width="250" }
 In 2023, the French Ministry of Higher Education and Research has set up a platform to list inspiring locations. 
 LF2L is one of them! 
 It even has the status of 21 out of 277 innovation locations in December 2023. 
-Find all our facilities on [the ministry's website](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/){: width="250" }
+Find all our facilities on [the ministry's website](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
 
 ## Immersive space
 
