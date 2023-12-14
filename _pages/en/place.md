@@ -6,7 +6,7 @@ title: "Facilities at the LF2L"
 permalink: /place/
 img-path: "/assets/images/5-place/LF2L/"
 
-excerpt: "An space for innovation"
+excerpt: "A space for innovation"
 header:  
   overlay_image: "assets/images/5-place/LF2L/header.jpg"
   overlay_filter: 0.3
@@ -20,6 +20,14 @@ last_modified_at: 2018-09-07
 ---
 
 # Our space at the LF2L
+
+## The LF2L, one of the innovation labs listed by the MESR
+
+![](https://inspiration.dgesip.fr/images/MESR_web.svg)
+In 2023, the French Ministry of Higher Education and Research has set up a platform to list inspiring locations. 
+LF2L is one of them! 
+It even has the status of 21 out of 277 innovation locations in December 2023. 
+Find all our facilities on [the ministry's website](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/){: width="250" }
 
 ## Immersive space
 
