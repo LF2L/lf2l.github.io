@@ -22,6 +22,10 @@ last_modified_at: 2018-11-12T00:00:00.000+00:00
 
 ## Accès
 
+Attention travaux conséquents dans le quartier. L'accès par le tram n'est plus assuré... 
+Privilégiez la marche ou le vélo ! 
+NB : le stationnement pour les voitures est payant. Le parking a proximité du LF2L est reservé aux abonnés.
+
 <iframe src="https://www.google.com/maps/d/embed?mid=zjoguh0NVOXo.kZTYPT-5FrXA"  width="100%" height="500px"></iframe>
 
 ![Plan Acces to LF2L](/assets/images/6-info/plan-acces-LF2L.jpg)
