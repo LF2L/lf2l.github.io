@@ -24,10 +24,19 @@ last_modified_at: 2018-09-07
 ## The LF2L, one of the innovation labs listed by the MESR
 
 ![](https://inspiration.dgesip.fr/images/MESR_web.svg){: width="250" }
+
 In 2023, the French Ministry of Higher Education and Research has set up a platform to list inspiring locations. 
 LF2L is one of them! 
 It even has the status of 21 out of 277 innovation locations in December 2023. 
-Find all our facilities on [the ministry's website](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
+FFind out more about the spaces and the associated educational, research and development activities on [the ministry's website](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
+
+## LF2L, an ICEEL Carnot Institute platform referenced on Plug In Labs Lorraine
+
+![](https://pluginlabs.univ-lorraine.fr/assets/medias/logo/logo-pil@2x.svg){: width="250" }
+
+Plug In Labs offers centralised access to all the skills and equipment available in public research in Lorraine.
+Find out more about all the equipment and services offered by ERPI with its LF2L platform on [the Plug In Labs Lorraine website](https://pluginlabs.univ-lorraine.fr/fr/entity/f7cb6674-7cc0-41ea-9fe1-e777ea57a78d/lorraine-fab-living-lab)
+
 
 ## Immersive space
 
