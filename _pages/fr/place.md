@@ -25,7 +25,7 @@ last_modified_at: 2018-09-07
 En 2023, le Ministère de l'Enseignement Supérieur et de la Recherche a mis en place un plate-forme pour référencer les lieux inspirants. 
 Le LF2L en fait partie ! 
 Il a même le statut de lieu d'innovation 21 sur 277 en décembre 2023. 
-Retrouvez la description des espaces et les activitées associées sur [le site du ministère](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
+Retrouvez la description des espaces et les activitées pédagogique, recherche et développement associées sur [le site du ministère](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
 
 
 ## Le LF2L, une plate-forme de l'Institut Carnot ICEEL référencée sur Plug In Labs Lorraine
