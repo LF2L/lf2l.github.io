@@ -1,13 +1,13 @@
 ---
 lang: en
-title: "Projects at LF2L"
+title: "Accelerated projects at LF2L"
 layout: splash
 permalink: /projects/
 collection: projects
 entries_layout: grid
 classes: wide
 
-excerpt: "Some of the research projects at LF2L"
+excerpt: "Projects by ERPI, ENSGSI and their partners accelerated at LF2L"
 header:
   overlay_image: "assets/images/banners/LF2L-2.jpg" 
   overlay_filter: rgba(110, 110, 112, 0.5)
