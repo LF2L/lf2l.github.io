@@ -15,6 +15,9 @@ last_modified_at: 2018-11-12T00:00:00.000+00:00
 
 ## Réseaux sociaux 
 
+
+<a href="https://www.linkedin.com/in/lf2l-de-l-erpi-et-l-ensgsi-4137511a7/recent-activity/all/">![](https://img.freepik.com/vecteurs-premium/logo-linkedin-carre-isole-fond-blanc_469489-892.jpg){: width="150" }</a>  
+
 <a href="https://www.facebook.com/LorraineFabLivingLab">![Logo Facebook]({{ site.baseimg }}/assets/images/6-info/facebook.png){:height="200%" width="20%"}</a>  
 
 ## Accès
