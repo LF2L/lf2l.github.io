@@ -5,7 +5,7 @@ classes: wide
 title: Installations et équipements au LF2L
 permalink: "/fr/place/"
 img-path: "/assets/images/5-place/LF2L/"
-excerpt: 'retrouver ici nos technologies et prestations'
+excerpt: 'Retrouvez ici nos technologies et prestations'
 header:
   overlay_image: assets/images/5-place/LF2L/header.jpg
   overlay_filter: "0.3"
@@ -20,12 +20,20 @@ last_modified_at: 2018-09-07
 
 ## Le LF2L, un des lieux d'innovation référencé par le MESR
 
-![](https://inspiration.dgesip.fr/images/MESR_web.svg)
+![](https://inspiration.dgesip.fr/images/MESR_web.svg){: width="250" }
+
 En 2023, le Ministère de l'Enseignement Supérieur et de la Recherche a mis en place un plate-forme pour référencer les lieux inspirants. 
 Le LF2L en fait partie ! 
 Il a même le statut de lieu d'innovation 21 sur 277 en décembre 2023. 
-Retrouvez tous nos équipements sur [le site du ministère](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
+Retrouvez la description des espaces et les activitées associées sur [le site du ministère](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
 
+
+## Le LF2L, une plate-forme de l'Institut Carnot ICEEL référencée sur Plug In Labs Lorraine
+
+![](https://pluginlabs.univ-lorraine.fr/assets/medias/logo/logo-pil@2x.svg){: width="250" }
+
+Plug In Labs offre un accès centralisé à toutes les compétences et équipements de la recherche publique en Lorraine.
+Retrouvez tous les équipements et prestations proposés par l'ERPI avec sa plate-forme LF2L sur [le site Plug In Labs Lorraine](https://pluginlabs.univ-lorraine.fr/fr/entity/f7cb6674-7cc0-41ea-9fe1-e777ea57a78d/lorraine-fab-living-lab)
 
 
 ## Espace immersif
