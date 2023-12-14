@@ -67,9 +67,8 @@ sponsors:
   url: http://www.univ-lorraine.fr/
 
 ---
-## Fondateurs
+## Compostantes de l'UL fondatrices et porteuses 
 
-Une initiative de :
 
 <div class="flex-center">
 {% include figure
