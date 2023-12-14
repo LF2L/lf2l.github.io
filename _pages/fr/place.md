@@ -5,7 +5,7 @@ classes: wide
 title: Installations et équipements au LF2L
 permalink: "/fr/place/"
 img-path: "/assets/images/5-place/LF2L/"
-excerpt: 'Nous allons conquérir le monde ! '
+excerpt: 'retrouver ici nos technologies et prestations'
 header:
   overlay_image: assets/images/5-place/LF2L/header.jpg
   overlay_filter: "0.3"
@@ -17,6 +17,16 @@ last_modified_at: 2018-09-07
 
 ---
 # Nos espaces au LF2L
+
+## Le LF2L, un des lieux d'innovation référencé par le MESR
+
+![](https://inspiration.dgesip.fr/images/MESR_web.svg)
+En 2023, le Ministère de l'Enseignement Supérieur et de la Recherche a mis en place un plate-forme pour référencer les lieux inspirants. 
+Le LF2L en fait partie ! 
+Il a même le statut de lieu d'innovation 21 sur 277 en décembre 2023. 
+Retrouvez tous nos équipements sur [le site du ministère](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)
+
+
 
 ## Espace immersif
 
