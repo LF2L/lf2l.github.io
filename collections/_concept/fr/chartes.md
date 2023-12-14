@@ -79,7 +79,7 @@ caption="[ERPI Laboratory](https://erpi.univ-lorraine.fr/)"
 url= "https://erpi.univ-lorraine.fr/"
 %}
 {% include figure
-<a href="https://www.ensgsi.univ-lorraine.fr/">![](https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2022/01/640_360_site_web.jpg){: width="150" }</a>  
+image_path= <a href="https://www.ensgsi.univ-lorraine.fr/">![](https://www.ensgsi.univ-lorraine.fr/wp-content/uploads/2022/01/640_360_site_web.jpg){: width="150" }</a>  
 class= "partners"  
 caption="[ENSGSI](https://www.ensgsi.univ-lorraine.fr/)"
 url= "https://www.ensgsi.univ-lorraine.fr/"
@@ -87,7 +87,7 @@ url= "https://www.ensgsi.univ-lorraine.fr/"
 </div>
 
 
-## Chartes
+## Chartes et labels
 
 <div class="flex-center">
 
