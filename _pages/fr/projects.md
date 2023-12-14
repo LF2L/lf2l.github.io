@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Projets du LF2L
+title: Projets accélérés au LF2L
 layout: splash
 permalink: "/fr/projects/"
 collection: projects
@@ -17,7 +17,7 @@ header:
 date: 2018-09-07 00:00:00 +0000
 
 ---
-## Projets du LF2L
+## Projets de l'ERPI, de l'ENSGSI et de leurs partenaires accélérés au LF2L
 
 
 <div class="entries-{{ page.entries_layout }}">
