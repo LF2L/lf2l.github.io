@@ -148,13 +148,30 @@ News_2014:
 ---
 
 ## 2023
-coming soon...
+{% include gallery
+id="News_2023"
+%}
+Work in progress... 
+
+OECD - Unlocking co-creation for green innovation
+An exploration of the diverse contributions of universitiese
+publié le 4 Dec 2023
+[publication de l'OCDE](https://www.oecd.org/education/unlocking-co-creation-for-green-innovation-b887f436-en.htm)
+
+OECD - ENGAGING CITIZENS IN INNOVATION POLICY. WHY, WHEN AND HOW?
+June 2023
+[publication de l'OCDE](https://www.oecd-ilibrary.org/docserver/ba068fa6-en.pdf?expires=1702630863&id=id&accname=guest&checksum=B580530AB881E7F5B01DA688D2C16358)
 
 23 mars : Interview de [Benjamin Ennesser-Serville et Laurent Dupont dans Campus matin](https://www.campusmatin.com/numerique/pedagogie/innover-dans-l-enseignement-superieur-le-cas-tres-pratique-des-fablabs.html)
 
 
 ## 2022
-coming soon...
+
+{% include gallery
+id="News_2022"
+%}
+Work in progress... 
+
 
 ## 2021
 
