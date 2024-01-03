@@ -1,38 +1,17 @@
 ---
 lang: en
 title: "Lorraine Fab Living Lab"
-layout: splash2
+layout: splash
 permalink: /
 
 intro:
   - excerpt: "The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm  bringing together in the same space complementary advanced tools.  The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual  framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators."
 
-icons:
-  - image_path: /assets/images/1-home/presentation/icon-materialiser.png
-    teaser_class: icons
-    title_class: icons
-    alt: "Associate IDeas"
-    title: "Materialise"
-    excerpt: ""
-  - image_path: /assets/images/1-home/presentation/icon-associer.png
-    alt: "Associate IDeas"
-    title: "Associate"
-    excerpt: ""
-    teaser_class: icons
-    title_class: icons
-  - image_path: /assets/images/1-home/presentation/icon-innover.png
-    alt: "Innvate"
-    title: "Innovate"
-    excerpt: ""
-    teaser_class: icons
-    title_class: icons
 
 founders:
-  - image_path: "/assets/images/2-concept/partners-chartes/ERPI.jpg"
-    excerpt: "[ERPI Laboratory](https://erpi.univ-lorraine.fr/)"
-    teaser_class: GF-partners
-  - image_path: "/assets/images/2-concept/partners-chartes/ENSGSI.jpg"
-    teaser_class: GF-partners
+  - image_path: "/assets/images/logos/ERPI.svg"
+    excerpt: "[ERPI Laboratory](https://erpi.univ-lorraine.fr/)"    
+  - image_path: "/assets/images/logos/ENSGSI.png"    
     excerpt: "[ENSGSI](https://www.ensgsi.univ-lorraine.fr/)"
 
 
@@ -42,10 +21,13 @@ founders:
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
 
 
-<center><b>An initiative of:</b></center>
+**by:**
+{: .text-center}
+
+
 
 <center><a href="https://erpi.univ-lorraine.fr/"><img src="/assets/images/2-concept/partners-chartes/ERPI.jpg" height="250" width="250" title="ERPI Laboratory" alt="Logo ERPI"></a>
-<a href="https://www.ensgsi.univ-lorraine.fr/"><img src="/assets/images/2-concept/partners-chartes/ENSGSI.jpg" height="250" width="250" title="ENSGSI" alt="Logo ENSGSI"></a></center>
+<a href="https://www.ensgsi.univ-lorraine.fr/"><img src="/assets/images/logos/ENSGSI.png" height="250" width="250" title="ENSGSI" alt="Logo ENSGSI"></a></center>
 
 
 
@@ -132,61 +114,4 @@ See our complete
 {: .text-right}
 
 
-<div class="community">
-{% include figure
-  image_path="/assets/images/1-home/presentation/icon-materialiser.png"
-  class= "icons"  
-  alt="Materialize a LF2L"
-  caption="**Materialize**" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/icon-associer.png"
-  class= "icons"  
-  alt="Associer at LF2L"
-  caption="**Associate**" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/icon-innover.png"
-  class= "icons"  
-  alt="Innover at LF2L"
-  caption="**Innovate**" %}
-</div>
 
-
-
-
-
-
-## Communities
-{: .text-center}
-
-<div class="community">
-{% include figure
-  image_path="/assets/images/1-home/presentation/Entreprises.png"
-  class= "icons-community"  
-  alt=""
-  caption="Entreprises"
-  url= "/communities/enterprises/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Makers.png"
-  class= "icons-community"  
-  alt=""
-  caption="Makers"
-  url= "/communities/makers/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Etudiants.png"
-  class= "icons-community"  
-  alt=""
-  caption="Etudiants"
-  url= "/communities/students/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Universitaires.png"
-  class= "icons-community"  
-  alt=" "
-  caption="Universities"
-  url= "/communities/enterprises/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Institutions.png"
-  class= "icons-community"  
-  alt=" "
-  caption="Collectivities"
-  url= "/communities/collectivities/" %}
-</div>

@@ -150,38 +150,3 @@ Regardez nos actualités
 
 {% include feature_row id="intro" type="center" %}
 
-## Communautés
-{: .text-center}
-
-<div class="community">
-{% include figure
-  image_path="/assets/images/1-home/presentation/Entreprises.png"
-  class= "icons-community"  
-  alt=""
-  caption="Entreprises"
-  url= "/fr/communities/enterprises/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Makers.png"
-  class= "icons-community"  
-  alt=""
-  caption="Makers"
-  url= "/fr/communities/makers/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Etudiants.png"
-  class= "icons-community"  
-  alt=""
-  caption="Etudiants"
-  url= "/fr/communities/students/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Universitaires.png"
-  class= "icons-community"  
-  alt=" "
-  caption="Universities"
-  url= "/fr/communities/enterprises/" %}
-{% include figure
-  image_path="/assets/images/1-home/presentation/Institutions.png"
-  class= "icons-community"  
-  alt=" "
-  caption="Collectivities"
-  url= "/fr/communities/collectivities/" %}
-</div>
