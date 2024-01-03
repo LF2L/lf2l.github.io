@@ -5,6 +5,8 @@ main:
     url: /concept/
   - title: "Projects"
     url: /projects/
+  - title: "Scientific Outcomes"
+    url: /publications/
   - title: "Communities"
     url: /communities/
   - title: "Place & Tools"
@@ -28,16 +30,15 @@ LF2L-concept:
 communities:
   - title: "Communities at the LF2L"
     children:
-      - title: "Collectivities"
-        url: /communities/collectivities/
+      - title: "University"
+        url: communities/#university    
+      - title: "Institutions"
+        url: /communities/#institutions
       - title: "Entreprises"
-        url: /communities/enterprises/
+        url: /communities/#enterprises
       - title: "Makers"
-        url: /communities/makers/
-      - title: "Students"
-        url: /communities/students/
-      - title: "Universities"
-        url: /communities/universities/
+        url: /communities/#makers
+
 #      - title: "GSI Lab"
 #        url: /communities/gsilab/
 

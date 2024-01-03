@@ -3,15 +3,17 @@ title: LF2L publications
 layout: single
 classes: wide
 permalink: "/publications/"
-excerpt: Thesis and articles from ERPI Laboratory on Fab Living Lab, Living Lab, Fab
-  Lab
-header:
-  overlay_color: "#333"
-  overlay_filter: "0.1"
-  show_overlay_excerpt: true
+excerpt: Thesis and articles and scientific dissemination using the Fab Living Lab  approach.
+
 sidebar:
   nav: LF2L-concept
 last_modified_at: 2023-02-17
+
+header:  
+  overlay_image: "assets/images/banners/banner02.jpg"
+  overlay_filter: rgba(110, 110, 112, 0.5)
+  show_overlay_excerpt: true
+  image_description: "Scientific dissemination at the Lorraine Fab Living Lab"
 ---
 
 

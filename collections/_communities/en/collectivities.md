@@ -11,6 +11,7 @@ header:
 last_modified_at: 2018-10-24
 
 ---
+
 ## Institutions
 
 As a platform of LORnTECH (CAPITALE FRENCH TECH), the Lorraine Fab living Lab® aims to support territories and its institutions in their collaborative innovation projects for the benefit of citizens.
