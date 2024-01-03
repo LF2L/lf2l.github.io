@@ -5,8 +5,14 @@ layout: splash
 permalink: /
 
 intro:
-  - excerpt: "The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm  bringing together in the same space complementary advanced tools.  The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual  framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators."
-
+  - image_path: /assets/images/1-home/Figure-3.jpg
+    alt: "Lorraine Fab Living Lab"
+    title: "Inside of the fourth dimension of Innovation"
+    excerpt: "The **Lorraine Fab Living Lab® (LF2L®)** is the pedagogical support of the [ENSGSI School](https://ensgsi.univ-lorraine.fr/) and the research platform of the [ERPI Laboratory](https://erpi.univ-lorraine.fr/) dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm  bringing together in the same space complementary advanced tools.  The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual  framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators.
+    "
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--inverse"
 
 founders:
   - image_path: "/assets/images/logos/ERPI.svg"
@@ -20,11 +26,10 @@ founders:
 
 ![Lorrain Fab Living Lab](/assets/images/1-home/presentation/Logo-LF2L.jpg){: .align-center}
 
-
-**by:**
-{: .text-center}
+{% include feature_row id="intro" type="left"%}
 
 
+{% comment %}
 
 <center><a href="https://erpi.univ-lorraine.fr/"><img src="/assets/images/2-concept/partners-chartes/ERPI.jpg" height="250" width="250" title="ERPI Laboratory" alt="Logo ERPI"></a>
 <a href="https://www.ensgsi.univ-lorraine.fr/"><img src="/assets/images/logos/ENSGSI.png" height="250" width="250" title="ENSGSI" alt="Logo ENSGSI"></a></center>
@@ -33,10 +38,6 @@ founders:
 
 
 
-## Inside of the fourth dimension of Innovation
-{: .text-center}
-
-{% include feature_row id="intro" type="center" %}
 
 
 ## News
@@ -114,4 +115,4 @@ See our complete
 {: .text-right}
 
 
-
+{% endcomment %}

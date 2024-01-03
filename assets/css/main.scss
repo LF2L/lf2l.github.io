@@ -68,7 +68,9 @@ b, strong{
 
 // HOME PAGE
 #header{
-  background-image: url(../images/1-home/header/Background-ERPI2.jpg);
+  display: flex;
+  justify-content: space-between;
+  //background-image: url(../images/1-home/header/Background-ERPI2.jpg);
 }
 
 
