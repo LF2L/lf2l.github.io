@@ -129,8 +129,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.0924047"
-     inkscape:cx="333.66756"
-     inkscape:cy="-51.263055"
+     inkscape:cx="235.2608"
+     inkscape:cy="-12.815763"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -604,4 +604,6 @@
        style="stroke-width:0.847058"
        inkscape:export-filename="/Users/fabio/Documents/Personal/MdC/Poste-ENSGSI/Figures/logos/UL-ENSGSI-ERPI.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" /></g></svg>
+       inkscape:export-ydpi="150"
+       onclick=""
+       inkscape:svg-dpi="1" /></g></svg>
