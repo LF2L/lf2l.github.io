@@ -248,8 +248,5 @@ ERPI, ENSGSI, Octroi,
 
 {: #GF-partners .GF-titles }
 
-## Upcoming Events
-
-* Conference ICE-IAMOT : 19th to 23st June 2022, in Nancy, France
 
 **Contact**: Fabio Cruz (cruzsanc1@univ-lorraine.fr)
