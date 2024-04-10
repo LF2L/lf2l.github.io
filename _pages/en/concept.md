@@ -24,6 +24,9 @@ last_modified_at: 2018-10-24
 <figure style="width: 350px" class="align-right">
   <img src="{{ site.baseurl | append:page.image-path | append:'Figure-1.jpg'}}" alt="">  
 </figure> 
+
+
+
 Under the patronage of the University of Lorraine and  Greater Nancy, the Lorraine Fab Living Lab® is a platform for the prospective evaluation of the uses and acceptability of innovation. It is located in the Renaissance Technopôle, in the heart of the city and Nancy's life.
 Driven and managed by the Research Team on Innovative Processes (ERPI Laboratory) and the ENSGSI (National School of Innovation Engineers), the Lorraine Fab Living Lab® brings together devices to accelerate creation and collaborative innovation for tomorrow's uses.
 

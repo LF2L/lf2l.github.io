@@ -241,7 +241,6 @@ Plastic recycling process of the sourrounding areas (street, neighborhood) could
 
 <div id="GF-partners">  
 {% include feature_row id="partners" %}
-
 Academical and Industrials </div>
 
 ERPI, ENSGSI, Octroi,
