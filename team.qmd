@@ -40,7 +40,7 @@ Responsable scientifique du LF2L
 
 ::: {layout="[30,30,30]"}
 :::{}
-[![](images/6-info/equipe/Benjamin2.png){width="80%" fig-align="center"} **Benjamin Ennerser-Serville**](https://ensgsi.univ-lorraine.fr/enseignant/laure-morel/)
+[![](images/6-info/equipe/Benjamin2.png){width="80%" fig-align="center"} **Benjamin Ennerser-Serville**](https://ensgsi.univ-lorraine.fr/personnels/benjamin-enesser-serville/)
 
 Référent Technique
 :::
