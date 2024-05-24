@@ -1,0 +1,89 @@
+---
+title: "Communities"
+subtitle: "An space for collaboration among the diverse communities at the LF2L"
+---
+
+
+overlay_image: "assets/images/banners/LF2L-3.jpg"
+
+
+# Communities at the LF2L
+
+## University {#university}
+
+The Lorraine Fab Living Lab® is a research and experimentation platform managed by the ERPI laboratory. Through its strong links with ENSGSI, the platform is also a pedagogical support for active teaching in certain curricula. Whether through the use of modeling and prototyping devices or by facilitating collaborative work such as for ingEXys workshops.
+
+LF2L® also supports a variety of research projects of the ERPI and its partners. The laboratory's thirty permanent researchers work on, among other things, the capacity of SMEs to innovate, the recycling of raw materials for additive manufacturing, the consideration and involvement of users in projects (Living lab), evaluation by use, collaborative methodologies for smart-city, immersive devices, creativity, innovation spaces.
+
+LF2L® thus hosts the work of the PRINCIP Research Chair (accredited by the Fund for Innovation in Industry) dedicated to SMEs, and the REVES Collaborative Chair (Ecological Renaissance of Cities), supported by ENEDIS, EDF, the Greater Nancy Metropolitan Area, the CCPHVA, deploying the Smart Cities concept to propose solutions to the new societal challenges faced by cities and territories.
+
+### Are you a researcher?
+The LF2L® platform interests you as part of your research, you wish to collaborate with the ERPI laboratory or participate in one of its research programs. 
+
+For more details about our research, [see our scientific publications.](/publications/)
+
+
+### GSI Lab : Who are we ?
+
+Join the association **GSILab** - every Thursday from 1:30 p.m. to 5:30 p.m.
+The Lorraine Fab Living Lab® opens its doors to you as part of educational courses.
+
+![GSI Lab](/assets/images/4-communities/GSIlab/GSI-lab.jpg){: .align-left}
+
+**GSI Lab** is an association created in 2015 by the students of **ENSGSI**. 
+It allows the members to create objects and achieve personnal projects within the **Lorraine Fab Living Lab®**. It has got an educational purpose that helps students to developp their skills all along their projects.
+
+
+**How you can join GSI Lab ?**
+Membership is restricted to **ENSGSI**'s students.
+If you want to register, you just need to come to the Lorraine Fab Living Lab® ([map](/info/)) on
+Thursdays between 2 p.m. to 6 p.m, or you can ask a member of the GSILab Association.
+
+**You have an idea and want to make it ?**
+You found a project but you don't have enought knowledge to achieve it (for now) ? The **GSILab** can help you and teach you about laser cutter, 3D printing, modelization softwares, slicers and more...
+
+
+## Institutions {#institutions}
+
+As a platform of LORnTECH (CAPITALE FRENCH TECH), the Lorraine Fab living Lab® aims to support territories and its institutions in their collaborative innovation projects for the benefit of citizens.
+Thanks to the universality of the University, the LF2L® platform makes it possible to host and develop "Public - Private - Population Partnerships" such as the Lorraine Smart Cities Living Lab or the REVES (Ecological Renaissance of Cities) collaborative chair supported by the NIT Foundation of the University of Lorraine
+
+In this context, LF2L® contributes to the implementation and evaluation of "Smart City demonstrators" such as the [Smart City Living Lab Alzette Belval](https://www.epa-alzette-belval.fr/FR/Participer-Alzette-Belval/Living-Lab-Alzette-Belval.html).
+LF2L® organizes and implements citizen workshops, contributes to citizen science, participates in scientific and technical dissemination events.
+
+![communities at lf2l](/assets/images/4-communities/collectivities/label.png){: .align-right width="200"}
+
+> Metropolis of Greater Nancy elected Innovative Territory OR in December 2016 by the Interconnected 2016 thanks to the _'VélOstan Connecté'_ project supported by the LF2L®.
+
+![communities at lf2l](/assets/images/4-communities/collectivities/activites.jpg){: .align-center width="500"}
+
+## Enterprises {#enterprises}
+
+Are you a company? Start-up, SME-SMI or Large Group?.
+Designed with its industrial partners, the **Lorraine Fab Living Lab® (LF2L®)** opens its doors to you for tailor-made partnerships adapted to your needs.
+
+- For a specific use of the machines (FabLab type: laser cutting, 3D printer, CNC, etc.)
+- For an expertise integrating users, usage metrology (eye-tracking, physiological sensors, etc.)
+- For expertise or know-how in material recyclability, Green FabLab, 3D printing
+- Questions related to collaborative engineering, Smart City, immersive devices, an R&amp;D project, innovation financing or scientific and technical sponsorship.
+
+Working with the LF2L, you benefit from the experience of the ERPI laboratory, which for more than thirty-five years has been conducting research in the transformation of organisations and territories through innovative processes. Its activities focus on two research themes: the assessment of acceptability in the upstream stages of innovation (methodologies and technologies) and the identification, modelling, integration and capitalisation of knowledge and skills in the upstream stages of innovative projects.
+
+In addition, in twenty years, the engineering school of Innovation **ENSGSI** associated with the **ERPI laboratory**,  has demonstrated its ability to teach and disseminate tools, methods and skills conducive to the emergence of innovation.
+
+## Makers - Nancy Bidouille (NyBi) {#makers}
+
+The digital communication revolution is behind us. We are now living the revolution of Personal Manufacturing or DIY.
+
+![NYBI](/assets/images/4-communities/makers/NYBI.png)
+
+To open up to as many people as possible, the **Lorraine Fab Living Lab®** makes its premises and resources available every Thursday evening to the [association **NYBI**](http://nybi.cc/).
+
+The University of Lorraine thus enables all those who want to manufacture by themselves, discover new technologies, learn to use them, to benefit from the equipment and spaces resulting from research.
+
+The NYBI welcomes all audiences every Thursday, from 7pm to midnight, to discover the world of FabLabs.
+People interested in joining the association are welcome in the early evening to discover the places and members.
+For the members of the association the LF2L is available until midnight.
+
+Contact et information: [NYBI.CC](http://nybi.cc/)
+

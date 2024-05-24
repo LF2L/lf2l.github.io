@@ -1,0 +1,101 @@
+/*-- scss:defaults --*/
+
+// Colors ERPI
+$ERPI-Blue-Dark: #005798;
+$ERPI-Blue-Ligth: #005699;
+$ERPI-Green-Dark: #009342;
+$ERPI-Green-Ligth: #009342;
+
+
+//  Colors LF2L
+$Purple-LF2L: #592c8e;
+$LF2L-Grey: #B2B2BA;
+$LF2L-grey-ligth: #F1F1F1;
+$LF2L-grey-dark: #6E6E70;
+$LF2L-white: #FFFFFF;
+
+
+$Yellow-UL: #F0E503;
+
+
+$primary:   $Purple-LF2L !default;
+
+
+
+/* typefaces */
+// Font LF2L
+@charset "utf-8";
+@font-face {
+  font-family: 'Avenir-Black';
+  font-style: normal;
+  font-weight: 700;
+  src: url(assets/fonts/AvenirLTStd-Black.otf) format('OpenType');
+}
+
+
+@font-face {
+  font-family: 'Avenir-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/fonts/AvenirLTStd-Light.otf) format('OpenType');
+}
+
+@font-face {
+  font-family: 'MinionPro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/fonts/MinionPro-Regular.otf) format('OpenType');
+}
+
+
+
+//  Definition of the LF2L Fonts
+// scss-docs-start headings-variables
+$headings-font-family:        'Avenir-Black', !default;
+$headings-font-style:         null !default;
+$headings-font-weight:        500 !default;
+$headings-line-height:        1.2 !default;
+$headings-color:              $Purple-LF2L !default;
+// scss-docs-end headings-variables
+
+
+// scss-docs-start font-variables
+// stylelint-disable value-keyword-case
+$font-family-sans-serif:      'Avenir-Light', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-weight-base:            500 !default;
+
+// $font-size-base affects the font size of the body text
+$font-size-root:              20px !default;
+$font-size-base:              1rem !default; // Assumes the browser default, typically `16px`
+
+
+
+#title-block-header h1{
+  margin-bottom: 0;
+  color: white;
+}
+
+
+.quarto-title-block .quarto-title-banner {
+  background-position-y: center;
+  height: 200px;
+  opacity: 100%;
+}
+
+
+
+#headerul {
+  position: fixed;
+  width: 100%;
+  height: 75px;
+  background-color: white;
+}
+
+
+#title-block-header h1,#title-block-header .h1 {
+  margin-bottom: 0;
+  color: $primary; 
+}
+
+

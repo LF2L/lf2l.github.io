@@ -1,0 +1,89 @@
+---
+title: "Lorraine Fab Living Lab"
+page-navigation: false
+toc: false
+
+about:
+  id: hero-LF2L  
+  template: trestles
+  image: images/1-home/LF2L-concept-00.jpg
+  links:
+    - text: "![ENSGSI](images/Avatar-ENSGSI.png)"
+      href: https://ensgsi.univ-lorraine.fr/
+    - text: "![ENSGSI](images/Avatar-ERPI.png)"
+      href: https://erpi.univ-lorraine.fr/
+
+
+listing:
+  id: recents
+  contents: "posts/*/*.qmd"
+  sort: "date desc"
+  type: grid
+  categories: false
+  include:
+    lang: fr
+
+---
+
+:::{.column-body-outset}
+![](images/1-home/Logo-LF2L.jpg)
+:::
+
+
+:::{#hero-LF2L}
+
+## Entrez dans la 4ème dimension de l’Innovation
+
+Le **Lorraine Fab Living Lab® (LF2L®)** est le support pédagogique de l'[Ecole ENSGSI](https://ensgsi.univ-lorraine.fr/) et la plateforme de recherche du [Laboratoire ERPI](https://erpi.univ-lorraine.fr/) dédiés à l'évaluation prospective des usages innovants. Il soutient la création et l'obtention de résultats à travers un processus établi basé sur le paradigme de l'usage réunissant dans un même espace des outils avancés complémentaires.  
+
+L'originalité du LF2L® est de pouvoir accueillir, soutenir et associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) en utilisant un cadre conceptuel du LF2L prenant en compte les approches 2D (concept), 3D (objet), 4D (scénarios d'évolution) impliquant les différents types d'acteurs afin d'avoir une évaluation prospective des usages d'un nouveau concept, d'une nouvelle technologie ou d'un nouveau projet. Cette approche est utile pour accélérer le déploiement de démonstrateurs industriels ou urbains.
+
+
+[](Pour en savoiri plus){.btn }
+:::
+
+
+---
+
+
+
+# Actualités {.center}
+
+::: {#recents}
+:::
+
+
+
+# A propos {.center}
+
+
+# Réseaux
+
+
+::: {layout-nrow=1}
+![[European Network of Living Labs - ENOLL](https://enoll.org/) ](images/logos/ENOLL.svg)
+
+![[Réseau Français des Fablabs - RFFLabs](https://rfflabs.fr/)](images/logos/RFF.svg)
+
+![[Plug In Labs Lorraine](https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/)](images/logos/pil.svg)
+
+
+![[Learning Lab Network](https://www.learninglab-network.com/espace/lorraine-fab-living-lab/)](images/logos/ll.svg)
+
+
+
+:::
+
+
+
+
+# Nos Labels
+
+::: {layout-nrow=1}
+![Labélisation STAR LUE](images/logos/start-lue.png)
+
+![[Les lieux inspirants de l'Enseignement supérieur](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)](images/logos/MESR.svg)
+:::
+
+
+

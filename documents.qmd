@@ -1,0 +1,25 @@
+---
+title: "**Documents**"
+title-fr: "Documents Géneraux du LF2L"
+subtitle: "Retrouvez notre écossytème collaboratif et les chartes auxquelles nous adhérons !"
+toc: true
+format:
+ html:    
+   template-partials: 
+     - partials/title-block.html  
+
+title-block-banner: rgba(255, 255, 255, 0.45)
+---
+
+
+# Chartes des Living Labs et des Fablabs
+
+::: {layout="[50,50]"}
+
+![Charte des Living Labs](images/6-info/charte-LL.jpg)
+
+![Charte des FabLabs](images/6-info/charte-fablab.jpg)
+
+:::
+
+

@@ -1,0 +1,15 @@
+---
+lang: en
+title:  "ENoLL award: Vote for Lorraine Smart Cities Living Lab!"
+subtitle: "A test"
+image: images/2018/04/09/LL-Project-2017-award.png
+post_description: "The voting for the Living Lab Project Award has opened until Sunday 29 April 2018. We present Linky by makers project See all the projects Link to vote: ## VOTE :) ##"
+date:   2018-04-09 00:00:00 -0600
+---
+
+
+The project is http://linkybymakers.fr/.
+See https://enoll.org/newsroom/?news-id=3401
+
+
+

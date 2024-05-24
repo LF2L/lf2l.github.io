@@ -1,0 +1,11 @@
+---
+title: "Scientific outcomes"
+subtitle: "Thesis and articles and scientific dissemination using the Fab Living Lab approach."
+---
+
+
+<div class="content content-narrow">
+<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=equipe+de+recherche+sur+les+processus+innovatifs&typdoc=('ART','COMM','POSTER','PROCEEDINGS','ISSUE','OUV','COUV','BLOG','NOTICE','TRAD','PATENT','OTHER','UNDEFINED','REPORT','THESE','HDR','LECTURE','MEM','IMG','VIDEO','SON','MAP','SOFTWARE','PRESCONF','CREPORT','ETABTHESE','MEMLIC','NOTE','OTHERREPORT','REPACT','SYNTHESE')&collaboration=Lorraine+Fab+Living+Lab%C2%AE+%28LF2L%29%3B+Octroi+Nancy%3B+Lorraine+Smart+Cities+Living+Lab&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css" frameborder="0" scrolling="auto" width="100%" height="1000px"></iframe>
+</div>
+
+

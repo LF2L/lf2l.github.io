@@ -1,0 +1,87 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  favicon: assets/favicon.png
+  search: 
+    location: navbar
+    type: overlay  
+  bread-crumbs: true
+  reader-mode: false
+  open-graph: true
+  site-url: https://fabbiocrux.github.io/LF2L-V2/
+  repo-url: https://github.com/lf2l
+  #repo-actions: [edit, issue]
+  title: ""
+  navbar:
+    logo: images/LF2l-Navigation-03.svg
+    pinned: false
+    background: primary
+    foreground: white
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/102623341/        
+
+    right:
+      - href: about.qmd
+      - href: blog.qmd
+      #- href: project.qmd      
+      - href: publications.qmd      
+      #- href: community.qmd
+      - href: team.qmd
+
+  page-footer:
+    background: light
+    left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.4.554"
+    center: 
+      - icon: github
+        href: https://github.com/
+      - icon: instagram
+        href: /        
+      - icon: linkedin
+        href: /
+      - icon: twitter
+        href: /
+    right: 
+      - href: documents.qmd        
+      - text: "**Nous Retrouver** <br> 49 Boulevard d'Austrasie,<br> 54000 Nancy, France"
+        href: info.qmd 
+
+    #   - icon: linkedin
+    #     href: /
+    #   - icon: twitter
+    #     href: /
+        
+format:
+  html:    
+    #include-in-header: assets/header.html  
+    #include-before-body: assets/header.html  
+    bibliography: assets/bibliography.bib
+    page-layout: full
+    theme:
+      - cosmo          
+      - styles.scss
+    css: assets/fabio.css  
+    toc: false
+#    template-partials: 
+#      - partials/title-block.html  
+
+
+
+babelquarto:
+  languagecodes:
+  - name: fr
+    text: "Français"
+  - name: en
+    text: "English"    
+  mainlanguage: 'fr'
+  languages: ['en']
+
+title-en: LF2L
+description-en: description in fr
+author-en: author in fr
+lang: fr
+
+

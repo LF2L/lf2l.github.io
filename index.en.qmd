@@ -1,0 +1,49 @@
+---
+title: "Lorraine Fab Living Lab"
+page-navigation: false
+toc: false
+
+
+about:
+  id: hero-LF2L  
+  template: trestles
+  image: images/1-home/LF2L-concept-00.jpg
+  links:
+    - text: "![ENSGSI](images/Avatar-ENSGSI.png)"
+      href: https://ensgsi.univ-lorraine.fr/
+    - text: "![ENSGSI](images/Avatar-ERPI.png)"
+      href: https://erpi.univ-lorraine.fr/
+
+listing:
+  contents: "posts/*/*.qmd"
+  sort: "date desc"
+  type: grid
+  categories: false
+  include:
+    lang: en
+---
+
+
+:::{.column-body-outset}
+![](images/1-home/Logo-LF2L.jpg)
+:::
+
+
+
+
+:::{#hero-LF2L}
+
+## Inside of the fourth dimension of Innovation 
+The **Lorraine Fab Living Lab® (LF2L®)** is the pedagogical support of the [ENSGSI School](https://ensgsi.univ-lorraine.fr/) and the research platform of the [ERPI Laboratory](https://erpi.univ-lorraine.fr/) dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm  bringing together in the same space complementary advanced tools.  
+
+The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual  framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators
+
+:::
+
+
+
+
+# Recents
+
+
+

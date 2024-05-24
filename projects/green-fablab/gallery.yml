@@ -1,0 +1,30 @@
+- category: Notre recherche
+  description: |
+    Articles scientifiques 
+  tiles:
+    - title: Protocol de précision
+      subtitle: standard pour les imprimantes 3D.
+      href: http://www.tandfonline.com/doi/abs/10.1080/17452759.2014.919553
+      #code: https://github.com/quarto-dev/quarto-gallery/blob/main/articles/html/html.qmd
+      thumbnail: figures/article-2014.png
+      publicationdate: 2014-01-01
+    - title: Récyclage pour l'impression
+      subtitle: Proposition métodologique
+      href: https://github.com/nmfs-opensci/quarto_titlepages/blob/main/example_1.pdf
+      #code: https://github.com/nmfs-opensci/quarto_titlepages/blob/main/example_1.qmd
+      thumbnail: figures/article-2015.png
+    # - title: MS Word
+    #   subtitle: for Office workflows
+    #   href: https://quarto-dev.github.io/quarto-gallery/articles/msword/msword.docx
+    #   code:  https://github.com/quarto-dev/quarto-gallery/blob/main/articles/msword/msword.qmd
+    #   thumbnail: figures/teaser.jpg
+    # - title: HTML
+    #   subtitle: with advanced layout
+    #   href: https://quarto-dev.github.io/quarto-gallery/page-layout/tufte.html
+    #   code: https://github.com/quarto-dev/quarto-gallery/blob/main/page-layout/tufte.qmd
+    #   thumbnail: figures/teaser.jpg
+    # - title: PDF
+    #   subtitle: with advanced layout
+    #   href: https://quarto-dev.github.io/quarto-gallery/page-layout/tufte.pdf
+    #   code: https://github.com/quarto-dev/quarto-gallery/blob/main/page-layout/tufte.qmd
+    #   thumbnail: figures/teaser.jpg
