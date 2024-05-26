@@ -51,7 +51,7 @@ Référent Technique
 :::
 
 
-## Équipe de Stagiares 2024 - 2024
+## Équipe de Stagiares 2023 - 2024
 
 ::: {layout="[30,30,30]"}
 
