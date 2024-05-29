@@ -4,8 +4,8 @@ title: "Lorraine Smart Cities Living Lab -LSCLL-"
 subtitle: "L’Université de Lorraine au service des citoyens et des territoires "
 categories: 
   - Living Lab
-  - Collaboratif
-  - Quintuple hélice
+  - Collaborative
+  - Quintuple Helix
 
 toc: true
 page-layout: article
