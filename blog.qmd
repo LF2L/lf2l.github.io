@@ -4,7 +4,7 @@ title-fr: "Actualités du LF2L"
 subtitle: "Les dernières contributions du LF2L à la pédagogie et à la recherche"
 listing:
   id: blog
-  contents: "posts/*/*/*/*.qmd"
+  contents: "posts/2024/*/*/*.qmd"
   categories: true
   sort: "date desc"
   include:

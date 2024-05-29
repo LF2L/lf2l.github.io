@@ -1,0 +1,36 @@
+---
+lang: fr
+title: "Démonstration de l'outil innovant de formation en réalité étendue à la cité des sciences à Paris"
+#subtitle: " "
+date: 2024-03-15
+categories:
+  - Retour sur
+toc: true
+---
+
+![](Alex.jpg){.preview-image}
+
+
+Après avoir été expérimenté par les étudiants ingénieurs de l’Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI), ainsi que présenté à la communauté universitaire lors d’une journée thématique en février dernier, le grand public a eu l'opportunité de découvrir l’outil de conception de formations HELP XR.  
+
+ 
+
+Cet outil, soutenu par l'Université de Lorraine et la Région Grand Est, et expérimenté dans les locaux du LF2L, vise à simplifier le travail des instructeurs dans la préparation des formations en réalité étendue. L’idée originale de cet outil développé par l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’ENSGSI est de créer des formations qui soient disponibles simultanément en réalité virtuelle, en réalité augmentée et en 3D sur navigateur web. 
+
+ 
+
+C'est grâce à l'invitation d’Isabelle Chabanon-Pouget, cheffe de projets culture numérique, que Alex Gabriel, chercheur à l’ERPI et intervenant à l’ENSGSI, a pu présenter HELP XR lors du mois des technologies immersives à la Cité des sciences et de l'industrie. 
+
+ 
+
+La douzaine de personnes ayant participé à la démonstration ont pu apprendre avec la réalité augmentée à utiliser une machine de découpe laser disponible au Carrefour du Numérique² de la Cité des Sciences. 
+
+ 
+
+Cette participation illustre l’intérêt croissant pour les technologies immersives et leurs intégrations dans les formations de l’ENSGSI. Un groupe de Master 2 IDEAS avait d’ailleurs déjà ouvert la voie d’une collaboration avec Universcience, maison mère de la Cité des Sciences, en réalisant un projet de Design Thinking sur la thématique de la réalité virtuelle. 
+
+Pour découvrir l’outil, nous vous invitons à venir nous voir lors du Forum – L’odysée PLEIADES le 22 mars 2024, ou de contacter Alex Gabriel. 
+
+ 
+
+#LF2L #Lorrainefablivinglab #ENSGSI #MasterIDEAS #ERPI #UnivLorraine #PLEIADES #TechnologiesImmersives #Innovation #VR #AR #CitéDesSciences #Universcience 

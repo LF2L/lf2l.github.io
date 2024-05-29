@@ -12,7 +12,6 @@ toc: true
 
 ![](preview.jpeg){.preview-image}
 
-
 Découvrez le **Lorraine Fab Living Lab® (LF2L)**, membre de la fédération des espaces d'innovation dans le cadre du programme Sirius. 
 Un espace, porté par l'ENSGSI et le laboratoire ERPI, qui se positionne comme une plate-forme d'acceptabilité des innovations et d'évaluation prospective des usages.
 

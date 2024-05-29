@@ -3,41 +3,18 @@
     "listing": "/blog.html",
     "items": [
       "/posts/2024/04/25/index.html",
-      "/posts/2024/04/09/index.html"
+      "/posts/2024/04/09/index.html",
+      "/posts/2024/03/15/index.html",
+      "/posts/2024/03/08/index.html"
     ]
-  },
-  {
-    "listing": "/index-2.html",
-    "items": []
-  },
-  {
-    "listing": "/index.en.html",
-    "items": [
-      "/posts/2021/2021-04-22-Societe-inclusive.html"
-    ]
-  },
-  {
-    "listing": "/blog.en.html",
-    "items": []
-  },
-  {
-    "listing": "/projects/green-fablab/index.html",
-    "items": []
   },
   {
     "listing": "/index.html",
     "items": [
       "/posts/2024/04/25/index.html",
-      "/posts/2024/04/09/index.html"
-    ]
-  },
-  {
-    "listing": "/project.html",
-    "items": [
-      "/projects/extended-reality/index.html",
-      "/projects/green-fablab/index.html",
-      "/projects/lorraine-smart-cities-living-lab/index.html",
-      "/projects/open-citizen-lab/index.html"
+      "/posts/2024/04/09/index.html",
+      "/posts/2024/03/15/index.html",
+      "/posts/2024/03/08/index.html"
     ]
   }
 ]
