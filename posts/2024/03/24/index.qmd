@@ -1,0 +1,23 @@
+---
+lang: fr
+title: "Printemps de l'Innovation"
+#subtitle: " "
+date: 2024-03-24
+categories:
+  - Retour sur
+toc: true
+---
+
+![](DSC02164_retouchee.jpg){.preview-image}
+
+La seconde partie du Printemps de l’Innovation 2024, séminaire annuel organisé par le Réseau de Recherche sur l'Innovation, a eu lieu le 21 mars dans les locaux du LF2L. Organisée par Fedoua Kasmi, Ph.D, Laure Morel et Laurent Dupont. Il a rassemblé 10 intervenants de 6 pays européens et du Canada sur : "Les innovations systémiques : industrie, société, environnement”. Près de 90 personnes y ont assisté  sur place ou en ligne. 
+
+Blandine Laperche, présidente du RRI, a ouvert la journée en rappelant les nombreuses activités et publications scientifiques de ce réseau pluridisciplinaire : économistes, gestionnaires, ingénieurs, etc. Mauricio Camargo et Laurent Dupont, ont accueilli les participants sur la plateforme LF2L de l'Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) et de l’ERPI | Equipe de Recherche sur les Processus Innovatifs. 
+
+Muthu De Silva, professeur en innovation et entrepreneuriat à l’Université Birkbeck de Londres (UK) et consultante à l’OCDE, a exploré le thème de « L’innovation écologique et co-création : la contribution des universités » en plénière d’ouverture. Elle a mis en lumière le rôle crucial des universités pour relier les citoyens, entreprises et gouvernements, soulignant l'importance des Fab Labs et Living Labs dans la recherche en innovation au service de l’environnement. 
+
+La matinée s’est poursuivie par une table ronde qui a réuni autour de M. Camargo Konstantinos Tsagarakis (Grèce), Viktor Prokop (R.Tch), Xavier Vence Deza (Espagne), Sophie Boutillier (Fr) et Olivier CHERY (Fr.) pour une discussion autour de l'économie circulaire et de l'innovation systémique au service des filières et territoires durables. Parallèlement, les participants pouvaient aussi participer à 2 ateliers sur la confiance et l’innovation organisés par Frédéric Bornarel, Helene Delacour, Sandrine Virgili du CEREFIGE - Centre Européen de Recherche en Economie Financière et Gestion des Entreprises. 
+
+L’après-midi, Patrick Cohendet, prof. titulaire à HEC Montréal (Canada) est intervenu sur « Confiance, Innovation et Renouveau organisationnel : une lecture à partir de la théorie des communs. » Cette session plénière a été suivie d’une table ronde sur « les écosystèmes de co-création au service de l’innovation systémique et circulaire ». Animée par L. Dupont, elle a rassemblé les témoignages d'Alexander Brem (All.), Manuel Moritz (All.), Robert Mies (All.) et Antoine Daval (Fr.). 
+
+En parallèle, les collègues du CEREFIGE ont poursuivi les ateliers sur la confiance. 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title></title>
+<title>Communities</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,11 +31,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -67,98 +66,17 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recents .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recents'] = new List('listing-recents', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-<style>
-
-      .quarto-title-block .quarto-title-banner {
-        background: rgba(255, 255, 255, 1);
-      }
-</style>
-<style>
-.quarto-title-block .quarto-title-banner {
-  background-position-y: center;
-  height: 22vh;
-}
-.quarto-title-block .quarto-title-banner::before {
-  background-image: url(images/banners/banner01.jpg);
-  background-size: cover;
-  content: "";
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 0.25;
-  }
-
-</style>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="assets/fabio.css">
-<meta property="og:title" content="">
+<meta property="og:title" content="Communities">
+<meta property="og:description" content="An space for collaboration among the diverse communities at the LF2L">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -197,214 +115,93 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title"><img src="images/1-home/Logo-LF2L.png" class="img-fluid quarto-figure quarto-figure-center" style="width:80.0%"></h1>
-                      </div>
-  </div>
-  <div class="quarto-title-meta column-page">
-    </div>
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Communities</h1>
+<p class="subtitle lead">An space for collaboration among the diverse communities at the LF2L</p>
+</div>
 
 
 
+<div class="quarto-title-meta column-page">
 
-
-<section id="entrez-dans-la-4ème-hélice-de-linnovation" class="level2" style="text-align:center">
-<h2 style="text-align:center" data-anchor-id="entrez-dans-la-4ème-hélice-de-linnovation">Entrez dans la 4ème hélice de l’Innovation</h2>
-<div class="quarto-about-trestles content column-page">
-  <div class="about-entity">
-    <img src="images/1-home/LF2L-concept-00.jpg" class="about-image
-  rounded " style="width: 20em;">
-
+    
+  
+    
   </div>
-  <div class="about-contents"><div id="hero-LF2L">
-<p>Le <strong>Lorraine Fab Living Lab® (LF2L®)</strong> est une plate-forme d’acceptabilité des innovations et d’évaluation prospective des usages porté par l’<a href="https://ensgsi.univ-lorraine.fr/">Ecole ENSGSI</a> et le <a href="https://erpi.univ-lorraine.fr/">Laboratoire ERPI</a> de l’<a href="https://www.univ-lorraine.fr/">Université de Lorraine</a>. Il soutient la création et l’obtention de résultats à travers un processus établi basé sur le paradigme de l’usage réunissant dans un même espace des outils avancés complémentaires. <a href="./about.html" class="btn btn-primary" role="button" data-toggle="tooltip" title="Here's a tooltip">Pour en savoir plus</a></p>
-<div>
-</div>
-<div class="quarto-layout-panel" data-layout-nrow="1">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+  
+
+
+</header>
+
+
+<p>overlay_image: “assets/images/banners/LF2L-3.jpg”</p>
+<section id="communities-at-the-lf2l" class="level1">
+<h1>Communities at the LF2L</h1>
+<section id="university" class="level2">
+<h2 class="anchored" data-anchor-id="university">University</h2>
+<p>The Lorraine Fab Living Lab® is a research and experimentation platform managed by the ERPI laboratory. Through its strong links with ENSGSI, the platform is also a pedagogical support for active teaching in certain curricula. Whether through the use of modeling and prototyping devices or by facilitating collaborative work such as for ingEXys workshops.</p>
+<p>LF2L® also supports a variety of research projects of the ERPI and its partners. The laboratory’s thirty permanent researchers work on, among other things, the capacity of SMEs to innovate, the recycling of raw materials for additive manufacturing, the consideration and involvement of users in projects (Living lab), evaluation by use, collaborative methodologies for smart-city, immersive devices, creativity, innovation spaces.</p>
+<p>LF2L® thus hosts the work of the PRINCIP Research Chair (accredited by the Fund for Innovation in Industry) dedicated to SMEs, and the REVES Collaborative Chair (Ecological Renaissance of Cities), supported by ENEDIS, EDF, the Greater Nancy Metropolitan Area, the CCPHVA, deploying the Smart Cities concept to propose solutions to the new societal challenges faced by cities and territories.</p>
+<section id="are-you-a-researcher" class="level3">
+<h3 class="anchored" data-anchor-id="are-you-a-researcher">Are you a researcher?</h3>
+<p>The LF2L® platform interests you as part of your research, you wish to collaborate with the ERPI laboratory or participate in one of its research programs.</p>
+<p>For more details about our research, <a href="./publications/">see our scientific publications.</a></p>
+</section>
+<section id="gsi-lab-who-are-we" class="level3">
+<h3 class="anchored" data-anchor-id="gsi-lab-who-are-we">GSI Lab : Who are we ?</h3>
+<p>Join the association <strong>GSILab</strong> - every Thursday from 1:30 p.m. to 5:30 p.m. The Lorraine Fab Living Lab® opens its doors to you as part of educational courses.</p>
+<p><img src="./assets/images/4-communities/GSIlab/GSI-lab.jpg" class="img-fluid" alt="GSI Lab">{: .align-left}</p>
+<p><strong>GSI Lab</strong> is an association created in 2015 by the students of <strong>ENSGSI</strong>. It allows the members to create objects and achieve personnal projects within the <strong>Lorraine Fab Living Lab®</strong>. It has got an educational purpose that helps students to developp their skills all along their projects.</p>
+<p><strong>How you can join GSI Lab ?</strong> Membership is restricted to <strong>ENSGSI</strong>’s students. If you want to register, you just need to come to the Lorraine Fab Living Lab® (<a href="./info/">map</a>) on Thursdays between 2 p.m. to 6 p.m, or you can ask a member of the GSILab Association.</p>
+<p><strong>You have an idea and want to make it ?</strong> You found a project but you don’t have enought knowledge to achieve it (for now) ? The <strong>GSILab</strong> can help you and teach you about laser cutter, 3D printing, modelization softwares, slicers and more…</p>
+</section>
+</section>
+<section id="institutions" class="level2">
+<h2 class="anchored" data-anchor-id="institutions">Institutions</h2>
+<p>As a platform of LORnTECH (CAPITALE FRENCH TECH), the Lorraine Fab living Lab® aims to support territories and its institutions in their collaborative innovation projects for the benefit of citizens. Thanks to the universality of the University, the LF2L® platform makes it possible to host and develop “Public - Private - Population Partnerships” such as the Lorraine Smart Cities Living Lab or the REVES (Ecological Renaissance of Cities) collaborative chair supported by the NIT Foundation of the University of Lorraine</p>
+<p>In this context, LF2L® contributes to the implementation and evaluation of “Smart City demonstrators” such as the <a href="https://www.epa-alzette-belval.fr/FR/Participer-Alzette-Belval/Living-Lab-Alzette-Belval.html">Smart City Living Lab Alzette Belval</a>. LF2L® organizes and implements citizen workshops, contributes to citizen science, participates in scientific and technical dissemination events.</p>
+<p><img src="./assets/images/4-communities/collectivities/label.png" class="img-fluid" alt="communities at lf2l">{: .align-right width=“200”}</p>
+<blockquote class="blockquote">
+<p>Metropolis of Greater Nancy elected Innovative Territory OR in December 2016 by the Interconnected 2016 thanks to the <em>‘VélOstan Connecté’</em> project supported by the LF2L®.</p>
+</blockquote>
+<p><img src="./assets/images/4-communities/collectivities/activites.jpg" class="img-fluid" alt="communities at lf2l">{: .align-center width=“500”}</p>
+</section>
+<section id="enterprises" class="level2">
+<h2 class="anchored" data-anchor-id="enterprises">Enterprises</h2>
+<p>Are you a company? Start-up, SME-SMI or Large Group?. Designed with its industrial partners, the <strong>Lorraine Fab Living Lab® (LF2L®)</strong> opens its doors to you for tailor-made partnerships adapted to your needs.</p>
+<ul>
+<li>For a specific use of the machines (FabLab type: laser cutting, 3D printer, CNC, etc.)</li>
+<li>For an expertise integrating users, usage metrology (eye-tracking, physiological sensors, etc.)</li>
+<li>For expertise or know-how in material recyclability, Green FabLab, 3D printing</li>
+<li>Questions related to collaborative engineering, Smart City, immersive devices, an R&amp;D project, innovation financing or scientific and technical sponsorship.</li>
+</ul>
+<p>Working with the LF2L, you benefit from the experience of the ERPI laboratory, which for more than thirty-five years has been conducting research in the transformation of organisations and territories through innovative processes. Its activities focus on two research themes: the assessment of acceptability in the upstream stages of innovation (methodologies and technologies) and the identification, modelling, integration and capitalisation of knowledge and skills in the upstream stages of innovative projects.</p>
+<p>In addition, in twenty years, the engineering school of Innovation <strong>ENSGSI</strong> associated with the <strong>ERPI laboratory</strong>, has demonstrated its ability to teach and disseminate tools, methods and skills conducive to the emergence of innovation.</p>
+</section>
+<section id="makers" class="level2">
+<h2 class="anchored" data-anchor-id="makers">Makers - Nancy Bidouille (NyBi)</h2>
+<p>The digital communication revolution is behind us. We are now living the revolution of Personal Manufacturing or DIY.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/logos/ENSGSI-Horizontal.png" class="img-fluid figure-img"></p>
-<figcaption><a href="https://ensgsi.univ-lorraine.fr/"></a></figcaption>
+<p><img src="./assets/images/4-communities/makers/NYBI.png" class="img-fluid figure-img"></p>
+<figcaption>NYBI</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logos/ERPI-Horizontal.svg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://erpi.univ-lorraine.fr/"></a></figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</div></div>
-</div>
+<p>To open up to as many people as possible, the <strong>Lorraine Fab Living Lab®</strong> makes its premises and resources available every Thursday evening to the <a href="http://nybi.cc/">association <strong>NYBI</strong></a>.</p>
+<p>The University of Lorraine thus enables all those who want to manufacture by themselves, discover new technologies, learn to use them, to benefit from the equipment and spaces resulting from research.</p>
+<p>The NYBI welcomes all audiences every Thursday, from 7pm to midnight, to discover the world of FabLabs. People interested in joining the association are welcome in the early evening to discover the places and members. For the members of the association the LF2L is available until midnight.</p>
+<p>Contact et information: <a href="http://nybi.cc/">NYBI.CC</a></p>
+
 
 </section>
-<section id="actualités" class="level1 center">
-<h1 class="center">Actualités</h1>
-<div id="listing-recents" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Factuel" data-listing-date-sort="1713996000000" data-listing-file-modified-sort="1717008810391" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="406">
-<a href="./posts/2024/04/25/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/2024/04/25/preview.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title" data-anchor-id="actualités">
-[3 questions] au LF2L, membre de la fédération des espaces d’innovation
-</h5>
-<div class="card-text listing-description">
-Découvrez le <strong>Lorraine Fab Living Lab® (LF2L)</strong>, membre de la fédération des espaces d’innovation dans le cadre du programme Sirius. Un espace, porté par l’ENSGSI et le…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Factuel de l’UL
-</div>
-<div class="listing-date">
-25 avr. 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Projet" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1717008829835" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
-<a href="./posts/2024/04/09/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/2024/04/09/img-1.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Banc d’essai
-</h5>
-<div class="card-text listing-description">
-Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-LF2L Team
-</div>
-<div class="listing-date">
-9 avr. 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Retour sur" data-listing-date-sort="1711234800000" data-listing-file-modified-sort="1717009830719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="370">
-<a href="./posts/2024/03/24/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/2024/03/24/DSC02164_retouchee.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Printemps de l’Innovation
-</h5>
-<div class="card-text listing-description">
-La seconde partie du Printemps de l’Innovation 2024, séminaire annuel organisé par le Réseau de Recherche sur l’Innovation, a eu lieu le 21 mars dans les locaux du LF2L.…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-24 mars 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Aucun article correspondant
-</div>
-</div>
-<div style="display: flex; justify-content: right; height: 100px;">
-<p><a href="./blog.html" class="btn btn-primary btn-lg" role="button" data-toggle="tooltip" title="Actualité">Tout l’actualité</a></p>
-</div>
-</section>
-<section id="réseaux" class="level1">
-<h1>Réseaux</h1>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-nrow="1">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logos/ENOLL.svg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://enoll.org/">European Network of Living Labs - ENOLL</a></figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logos/RFF.svg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://rfflabs.fr/">Réseau Français des Fablabs - RFFLabs</a></figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logos/pil.svg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/">Plug In Labs Lorraine</a></figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logos/ll.svg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://www.learninglab-network.com/espace/lorraine-fab-living-lab/">Learning Lab Network</a></figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="nos-labels" class="level1">
-<h1>Nos Labels</h1>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-nrow="1">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logos/start-lue.png" class="img-fluid figure-img"></p>
-<figcaption>Labélisation STAR LUE</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logos/MESR.svg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/">Les lieux inspirants de l’Enseignement supérieur</a></figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-
-
-
-
 </section>
 
 </main> <!-- /main -->
@@ -428,6 +225,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
