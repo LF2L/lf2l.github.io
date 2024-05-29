@@ -47,6 +47,7 @@ Depuis 2019, Lorraine Smart City living Lab soutient plusieurs projets nationaux
 ::: {.column-margin}
 ![](figures/eu.png){width="150px"}
 :::
+* [LAUDS Factories](https://lauds.eu/) - (2024-2026) Local Accessible Urban Digital and Sustainable Factories: New European Bauhaus Approach to Open and Decentralised Urban Manufacturing - Co-funded by the European Union, 2024-2026, GA [101135986](https://cordis.europa.eu/project/id/101135986)
 
 * [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - (2019-2023) Projet Erasmus + Renforcement des capacités de recherche appliquée et d'innovation en Amérique latine à travers des laboratoires de co-création pour l'atténuation et l'adaptation au changement climatique
 
@@ -115,4 +116,4 @@ En 2010-2011, le Lorraine Smart Cities Living Lab a reçu le soutien de la DIREC
 
 # Contacts
 
-Laurent Dupont, Ing., Dr., Coordinateur Scientifique : l.dupont {at} univ-lorraine.fr
+Laurent Dupont, Ing., Dr., Coordinateur Scientifique du Lorraine Smart Cities Living Lab : l.dupont {at} univ-lorraine.fr
