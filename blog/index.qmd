@@ -13,7 +13,7 @@ listing:
 format:
  html:    
    template-partials: 
-     - partials/title-block.html  
+     - ../partials/title-block.html  
 
 title-block-banner: "#FFFFFF"
 title-block-banner-color: "#592c8e"

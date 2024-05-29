@@ -26,7 +26,7 @@ website:
 
     right:
       - href: about.qmd
-      - href: blog.qmd
+      - href: blog/index.qmd
       #- href: project.qmd      
       - href: publications.qmd      
       #- href: community.qmd

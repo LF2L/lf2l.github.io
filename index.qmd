@@ -68,7 +68,7 @@ Il soutient la création et l'obtention de résultats à travers un processus é
 :::
 
 :::{style="display: flex; justify-content: right; height: 100px;"}
-[Tout l'actualité](/blog.html){.btn .btn-primary .btn-lg role="button" data-toggle="tooltip" title="Actualité" }
+[Tout l'actualité](/blog/){.btn .btn-primary .btn-lg role="button" data-toggle="tooltip" title="Actualité" }
 :::
 
 

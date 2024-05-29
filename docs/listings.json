@@ -12,11 +12,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/2024/04/25/index.html",
-      "/posts/2024/04/09/index.html",
-      "/posts/2024/03/24/index.html",
-      "/posts/2024/03/15/index.html",
-      "/posts/2024/03/08/index.html"
+      "/blog/posts/2024/04/25/index.html",
+      "/blog/posts/2024/04/09/index.html",
+      "/blog/posts/2024/03/24/index.html",
+      "/blog/posts/2024/03/15/index.html",
+      "/blog/posts/2024/03/08/index.html"
     ]
   },
   {
@@ -45,5 +45,15 @@
   {
     "listing": "/index-2.html",
     "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/2024/04/25/index.html",
+      "/blog/posts/2024/04/09/index.html",
+      "/blog/posts/2024/03/24/index.html",
+      "/blog/posts/2024/03/15/index.html",
+      "/blog/posts/2024/03/08/index.html"
+    ]
   }
 ]

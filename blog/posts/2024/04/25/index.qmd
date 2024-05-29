@@ -23,7 +23,7 @@ Factuel a eu l'opportunité d'échanger avec Laure Morel, directrice de l'ENSGSI
 
 ::: {layout="[30,70]"}
 
-![](../../../../images/logos/LF2L-Vertical.jpg)
+![](LF2L-Vertical.jpg)
 
 En célébrant son 10e anniversaire cette année, le LF2L confirme sa reconnaissance comme acteur majeur dans l'écosystème innovant du Grand Est. Soutenu dès son ouverture par l'Université de Lorraine, la région, la métropole du Grand Nancy, des groupes industriels, des collectivités, des réseaux de PME-PMI, des associations, le LF2L est un lieu qui permet de mobiliser tous les acteurs à travers un continuum d'innovation 2D-3D-4D au service d’un développement soutenable.
 

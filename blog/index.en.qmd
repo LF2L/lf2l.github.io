@@ -3,5 +3,5 @@ title: "Blog"
 listing:
   contents: "posts/*/*.qmd"
   include:
-    lang: fr
+    lang: en
 ---
