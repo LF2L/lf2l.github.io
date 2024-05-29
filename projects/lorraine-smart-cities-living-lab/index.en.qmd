@@ -40,7 +40,7 @@ It covers: 5 Issues for innovative territories:
 
 
 
-## Quelques projets 
+# Quelques projets 
 
 Since 2019, Lorraine Smart City living Lab support several National or European projects involving the Université de Lorraine:
 
@@ -60,7 +60,7 @@ Since 2019, Lorraine Smart City living Lab support several National or European 
 * [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action “Territoires d’innovation pédagogique” (Territories of Pedagogical Innovation)
 
 
-## A recognized Living Lab, the result of the actors who make it up
+# A recognized Living Lab, the result of the actors who make it up
 
 Designed from 2008, by the ERPI laboratory team in partnership with local socio-economic actors, the LSCLL is the LL of the Université de Lorraine. It was recognized and [accredited in 2010 by ENoLL](https://enoll.org/network/living-labs/?livinglab=lorraine-smart-cities-living-lab), the European Living Lab network. In 2013, and in 2015, the LSCLL became a co-founding member of France Living Labs and Francophonie Living Labs.
 
@@ -76,7 +76,7 @@ In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIR
 
 
 
-## Summary of the main results (2008-2017)
+# Summary of the main results (2008-2017)
 
 * More than 50 Scientific publications, thesis, reports: fundamentals and methodologies, capitalisation and dissemination (see: [Rubriques Publications](http://lf2l.fr/publications/)).
 * 10 6 PhD theses defended: 
@@ -108,6 +108,6 @@ In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIR
 * The sponsorship of several Living Labs now recognized: [Technoport in Luxembourg](https://enoll.org/network/living-labs/?livinglab=technoport-living-lab-luxembourg), [Aktan in Orléan](https://aktan.fr/living-lab/)
 * Support in the development of innovation spaces in the Greater East Region: ex TUBA in Mulhouse, Pole Territorial Innovation in Dieuze, etc., in Colombia (ViveLabs network), in Canada, etc.
 
-## Contacts
+# Contacts
 
 Laurent Dupont, Ing., Dr., scientific coordinator : l.dupont {at} univ-lorraine.fr
