@@ -13,7 +13,7 @@ page-layout: article
 
 # Living lab à l'Université de Lorraine
 
-L'Université de Lorraine a soutenu et développé le Living Lab en région Grand Est depuis 2008!
+Avec le Living Lab piloté par l'ERPI et de l'ENSGSI, l'Université de Lorraine soutient et développe l'approche Lab en région Grand Est, depuis 2008! 
 
 Fort de l'universalité de l'université et de sa pluridisciplinarité, le Lorraine Smart Cities Living Lab (LSCLL) expérimente en termes de projets, de gouvernance et de plateforme d'accompagnement.
 
