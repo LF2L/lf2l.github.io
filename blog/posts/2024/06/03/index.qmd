@@ -3,7 +3,7 @@ lang: fr
 title: "CLIP USACH"
 subtitle: "Collaboration ENSGSI / ERPI et GRT gaz"
 author: 
-  - "Factuel de l'UL"
+  - "Mjellma LUZHA"
 date: 2024-06-03
 categories:
   - Actualités
