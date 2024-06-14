@@ -1,6 +1,6 @@
 ---
-lang: fr
-title: "Printemps de l'Innovation"
+lang: en
+title: "Spring of Innovation"
 #subtitle: " "
 date: 2024-03-24
 categories:
@@ -10,14 +10,15 @@ toc: true
 
 ![](DSC02164_retouchee.jpg){.preview-image}
 
-La seconde partie du Printemps de l’Innovation 2024, séminaire annuel organisé par le Réseau de Recherche sur l'Innovation, a eu lieu le 21 mars dans les locaux du LF2L. Organisée par Fedoua Kasmi, Ph.D, Laure Morel et Laurent Dupont. Il a rassemblé 10 intervenants de 6 pays européens et du Canada sur : "Les innovations systémiques : industrie, société, environnement”. Près de 90 personnes y ont assisté  sur place ou en ligne. 
+The second part of Printemps de l'Innovation 2024, an annual seminar organized by the Innovation Research Network, took place on March 21 at LF2L. Organized by Fedoua Kasmi, Ph.D, Laure Morel and Laurent Dupont. It brought together 10 speakers from 6 European countries and Canada on: "Systemic innovations: industry, society, environment". Nearly 90 people attended on site or online. 
 
-Blandine Laperche, présidente du RRI, a ouvert la journée en rappelant les nombreuses activités et publications scientifiques de ce réseau pluridisciplinaire : économistes, gestionnaires, ingénieurs, etc. Mauricio Camargo et Laurent Dupont, ont accueilli les participants sur la plateforme LF2L de l'Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) et de l’ERPI | Equipe de Recherche sur les Processus Innovatifs. 
+Blandine Laperche, President of the RRI, opened the day's proceedings with a reminder of the many activities and scientific publications of this multi-disciplinary network: economists, managers, engineers, etc. Mauricio Camargo and Laurent Dupont, welcomed participants to the LF2L platform of the Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) and the ERPI | Equipe de Recherche sur les Processus Innovatifs. 
 
-Muthu De Silva, professeur en innovation et entrepreneuriat à l’Université Birkbeck de Londres (UK) et consultante à l’OCDE, a exploré le thème de « L’innovation écologique et co-création : la contribution des universités » en plénière d’ouverture. Elle a mis en lumière le rôle crucial des universités pour relier les citoyens, entreprises et gouvernements, soulignant l'importance des Fab Labs et Living Labs dans la recherche en innovation au service de l’environnement. 
+Muthu De Silva, Professor of Innovation and Entrepreneurship at Birkbeck University London (UK) and consultant to the OECD, explored the theme of "Ecological innovation and co-creation: the contribution of universities" in the opening plenary. She highlighted the crucial role of universities in connecting citizens, businesses and governments, underlining the importance of Fab Labs and Living Labs in innovation research for the benefit of the environment. 
 
-La matinée s’est poursuivie par une table ronde qui a réuni autour de M. Camargo Konstantinos Tsagarakis (Grèce), Viktor Prokop (R.Tch), Xavier Vence Deza (Espagne), Sophie Boutillier (Fr) et Olivier CHERY (Fr.) pour une discussion autour de l'économie circulaire et de l'innovation systémique au service des filières et territoires durables. Parallèlement, les participants pouvaient aussi participer à 2 ateliers sur la confiance et l’innovation organisés par Frédéric Bornarel, Helene Delacour, Sandrine Virgili du CEREFIGE - Centre Européen de Recherche en Economie Financière et Gestion des Entreprises. 
 
-L’après-midi, Patrick Cohendet, prof. titulaire à HEC Montréal (Canada) est intervenu sur « Confiance, Innovation et Renouveau organisationnel : une lecture à partir de la théorie des communs. » Cette session plénière a été suivie d’une table ronde sur « les écosystèmes de co-création au service de l’innovation systémique et circulaire ». Animée par L. Dupont, elle a rassemblé les témoignages d'Alexander Brem (All.), Manuel Moritz (All.), Robert Mies (All.) et Antoine Daval (Fr.). 
+The morning continued with a round table discussion with Mr. Camargo, featuring Konstantinos Tsagarakis (Greece), Viktor Prokop (Czech Republic), Xavier Vence Deza (Spain), Sophie Boutillier (France) and Olivier CHERY (France), focusing on the circular economy and systemic innovation for sustainable industries and territories. At the same time, participants could also take part in 2 workshops on trust and innovation organized by Frédéric Bornarel, Helene Delacour and Sandrine Virgili from CEREFIGE - Centre Européen de Recherche en Economie Financière et Gestion des Entreprises. 
 
-En parallèle, les collègues du CEREFIGE ont poursuivi les ateliers sur la confiance. 
+In the afternoon, Patrick Cohendet, full professor at HEC Montréal (Canada) spoke on "Trust, Innovation and Organizational Renewal: a reading from the theory of the commons". This plenary session was followed by a round-table discussion on "Co-creation ecosystems at the service of systemic and circular innovation". Moderated by L. Dupont, it featured presentations by Alexander Brem (All.), Manuel Moritz (All.), Robert Mies (All.) and Antoine Daval (Fr.). 
+
+At the same time, colleagues from CEREFIGE continued their workshops on trust. 

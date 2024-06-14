@@ -1,0 +1,41 @@
+---
+lang: fr
+title: "La visite au LF2L de représentants de HES-SO Valais - Wallis "
+#subtitle: "Collaboration ENSGSI / ERPI et GRT gaz"
+author: 
+  - "LF2L Team"
+date: 2024-03-08
+categories:
+  - Retour sur
+toc: true  
+---
+
+![](DSC00316.jpg){.preview-image}
+
+
+Le 07 mars 2024, le Lorraine Fab Living Lab, plateforme de support à l’enseignement et à la recherche de l’ENSGSI et de l’ERPI, a eu le plaisir de recevoir une délégation de la Haute école Suisse, HES-SO Valais - Wallis.  
+
+Cette délégation était composée de :  
+
+- Mme. Joëlle Mastelic, Energy Living Lab, responsable cours Innovation Industrielle (Systèmes industriels) 
+- M. Christophe Bianchi, responsable Institut systèmes industriels, délégué de la HEI au Copil du Fabulle (laboratoire d’innovation) 
+- M. Steve Quibus, responsable projet Fab Region Sion (financé par InnoSuisse), prototypage rapide bio sourcé pour les PME locales 
+- M. Rémi Heredero, coordinateur espace Fabulle 
+- M. Mathieu Soutrenon, professeur systèmes industriels, fabrication additive, fabrication de structures catalytiques. 
+- M. Kevin Pernet, président du FabLab 
+
+ 
+
+Après un mot de bienvenue de la part de Mme le Directeur de l’ENSGSI, Laure Morel, et de M. le Directeur de l’ERPI, Mauricio Camargo, cette journée de visite a commencé par une réunion pédagogique qui portait sur l’intérêt d’avoir un FabLab et un Living Lab comme support d’aide à la pédagogie.  
+
+Puis, cette réunion a été suivie d’une visite du Green Fab Lab, afin d’expliquer le concept de ce dernier, et de montrer les réalisations en matière de recyclage plastique au sein du Green FabLab.  
+
+Enfin, cette journée de visite s’est conclue par une réunion de recherche durant laquelle les deux équipes ont pu échanger sur les thématiques de recherches qu’elles avaient en commun.  
+
+ 
+
+Après cette journée riche en discussion, les deux équipes se sont quittées avec une invitation pour l’équipe du LF2L à se rendre en Suisse, dans les locaux du HES-SO Valais - Wallis pour une visite de leur Fablab et Living Lab.  
+
+ 
+
+ 

@@ -1,5 +1,5 @@
 ---
-title: "Actualités"
+title: "Recents"
 title-fr: "News of LF2L [In french]"
 subtitle: "Contributiong to teaching and research"
 listing:
@@ -8,7 +8,7 @@ listing:
   categories: true
   sort: "date desc"
   include:
-    lang: fr
+    lang: en
 
 format:
  html:    
@@ -19,12 +19,12 @@ title-block-banner: "#FFFFFF"
 title-block-banner-color: "#592c8e"
 ---
 
-## Nos publications
+## Our publications
 
 :::{#blog}
 :::
 
 
-## Nos mentions sur Factuel de l'UL
+## Nos mentions sur Factuel de l'UL [In French]
 
 <div class='sk-ww-rss-feed' data-embed-id='25407935'></div><script src='https://widgets.sociablekit.com/rss-feed/widget.js' async defer></script>

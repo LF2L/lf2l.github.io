@@ -1,49 +1,50 @@
 ---
-lang: fr
-title: "[3 questions] au LF2L, membre de la fédération des espaces d’innovation"
-subtitle: "Collaboration ENSGSI / ERPI et GRT gaz"
+lang: en
+title: "[3 questions] to LF2L, member of the federation of innovation spaces"
 author: 
-  - "Factuel de l'UL"
-date: 2024-04-25
+  - "LF2L Team"
+date: 2024-04-09
 categories:
-  - Factuel
+  - Projet
 toc: true  
 ---
 
+
 ![](preview.jpeg){.preview-image}
 
-Découvrez le **Lorraine Fab Living Lab® (LF2L)**, membre de la fédération des espaces d'innovation dans le cadre du programme Sirius. 
-Un espace, porté par l'ENSGSI et le laboratoire ERPI, qui se positionne comme une plate-forme d'acceptabilité des innovations et d'évaluation prospective des usages.
+Discover the **Lorraine Fab Living Lab® (LF2L)**, a member of the federation of innovation spaces under the Sirius program. 
+This space, supported by ENSGSI and the ERPI laboratory, is positioned as a platform for the acceptability of innovations and the prospective evaluation of uses.
 
-Factuel a eu l'opportunité d'échanger avec Laure Morel, directrice de l'ENSGSI, Mauricio Camargo, directeur de l'ERPI et Laurent Dupont, responsable scientifique du LF2L pour en savoir plus sur cet espace d'innovation.
+Factuel spoke to Laure Morel, Director of ENSGSI, Mauricio Camargo, Director of ERPI, and Laurent Dupont, Scientific Director of LF2L, to find out more about this innovation space.
 
-## Pouvez-vous nous décliner l’identité du LF2L ?
-
+## Can you tell us who LF2L is?
 
 
 ::: {layout="[30,70]"}
 
 ![](LF2L-Vertical.jpg)
 
-En célébrant son 10e anniversaire cette année, le LF2L confirme sa reconnaissance comme acteur majeur dans l'écosystème innovant du Grand Est. Soutenu dès son ouverture par l'Université de Lorraine, la région, la métropole du Grand Nancy, des groupes industriels, des collectivités, des réseaux de PME-PMI, des associations, le LF2L est un lieu qui permet de mobiliser tous les acteurs à travers un continuum d'innovation 2D-3D-4D au service d’un développement soutenable.
+Celebrating its 10th anniversary this year, LF2L confirms its recognition as a major player in the Grand Est region's innovative ecosystem. Supported from the outset by the Université de Lorraine, the region, the Greater Nancy metropolitan area, industrial groups, local authorities, SME-SMI networks and associations, the LF2L is a place that mobilizes all players through a continuum of 2D-3D-4D innovation at the service of sustainable development.
+
 
 :::
 
 
 
-Implanté au coeur de la ville de Nancy, cet espace de co-création, de matérialisation et d'expérimentation par les usages collabore avec de nombreux réseaux nationaux, européens ou internationaux et contribue à diffuser notre savoir-faire local.
+Located in the heart of Nancy, this space for co-creation, materialization and experimentation through use collaborates with a number of national, European and international networks, helping to disseminate our local know-how.
 
-- Nom : Lorraine Fab Living Lab ® - LF2L
-- Date de création : 2014
-- 10 membres (ce chiffre concerne uniquement le personnels dédiés)
-- Tutelle(s) : Université de Lorraine - ENSGSI - ERPI
-- Site : Nancy
-- Type de publics : Citoyens, entreprises, collectivités, chercheurs et étudiants
+- Name: Lorraine Fab Living Lab ® - LF2L
+- Founded: 2014
+- 10 members (this figure concerns dedicated staff only)
+- Supervisory authority/ies: Université de Lorraine - ENSGSI - ERPI
+- Location: Nancy
+- Type of audience: Citizens, companies, local authorities, researchers and students
 
-## Quelles sont les activités principales de votre espace d’innovation ?
-Au sein du Lorraine Fab Living Lab, diverses activités stimulent l'innovation et la créativité. La création et l’utilisation de « démonstrateurs » de nouveaux produits, procédés, services, et organisations y sont encouragés, mobilisant ainsi entreprises, acteurs des territoires, citoyens et universitaires autour de problématiques communes. Il offre un espace ouvert et fonctionnel de prototypage, à la croisée des concepts d'innovation ouverte, de créativité collective, de Living Lab et de FabLab. Les expérimentations menées reposent sur des approches collaboratives, impliquant les usagers dans la conception et le développement de solutions concrètes pour les territoires du futur.
+## What are the main activities of your innovation space?
+Within the Lorraine Fab Living Lab, various activities stimulate innovation and creativity. The creation and use of "demonstrators" of new products, processes, services and organizations are encouraged, mobilizing companies, local players, citizens and academics around common issues. It offers an open, functional space for prototyping, at the crossroads of open innovation, collective creativity, the Living Lab and the FabLab. The experiments carried out are based on collaborative approaches, involving users in the design and development of concrete solutions for the territories of the future.
 
-## Avez-vous un projet marquant à partager ?
-La création d’une filière de recyclage local du plastique, basée sur la fabrication additive ou l'injection, ouvre des nouvelles opportunités pour l’économie circulaire. Ce projet, le [Green FabLab](/projects/green-fablab/), expérimente au sein du tiers-lieu L'Octroi-Nancy les principes de l’économie circulaire et collaborative, en intégrant les déchets plastiques comme une nouvelle matière première.
 
-Ce démonstrateur illustre la capacité du LF2L à développer des réponses innovantes pour faire face aux enjeux sociétaux et environnementaux d'aujourd'hui et de demain.
+## Do you have an outstanding project to share?
+The creation of a local plastic recycling industry, based on additive manufacturing or injection molding, is opening up new opportunities for the circular economy. This project, the [Green FabLab](/projects/green-fablab/), is experimenting with the principles of the circular and collaborative economy, integrating plastic waste as a new raw material.
+
+This demonstrator illustrates LF2L's ability to develop innovative responses to the social and environmental challenges of today and tomorrow.

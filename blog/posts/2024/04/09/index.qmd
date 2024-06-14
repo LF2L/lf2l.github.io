@@ -1,7 +1,7 @@
 ---
-lang: fr
-title: "Banc d'essai"
-subtitle: "Collaboration ENSGSI / ERPI et GRT gaz"
+lang: en
+title: "Test bench"
+subtitle: "Collaboration ENSGSI / ERPI and GRT gaz"
 author: 
   - "LF2L Team"
 date: 2024-04-09
@@ -13,8 +13,9 @@ toc: true
 
 ![](img-1.png){.preview-image}
 
-Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.
 
-Ce projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.
+As part of the partnership between the Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) / l'ERPI | Equipe de Recherche sur les Processus Innovatifs and GRTgaz, a test bench was designed and built by Benjamin Ennesser-Serville at the Green Fab Lab (an LF2L initiative) to reproduce real working conditions for operators. This use-based evaluation device enabled 2nd-year engineering students at ENSGSI to test their various prototypes as part of the Iterative Design and Evaluation module.
 
-Le LF2L remercie L'Octroi-Nancy qui rend possible nos actions, Alaa Hassan, Maître de Conférence à l’ENSGSI, ainsi que Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni et Joel Wagner de GRT gaz pour cette mission.
+This project, along with the students' prototypes, will be presented at the module's defense on Thursday April 11, 2024, starting at 1:45 pm at ENSGSI.
+
+LF2L would like to thank L'Octroi-Nancy for making our actions possible, Alaa Hassan, Senior Lecturer at ENSGSI, as well as Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni and Joel Wagner from GRT gaz for this mission.

@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,7 +67,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recents .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recents'] = new List('listing-recents', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="assets/fabio.css">
 <meta property="og:title" content="Lorraine Fab Living Lab">
@@ -94,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog/index.html"> 
-<span class="menu-text">Actualités</span></a>
+<span class="menu-text">Recents</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications/index.html"> 
@@ -168,6 +228,88 @@ ul.task-list li input[type="checkbox"] {
 </div></div>
 </div>
 
+<section id="recents" class="level1 center">
+<h1 class="center">Recents</h1>
+<div id="listing-recents" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Actualités" data-listing-date-sort="1717365600000" data-listing-file-modified-sort="1718373310186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<a href="./blog/posts/2024/06/03/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blog/posts/2024/06/03/1.JPG" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="recents">
+CLIP USACH
+</h5>
+<div class="card-text listing-description">
+From May 21 to 24, 2024, the Lorraine Fab Living Lab welcomed a delegation of 14 teachers and professionals from the University of Santiago de Chile (USACH) for the closing…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Mjellma LUZHA
+</div>
+<div class="listing-date">
+Jun 3, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Projet" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1718373345457" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="137">
+<a href="./blog/posts/2024/04/09/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blog/posts/2024/04/09/img-1.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Test bench
+</h5>
+<div class="card-text listing-description">
+As part of the partnership between the Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+LF2L Team
+</div>
+<div class="listing-date">
+Apr 9, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Projet" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1718373447957" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="371">
+<a href="./blog/posts/2024/04/25/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blog/posts/2024/04/25/preview.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+[3 questions] to LF2L, member of the federation of innovation spaces
+</h5>
+<div class="card-text listing-description">
+Discover the <strong>Lorraine Fab Living Lab® (LF2L)</strong>, a member of the federation of innovation spaces under the Sirius program. This space, supported by ENSGSI and the ERPI…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+LF2L Team
+</div>
+<div class="listing-date">
+Apr 9, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<div style="display: flex; justify-content: right; height: 100px;">
+<p><a href="./blog/" class="btn btn-primary btn-lg" role="button" data-toggle="tooltip" title="Actualité">All our news</a></p>
+</div>
+</section>
 <section id="networks" class="level1">
 <h1>Networks</h1>
 <div>
@@ -235,6 +377,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+
 
 
 

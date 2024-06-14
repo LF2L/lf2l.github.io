@@ -1,0 +1,33 @@
+---
+lang: fr
+title: "CLIP USACH"
+subtitle: "Collaboration ENSGSI / ERPI et GRT gaz"
+author: 
+  - "Mjellma LUZHA"
+date: 2024-06-03
+categories:
+  - Actualités
+toc: true  
+---
+
+![](1.JPG){.preview-image}
+
+Le Lorraine Fab Living Lab a accueilli, du 21 au 24 mai 2024, une délégation de 14 enseignants et professionnels de l’Université de Santiago du Chili (USACH) pour la clôture du programme CLIP lancé en novembre 2023. 
+
+
+Ce projet, piloté par l’ENSGSI, avait pour objectif d’accompagner les équipes de l’USACH dans la constitution du personnel de leur future plateforme de support à la pédagogie et à la recherche. 
+
+  
+Durant ces quatre jours de séminaire, le programme des participants était le suivant : 
+Le premier jour, après avoir été accueillis par les deux porteurs du projet, Mauricio Camargo, directeur de l’ERPI, et Ferney Osorio, enseignant-chercheur à l’ENSGSI, l'équipe de l'USACH a participé à un atelier d’initiation à la créativité animé par Raphaël Bary, maître de conférences à l’ENSGSI. 
+
+Le second jour, encadrée par Mauricio Camargo, la délégation chilienne a visité d’autres institutions de l’Université de Lorraine, telles que le laboratoire GEORESSOURCES, l'École des Mines, le 2LPN, le GreenFabLab, le PeeLab Nancy et le BETA. Puis, ils se sont rendus dans les locaux du partenaire industriel historique de l’école, NOREMAT, à Ludres. 
+
+Le troisième jour, ils ont pris part à un deuxième atelier portant sur l’initiation au prototypage, coordonné par Fabio Cruz, maître de conférences, et Alex Gabriel, enseignant-chercheur, tous les deux à l’ENSGSI. 
+
+Enfin, lors de la dernière journée, ils ont assisté à un workshop portant sur la réflexion des plans d’action pour les espaces d’innovation, conduit par Ferney Osorio. 
+
+À la fin de ce dernier jour de séminaire, les membres de l’équipe chilienne ont reçu une certification attestant de leur participation au programme et ont été conviés, par l’ENSGSI et l’ERPI, à un cocktail pour célébrer les prémices d’un nouveau partenariat entre l’Université de Lorraine et l’USACH. 
+
+
+El equipo del Lorraine Fab Living Lab estuvo encantado de recibirlos para este maravilloso evento, y esperamos continuar esta colaboración a largo plazo ! 

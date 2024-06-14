@@ -1,6 +1,6 @@
 ---
 title: "Green fablab"
-lang: fr
+lang: en
 about:
   id: hero-green-fablab
   template: trestles
@@ -13,52 +13,19 @@ about:
       text: Github
       href: https://github.com
 toc: false      
-categories: 
-  - Impression 3D
-  - Recyclage
-  - Economié Circulaire
-
-listing:
-  - id: gallery
-    template: gallery.ejs
-    contents: gallery.yml
-
-page-layout: article  
 ---
 
-
-:::{.column-page-inset}
-:::{#hero-green-fablab }
+:::{#hero-green-fablab}
 
 # Vers une économie circulaire grâce aux espaces de fabrication ouvertes. 
 
-Le concept de **Green Fablab** est lié au croisement de plusieurs tendances sociétales tels que l'interêt croisant pour l'impression 3D, le développement des espaces d'open innovation (e.g. fablabs, living labs) et la prise de conscience croissante de protéger l'environnement et de soutenir un développement durable. 
+The concept of **Green FabLab** is the intersection of several societal trends.
+From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
+The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of local manufacturing.
+Also, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
 
 :::
-:::
-**la création d'une filière locale de recyclage est une des pistes majeures pour formaliser une approche distribuée de la réutilisation de matières plastiques.** 
-
-L'intégration de ces matières recyclées dans ces espaces de co-création permet de considérer ces déchets comme des gisements et de les transformer en "nouvelles matières premières". Le concept de Green FabLab s'appuie dès lors sur les principes de l'économie circulaire et collaborative, modèle qui est à présent essentiel pour faire face aux défis actuels de la société.
-
-
-## Opportunités du processus de recyclage pour la technologie d'impression 3D
-
-Les projets du LF2L sont en relation étroite avec les sujets d'innovation et les priorités sociétales. 
-Les domaines de l'impression 3D et du recyclage des plastiques représentent l'un des champs scientifiques et industriels les plus dynamiques et le mouvement du matériel open source (en particulier les imprimantes 3-D RepRap) est en pleine explosion. 
-
-Des recherches permettant de mieux développer les innovations sur les systèmes de recyclage de déchets actuels grâce à la fabrication additive open-source sont une opportunité pour contribuer avec le développement d'une économie circulaire.
 
 
 
-
-
-::: {#gallery}
-:::
-
-## Nos Projets Pédagogiques
-
-
-
-
-## Nos allies
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/195910988@N02/albums/72177720305004914" title="Green FabLab"><img src="https://live.staticflickr.com/65535/52608601548_61666220b0_c.jpg" width="800" height="600" alt="Green FabLab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

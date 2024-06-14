@@ -1,6 +1,6 @@
 ---
-lang: en
-title: "Bedtest for Prototyping"
+lang: fr
+title: "Bedtest pour le Prototypage"
 subtitle: "Collaboration ENSGSI / ERPI et GRT gaz"
 author: 
   - "LF2L Team"
@@ -12,7 +12,7 @@ toc: true
 
 ![](img-1.png){.preview-image}
 
- Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.
+Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.
 
 Ce projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.
 

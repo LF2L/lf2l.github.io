@@ -8,13 +8,17 @@ about:
   template: trestles
   image: images/1-home/LF2L-concept-00.jpg
 
-# listing:
-#   contents: "posts/*/*.qmd"
-#   sort: "date desc"
-#   type: grid
-#   categories: false
-#   include:
-#     lang: en
+
+listing:
+  id: recents
+  contents: "posts/2024/*/*/*.qmd"
+  max-items: 3
+  sort: "date desc"
+  type: grid
+  categories: false
+  include:
+    lang: en
+
 ---
 
 
@@ -43,6 +47,15 @@ It supports the creation and achievement of results through an established proce
 
 
 
+# Recents {.center}
+
+::: {#recents}
+:::
+
+
+:::{style="display: flex; justify-content: right; height: 100px;"}
+[All our news](/blog/){.btn .btn-primary .btn-lg role="button" data-toggle="tooltip" title="Actualité" }
+:::
 
 
 # Networks

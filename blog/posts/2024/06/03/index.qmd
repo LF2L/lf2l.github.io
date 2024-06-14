@@ -1,5 +1,5 @@
 ---
-lang: fr
+lang: en
 title: "CLIP USACH"
 subtitle: "Collaboration ENSGSI / ERPI et GRT gaz"
 author: 
@@ -9,25 +9,26 @@ categories:
   - Actualités
 toc: true  
 ---
+
 ![](1.JPG){.preview-image}
 
-Le Lorraine Fab Living Lab a accueilli, du 21 au 24 mai 2024, une délégation de 14 enseignants et professionnels de l’Université de Santiago du Chili (USACH) pour la clôture du programme CLIP lancé en novembre 2023. 
+
+From May 21 to 24, 2024, the Lorraine Fab Living Lab welcomed a delegation of 14 teachers and professionals from the University of Santiago de Chile (USACH) for the closing of the CLIP program launched in November 2023. 
+
+
+The aim of this project, led by ENSGSI, was to support the USACH teams in staffing their future teaching and research support platform. 
 
   
+During the four-day seminar, the participants' program was as follows: 
+On the first day, after being welcomed by the two project leaders, Mauricio Camargo, director of ERPI, and Ferney Osorio, teacher-researcher at ENSGSI, the USACH team took part in an introductory creativity workshop led by Raphaël Bary, lecturer at ENSGSI. 
 
-Ce projet, piloté par l’ENSGSI, avait pour objectif d’accompagner les équipes de l’USACH dans la constitution du personnel de leur future plateforme de support à la pédagogie et à la recherche. 
+On the second day, under the guidance of Mauricio Camargo, the Chilean delegation visited other Université de Lorraine institutions, including the GEORESSOURCES laboratory, the École des Mines, 2LPN, GreenFabLab, PeeLab Nancy and BETA. They then visited the premises of the school's long-standing industrial partner, NOREMAT, in Ludres. 
 
-  
-Durant ces quatre jours de séminaire, le programme des participants était le suivant : 
-Le premier jour, après avoir été accueillis par les deux porteurs du projet, Mauricio Camargo, directeur de l’ERPI, et Ferney Osorio, enseignant-chercheur à l’ENSGSI, l'équipe de l'USACH a participé à un atelier d’initiation à la créativité animé par Raphaël Bary, maître de conférences à l’ENSGSI. 
+On the third day, they took part in a second workshop on the introduction to prototyping, coordinated by Fabio Cruz, lecturer, and Alex Gabriel, teacher-researcher, both at ENSGSI. 
 
-Le second jour, encadrée par Mauricio Camargo, la délégation chilienne a visité d’autres institutions de l’Université de Lorraine, telles que le laboratoire GEORESSOURCES, l'École des Mines, le 2LPN, le GreenFabLab, le PeeLab Nancy et le BETA. Puis, ils se sont rendus dans les locaux du partenaire industriel historique de l’école, NOREMAT, à Ludres. 
+Finally, on the last day, they attended a workshop on thinking about action plans for innovation spaces, led by Ferney Osorio. 
 
-Le troisième jour, ils ont pris part à un deuxième atelier portant sur l’initiation au prototypage, coordonné par Fabio Cruz, maître de conférences, et Alex Gabriel, enseignant-chercheur, tous les deux à l’ENSGSI. 
-
-Enfin, lors de la dernière journée, ils ont assisté à un workshop portant sur la réflexion des plans d’action pour les espaces d’innovation, conduit par Ferney Osorio. 
-
-À la fin de ce dernier jour de séminaire, les membres de l’équipe chilienne ont reçu une certification attestant de leur participation au programme et ont été conviés, par l’ENSGSI et l’ERPI, à un cocktail pour célébrer les prémices d’un nouveau partenariat entre l’Université de Lorraine et l’USACH. 
+At the end of the last day of the seminar, the members of the Chilean team received a certificate attesting to their participation in the program, and were invited by ENSGSI and ERPI to a cocktail party to celebrate the beginnings of a new partnership between the University of Lorraine and USACH. 
 
 
-El equipo del Lorraine Fab Living Lab estuvo encantado de recibirlos para este maravilloso evento, y esperamos continuar esta colaboración a largo plazo ! 
+El equipo del Lorraine Fab Living Lab estuvo encantado de recibirlos para este maravilloso evento, y esperamos continuar esta colaboración a largo plazo! 

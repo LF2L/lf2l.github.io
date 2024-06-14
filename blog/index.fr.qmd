@@ -1,0 +1,30 @@
+---
+title: "Actualités"
+title-fr: "News of LF2L [In french]"
+subtitle: "Contributiong to teaching and research"
+listing:
+  id: blog
+  contents: "posts/2024/*/*/*.qmd"
+  categories: true
+  sort: "date desc"
+  include:
+    lang: fr
+
+format:
+ html:    
+   template-partials: 
+     - ../partials/title-block.html  
+
+title-block-banner: "#FFFFFF"
+title-block-banner-color: "#592c8e"
+---
+
+## Nos publications
+
+:::{#blog}
+:::
+
+
+## Nos mentions sur Factuel de l'UL
+
+<div class='sk-ww-rss-feed' data-embed-id='25407935'></div><script src='https://widgets.sociablekit.com/rss-feed/widget.js' async defer></script>
