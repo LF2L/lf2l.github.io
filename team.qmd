@@ -1,6 +1,6 @@
 ---
-title: "Équipe"
-title-fr: "Équipe du LF2L"
+title: "Team"
+title-fr: "Team at LF2L"
 toc: true
 format:
  html:    
@@ -12,37 +12,37 @@ lightbox: auto
 ---
 
 
-## Équipe de Direction
+## Direction
 
 ::: {layout="[30,30,30]"}
 
 :::{}
 [![](images/6-info/equipe/LM2.png){width="80%" fig-align="center"} <br> **Laure Morel**](https://ensgsi.univ-lorraine.fr/enseignant/laure-morel/)
 
-Professeur, Directrice de l’ENSGSI
+Professor, Director of ENSGSI
 :::
 
 :::{}
 [![](images/6-info/equipe/MC2.png){width="80%" fig-align="center"} <br> **Mauricio Camargo**](https://ensgsi.univ-lorraine.fr/enseignant/mauricio-camargo/)
 
-Professeur, Directeur de l’ERPI
+Professor, Director of ERPI
 :::
 
 :::{}
 [![](images/6-info/equipe/LD2.png){width="80%" fig-align="center"} <br> **Laurent Dupont**](https://ensgsi.univ-lorraine.fr/enseignant/laurent-dupont/)
 
-Responsable scientifique du LF2L 
+Scientific Manager Lorraine Fab Living Lab
 :::
 :::
 
 
-## Équipe technique
+## Technical staff
 
 ::: {layout="[30,30,30]"}
 :::{}
 [![](images/6-info/equipe/Benjamin2.png){width="80%" fig-align="center"} **Benjamin Ennerser-Serville**](https://ensgsi.univ-lorraine.fr/personnels/benjamin-enesser-serville/)
 
-Référent Technique
+Technical Advisor
 :::
 
 :::{}
@@ -51,7 +51,7 @@ Référent Technique
 :::
 
 
-## Équipe de Stagiares 2023 - 2024
+## Internships 2023 - 2024
 
 ::: {layout="[30,30,30]"}
 
@@ -73,13 +73,12 @@ Référent Technique
 ::: {layout="[[30,70], [30,70]] "}
 ![](images/logos/MESR.svg){.no-lightbox}
 
-Le LF2L, un des lieux [inspirants de l'Enseignement supérieur référencé par le MESR](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/). 
-En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis en place un plate-forme pour référencer les lieux inspirants. Le LF2L en fait partie ! Il a même le statut de lieu d’innovation 21 sur 277 en décembre 2023. Retrouvez la description des espaces et les activitées pédagogique, recherche et développement associées sur le site du ministère
+LF2L, one of the [inspiring places in Higher Education referenced by MESR](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/). 
+In 2023, the French Ministry of Higher Education and Research has set up a platform to reference inspiring places. The LF2L is one of them! It even has the status of 21 out of 277 innovation locations in December 2023. Find out more about the spaces and the associated teaching, research and development activities on the Ministry's website.
 
 ![](images/logos/pil.svg){.no-lightbox}
 
-Également, le réseau [Plug In Labs Lorraine](https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/) offre un accès centralisé à toutes les compétences et équipements de la recherche publique en Lorraine. Retrouvez tous les équipements et prestations proposés par l’ERPI avec sa plate-forme LF2L sur le site Plug In Labs Lorraine
-
+The [Plug In Labs Lorraine](https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/) network also offers centralized access to all the skills and facilities of public research in Lorraine. Find out more about all the equipment and services offered by ERPI and its LF2L platform on the Plug In Labs Lorraine website.
 :::
 
 <!-- 
@@ -104,25 +103,28 @@ En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis e
 
 
 
-## J’irai innover chez vous... avec le 1er Fab Lab Mobile de France !
+##  We will innovate at your company.... with the 1st Fab Lab Mobile in France!
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/101465988@N05/albums/72157644260382289" title="Nomad'Lab"><img src="https://farm8.staticflickr.com/7502/15795968456_e92f897b74_b.jpg" width="100%" height="auto" alt="Nomad'Lab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Multiplier les voies d’accès à l’innovation est le pari gagné par l’ENSGSI et l’ERPI grâce au Fab Lab Mobile !.
-Grâce au Conseil Régional de Lorraine et à l’Université de Lorraine qui ont permis cet investissement, ainsi qu’à l’AGEFA PME et la CGPME Lorraine qui financent la première année de fonctionnement, la Lorraine est la première région en France à se doter d’un tel outil. Concept original, ce Fab Lab embarqué est né de la volonté d’aller au plus près des entreprises et des citoyens pour stimuler leur capacité de création et d’expérimentation. En gommant les frontières (géographique, temporelle, économique, sociale, culturelle), le Fab Lab Mobile inverse donc la relation initiale d’accès à la technologie et apporte l’innovation dans les entreprises, les villes, les écoles, les lycées… Cette démarche proactive instaure une nouvelle proximité avec les usagers.
 
-Anticipant les besoins des entreprises, l’ENSGSI et le laboratoire ERPI développent des réponses originales et innovantes en phase avec l’écosystème local. Ainsi, l’aménagement d’espaces n’est pas toujours envisageable ou pertinent (durée de la mission, contraintes techniques, locaux inadaptés, etc.) Les collaborateurs des PME-PMI ne peuvent pas forcement se déplacer jusqu’au cœur de l’agglomération nancéienne.
+Multiplying the paths to innovation is the challenge won by ENSGSI and ERPI thanks to Fab Lab Mobile! Thanks to the Lorraine Regional Council and the University of Lorraine, which made this investment possible, as well as AGEFA PME and CGPME Lorraine, which are financing the first year of operation, Lorraine is the first region in France to acquire such a tool. This original concept, this embedded Fab Lab was born from the desire to go as close as possible to companies and citizens to stimulate their capacity for creation and experimentation. By erasing borders (geographical, temporal, economic, social, cultural), the Fab Lab Mobile reverses the initial relationship of access to technology and brings innovation to companies, cities, schools, high schools... This proactive approach establishes a new proximity with users.
 
-L’enjeu prioritaire auquel veulent répondre les acteurs et partenaires du Lorraine Fab Living Lab® est d’initier et d’animer une dynamique de réflexion collective sur notre environnement de vie et les enjeux de société pour y apporter des réponses partagées dont le développement passe notamment par la création ou le renouvellement de produits, processus, voire d’organisation. Pour mener à bien cette mission et toucher les acteurs économiques au plus près de leurs pôles d’activités, le Lorraine Fab Living Lab® conçoit et développe des réponses concrètes avec un dispositif routier.
+Anticipating the needs of companies, ENSGSI and the ERPI laboratory develop original and innovative solutions in line with the local ecosystem. Thus, the development of spaces is not always possible or relevant (duration of the mission, technical constraints, unsuitable premises, etc.). Employees of SMEs cannot necessarily travel to the heart of the Nancy urban area.
+
+
+The priority challenge to which the Lorraine Fab Living Lab® want to respond is to initiate and lead a dynamic of collective reflection on our living environment. 
+The challenges of society in order to provide shared responses the development of which involves in particular the creation or renewal of products, processes and even organisation. 
+To successfully carry out this mission and reach economic players as close as possible to their business areas, the Lorraine Fab Living Lab® designs and develops concrete solutions with a road system.
 
 
 ::: {.callout-tip}
-**Plus de details:** <br>
+**More details:** <br>
 Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
 :::
 
 
-# Contactez-nous 
+# Contact us 
 
 <iframe height="557"
   allowTransparency="true"

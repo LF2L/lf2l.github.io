@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   favicon: assets/favicon.png
   search: 
@@ -76,12 +75,12 @@ babelquarto:
     text: "Français"
   - name: en
     text: "English"    
-  mainlanguage: 'fr'
-  languages: ['en']
+  mainlanguage: 'en'
+  languages: ['fr']
 
 title-en: LF2L
-description-en: description in fr
-author-en: author in fr
-lang: fr
+#description-en: description in fr
+#author-en: author in fr
+#lang: fr
 
 

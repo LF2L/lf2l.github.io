@@ -1,0 +1,21 @@
+---
+title: "Dissémination"
+title-fr: "Dissémination Scientifique et Pédagogique du LF2L"
+subtitle: "Éclairer, Apprendre, Innover : Le LF2L, au service de la Science et de l'Éducation."
+
+format:
+ html:    
+   template-partials: 
+     - ../partials/title-block.html  
+
+title-block-banner: "#FFFFFF"
+title-block-banner-color: "#592c8e"
+
+---
+
+
+<div class="content content-narrow">
+<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=equipe+de+recherche+sur+les+processus+innovatifs&typdoc=('ART','COMM','POSTER','PROCEEDINGS','ISSUE','OUV','COUV','BLOG','NOTICE','TRAD','PATENT','OTHER','UNDEFINED','REPORT','THESE','HDR','LECTURE','MEM','IMG','VIDEO','SON','MAP','SOFTWARE','PRESCONF','CREPORT','ETABTHESE','MEMLIC','NOTE','OTHERREPORT','REPACT','SYNTHESE')&collaboration=Lorraine+Fab+Living+Lab%C2%AE+%28LF2L%29%3B+Octroi+Nancy%3B+Lorraine+Smart+Cities+Living+Lab&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css" frameborder="0" scrolling="auto" width="100%" height="1000px"></iframe>
+</div>
+
+

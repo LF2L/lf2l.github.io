@@ -1,6 +1,5 @@
 ---
-title: "![](images/1-home/Logo-LF2L.png){width='80%' fig-align='center'}"
-#subtitle: "![](images/1-home/Logo-LF2L.png){width='80%' fig-align='center'}"
+title: "Lorraine Fab Living Lab"
 page-navigation: false
 toc: false
 
@@ -9,49 +8,30 @@ about:
   template: trestles
   image: images/1-home/LF2L-concept-00.jpg
 
-
-listing:
-  id: recents
-  contents: "posts/2024/*/*/*.qmd"
-  max-items: 3
-  sort: "date desc"
-  type: grid
-  categories: false
-  include:
-    lang: fr
-
-title-block-banner: rgba(255, 255, 255, 1)
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 22vh;
-      }
-      .quarto-title-block .quarto-title-banner::before {
-        background-image: url(images/banners/banner01.jpg);
-        background-size: cover;
-        content: "";
-        position: absolute;
-        top: 0px;
-        right: 0px;
-        bottom: 0px;
-        left: 0px;
-        opacity: 0.25;
-        }
-
-      </style>
+# listing:
+#   contents: "posts/*/*.qmd"
+#   sort: "date desc"
+#   type: grid
+#   categories: false
+#   include:
+#     lang: en
 ---
 
 
-## Entrez dans la 4ème hélice de l’Innovation {style="text-align:center"}
+:::{.column-body-outset}
+![](images/1-home/Logo-LF2L.jpg)
+:::
+
+
+
 
 :::{#hero-LF2L}
 
-Le **Lorraine Fab Living Lab® (LF2L®)** est une plate-forme d'acceptabilité des innovations et d'évaluation prospective des usages
-porté par l'[Ecole ENSGSI](https://ensgsi.univ-lorraine.fr/) et le [Laboratoire ERPI](https://erpi.univ-lorraine.fr/) de l'[Université de Lorraine](https://www.univ-lorraine.fr/). 
-Il soutient la création et l'obtention de résultats à travers un processus établi basé sur le paradigme de l'usage réunissant dans un même espace des outils avancés complémentaires.  [Pour en savoir plus](/about.html){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip" }
+## Inside of the fourth helix of Innovation {style="text-align:center"}
 
+The **Lorraine Fab Living Lab® (LF2L®)** is a platform for innovation acceptability and prospective usage evaluation
+supported by [Engineering School ENSGSI](https://ensgsi.univ-lorraine.fr/) and [ERPI Laboratory](https://erpi.univ-lorraine.fr/) of [Université de Lorraine](https://www.univ-lorraine.fr/). 
+It supports the creation and achievement of results through an established process based on the usage paradigm, bringing together advanced, complementary tools in a single space.  [Find out more](/about.html){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip" }
 
 ::: {layout-nrow=1}
 ![[](https://ensgsi.univ-lorraine.fr/) ](images/logos/ENSGSI-Horizontal.png)
@@ -62,20 +42,10 @@ Il soutient la création et l'obtention de résultats à travers un processus é
 :::
 
 
-# Actualités {.center}
-
-::: {#recents}
-:::
-
-:::{style="display: flex; justify-content: right; height: 100px;"}
-[Tout l'actualité](/blog/){.btn .btn-primary .btn-lg role="button" data-toggle="tooltip" title="Actualité" }
-:::
 
 
 
-
-
-# Réseaux
+# Networks
 
 
 ::: {layout-nrow=1}
@@ -88,20 +58,16 @@ Il soutient la création et l'obtention de résultats à travers un processus é
 
 ![[Learning Lab Network](https://www.learninglab-network.com/espace/lorraine-fab-living-lab/)](images/logos/ll.svg)
 
-
-
 :::
 
 
 
 
-# Nos Labels
+# Our Labels
 
 ::: {layout-nrow=1}
 ![Labélisation STAR LUE](images/logos/start-lue.png)
 
 ![[Les lieux inspirants de l'Enseignement supérieur](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)](images/logos/MESR.svg)
 :::
-
-
 

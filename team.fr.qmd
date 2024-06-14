@@ -1,3 +1,134 @@
 ---
-title: "Equipe"
+title: "Équipe"
+title-fr: "Équipe du LF2L"
+toc: true
+format:
+ html:    
+   template-partials: 
+     - partials/title-block.html  
+
+title-block-banner: rgba(255, 255, 255, 0.45)
+lightbox: auto
 ---
+
+
+## Équipe de Direction
+
+::: {layout="[30,30,30]"}
+
+:::{}
+[![](images/6-info/equipe/LM2.png){width="80%" fig-align="center"} <br> **Laure Morel**](https://ensgsi.univ-lorraine.fr/enseignant/laure-morel/)
+
+Professeur, Directrice de l’ENSGSI
+:::
+
+:::{}
+[![](images/6-info/equipe/MC2.png){width="80%" fig-align="center"} <br> **Mauricio Camargo**](https://ensgsi.univ-lorraine.fr/enseignant/mauricio-camargo/)
+
+Professeur, Directeur de l’ERPI
+:::
+
+:::{}
+[![](images/6-info/equipe/LD2.png){width="80%" fig-align="center"} <br> **Laurent Dupont**](https://ensgsi.univ-lorraine.fr/enseignant/laurent-dupont/)
+
+Responsable scientifique du LF2L 
+:::
+:::
+
+
+## Équipe technique
+
+::: {layout="[30,30,30]"}
+:::{}
+[![](images/6-info/equipe/Benjamin2.png){width="80%" fig-align="center"} **Benjamin Ennerser-Serville**](https://ensgsi.univ-lorraine.fr/personnels/benjamin-enesser-serville/)
+
+Référent Technique
+:::
+
+:::{}
+[![](images/6-info/equipe/Home.png){width="80%" fig-align="center"} <br> **Marc Meillasson **](/team.html)
+:::
+:::
+
+
+## Équipe de Stagiares 2023 - 2024
+
+::: {layout="[30,30,30]"}
+
+:::{}
+![](images/6-info/equipe/Woman.png){width="80%" fig-align="center"}<br> **Tamara Dumanyan**
+
+:::
+
+:::{}
+![](images/6-info/equipe/Woman.png){width="80%" fig-align="center"} <br> **Mjellma Luzha**
+
+
+:::
+:::
+
+# Nos locaux
+
+
+::: {layout="[[30,70], [30,70]] "}
+![](images/logos/MESR.svg){.no-lightbox}
+
+Le LF2L, un des lieux [inspirants de l'Enseignement supérieur référencé par le MESR](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/). 
+En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis en place un plate-forme pour référencer les lieux inspirants. Le LF2L en fait partie ! Il a même le statut de lieu d’innovation 21 sur 277 en décembre 2023. Retrouvez la description des espaces et les activitées pédagogique, recherche et développement associées sur le site du ministère
+
+![](images/logos/pil.svg){.no-lightbox}
+
+Également, le réseau [Plug In Labs Lorraine](https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/) offre un accès centralisé à toutes les compétences et équipements de la recherche publique en Lorraine. Retrouvez tous les équipements et prestations proposés par l’ERPI avec sa plate-forme LF2L sur le site Plug In Labs Lorraine
+
+:::
+
+<!-- 
+::: {layout="[[50,50],[30,30,30, 30, 30]]"}
+
+![Espace Materialisation](images/5-place/Materialisation.jpeg){group="my-gallery"}
+
+![Espace Collaboratif](images/5-place/Collaboratif.jpeg){group="my-gallery"}
+
+![Créativité](images/Image-to-find.jpg){group="my-gallery" description="Lorsqu’une problématique est définie, un travail d’animation de groupe permettra de solliciter la créativité d’une équipe autour de brainstormings, road-mappings, afin de couvrir le champ des possibles en termes de réponses à apporter. Une plate-forme numérique a été développéepour aider à la capitalisation et l’archivage des propositions émises par des participants"}
+
+![Open Innovation](images/Image-to-find.jpg){group="my-gallery"}
+
+![Espace collaboratif](images/Image-to-find.jpg){group="my-gallery"}
+
+![Matérialisation / Espace Fablab](images/Image-to-find.jpg){group="my-gallery"}
+
+![Évaluation par l’Usage](images/Image-to-find.jpg){group="my-gallery"}
+:::
+
+ -->
+
+
+
+## J’irai innover chez vous... avec le 1er Fab Lab Mobile de France !
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/101465988@N05/albums/72157644260382289" title="Nomad'Lab"><img src="https://farm8.staticflickr.com/7502/15795968456_e92f897b74_b.jpg" width="100%" height="auto" alt="Nomad'Lab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Multiplier les voies d’accès à l’innovation est le pari gagné par l’ENSGSI et l’ERPI grâce au Fab Lab Mobile !.
+Grâce au Conseil Régional de Lorraine et à l’Université de Lorraine qui ont permis cet investissement, ainsi qu’à l’AGEFA PME et la CGPME Lorraine qui financent la première année de fonctionnement, la Lorraine est la première région en France à se doter d’un tel outil. Concept original, ce Fab Lab embarqué est né de la volonté d’aller au plus près des entreprises et des citoyens pour stimuler leur capacité de création et d’expérimentation. En gommant les frontières (géographique, temporelle, économique, sociale, culturelle), le Fab Lab Mobile inverse donc la relation initiale d’accès à la technologie et apporte l’innovation dans les entreprises, les villes, les écoles, les lycées… Cette démarche proactive instaure une nouvelle proximité avec les usagers.
+
+Anticipant les besoins des entreprises, l’ENSGSI et le laboratoire ERPI développent des réponses originales et innovantes en phase avec l’écosystème local. Ainsi, l’aménagement d’espaces n’est pas toujours envisageable ou pertinent (durée de la mission, contraintes techniques, locaux inadaptés, etc.) Les collaborateurs des PME-PMI ne peuvent pas forcement se déplacer jusqu’au cœur de l’agglomération nancéienne.
+
+L’enjeu prioritaire auquel veulent répondre les acteurs et partenaires du Lorraine Fab Living Lab® est d’initier et d’animer une dynamique de réflexion collective sur notre environnement de vie et les enjeux de société pour y apporter des réponses partagées dont le développement passe notamment par la création ou le renouvellement de produits, processus, voire d’organisation. Pour mener à bien cette mission et toucher les acteurs économiques au plus près de leurs pôles d’activités, le Lorraine Fab Living Lab® conçoit et développe des réponses concrètes avec un dispositif routier.
+
+
+::: {.callout-tip}
+**Plus de details:** <br>
+Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
+:::
+
+
+# Contactez-nous 
+
+<iframe height="557"
+  allowTransparency="true"
+  frameborder="0"
+  scrolling="no"
+  style="width:100%;border:none"
+  src="https://lf2l.wufoo.com/embed/mspzvpa1bdexyq/">
+<a href="https://lf2l.wufoo.com/forms/mspzvpa1bdexyq/"> Fill out my Wufoo form! </a>
+</iframe>

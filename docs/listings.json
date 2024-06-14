@@ -25,6 +25,7 @@
     "items": [
       "/projects/extended-reality/index.html",
       "/projects/green-fablab/index.html",
+      "/projects/lauds/index.html",
       "/projects/lorraine-smart-cities-living-lab/index.html",
       "/projects/open-citizen-lab/index.html"
     ]
@@ -32,7 +33,7 @@
   {
     "listing": "/index.en.html",
     "items": [
-      "/posts/2021/2021-04-22-Societe-inclusive.html"
+      "/blog/posts/2021/2021-04-22-Societe-inclusive.html"
     ]
   },
   {
@@ -49,6 +50,17 @@
   },
   {
     "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/2024/06/03/index.html",
+      "/blog/posts/2024/04/25/index.html",
+      "/blog/posts/2024/04/09/index.html",
+      "/blog/posts/2024/03/24/index.html",
+      "/blog/posts/2024/03/15/index.html",
+      "/blog/posts/2024/03/08/index.html"
+    ]
+  },
+  {
+    "listing": "/index.fr.html",
     "items": [
       "/blog/posts/2024/06/03/index.html",
       "/blog/posts/2024/04/25/index.html",
