@@ -1,7 +1,7 @@
 ---
 title: "**Documents**"
 title-fr: "Documents of LF2L"
-subtitle: "Retrouvez notre écossytème collaboratif et les chartes auxquelles nous adhérons !"
+subtitle: "Find out more about our collaborative ecosystem and the charters to which we adhere!"
 toc: true
 format:
  html:    

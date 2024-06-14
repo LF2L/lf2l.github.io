@@ -45,7 +45,7 @@ website:
         href: /
     right: 
       - href: documents.qmd        
-      - text: "**Nous Retrouver** <br> 49 Boulevard d'Austrasie,<br> 54000 Nancy, France"
+      - text: "**Find Us** <br> 49 Boulevard d'Austrasie,<br> 54000 Nancy, France"
         href: info.qmd 
 
     #   - icon: linkedin
