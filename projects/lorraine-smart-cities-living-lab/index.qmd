@@ -44,15 +44,14 @@ It covers: 5 Issues for innovative territories:
 
 Since 2019, Lorraine Smart City living Lab support several National or European projects involving the Université de Lorraine:
 
-* [SMAGRINET](https://www.smagrinet.eu/) - un projet de renforcement des capacités de l'UE renforçant l'expérience des réseaux intelligents en Europe.
 
 ::: {.column-margin}
 ![](figures/eu.png){width="150px"}
 :::
-
-* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in Europe.
+* [LAUDS Factories](https://lauds.eu/) - (2024-2026) Local Accessible Urban Digital and Sustainable Factories: New European Bauhaus Approach to Open and Decentralised Urban Manufacturing - Co-funded by the European Union, 2024-2026, GA [101135986](https://cordis.europa.eu/project/id/101135986)
 * [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
 * [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional “DIT” approach involving users, suppliers, etc.
+* [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in Europe.
 
 [![](figures/marianne.png){width="150px"}]{.aside}
 
