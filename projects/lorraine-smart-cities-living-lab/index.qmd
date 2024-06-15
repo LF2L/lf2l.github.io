@@ -6,6 +6,7 @@ categories:
   - Living Lab
   - Collaborative
   - Quintuple Helix
+  - Citizen-Driven Innovation
 
 toc: true
 page-layout: article
@@ -77,22 +78,27 @@ In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIR
 
 # Summary of the main results (2008-2017)
 
-* More than 50 Scientific publications, thesis, reports: fundamentals and methodologies, capitalisation and dissemination (see: [Rubriques Publications](http://lf2l.fr/publications/)).
-* 10 6 PhD theses defended: 
 
-    - [L. Dupont](http://www.theses.fr/2009INPL069N) (2009 - Collaborative engineering and spaces supporting Urban design), 
-    - [N. Skiba](http://www.theses.fr/2014LORR0027) (2014 - User-driven co-design)-
-    - [J. Hubert](http://www.theses.fr/2017LORR0083) (2017 - Use of Electric mobility), 
-    - [A. Convolte](http://www.theses.fr/2018LORR0243) (2018 - )
-    - [J. Lacroix](http://www.theses.fr/2019LORR0185) (2019 - Urban Living Lab), 
-    - [G. Tran](http://www.theses.fr/2019LORR0168) (2019 - Decision-making process involving multistakehoders and multicriteria).
-    - [F. Osorio](https://erpi.univ-lorraine.fr/people/Ferney-Osorio/) (2018 - 2021 - Innovation spaces), 
-    - [L. Acosta](https://erpi.univ-lorraine.fr/people/Linda-Acosta/) (2018 - 2023 santé - Health & elderly care), 
-    - [M. Arnould](https://erpi.univ-lorraine.fr/people/Maxence-Arnould/) (2018 - 2021 - Wood ressources - Forest), 
-    - [A. Hily](https://erpi.univ-lorraine.fr/people/Anaelle-Hily/) (2019 - 2021 - Virtual reality & Sensors), 
 
-* 1 projets de doctorat en cours: 
-    - G. Pronost (2023 - Digital Twin).
+* More than 150 Scientific publications, thesis, reports: fundamentals and methodologies, capitalisation and dissemination (see: [Rubriques Publications](http://lf2l.fr/publications/)).
+* 11 PhD theses defended: 
+
+    - [L. Dupont](http://www.theses.fr/2009INPL069N) : 2009 - Transferring industrial engineering to urban engineering: towards a collaborative approach to urban projects, 
+    - [N. Skiba](http://www.theses.fr/2014LORR0027) : 2014 - User-centred innovation process: identifying needs and interpreting data from user integration in the co-design process,
+    - [J. Hubert](http://www.theses.fr/2017LORR0083) : 2017 - Integrating the point of view of users and citizens into the innovation process: the case of the deployment of an electric mobility system in the Lorraine region (Sillon Lorrain), 
+    - [A. Convolte](http://www.theses.fr/2018LORR0243) : 2018 - Encouraging the adoption of active mobility: a proposal for a user-centred design approach to support a region in developing its transport policies,
+    - [J. Lacroix](http://www.theses.fr/2019LORR0185) : 2019 - The Urban Living Lab approach to driving innovation in urban planning? A contribution to the design of an urban innovation management system: application to the "Opération d’Intérêt National d’Alzette Belval", 
+    - [G. Tran](http://www.theses.fr/2019LORR0168) : 2019 - From "shared diagnosis" to "shared action": how the Living Lab project mode can feed the decision-making process of "making the city" by integrating citizens for a smart city,
+    - [F. Osorio](https://theses.fr/2021LORR0229) : 2021 Management of innovation laboratories: A methodological approach to the design of strategic intent, 
+    - [L. Acosta](https://theses.fr/2021LORR0013) : 2021 -  Improvements to models and methods for assessing the acceptability of innovative solutions. Applications in the context of home care for the elderly,
+    - [M. Arnould](https://theses.fr/2021LORR0343) : 2021 - Construction of a methodological reference framework for managing forestry Living Labs,
+    - [A. Hily](https://theses.fr/2022LORR0305) : 2022 - Systematic design and evaluation of immersive environments to support Living Lab projects, 
+    - [L. Delagado](https://theses.fr/2022LORR0130) : 2022 - Designing innovation spaces in universities: a tool to help manage Academy-Industry projects,
+
+* 3 doctoral projects in progress: 
+    - [G. Pronost] (https://theses.fr/s290706) : Thesis in progress since 2020 - Design of the Digital Twin of a project in Living Lab mode,
+    - [F. Pruvot](https://theses.fr/s296872) : Thesis in progress since 2021 - Contribution of a repository of territorial impact indicators to facilitate the networking of innovation spaces and proposal of scenarios,
+    - [M.O. Amimi](https://theses.fr/s303591) : Thèse en cours depuis 2021 - Designing, modelling and testing an integrated innovation process and its interaction with the urban project process. Application to the Innovation Campus project of the Communauté de Communes du Bassin de Pompey
 
 * A research project with EDF.
 * A collaborative Chair: the REVES Chair (2014-2019) supported by ENEDIS, EDF, the Greater Nancy Metropolitan Area and the University of Lorraine.
