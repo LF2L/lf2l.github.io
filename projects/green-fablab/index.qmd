@@ -32,9 +32,21 @@ Also, the impact of the human activity to the environment and natural resources 
 
 :::
 
-:::.conf
 
+
+## Third places as Urban Manufacturing 
+
+::: {layout="[40,60]"}
+
+**Our research outpur**
+This is a ss
+
+
+
+:::{}
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/195910988@N02/albums/72177720305004914" title="Green FabLab"><img src="https://live.staticflickr.com/65535/52608601548_61666220b0_c.jpg" width="800" height="600" alt="Green FabLab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+:::
 
 :::
 
@@ -47,4 +59,7 @@ Also, the impact of the human activity to the environment and natural resources 
 
 
 ## Our pedagogical projects
+
+testin
+
 
