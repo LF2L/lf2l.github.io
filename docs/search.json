@@ -284,7 +284,7 @@
     "href": "projects/green-fablab/index.html",
     "title": "Green fablab",
     "section": "",
-    "text": "twitter\n  \n  \n    \n     Github\n  \n\n  \n  \n\nVers une économie circulaire grâce aux espaces de fabrication ouvertes.\nThe concept of Green FabLab is the intersection of several societal trends. From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology. The creation of the fantastic RepRap Projet, an open source project, opened up many possibilities in terms of local manufacturing. Also, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources to in terms of circular in order to preserve the as much as possible"
+    "text": "twitter\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nThe concept of Green FabLab is the intersection of several societal trends. From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology. The creation of the fantastic RepRap Projet, an open source project, opened up many possibilities in terms of local manufacturing. Also, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources to in terms of circular in order to preserve the as much as possible"
   },
   {
     "objectID": "projects/lorraine-smart-cities-living-lab/index.html",
@@ -382,7 +382,7 @@
     "href": "projects/green-fablab/index.fr.html#nos-allies",
     "title": "Green fablab",
     "section": "Nos allies",
-    "text": "Nos allies"
+    "text": "Nos allies\nss"
   },
   {
     "objectID": "projects/lauds/index.html",
@@ -712,5 +712,26 @@
     "title": "🎨🚀 Appel à projets n°1 LAUDS Exploration",
     "section": "Période de coopération",
     "text": "Période de coopération\nLes expérimentations peuvent être mises en œuvre entre octobre 2024 et septembre 2025. Le LSCLL-UL est disponible pour coopérer directement avec l’équipe hybride d’octobre 2024 à mi-juillet 2025.\n\nActivités et résultats attendus\nLes équipes hybrides candidates à l’appel à projets ouvert #1 | Exploration du LAUDS sont libres de proposer les activités qui leur permettront de coopérer avec les LAUDS Factories et d’apporter une réponse au défi sélectionné. Dans le cadre des activités proposées, les expériences sont encouragées à développer du matériel open-source sous forme de nouvelles solutions ou de développement de solutions existantes. Il est attendu des expériences qu’elles proposent une période de coopération sur site dans les usines LAUDS. Les expériences sélectionnées doivent produire les résultats suivants :\n\nun rapport axé sur le défi décrivant le processus de production développé, y compris un plan de la solution proposée (le cas échéant) ;\nun rapport final sur la collaboration avec l’usine LAUDS. Le projet LAUDS Factories fournira les modèles respectifs aux équipes sélectionnées."
+  },
+  {
+    "objectID": "projects/green-fablab/index.html#nos-projets-pédagogiques",
+    "href": "projects/green-fablab/index.html#nos-projets-pédagogiques",
+    "title": "Green fablab",
+    "section": "Nos Projets Pédagogiques",
+    "text": "Nos Projets Pédagogiques"
+  },
+  {
+    "objectID": "projects/green-fablab/index.html#our-pedagogical-projects",
+    "href": "projects/green-fablab/index.html#our-pedagogical-projects",
+    "title": "Green fablab",
+    "section": "Our pedagogical projects",
+    "text": "Our pedagogical projects"
+  },
+  {
+    "objectID": "projects/green-fablab/index.html#our-research",
+    "href": "projects/green-fablab/index.html#our-research",
+    "title": "Green fablab",
+    "section": "Our research",
+    "text": "Our research\n\n\n\n\n\n\n\n\n  \n    \n      \n        Towards a standard experimental protocol\n        \n        for open source additive manufacturing.\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        Polymer Recycling and AM\n        \n        Optimization of processes and methods\n      \n    \n    \n      \n    \n    \n     \n      2015-09-01\n    \n    \n  \n\n  \n    \n      \n        Methodological proposition to evaluate polymer recycling\n        \n        in open-source additive manufacturing contexts\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        Polymer recycling in an OS AM\n        \n        Mechanical issues\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        Modelling, Printing and Validation of\n        \n        Dental Dry Models for Implantology Skills Training\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
   }
 ]

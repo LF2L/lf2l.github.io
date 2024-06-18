@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../assets/favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,7 +67,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-gallery .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-category','listing-description','listing-tiles',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-category","listing-description","listing-tiles"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-gallery'] = new List('listing-gallery', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../assets/fabio.css">
 <meta property="og:title" content="Green fablab">
@@ -146,18 +206,124 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><div id="hero-green-fablab">
-<section id="vers-une-économie-circulaire-grâce-aux-espaces-de-fabrication-ouvertes." class="level1">
-<h1>Vers une économie circulaire grâce aux espaces de fabrication ouvertes.</h1>
+<section id="towards-urban-manufacturing-for-circular-economy" class="level1">
+<h1>Towards Urban Manufacturing for Circular Economy</h1>
 <p>The concept of <strong>Green FabLab</strong> is the intersection of several societal trends. From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology. The creation of the fantastic <a href="https://reprap.org/">RepRap Projet</a>, an open source project, opened up many possibilities in terms of local manufacturing. Also, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources to in terms of circular in order to preserve the as much as possible</p>
 </section>
 </div></div>
 </div>
 
+<div class=".conf">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/195910988@N02/albums/72177720305004914" title="Green FabLab"><img src="https://live.staticflickr.com/65535/52608601548_61666220b0_c.jpg" width="800" height="600" alt="Green FabLab"></a>
 <script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<section id="our-research" class="level2">
+<h2 data-anchor-id="our-research">Our research</h2>
+<div id="listing-gallery" class="quarto-listing quarto-listing-container-custom">
+
+<!-- <h2>Our recherche</h2> -->
+
+<!-- <p>Articles scientifiques 
+</p> -->
+
+<div class="list grid" style="column-gap: 10px;">
+
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="0">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="http://www.tandfonline.com/doi/abs/10.1080/17452759.2014.919553" class="listing-title">Towards a standard experimental protocol</a>
+        
+        <span class="text-muted listing-subtitle">for open source additive manufacturing.</span>
+      </small>
+    </div>
+    <a href="http://www.tandfonline.com/doi/abs/10.1080/17452759.2014.919553">
+      <img src="figures/article-2014.png" alt="" class="card-img-top">
+    </a>
+    
+    
+    
+  </div>
+
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="1">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="https://hal.science/hal-02518430" class="listing-title">Polymer Recycling and AM</a>
+        
+        <span class="text-muted listing-subtitle">Optimization of processes and methods</span>
+      </small>
+    </div>
+    <a href="https://hal.science/hal-02518430">
+      <img src="figures/conf-2015.png" alt="" class="card-img-top">
+    </a>
+    
+     
+      <b class="listing-publicationdate text-muted">2015-09-01</b>
+    
+    
+  </div>
+
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="2">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="https://theses.hal.science/tel-01668459" class="listing-title">Methodological proposition to evaluate polymer recycling</a>
+        
+        <span class="text-muted listing-subtitle">in open-source additive manufacturing contexts</span>
+      </small>
+    </div>
+    <a href="https://theses.hal.science/tel-01668459">
+      <img src="figures/thesis-2016.png" alt="" class="card-img-top">
+    </a>
+    
+    
+    
+  </div>
+
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="3">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="https://hal.science/hal-01629449" class="listing-title">Polymer recycling in an OS AM</a>
+        
+        <span class="text-muted listing-subtitle">Mechanical issues</span>
+      </small>
+    </div>
+    <a href="https://hal.science/hal-01629449">
+      <img src="figures/article-2017.png" alt="" class="card-img-top">
+    </a>
+    
+    
+    
+  </div>
+
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="4">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="https://hal.univ-lorraine.fr/hal-01858370" class="listing-title">Modelling, Printing and Validation of</a>
+        
+        <span class="text-muted listing-subtitle">Dental Dry Models for Implantology Skills Training</span>
+      </small>
+    </div>
+    <a href="https://hal.univ-lorraine.fr/hal-01858370">
+      <img src="figures/conf-2018.png" alt="" class="card-img-top">
+    </a>
+    
+    
+    
+  </div>
+
+</div>
+
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="our-pedagogical-projects" class="level2">
+<h2 data-anchor-id="our-pedagogical-projects">Our pedagogical projects</h2>
 
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -605,7 +771,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="../../info.html">
-<p><strong>Nous Retrouver</strong> <br> 49 Boulevard d’Austrasie,<br> 54000 Nancy, France</p>
+<p><strong>Find Us</strong> <br> 49 Boulevard d’Austrasie,<br> 54000 Nancy, France</p>
 </a>
   </li>  
 </ul>

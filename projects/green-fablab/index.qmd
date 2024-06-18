@@ -12,12 +12,18 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+
+listing:
+  - id: gallery
+    template: gallery.ejs
+    contents: gallery.yml
+
 toc: false      
 ---
 
 :::{#hero-green-fablab}
 
-# Vers une économie circulaire grâce aux espaces de fabrication ouvertes. 
+# Towards Urban Manufacturing for Circular Economy
 
 The concept of **Green FabLab** is the intersection of several societal trends.
 From one side, there have been a growing interesting in the additive manufacturing technology (a.k.a 3D printing) technology.
@@ -26,6 +32,19 @@ Also, the impact of the human activity to the environment and natural resources 
 
 :::
 
-
+:::.conf
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/195910988@N02/albums/72177720305004914" title="Green FabLab"><img src="https://live.staticflickr.com/65535/52608601548_61666220b0_c.jpg" width="800" height="600" alt="Green FabLab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+:::
+
+
+## Our research
+
+::: {#gallery}
+:::
+
+
+
+## Our pedagogical projects
+
