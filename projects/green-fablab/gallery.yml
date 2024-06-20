@@ -65,12 +65,12 @@
       href: https://hal.science/hal-03936794v1    
       thumbnail: figures/alex.png
 
-    # - title: Exploring team roles for social innovation labs 
-    #   subtitle: Toward a competence-based role self-assessment approach
-    #   href: https://hal.univ-lorraine.fr/hal-01858370       
-    #   thumbnail: figures/conf-2018.png
+    - title: Exploring team roles for social innovation labs 
+      subtitle: Toward a competence-based role self-assessment approach
+      href: https://hal.science/hal-04464798v1       
+      thumbnail: figures/ferney.pngs
 
-    # - title: Multi-material distributed recycling via material extrusion 
-    #   subtitle: recycled high density polyethylene and poly (ethylene terephthalate) mixture
-    #   href: https://hal.univ-lorraine.fr/hal-01858370       
-    #   thumbnail: figures/conf-2018.png
+    - title: Multi-material distributed recycling via material extrusion 
+      subtitle: recycled high density polyethylene and poly (ethylene terephthalate) mixture
+      href: https://hal.univ-lorraine.fr/hal-01858370       
+      thumbnail: figures/catalina.png
