@@ -28,7 +28,7 @@
     - title: 3D-Printing Based Distributed Plastic Recycling 
       subtitle: A Conceptual Model for Closed-Loop Supply Chain Design
       href: https://hal.science/hal-01863819
-      thumbnail: figures/pavlo1/thumb.png
+      thumbnail: figures/pavlo1/thumb.jpg
 
     - title: Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder 
       subtitle: Comparison to Fused Filament Fabrication on Open-Source Desktop Three-Dimensional Printers
@@ -38,17 +38,17 @@
     - title: Plastic recycling in additive manufacturing 
       subtitle: A systematic literature review and opportunities for the circular economy
       href: https://hal.science/hal-02560191       
-      thumbnail: figures/fabio4/thumb.png
+      thumbnail: figures/fabio4/thumb.jpg
 
-    # - title: Closed loop supply chain network for local and distributed recycling 
-    #   subtitle: A MILP-based optimization approach
-    #   href: https://hal.univ-lorraine.fr/hal-01858370       
-    #   thumbnail: figures/conf-2018.png
+    - title: Closed loop supply chain network for local and distributed recycling 
+      subtitle: A MILP-based optimization approach
+      href: https://hal.science/hal-02398793
+      thumbnail: figures/pavlo2/thumb.jpg
 
-    # - title: Feasibility study on the use of recycled materials for prototyping purposes 
-    #   subtitle: A comparative study based on the tensile strength
-    #   href: https://hal.univ-lorraine.fr/hal-01858370       
-    #   thumbnail: figures/conf-2018.png
+    - title: Feasibility study on the use of recycled materials for prototyping purposes 
+      subtitle: A comparative study based on the tensile strength
+      href: https://hal.science/hal-03741917       
+      thumbnail: figures/univigo.png
 
     # - title: Social, political, and technological dimensions of the sustainability
     #   subtitle: A literature review of the evaluation of a recycling network 
