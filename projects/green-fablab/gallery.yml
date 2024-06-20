@@ -50,20 +50,20 @@
       href: https://hal.science/hal-03741917       
       thumbnail: figures/univigo.png
 
-    # - title: Social, political, and technological dimensions of the sustainability
-    #   subtitle: A literature review of the evaluation of a recycling network 
-    #   href: https://hal.univ-lorraine.fr/hal-01858370       
-    #   thumbnail: figures/conf-2018.png
+    - title: Social, political, and technological dimensions of the sustainability
+      subtitle: A literature review of the evaluation of a recycling network 
+      href: https://hal.science/hal-03511688       
+      thumbnail: figures/pavlo3.png
 
-    # - title: Life cycle assessment of filament production in 
-    #   subtitle: distributed plastic recycling via additive manufacturing
-    #   href: https://hal.univ-lorraine.fr/hal-01858370       
-    #   thumbnail: figures/conf-2018.png
+    - title: Life cycle assessment of filament production in 
+      subtitle: distributed plastic recycling via additive manufacturing
+      href: https://hal.science/hal-04184269
+      thumbnail: figures/cristian.png
 
-    # - title: Open source IoT-based collection bin 
-    #   subtitle: applied to local plastic recycling
-    #   href: https://hal.univ-lorraine.fr/hal-01858370       
-    #   thumbnail: figures/conf-2018.png
+    - title: Open source IoT-based collection bin 
+      subtitle: applied to local plastic recycling
+      href: https://hal.science/hal-03936794v1    
+      thumbnail: figures/alex.png
 
     # - title: Exploring team roles for social innovation labs 
     #   subtitle: Toward a competence-based role self-assessment approach
