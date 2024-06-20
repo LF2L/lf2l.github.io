@@ -42,9 +42,8 @@ The Urban Factory has a minimal negative impact on its environment while positiv
 
 ::: {layout="[40,60]"}
 
-**Our research outputs**
 
-
+The concept of urban production requires a holistic approach and the incorporation of several involved disciplines. The city-factoryproduct nexus introduced in the beginning contains the three subsystems city, factory and product and their most basic interactions. The city-factory-product nexus is embedded in a larger city-production system. Within this system, definitions can be found of resources that are utilized by all subsystems in different ways and thus shared in the urban space
 
 
 :::{}
@@ -61,9 +60,9 @@ The Urban Factory has a minimal negative impact on its environment while positiv
 :::
 
 
-
+<!-- 
 ## Our pedagogical projects
 
-testin
+testin -->
 
 
