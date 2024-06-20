@@ -24,10 +24,11 @@
       subtitle: Dental Dry Models for Implantology Skills Training
       href: https://hal.univ-lorraine.fr/hal-01858370       
       thumbnail: figures/conf-2018.png
-    - title: 3D-Printing Based Distributed Plastic Recycling 
-      subtitle: A Conceptual Model for Closed-Loop Supply Chain Design
-      href: 
-      thumbnail: figures/conf-2018.png
+
+    # - title: 3D-Printing Based Distributed Plastic Recycling 
+    #   subtitle: A Conceptual Model for Closed-Loop Supply Chain Design
+    #   href: 
+    #   thumbnail: figures/conf-2018.png
     # - title: Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder 
     #   subtitle: Comparison to Fused Filament Fabrication on Open-Source Desktop Three-Dimensional Printers
     #   href: https://hal.univ-lorraine.fr/hal-01858370       
