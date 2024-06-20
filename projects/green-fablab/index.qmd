@@ -30,6 +30,10 @@ From one side, there have been a growing interesting in the additive manufacturi
 The creation of the fantastic [RepRap Projet](https://reprap.org/), an open source project, opened up many possibilities in terms of local manufacturing.
 Also, the impact of the human activity to the environment and natural resources scarcity is taking more and more place in the general conscious. Therefore, a central issue today is how preserve material resources  to in terms of circular in order to preserve the as much as possible
 
+And finally, urban manufacturing approaches are actively utilizing the unique characteristics of its surroundings. 
+They are creating products with a focus on the local market and allows customer involvement during value creation. 
+
+The Urban Factory has a minimal negative impact on its environment while positively influencing the local economy.
 :::
 
 
