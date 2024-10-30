@@ -1,0 +1,12 @@
+
+
+# **Cejemploo de otra pagina ?**
+
+Le LF2L fonctionne en combinant deux concepts :
+
+- **Fab Lab** : Un espace équipé d'outils de fabrication numérique (comme des imprimantes 3D, des découpeuses laser, etc.) où sont créés des prototypes physiques de produits.
+- **Living Lab** : Un endroit où les produits ou services sont testés par des utilisateurs réels dans des environnements simulés ou réels pour recueillir des retours. Cela permet d'ajuster et d'améliorer les idées en fonction des besoins des utilisateurs.
+
+Le processus comprend différentes phases : de la création initiale des idées (2D), à la création de prototypes (3D), jusqu'à leur évaluation par les utilisateurs dans des scénarios futurs (4D). De plus, des technologies comme des capteurs et des dispositifs de réalité augmentée sont utilisées pour analyser l'interaction des utilisateurs avec les produits.
+
+[Ir a otra página](otra_pagina2.qmd)

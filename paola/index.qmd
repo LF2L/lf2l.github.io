@@ -52,3 +52,8 @@ Ces acteurs collaborent dans la conception, le développement et l’évaluation
 # **OÙ se trouve le LF2L ?**
 
 Le LF2L est situé dans la région de Lorraine, en France, et fait partie de l'Université de Lorraine. Il dispose également du **Nomad'Lab**, un laboratoire mobile qui apporte les technologies du LF2L aux entreprises, institutions éducatives et autres communautés de la région.
+
+
+
+[Ir a otra página](otra_pagina.qmd)
+

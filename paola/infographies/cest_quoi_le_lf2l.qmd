@@ -1,0 +1,71 @@
+
+---
+title: "Découvrez le Lorraine Fab Living Lab !"
+author: "Un espace pour innover, créer et expérimenter à Nancy"
+output: html_document
+---
+
+## 1. Introduction au Contexte (DIY et FabLab)
+
+**Texte :**  
+"Saviez-vous que nous vivons à l’ère de l’information, où est né le mouvement *Do-It-Yourself* (DIY) ? Ce mouvement encourage la réalisation de projets par soi-même en utilisant les ressources disponibles et en partageant des idées. De cette philosophie sont nés les FabLabs, des espaces ouverts pour créer et collaborer en utilisant des outils de fabrication avancés, comme les imprimantes 3D et les découpeuses laser."
+
+![Illustration d’une imprimante 3D, d’une découpeuse laser, et de personnes travaillant en équipe dans un atelier.](..\Foto.png)
+
+---
+
+## 2. Qu'est-ce que le Lorraine Fab Living Lab ?
+
+**Texte :**  
+"Le Lorraine Fab Living Lab (LF2L) est un espace unique qui combine l’esprit du FabLab et du Living Lab. Créé par le laboratoire ERPI et l'ENSGSI, sa mission est de vous aider à transformer vos idées en projets innovants."
+
+![Image du Lorraine Fab Living Lab (si disponible), logos de l'ERPI et de l'ENSGSI, et mots-clés tels que "Innovation", "Création", "Technologie".](image2.png)
+
+---
+
+## 3. Qu'est-ce qu'un Living Lab ?
+
+**Texte :**  
+"Un Living Lab est un espace de création qui met l’utilisateur final au cœur du processus : ici, vous pouvez développer des produits et des services adaptés aux besoins réels des personnes. Les utilisateurs participent activement à chaque étape, de la création à l’évaluation finale, devenant ainsi des collaborateurs de l'innovation."
+
+![Diagramme montrant un flux de travail collaboratif, de l’idée au prototype final, avec l’utilisateur au centre du processus.](image3.png)
+
+---
+
+## 4. Qu'est-ce qu'un FabLab ?
+
+**Texte :**  
+"Un FabLab est un atelier équipé de technologies avancées, où vous pouvez accéder à des outils comme les imprimantes 3D ou les découpeuses laser pour réaliser des prototypes. De plus, il promeut le travail en équipe, l’accessibilité et l’éducation pour une culture de l'innovation partagée."
+
+![Icônes des principaux outils du FabLab (imprimante 3D, découpeuse laser, etc.) et personnes collaborant.](image4.png)
+
+---
+
+## 5. Que pouvez-vous faire au Lorraine Fab Living Lab ?
+
+**Texte :**  
+"Transformez vos idées en prototypes réels. Au LF2L, vous pouvez travailler en équipe pour développer des solutions à des problèmes concrets. Passez d’un concept en 2D à un prototype en 3D, et évaluez comment il fonctionnerait dans le temps."
+
+![Représentation du processus de travail au LF2L, avec les phases 2D, 3D et 4D (concept, prototype et évaluation).](image5.png)
+
+---
+
+## 6. Avantages d’utiliser le LF2L
+
+**Texte court pour points d'impact :**  
+- "Transformez des idées en projets concrets"
+- "Accès à des technologies avancées"
+- "Réseau de collaborateurs de divers domaines"
+- "Soutien d'experts en innovation de l'ERPI et de l'ENSGSI"
+
+![Illustration d’étudiants et de professionnels travaillant ensemble, mettant en valeur la technologie et la collaboration.](image6.png)
+
+---
+
+## 7. Appel à l’Action
+
+**Texte :**  
+- **Pour les Doctorants de l’ERPI :** *Donnez vie à vos recherches dans un espace où l’innovation prend forme.*
+- **Pour les Étudiants de l’ENSGSI :** *Connectez-vous à des professionnels et à des ressources uniques, et donnez vie à vos idées pour résoudre des problèmes concrets.*
+
+![Boutons ou liens invitant à planifier une visite ou à obtenir plus d’informations, comme "Venez nous voir !" ou "Découvrez le LF2L !"](image7.png)

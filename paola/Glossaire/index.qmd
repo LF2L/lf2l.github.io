@@ -1,0 +1,35 @@
+---
+title: "C'est quoi le coworking ?"
+format:
+  html:
+    css: hstyles.css
+---
+
+# C'est quoi le coworking ?
+
+---
+
+<div class="clearfix">
+    <img src="CW2.png" alt="Illustration coworking" class="image-left"/>
+    <p>PARFOIS CONNU COMME Cotravail* ou l'anglicisme coworking, ou parfois bureaux partagés...</p>
+</div>
+
+---
+
+<p class="center-text">est un type d'organisation du travail qui regroupe deux notions :</p>
+
+<p class="center-text">
+    <img src="CW3.png" alt="Image coworking centrée" style="width: 50%;"/>
+</p>
+
+---
+
+<div class="clearfix">
+    <p class="center-text">Il est un des domaines de l'économie collaborative et est souvent présenté comme un contexte favorisant l'innovation.</p>
+    <img src="CW4.png" alt="Illustration coworking" class="image-right"/>
+</div>
+
+---
+
+<p class="source">terme officiel en France*  
+SOURCE: <a href="https://fr.wikipedia.org/wiki/Coworking#cite_note-1">https://fr.wikipedia.org/wiki/Coworking#cite_note-1</a></p>
