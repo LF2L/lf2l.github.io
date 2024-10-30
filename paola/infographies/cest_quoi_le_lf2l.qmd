@@ -9,12 +9,12 @@ output: html_document
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1; text-align: center;">
-**Texte :**  
-"Saviez-vous que nous vivons à l’ère de l’information, où est né le mouvement *Do-It-Yourself* (DIY) ? Ce mouvement encourage la réalisation de projets par soi-même en utilisant les ressources disponibles et en partageant des idées. De cette philosophie sont nés les FabLabs, des espaces ouverts pour créer et collaborer en utilisant des outils de fabrication avancés, comme les imprimantes 3D et les découpeuses laser."
+
+"Actuellement, nous vivons à l’ère de l’information, où est né le mouvement *Do-It-Yourself* (DIY). Ce mouvement encourage la réalisation de projets par soi-même en utilisant les ressources disponibles et en partageant des idées. De cette philosophie sont nés les FabLabs, des espaces ouverts pour créer et collaborer en utilisant des outils de fabrication avancés, comme les imprimantes 3D et les découpeuses laser."
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Illustration d’une imprimante 3D, d’une découpeuse laser, et de personnes travaillant en équipe dans un atelier.](..\Foto.png)
+![Illustration d’une imprimante 3D, d’une découpeuse laser, et de personnes travaillant en équipe dans un atelier.](..\images\Cortador laser.png)
 </div>
 
 </div>
@@ -26,12 +26,12 @@ output: html_document
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1; text-align: center;">
-**Texte :**  
+
 "Le Lorraine Fab Living Lab (LF2L) est un espace unique qui combine l’esprit du FabLab et du Living Lab. Créé par le laboratoire ERPI et l'ENSGSI, sa mission est de vous aider à transformer vos idées en projets innovants."
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Image du Lorraine Fab Living Lab (si disponible), logos de l'ERPI et de l'ENSGSI, et mots-clés tels que "Innovation", "Création", "Technologie".](image2.png)
+![Image du Lorraine Fab Living Lab (si disponible), logos de l'ERPI et de l'ENSGSI, et mots-clés tels que "Innovation", "Création", "Technologie".](..\images\2d-1.png)
 </div>
 
 </div>
@@ -43,12 +43,12 @@ output: html_document
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1; text-align: center;">
-**Texte :**  
+  
 "Un Living Lab est un espace de création qui met l’utilisateur final au cœur du processus : ici, vous pouvez développer des produits et des services adaptés aux besoins réels des personnes. Les utilisateurs participent activement à chaque étape, de la création à l’évaluation finale, devenant ainsi des collaborateurs de l'innovation."
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Diagramme montrant un flux de travail collaboratif, de l’idée au prototype final, avec l’utilisateur au centre du processus.](image3.png)
+![Diagramme montrant un flux de travail collaboratif, de l’idée au prototype final, avec l’utilisateur au centre du processus.](..\images\4d-1.png)
 </div>
 
 </div>
@@ -60,12 +60,12 @@ output: html_document
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1; text-align: center;">
-**Texte :**  
+ 
 "Un FabLab est un atelier équipé de technologies avancées, où vous pouvez accéder à des outils comme les imprimantes 3D ou les découpeuses laser pour réaliser des prototypes. De plus, il promeut le travail en équipe, l’accessibilité et l’éducation pour une culture de l'innovation partagée."
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Icônes des principaux outils du FabLab (imprimante 3D, découpeuse laser, etc.) et personnes collaborant.](image4.png)
+![Icônes des principaux outils du FabLab (imprimante 3D, découpeuse laser, etc.) et personnes collaborant.](..\images\Impresora3d.png) 
 </div>
 
 </div>
@@ -82,7 +82,7 @@ output: html_document
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Représentation du processus de travail au LF2L, avec les phases 2D, 3D et 4D (concept, prototype et évaluation).](image5.png)
+![Représentation du processus de travail au LF2L, avec les phases 2D, 3D et 4D (concept, prototype et évaluation).](..\images\4d-1.png)
 </div>
 
 </div>
@@ -102,7 +102,7 @@ output: html_document
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Illustration d’étudiants et de professionnels travaillant ensemble, mettant en valeur la technologie et la collaboration.](image6.png)
+![Illustration d’étudiants et de professionnels travaillant ensemble, mettant en valeur la technologie et la collaboration.](..\images\4d-1.png)
 </div>
 
 </div>
@@ -120,7 +120,7 @@ output: html_document
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Boutons ou liens invitant à planifier une visite ou à obtenir plus d’informations, comme "Venez nous voir !" ou "Découvrez le LF2L !"](image7.png)
+![Boutons ou liens invitant à planifier une visite ou à obtenir plus d’informations, comme "Venez nous voir !" ou "Découvrez le LF2L !"](..\images\4d-1.png)
 </div>
 
 </div>
