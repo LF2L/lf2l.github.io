@@ -5,7 +5,6 @@ description: "Un espace pour innover, créer et expérimenter à Nancy"
 output: html_document
 ---
 
-## Introduction au Contexte (DIY et FabLab)
 
 <div style="display: flex; align-items: center;">
 
@@ -15,7 +14,7 @@ Actuellement, nous vivons à l’ère de l’information, où est né le mouveme
 </div>
 
 <div style="flex: 1; text-align: center;">
-![Illustration d’une imprimante 3D, d’une découpeuse laser, et de personnes travaillant en équipe dans un atelier.](..\images\Cortador laser.png)
+![Découpeuse laser, utilisé pour couper de bois, papier, et des autres materiaux](..\images\Cortador laser.png)
 </div>
 
 </div>
@@ -27,7 +26,7 @@ Actuellement, nous vivons à l’ère de l’information, où est né le mouveme
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1; text-align: center;">
-![Image du Lorraine Fab Living Lab (si disponible), logos de l'ERPI et de l'ENSGSI, et mots-clés tels que "Innovation", "Création", "Technologie".](..\images\2d-1.png)
+![Le Lorraine Fab Living Lab, un éspace de cocréation et partage](..\images\Ilustraciones-fablivinglab-02.webp)
 </div>
 
 <div style="flex: 1; text-align: center;">
