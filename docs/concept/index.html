@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Les Questions de Base sur le Lorraine Fab Living Lab (LF2L)</title>
+<title>About us</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -40,6 +60,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,17 +89,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
 
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #592c8e;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #592c8e;
+background: rgba(255, 255, 255, 0.45);
+      }
+</style>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../assets/fabio.css">
-<meta property="og:title" content="Les Questions de Base sur le Lorraine Fab Living Lab (LF2L)">
-<meta property="og:description" content="">
+<meta property="og:title" content="About us">
+<meta property="og:description" content="Explore the Innovation">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -115,21 +184,16 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
-<!-- sidebar -->
-<!-- margin-sidebar -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+    <div class="quarto-title-banner page-columns page-full">
+      <div class="quarto-title column-page-left">
+        <!-- <h1 class="title">About us</h1> -->
+        <h1 class="title">Concept du LF2L</h1>
+                <p class="subtitle lead">Explore the Innovation</p>
+                              </div>
+    </div>      
     
-<!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Les Questions de Base sur le Lorraine Fab Living Lab (LF2L)</h1>
-</div>
-
-
-
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -137,58 +201,111 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
-
-</header>
-
-
-<section id="illustration" class="level1">
-<h1>Illustration</h1>
-</section>
-<section id="illustration-1" class="level1">
-<h1>Illustration</h1>
-<p><img src="Foto.png" class="img-fluid" alt="Illustration sur le LF2L"> # Asumiendo que la imagen está en la misma carpeta</p>
-</section>
-<section id="quest-ce-que-le-lorraine-fab-living-lab-lf2l" class="level1">
-<h1><strong>QU’EST-CE QUE le Lorraine Fab Living Lab (LF2L) ?</strong></h1>
-<p>Le LF2L est une plateforme d’innovation collaborative qui réunit des technologies avancées pour créer, prototyper et évaluer des produits et services. Il est conçu pour aider les entreprises, les citoyens et les créateurs à matérialiser leurs idées et à les améliorer grâce à des tests avec des utilisateurs réels. Il se concentre sur la co-création et l’évolution des idées de manière rapide et efficace.</p>
-<hr>
-</section>
-<section id="pourquoi-le-lf2l-est-il-important" class="level1">
-<h1><strong>POURQUOI le LF2L est-il important ?</strong></h1>
-<p>Le LF2L est important car il accélère le processus d’innovation en permettant aux idées d’être rapidement prototypées et évaluées par les utilisateurs. Cela garantit que les produits et services soient plus utiles, innovants et pertinents pour les personnes qui les utiliseront. De plus, il favorise la collaboration entre différents secteurs (entreprises, citoyens, universités), en créant un écosystème créatif et adaptable aux défis actuels.</p>
-<hr>
-</section>
-<section id="comment-fonctionne-le-lf2l" class="level1">
-<h1><strong>COMMENT fonctionne le LF2L ?</strong></h1>
-<p>Le LF2L fonctionne en combinant deux concepts :</p>
-<ul>
-<li><strong>Fab Lab</strong> : Un espace équipé d’outils de fabrication numérique (comme des imprimantes 3D, des découpeuses laser, etc.) où sont créés des prototypes physiques de produits.</li>
-<li><strong>Living Lab</strong> : Un endroit où les produits ou services sont testés par des utilisateurs réels dans des environnements simulés ou réels pour recueillir des retours. Cela permet d’ajuster et d’améliorer les idées en fonction des besoins des utilisateurs.</li>
-</ul>
-<p>Le processus comprend différentes phases : de la création initiale des idées (2D), à la création de prototypes (3D), jusqu’à leur évaluation par les utilisateurs dans des scénarios futurs (4D). De plus, des technologies comme des capteurs et des dispositifs de réalité augmentée sont utilisées pour analyser l’interaction des utilisateurs avec les produits.</p>
-<hr>
-</section>
-<section id="qui-participe-au-lf2l" class="level1">
-<h1><strong>QUI participe au LF2L ?</strong></h1>
-<p>Le LF2L est ouvert à une grande diversité d’acteurs, incluant :</p>
-<ul>
-<li>Des entreprises de toutes tailles (PME-PMI, grands groupes industriels).</li>
-<li>Des citoyens et communautés locales.</li>
-<li>Des chercheurs, universitaires et étudiants.</li>
-<li>Des institutions publiques et privées.</li>
-</ul>
-<p>Ces acteurs collaborent dans la conception, le développement et l’évaluation de produits ou services, créant un environnement d’innovation participative.</p>
-<hr>
-</section>
-<section id="où-se-trouve-le-lf2l" class="level1">
-<h1><strong>OÙ se trouve le LF2L ?</strong></h1>
-<p>Le LF2L est situé dans la région de Lorraine, en France, et fait partie de l’Université de Lorraine. Il dispose également du <strong>Nomad’Lab</strong>, un laboratoire mobile qui apporte les technologies du LF2L aux entreprises, institutions éducatives et autres communautés de la région.</p>
-<p><a href="../paola/otra_pagina.html">Ir a otra página</a></p>
+    
+</header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-platform-is-an-initiative-of-ensgsi-and-erpi" id="toc-the-platform-is-an-initiative-of-ensgsi-and-erpi" class="nav-link active" data-scroll-target="#the-platform-is-an-initiative-of-ensgsi-and-erpi">The platform is an initiative of ENSGSI and ERPI</a>
+  <ul class="collapse">
+  <li><a href="#fablab-and-living-lab-approach" id="toc-fablab-and-living-lab-approach" class="nav-link" data-scroll-target="#fablab-and-living-lab-approach">Fablab and Living Lab approach</a>
+  <ul class="collapse">
+  <li><a href="#enter-the-4th-helix-of-innovation" id="toc-enter-the-4th-helix-of-innovation" class="nav-link" data-scroll-target="#enter-the-4th-helix-of-innovation">Enter the 4th helix of Innovation!</a></li>
+  <li><a href="#they-have-put-their-trust-in-us" id="toc-they-have-put-their-trust-in-us" class="nav-link" data-scroll-target="#they-have-put-their-trust-in-us">They have put their trust in us:</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
+
+
+
+<section id="the-platform-is-an-initiative-of-ensgsi-and-erpi" class="level1">
+<h1>The platform is an initiative of ENSGSI and ERPI</h1>
+<p>Since the mid-2000s, the <a href="https://ensgsi.univ-lorraine.fr/en/">École Nationale Supérieure en Génie des Systèmes et de l’Innovation -ENSGSI-</a> and the <a href="https://erpi.univ-lorraine.fr/">Équipe de Recherche sur les Processus Innovatifs -ERPI-</a> have been interested in the emerging concepts of <em>Living Lab</em> and <em>Smart City</em> through research questions <span class="citation" data-cites="Dupont2009">(<a href="#ref-Dupont2009" role="doc-biblioref">Dupont 2009</a>)</span> and the implementation of innovative pedagogical devices and spaces. In 2005, the <strong>Cré@ction</strong> space at ENSGSI was designed to support creativity processes and enable engineering students to create models or intermediate design objects (ICOs) <span class="citation" data-cites="boujut2003">(<a href="#ref-boujut2003" role="doc-biblioref">Boujut and Blanco 2003</a>)</span>. In 2009, <strong>InoCité</strong>, a platform supporting Living Lab approaches to territorial issues and innovation in the city. Then in 2011, the <strong>GSI Lab</strong>, <span class="math inline">\(1^{er}\)</span> FabLab in a French engineering school . And finally, in 2014, these spaces were merged, giving birth to <strong>Lorraine Fab Living Lab®</strong> <span class="citation" data-cites="osorio2021 dupont2015">(<a href="#ref-osorio2021" role="doc-biblioref">Osorio 2021</a>; <a href="#ref-dupont2015" role="doc-biblioref">Dupont, Morel, and Lhoste 2015</a>)</span>, an innovation acceleration platform, one of the incarnations of the Lorraine Smart City Living Lab and incubator for a multitude of Labs.</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>The Lorraine Fab Living Lab® is a platform for prospective evaluation of the uses and acceptability of innovation. It is located on the Technopôle Renaissance, at the heart of the city and life in Nancy. Initiated and piloted by ENSGSI (https://ensgsi.univ-lorraine.fr/en/) and ERPI (https://erpi.univ-lorraine.fr/)<br>
+<strong>the Lorraine Fab Living Lab® brings together facilities to accelerate creation and collaborative innovation for the uses of tomorrow.</strong></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="../images/2-concept/fr/Figure-2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="../images/2-concept/fr/Figure-2.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%"></a></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<section id="fablab-and-living-lab-approach" class="level2">
+<h2 class="anchored" data-anchor-id="fablab-and-living-lab-approach">Fablab and Living Lab approach</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<p><a href="../images/2-concept/fr/Figure-1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="../images/2-concept/fr/Figure-1.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>The Lorraine Fab Living Lab® supports the creation and use of “demonstrators” of new products, processes, services and organizations, mobilizing companies, territories and academics for creative and sustainable territories. It is rooted in successful experiments based on the concepts of Living Lab (integrating users into design and collaborative approaches) and FabLab (Fabrication Laboratory), an open, functional space for prototyping, in the sense of the digital fabrication workshop concept initiated by MIT (Massachusetts Institute of Technology).</p>
+</div>
+</div>
+</div>
+<p><br><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../images/2-concept/fr/Figure-3.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="../images/2-concept/fr/Figure-3.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
+</figure>
+</div>
+<p>These experiments stem from the Lorraine Smart Cities Living Lab project, launched in 2008 and accredited in 2010 by the European Living Labs network ENoLL, and the 1st French FabLab to be set up within an engineering school and recognized by the Fab Foundation in 2011.</p>
+<blockquote class="blockquote">
+<p>This space enables the co-creation, prototyping and testing of products and services dreamt up by citizens and companies keen to participate together in the improvement of tomorrow’s creative territories.</p>
+</blockquote>
+<section id="enter-the-4th-helix-of-innovation" class="level3">
+<h3 class="anchored" data-anchor-id="enter-the-4th-helix-of-innovation">Enter the 4th helix of Innovation!</h3>
+<p>The Lorraine Fab Living Lab® enables you to create on-demand and get immediate results, thanks to an established process based on the paradigm of use. By bringing together complementary cutting-edge tools in a single space, the Lorraine Fab Living Lab® facilitates collaborative thinking and the development of innovation. What makes the Lorraine Fab Living Lab® unique is its ability to welcome and support different communities of practice (citizen users, entrepreneurs, researchers, institutions, etc.) via a scientific and technical facility capable of multiplying interfaces to integrate the usage dimension at every stage of the project. In this way, LF2L® accelerates the transition from abstract ideas or concepts (2D) to their materialization (virtual or prototyped 3D) by evaluating them (4D - evolution scenarios). Our research has also led us to develop immersive devices to ensure a regular connection to real-life situations.</p>
+</section>
+<section id="they-have-put-their-trust-in-us" class="level3">
+<h3 class="anchored" data-anchor-id="they-have-put-their-trust-in-us">They have put their trust in us:</h3>
+<p>Through this project, the Université de Lorraine is transferring its knowledge, tools and methodologies to help local authorities develop their capacity to innovate. Seduced by the Lorraine Fab Living Lab® project, which fits in with their research themes, two chairs are now benefiting from the platform: the PRINCIP Research Chair (accredited by the Fond pour l’Innovation dans l’Industrie) dedicated to SMEs, and the REVES Collaborative Chair (supported by ENEDIS, EDF, the Grand Nancy Metropolis, the CCPHVA), deploying the Smart Cities concept to propose solutions to the new societal challenges facing cities and territories.</p>
+<blockquote class="blockquote">
+<p>Inaugurated in June 2014, as part of the French Tech festival, the Lorraine Fab living Lab® is a member of LORnTECH (Métropole French Tech). This space opens up new perspectives in the ways scientific and technical knowledge is produced and disseminated.</p>
+</blockquote>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/r96FK1_aPrs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+
+</section>
+</section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-boujut2003" class="csl-entry" role="listitem">
+Boujut, Jean-François, and Eric Blanco. 2003. <span>“Intermediary Objects as a Means to Foster Co-Operation in Engineering Design.”</span> <em>Computer Supported Cooperative Work (CSCW)</em> 12 (2): 205–19.
+</div>
+<div id="ref-Dupont2009" class="csl-entry" role="listitem">
+Dupont, Laurent. 2009. <span>“Transfert Du g<span>é</span>nie Industriel Vers l’ing<span>é</span>nierie Urbaine: Vers Une Approche Collaborative Des Projets Urbains.”</span> PhD thesis, Institut National Polytechnique de Lorraine-INPL.
+</div>
+<div id="ref-dupont2015" class="csl-entry" role="listitem">
+Dupont, Laurent, Laure Morel, and Pascal Lhoste. 2015. <span>“Le Lorraine Fab Living Lab: La 4<span>è</span>me Dimension de l’innovation.”</span> In <em>Journ<span>é</span>es Hubert Curien</em>.
+</div>
+<div id="ref-osorio2021" class="csl-entry" role="listitem">
+Osorio, Ferney. 2021. <span>“Management of Innovation Labs: An Enabling Methodological Approach for Strategic Intent Design.”</span> PhD thesis, Universit<span>é</span> de Lorraine; Universidad nacional de Colombia.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -648,6 +765,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","loop":false,"selector":".lightbox"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
