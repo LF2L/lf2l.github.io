@@ -1,6 +1,6 @@
 ---
 title: "About us"
-title-fr: "Concept du LF2L"
+title-fr: "Concept of the LF2L"
 subtitle: "Explore the Innovation"
 toc: true
 format:
