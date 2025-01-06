@@ -98,7 +98,7 @@ Il soutient la création et l'obtention de résultats à travers un processus é
 # Nos Labels
 
 ::: {layout-nrow=1}
-![Labélisation STAR LUE](images/logos/start-lue.png)
+![Labélisation STAR LUE](images/logos/logo_infra+_2024.png)
 
 ![[Les lieux inspirants de l'Enseignement supérieur](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)](images/logos/MESR.svg)
 :::
