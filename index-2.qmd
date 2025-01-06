@@ -26,7 +26,7 @@ listing:
 ---
 
 :::{.column-body-outset}
-![](images/1-home/Logo-LF2L.jpg)
+![](images/logos/logo_infra+_2024.png)
 :::
 
 
