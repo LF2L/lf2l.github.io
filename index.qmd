@@ -78,8 +78,8 @@ It supports the creation and achievement of results through an established proce
 
 # Our Labels
 
-::: {layout-nrow=1}
-![Labélisation STAR LUE](images/logos/start-lue.png)
+::: {layout=[50,50] }
+![Labélisation STAR LUE](images/logos/logo_infra_2024.png){width="50%"}
 
 ![[Les lieux inspirants de l'Enseignement supérieur](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/)](images/logos/MESR.svg)
 :::
