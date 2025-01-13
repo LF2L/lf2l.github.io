@@ -1,0 +1,221 @@
+---
+title: "Impression 3D"
+subtitle: "Tutorial template"  
+email: "xxx@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "Paola"
+date: 06-12-2024
+
+metadata-files:
+  - _parametros.yml
+
+format:
+  revealjs:
+    footer: 'Tutorial 1: Comment utiliser une Imprimante 3D'
+    header: 'Impression 3D'
+---
+
+
+# But du Tutoriel
+
+## But pédagogique de ce tutorial
+
+1. 🧠 **Connaisences** : 
+   - Domaine de l'Impression 3D
+
+
+1. 🔨 **Savoir-faire** : 
+   - Utiliser les machines d'impression 3D
+
+1. ✍**Compéténces:**  : 
+   - Pouvoir imprimer un objet au LF2L   
+
+
+
+## Qu'est-ce que l'impression 3D ?
+
+:::{layout="[40,60]"}
+:::{}
+
+L'impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d'être envoyé à la machine.  
+
+Contrairement à d'autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle.
+:::
+
+:::{}
+![](tuto-1/Image-to-find.jpg){width="95%" fig-align="center"}
+:::
+
+:::
+
+## Technologies et matériaux principaux
+
+### Technologie courante
+La plus utilisée est la **modélisation par dépôt fondu (FDM)**, où un filament de plastique est chauffé et extrudé pour former les couches de l'objet.
+
+### Matériau le plus utilisé : PLA
+Le PLA (acide polylactique) est économique, facile à utiliser et moins toxique que d'autres matériaux. Cependant, il présente des limitations :  
+
+
+- **Non adapté** pour un contact constant avec des aliments.  
+- **Non recommandé** dans des environnements humides ou chauds.
+
+
+
+## Applications du PLA
+
+:::{layout="[40,60]"}
+:::{}
+
+- Objets décoratifs ou artistiques.  
+- Prototypes pour des projets personnels.  
+- Organisateurs et accessoires du quotidien.  
+- Pièces de rechange non structurelles.
+:::
+
+:::{}
+![](tuto-1/Image-to-find.jpg){width="95%" fig-align="center"}
+:::
+:::
+
+
+
+# Comment imprimer en 3D ?
+
+## Pas à suivre pour l'impression: 
+
+Le processus d'impression suit ces étapes de base :  
+
+:::{layout="[80,40]"}
+:::{}
+
+1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+
+:::
+::: {}
+![](tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+:::
+:::
+
+## Pas à suivre pour l'impression: 
+
+Le processus d'impression suit ces étapes de base :  
+
+:::{layout="[80,40]"}
+:::{}
+
+1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
+3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
+:::
+::: {}
+![](tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+:::
+:::
+
+## Pas à suivre pour l'impression: 
+
+Le processus d'impression suit ces étapes de base :  
+
+:::{layout="[80,40]"}
+:::{}
+
+1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
+3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
+4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
+:::
+::: {}
+![](tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+:::
+:::
+
+## Pas à suivre pour l'impression: 
+
+Le processus d'impression suit ces étapes de base :  
+
+:::{layout="[80,40]"}
+:::{}
+
+1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
+3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
+4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
+5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
+:::
+::: {}
+![](tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+:::
+:::
+
+## Pas à suivre pour l'impression: 
+
+Le processus d'impression suit ces étapes de base :  
+
+:::{layout="[80,40]"}
+:::{}
+
+1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
+3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
+4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
+5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
+6. **Imprimer et superviser :** Surveillez le processus pour détecter les erreurs à temps.
+:::
+::: {}
+![](tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+:::
+:::
+
+## Pas à suivre pour l'impression: 
+
+Le processus d'impression suit ces étapes de base :  
+
+:::{layout="[80,40]"}
+:::{}
+
+1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
+3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
+4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
+5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
+6. **Imprimer et superviser :** Surveillez le processus pour détecter les erreurs à temps.
+
+:::
+::: {}
+![](tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+:::
+:::
+
+# Problèmes fréquents et solutions
+
+
+
+## 1. **Mauvaise adhérence de la première couche :**  
+
+- Nivelez et nettoyez le plateau d'impression.  
+- Utilisez de la colle en bâton ou un ruban bleu pour améliorer l'adhésion.  
+
+
+
+## 2. **Bouchage du filament :**  
+
+- Nettoyez régulièrement l'extrudeur.  
+- Évitez d'utiliser du filament humide.  
+
+## 3. **Déplacement des couches :**  
+
+- Assurez-vous que les courroies soient tendues.  
+- Lubrifiez les guides.
+
+
+# À vous de jouer !  
+
+##  LF2L
+
+L'impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques.
+
+
+
+

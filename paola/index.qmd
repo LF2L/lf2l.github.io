@@ -5,4 +5,4 @@ description: "Un espace pour innover, créer et expérimenter à Nancy"
 output: html_document
 ---
 
-<img src="images/cequoilf2l.png" alt="Infographie" class="full-width-image" />
+

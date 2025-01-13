@@ -803,5 +803,138 @@
     "title": "Découvrez le Lorraine Fab Living Lab !",
     "section": "Appel à l’Action",
     "text": "Appel à l’Action\n\n\n\nPour les Doctorants de l’ERPI : Donnez vie à vos recherches dans un espace où l’innovation prend forme.\nPour les Étudiants de l’ENSGSI : Connectez-vous à des professionnels et à des ressources uniques, et donnez vie à vos idées pour résoudre des problèmes concrets.\n\n\n\n\n\n\nBoutons ou liens invitant à planifier une visite ou à obtenir plus d’informations, comme “Venez nous voir !” ou “Découvrez le LF2L !”"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#subtitle",
+    "href": "tutorials/tutorial1.html#subtitle",
+    "title": "Title",
+    "section": "Subtitle",
+    "text": "Subtitle"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html",
+    "href": "tutorials/tutorial1.html",
+    "title": "Title",
+    "section": "",
+    "text": ":::"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#subtitle-2",
+    "href": "tutorials/tutorial1.html#subtitle-2",
+    "title": "Title",
+    "section": "Subtitle 2",
+    "text": "Subtitle 2"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#but-pédagogique-de-ce-tutorial",
+    "href": "tutorials/tutorial1.html#but-pédagogique-de-ce-tutorial",
+    "title": "Impression 3D",
+    "section": "But pédagogique de ce tutorial",
+    "text": "But pédagogique de ce tutorial\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser les machines d’impression 3D\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#figures",
+    "href": "tutorials/tutorial1.html#figures",
+    "title": "Impression 3D",
+    "section": "Figures",
+    "text": "Figures\n\n\n\n\n\n\nExplication\n\nStep 1\nStep 2\nStep 3"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#step-1",
+    "href": "tutorials/tutorial1.html#step-1",
+    "title": "Title",
+    "section": "Step 1",
+    "text": "Step 1\n\n\n\n\n\n\n\n \n\n\nTutorial template"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#quest-ce-que-limpression-3d",
+    "href": "tutorials/tutorial1.html#quest-ce-que-limpression-3d",
+    "title": "Impression 3D",
+    "section": "Qu’est-ce que l’impression 3D ?",
+    "text": "Qu’est-ce que l’impression 3D ?\n\n\n\n\n\n\nL’impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d’être envoyé à la machine.\nContrairement à d’autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#technologies-et-matériaux-principaux",
+    "href": "tutorials/tutorial1.html#technologies-et-matériaux-principaux",
+    "title": "Impression 3D",
+    "section": "Technologies et matériaux principaux",
+    "text": "Technologies et matériaux principaux"
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#applications-du-pla",
+    "href": "tutorials/tutorial1.html#applications-du-pla",
+    "title": "Impression 3D",
+    "section": "Applications du PLA",
+    "text": "Applications du PLA\n\n\n\n\n\n\n\nObjets décoratifs ou artistiques.\n\nPrototypes pour des projets personnels.\n\nOrganisateurs et accessoires du quotidien.\n\nPièces de rechange non structurelles."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression",
+    "href": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-1",
+    "href": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-1",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-2",
+    "href": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-2",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-3",
+    "href": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-3",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-4",
+    "href": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-4",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-5",
+    "href": "tutorials/tutorial1.html#pas-à-suivre-pour-limpression-5",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#mauvaise-adhérence-de-la-première-couche",
+    "href": "tutorials/tutorial1.html#mauvaise-adhérence-de-la-première-couche",
+    "title": "Impression 3D",
+    "section": "1. Mauvaise adhérence de la première couche :",
+    "text": "1. Mauvaise adhérence de la première couche :\n\nNivelez et nettoyez le plateau d’impression.\n\nUtilisez de la colle en bâton ou un ruban bleu pour améliorer l’adhésion."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#bouchage-du-filament",
+    "href": "tutorials/tutorial1.html#bouchage-du-filament",
+    "title": "Impression 3D",
+    "section": "2. Bouchage du filament :",
+    "text": "2. Bouchage du filament :\n\nNettoyez régulièrement l’extrudeur.\n\nÉvitez d’utiliser du filament humide."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#déplacement-des-couches",
+    "href": "tutorials/tutorial1.html#déplacement-des-couches",
+    "title": "Impression 3D",
+    "section": "3. Déplacement des couches :",
+    "text": "3. Déplacement des couches :\n\nAssurez-vous que les courroies soient tendues.\n\nLubrifiez les guides."
+  },
+  {
+    "objectID": "tutorials/tutorial1.html#lf2l",
+    "href": "tutorials/tutorial1.html#lf2l",
+    "title": "Impression 3D",
+    "section": "LF2L",
+    "text": "LF2L\nL’impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques.\n\n\n\n\n\n\n\n \n\n\nTutorial template"
   }
 ]
