@@ -936,5 +936,383 @@
     "title": "Impression 3D",
     "section": "LF2L",
     "text": "LF2L\nL’impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques.\n\n\n\n\n\n\n\n \n\n\nTutorial template"
+  },
+  {
+    "objectID": "tutorials/index.html#but-pédagogique-de-ce-tutorial",
+    "href": "tutorials/index.html#but-pédagogique-de-ce-tutorial",
+    "title": "Tutoriel d’utilisation :",
+    "section": "But pédagogique de ce tutorial",
+    "text": "But pédagogique de ce tutorial\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser la machine d’impression 3D Flashforge Adventurer 5M Pro\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
+  },
+  {
+    "objectID": "tutorials/index.html#quest-ce-que-limpression-3d",
+    "href": "tutorials/index.html#quest-ce-que-limpression-3d",
+    "title": "Impression 3D",
+    "section": "Qu’est-ce que l’impression 3D ?",
+    "text": "Qu’est-ce que l’impression 3D ?\n\n\n\n\n\n\nL’impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d’être envoyé à la machine.\nContrairement à d’autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle."
+  },
+  {
+    "objectID": "tutorials/index.html#technologies-et-matériaux-principaux",
+    "href": "tutorials/index.html#technologies-et-matériaux-principaux",
+    "title": "Impression 3D",
+    "section": "Technologies et matériaux principaux",
+    "text": "Technologies et matériaux principaux"
+  },
+  {
+    "objectID": "tutorials/index.html#applications-du-pla",
+    "href": "tutorials/index.html#applications-du-pla",
+    "title": "Impression 3D",
+    "section": "Applications du PLA",
+    "text": "Applications du PLA\n\n\n\n\n\n\n\nObjets décoratifs ou artistiques.\n\nPrototypes pour des projets personnels.\n\nOrganisateurs et accessoires du quotidien.\n\nPièces de rechange non structurelles."
+  },
+  {
+    "objectID": "tutorials/index.html#pas-à-suivre-pour-limpression",
+    "href": "tutorials/index.html#pas-à-suivre-pour-limpression",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse."
+  },
+  {
+    "objectID": "tutorials/index.html#pas-à-suivre-pour-limpression-1",
+    "href": "tutorials/index.html#pas-à-suivre-pour-limpression-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi."
+  },
+  {
+    "objectID": "tutorials/index.html#pas-à-suivre-pour-limpression-2",
+    "href": "tutorials/index.html#pas-à-suivre-pour-limpression-2",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence."
+  },
+  {
+    "objectID": "tutorials/index.html#pas-à-suivre-pour-limpression-3",
+    "href": "tutorials/index.html#pas-à-suivre-pour-limpression-3",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké."
+  },
+  {
+    "objectID": "tutorials/index.html#pas-à-suivre-pour-limpression-4",
+    "href": "tutorials/index.html#pas-à-suivre-pour-limpression-4",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "tutorials/index.html#pas-à-suivre-pour-limpression-5",
+    "href": "tutorials/index.html#pas-à-suivre-pour-limpression-5",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "tutorials/index.html#mauvaise-adhérence-de-la-première-couche",
+    "href": "tutorials/index.html#mauvaise-adhérence-de-la-première-couche",
+    "title": "Tutoriel d’utilisation :",
+    "section": "1. Mauvaise adhérence de la première couche :",
+    "text": "1. Mauvaise adhérence de la première couche :\n\nNivelez et nettoyez le plateau d’impression.\n\nUtilisez de la colle en bâton ou un ruban bleu pour améliorer l’adhésion."
+  },
+  {
+    "objectID": "tutorials/index.html#bouchage-du-filament",
+    "href": "tutorials/index.html#bouchage-du-filament",
+    "title": "Tutoriel d’utilisation :",
+    "section": "2. Bouchage du filament :",
+    "text": "2. Bouchage du filament :\n\nNettoyez régulièrement l’extrudeur.\n\nÉvitez d’utiliser du filament humide."
+  },
+  {
+    "objectID": "tutorials/index.html#déplacement-des-couches",
+    "href": "tutorials/index.html#déplacement-des-couches",
+    "title": "Tutoriel d’utilisation :",
+    "section": "3. Déplacement des couches :",
+    "text": "3. Déplacement des couches :\n\nAssurez-vous que les courroies soient tendues.\n\nLubrifiez les guides."
+  },
+  {
+    "objectID": "tutorials/index.html#lf2l",
+    "href": "tutorials/index.html#lf2l",
+    "title": "Tutoriel d’utilisation :",
+    "section": "LF2L",
+    "text": "LF2L\ntexto lelelelele\n\n\n\n\n\n\n\n \n\n\nImpression 3D avec Flashforge Adventurer 5M Pro"
+  },
+  {
+    "objectID": "tutorials/index.html#titulo",
+    "href": "tutorials/index.html#titulo",
+    "title": "Tutoriel d’utilisation :",
+    "section": "titulo",
+    "text": "titulo\n\n\n\n\n\n\ntexto 1"
+  },
+  {
+    "objectID": "tutorials/index.html#titulo-2",
+    "href": "tutorials/index.html#titulo-2",
+    "title": "Tutoriel d’utilisation :",
+    "section": "titulo 2",
+    "text": "titulo 2"
+  },
+  {
+    "objectID": "tutorials/index.html#ay-ay-ay",
+    "href": "tutorials/index.html#ay-ay-ay",
+    "title": "Tutoriel d’utilisation :",
+    "section": "ay ay ay",
+    "text": "ay ay ay\n\n\n\n\n\n\n\ncosa .\n\nen.\n\nlista"
+  },
+  {
+    "objectID": "tutorials/index.html#préparation-préalable",
+    "href": "tutorials/index.html#préparation-préalable",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Préparation préalable",
+    "text": "Préparation préalable\n\n\n\n\n\n\nOn a besoin d’un modelè 3D en format stl.\nIl peut etre concevu à l’aide d’un logiciel de modélisation 3D (comme Fusion 360 ou Blender)\n\n\n\n\n\n\n\nOu téléchargez-le depuis des bibliothèques de modèles comme les suivantes:\n\nhttps://www.thingiverse.com\n\nhttps://www.printables.com\n\nhttps://makerworld.com"
+  },
+  {
+    "objectID": "tutorials/index.html#section",
+    "href": "tutorials/index.html#section",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Ce model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.\n\n\n\n\n\nPour un tutoriel plus en profondie, clické ici: lien"
+  },
+  {
+    "objectID": "tutorials/index.html#section-2",
+    "href": "tutorials/index.html#section-2",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Assurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression."
+  },
+  {
+    "objectID": "tutorials/index.html#section-3",
+    "href": "tutorials/index.html#section-3",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Nettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique."
+  },
+  {
+    "objectID": "tutorials/index.html#section-4",
+    "href": "tutorials/index.html#section-4",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Vérifiez que l’imprimante est connectée à une prise électrique.\nAppuyez sur le bouton d’alimentation situé à l’arrière, puis sur celui à l’avant."
+  },
+  {
+    "objectID": "tutorials/index.html#section-5",
+    "href": "tutorials/index.html#section-5",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Attendez que le système soit complètement initialisé avant de continuer."
+  },
+  {
+    "objectID": "tutorials/index.html#section-6",
+    "href": "tutorials/index.html#section-6",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "L’imprimante est bien allumée quand ce écran est montrée"
+  },
+  {
+    "objectID": "tutorials/index.html#section-1",
+    "href": "tutorials/index.html#section-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Enregistrez le fichier (format G-code) sur une clé USB compatible.\n\n\n\n\n\nAu LF2L, des clés USB sont mises à votre disposition à côté des imprimantes."
+  },
+  {
+    "objectID": "tutorials/index.html#section-7",
+    "href": "tutorials/index.html#section-7",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Placez le filament à l’arrière de l’imprimante."
+  },
+  {
+    "objectID": "tutorials/index.html#section-8",
+    "href": "tutorials/index.html#section-8",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Ouvrez la porte du haut"
+  },
+  {
+    "objectID": "tutorials/index.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
+    "href": "tutorials/index.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
+    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
+  },
+  {
+    "objectID": "tutorials/index.html#section-9",
+    "href": "tutorials/index.html#section-9",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament”."
+  },
+  {
+    "objectID": "tutorials/index.html#attendez-que-la-température-atteigne-220-c",
+    "href": "tutorials/index.html#attendez-que-la-température-atteigne-220-c",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Attendez que la température atteigne 220 °C",
+    "text": "Attendez que la température atteigne 220 °C"
+  },
+  {
+    "objectID": "tutorials/index.html#section-10",
+    "href": "tutorials/index.html#section-10",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
+  },
+  {
+    "objectID": "tutorials/index.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
+    "href": "tutorials/index.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent.",
+    "text": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent."
+  },
+  {
+    "objectID": "tutorials/index.html#section-11",
+    "href": "tutorials/index.html#section-11",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament imprimé."
+  },
+  {
+    "objectID": "tutorials/index.html#section-12",
+    "href": "tutorials/index.html#section-12",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Ouvrez la porte du haut"
+  },
+  {
+    "objectID": "tutorials/index.html#section-13",
+    "href": "tutorials/index.html#section-13",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le tube blanc et coupez l’ancien filament à l’aide d’une pince\n\n\n\n\n\nRemarque : Les pinces se trouvent soit à côté des imprimantes. Si ce n’est pas le cas, demandez-les aux FabManagers."
+  },
+  {
+    "objectID": "tutorials/index.html#section-14",
+    "href": "tutorials/index.html#section-14",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament du tube blanc en tirant doucement avec la bobine, puis fixez son extrémité dans la bobine pour l’empêcher de se dérouler"
+  },
+  {
+    "objectID": "tutorials/index.html#section-15",
+    "href": "tutorials/index.html#section-15",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Placez le nouveau filament sur la base située à l’arrière de l’imprimante."
+  },
+  {
+    "objectID": "tutorials/index.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
+    "href": "tutorials/index.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
+    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
+  },
+  {
+    "objectID": "tutorials/index.html#section-16",
+    "href": "tutorials/index.html#section-16",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament” et “Démarrer”"
+  },
+  {
+    "objectID": "tutorials/index.html#attendez-que-la-température-atteigne-220-c-1",
+    "href": "tutorials/index.html#attendez-que-la-température-atteigne-220-c-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Attendez que la température atteigne 220 °C",
+    "text": "Attendez que la température atteigne 220 °C"
+  },
+  {
+    "objectID": "tutorials/index.html#section-17",
+    "href": "tutorials/index.html#section-17",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
+  },
+  {
+    "objectID": "tutorials/index.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
+    "href": "tutorials/index.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus.",
+    "text": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus."
+  },
+  {
+    "objectID": "tutorials/index.html#section-18",
+    "href": "tutorials/index.html#section-18",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament imprimé."
+  },
+  {
+    "objectID": "tutorials/index.html#section-19",
+    "href": "tutorials/index.html#section-19",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante."
+  },
+  {
+    "objectID": "tutorials/index.html#section-20",
+    "href": "tutorials/index.html#section-20",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB."
+  },
+  {
+    "objectID": "tutorials/index.html#section-21",
+    "href": "tutorials/index.html#section-21",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau."
+  },
+  {
+    "objectID": "tutorials/index.html#section-22",
+    "href": "tutorials/index.html#section-22",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Appuyez sur le bouton “Imprimer” et confirmez votre sélection."
+  },
+  {
+    "objectID": "tutorials/index.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
+    "href": "tutorials/index.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer.",
+    "text": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer."
+  },
+  {
+    "objectID": "tutorials/index.html#section-23",
+    "href": "tutorials/index.html#section-23",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Observez l’impression de la première couche :"
+  },
+  {
+    "objectID": "tutorials/index.html#section-24",
+    "href": "tutorials/index.html#section-24",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Assurez-vous que le filament adhère correctement au plateau d’impression."
+  },
+  {
+    "objectID": "tutorials/index.html#section-25",
+    "href": "tutorials/index.html#section-25",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
+  },
+  {
+    "objectID": "tutorials/index.html#section-26",
+    "href": "tutorials/index.html#section-26",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage."
+  },
+  {
+    "objectID": "tutorials/index.html#section-27",
+    "href": "tutorials/index.html#section-27",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut."
+  },
+  {
+    "objectID": "tutorials/index.html#section-28",
+    "href": "tutorials/index.html#section-28",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés.\n\n\n\n\n\n\n\n \n\n\nImpression 3D avec Flashforge Adventurer 5M Pro"
   }
 ]
