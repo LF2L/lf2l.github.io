@@ -17,70 +17,88 @@ format:
 ---
 
 
-# But du Tutoriel
 
-## But pédagogique de ce tutorial
+
+## But pédagogique de ce tutoriel
 
 1. 🧠 **Connaisences** : 
    - Domaine de l'Impression 3D
-
-
 1. 🔨 **Savoir-faire** : 
    - Utiliser la machine d'impression 3D Flashforge Adventurer 5M Pro
-
 1. ✍**Compéténces:**  : 
    - Pouvoir imprimer un objet au LF2L   
 
 # Comment imprimer en 3D ?
 
-###  Comment imprimer en 3D ?
+##  Comment imprimer en 3D ?
 
-:::{layout="[40,60]"}
+:::{layout="[35,68]"}
 :::{}
-
-
 ![](tuto-1/IMGforge/1.webp){width="40%" fig-align="center"}
-
 :::
 
 :::{}
-
-
 ![](tuto-1/IMGforge/2.webp){width="40%" fig-align="center"}
 
+Il faut trois étapes: 
+
+**1) Model CAO → 2) Processus de 'Slicing' → 3) Fichier `.Gcode`**
+:::
 :::
 
+## Modèle CAO 
+
+::: {.callout-tip title="But"}
+**Obtenir le modèle CAO utile pour l'impression 3D.**
 :::
 
-# Préparation préalable
 
-### Préparation préalable
+
+
+### Obtention d'un modèle CAO
 
 :::{layout="[40,60]"}
 :::{}
+**Logiciel de CAO**
 
-On a besoin d’un modelè 3D en format stl.
+Il peut etre conçu à l'aide d'un logiciel de modélisation 3D 
 
-Il peut etre concevu à l'aide d'un logiciel de modélisation 3D (comme Fusion 360 ou Blender)
+- Fusion 360 
+- Blender
+- ⚠️ **Onshape**
 
 ![](tuto-1/IMGforge/3.webp){width="30%" fig-align="center"}
 
 :::
 
 :::{}
-Ou téléchargez-le depuis des bibliothèques de modèles comme les suivantes:
+**Bibliothèques de modèles**
+
+Téléchargez-les depuis sites comme les suivantes:
 
 - [Thingiverse](https://www.thingiverse.com) 
 - [Printables](https://www.printables.com )  
 - [MakerWorld](https://makerworld.com)  
 
 ![](tuto-1/IMGforge/4.webp){width="30%" fig-align="center"}
-:::
 
 :::
+:::
 
-## 
+### Obtention d'un modèle → CAO Onshape
 
+Le but est d'obtenir le modèle CAO en fichier `.STL`
+
+
+## Processus de Slicing
+
+::: {.callout-tip title="But"}
+**Transformer le modèle `.STL` en un fichier machine `.GCODE`**
+:::
+
+
+
+### 
 Ce model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.
 
 ![](tuto-1/IMGforge/5.webp){width="30%" fig-align="center"}

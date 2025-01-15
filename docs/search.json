@@ -1068,7 +1068,7 @@
     "href": "tutorials/index.html#section",
     "title": "Tutoriel d’utilisation :",
     "section": "",
-    "text": "Ce model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.\n\n\n\n\n\nPour un tutoriel plus en profondie, clické ici: lien"
+    "text": "Enregistrez le fichier (format G-code) sur une clé USB compatible.\n\n\n\n\n\nAu LF2L, des clés USB sont mises à votre disposition à côté des imprimantes."
   },
   {
     "objectID": "tutorials/index.html#section-2",
@@ -1314,5 +1314,54 @@
     "title": "Tutoriel d’utilisation :",
     "section": "",
     "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés.\n\n\n\n\n\n\n\n \n\n\nImpression 3D avec Flashforge Adventurer 5M Pro"
+  },
+  {
+    "objectID": "tutorials/index.html#modèle-cao",
+    "href": "tutorials/index.html#modèle-cao",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Modèle CAO",
+    "text": "Modèle CAO\n\n\n\n\n\n\n\nBut\n\n\nObtenir le modèle CAO utile pour l’impression 3D."
+  },
+  {
+    "objectID": "tutorials/index.html#but-pédagogique-de-ce-tutoriel",
+    "href": "tutorials/index.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Tutoriel d’utilisation :",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser la machine d’impression 3D Flashforge Adventurer 5M Pro\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
+  },
+  {
+    "objectID": "tutorials/index.html#test",
+    "href": "tutorials/index.html#test",
+    "title": "Tutoriel d’utilisation :",
+    "section": "test",
+    "text": "test\nCe model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.\n\n\n\n\n\nPour un tutoriel plus en profondie, clické ici: lien"
+  },
+  {
+    "objectID": "tutorials/index.html#comment-imprimer-en-3d-1",
+    "href": "tutorials/index.html#comment-imprimer-en-3d-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Comment imprimer en 3D ?",
+    "text": "Comment imprimer en 3D ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl faut trois étapes:\n1) Model CAO → 2) Processus de ‘Slicing’ → 3) Fichier .Gcode"
+  },
+  {
+    "objectID": "tutorials/index.html#onshape",
+    "href": "tutorials/index.html#onshape",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Onshape",
+    "text": "Onshape\nCe model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.\n\n\n\n\n\nPour un tutoriel plus en profondie, clické ici: lien"
+  },
+  {
+    "objectID": "tutorials/index.html#obtention-dun-modèle-cao-onshape",
+    "href": "tutorials/index.html#obtention-dun-modèle-cao-onshape",
+    "title": "Tutoriel d’utilisation :",
+    "section": "### Obtention d’un modèle → CAO Onshape",
+    "text": "### Obtention d’un modèle → CAO Onshape\nCe model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.\n\n\n\n\n\nPour un tutoriel plus en profondie, clické ici: lien"
+  },
+  {
+    "objectID": "tutorials/index.html#processus-de-slicing",
+    "href": "tutorials/index.html#processus-de-slicing",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Processus de Slicing",
+    "text": "Processus de Slicing\n\n\n\n\n\n\n\nBut\n\n\nTransformer le modèle .STL en un fichier machine .GCODE"
   }
 ]

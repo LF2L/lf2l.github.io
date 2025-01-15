@@ -31,8 +31,6 @@ format:
 1. ✍**Compéténces:**  : 
    - Pouvoir imprimer un objet au LF2L   
 
-
-
 ## Qu'est-ce que l'impression 3D ?
 
 :::{layout="[40,60]"}
