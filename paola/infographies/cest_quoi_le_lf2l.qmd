@@ -1,8 +1,0 @@
----
-title: "Découvrez le Lorraine Fab Living Lab !"
-author: "LF2L"
-description: "Un espace pour innover, créer et expérimenter à Nancy"
-output: html_document
----
-
-<img src="/../images/cquoilf2l.png" alt="Infographie" class="full-width-image" />

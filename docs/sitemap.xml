@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/tutorials/tutorial2.html</loc>
-    <lastmod>2025-01-30T12:56:55.148Z</lastmod>
+    <lastmod>2025-01-30T16:27:03.775Z</lastmod>
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/tutorials/tutorial1.html</loc>
@@ -11,5 +11,9 @@
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/tutorials/index.html</loc>
     <lastmod>2025-01-30T16:15:16.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabbiocrux.github.io/LF2L-V2/index.html</loc>
+    <lastmod>2025-01-06T12:30:30.314Z</lastmod>
   </url>
 </urlset>
