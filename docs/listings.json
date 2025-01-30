@@ -1,41 +1,17 @@
 [
   {
-    "listing": "/projects/green-fablab/index.html",
+    "listing": "/projects/green-fablab/index.fr.html",
     "items": []
   },
   {
-    "listing": "/project.html",
+    "listing": "/index.fr.html",
     "items": [
-      "/projects/extended-reality/index.html",
-      "/projects/green-fablab/index.fr.html",
-      "/projects/lorraine-smart-cities-living-lab/index.fr.html",
-      "/projects/open-citizen-lab/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/blog/posts/2024/06/03/index.html",
-      "/blog/posts/2024/04/09/index.html",
-      "/blog/posts/2024/04/25/index.html",
-      "/blog/posts/2024/03/24/index.html",
-      "/blog/posts/2024/03/15/index.html",
-      "/blog/posts/2024/03/08/index.html"
-    ]
-  },
-  {
-    "listing": "/index-2.html",
-    "items": []
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/posts/2024/06/03/index.html",
-      "/blog/posts/2024/04/09/index.html",
-      "/blog/posts/2024/04/25/index.html",
-      "/blog/posts/2024/03/24/index.html",
-      "/blog/posts/2024/03/15/index.html",
-      "/blog/posts/2024/03/08/index.html"
+      "/blog/posts/2024/06/03/index.fr.html",
+      "/blog/posts/2024/04/25/index.fr.html",
+      "/blog/posts/2024/04/09/index.fr.html",
+      "/blog/posts/2024/03/24/index.fr.html",
+      "/blog/posts/2024/03/15/index.fr.html",
+      "/blog/posts/2024/03/08/index.fr.html"
     ]
   },
   {
@@ -50,18 +26,42 @@
     ]
   },
   {
-    "listing": "/index.fr.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/2024/06/03/index.fr.html",
-      "/blog/posts/2024/04/25/index.fr.html",
-      "/blog/posts/2024/04/09/index.fr.html",
-      "/blog/posts/2024/03/24/index.fr.html",
-      "/blog/posts/2024/03/15/index.fr.html",
-      "/blog/posts/2024/03/08/index.fr.html"
+      "/blog/posts/2024/06/03/index.html",
+      "/blog/posts/2024/04/09/index.html",
+      "/blog/posts/2024/04/25/index.html",
+      "/blog/posts/2024/03/24/index.html",
+      "/blog/posts/2024/03/15/index.html",
+      "/blog/posts/2024/03/08/index.html"
     ]
   },
   {
-    "listing": "/projects/green-fablab/index.fr.html",
+    "listing": "/index-2.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/posts/2024/06/03/index.html",
+      "/blog/posts/2024/04/09/index.html",
+      "/blog/posts/2024/04/25/index.html",
+      "/blog/posts/2024/03/24/index.html",
+      "/blog/posts/2024/03/15/index.html",
+      "/blog/posts/2024/03/08/index.html"
+    ]
+  },
+  {
+    "listing": "/project.html",
+    "items": [
+      "/projects/extended-reality/index.html",
+      "/projects/green-fablab/index.fr.html",
+      "/projects/lorraine-smart-cities-living-lab/index.fr.html",
+      "/projects/open-citizen-lab/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/green-fablab/index.html",
     "items": []
   }
 ]
