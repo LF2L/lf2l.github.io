@@ -1,5 +1,5 @@
 ---
-title: "Lorraine Fab Living Lab"
+title: "Lorraine Fab Living Lab©"
 page-navigation: false
 toc: false
 
@@ -20,6 +20,8 @@ listing:
     lang: en
 
 ---
+
+
 
 
 :::{.column-body-outset}
