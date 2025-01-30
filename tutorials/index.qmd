@@ -1,6 +1,522 @@
 ## Liste des tutoriels 
 
 
+<<<<<<< HEAD
 [Tutorial Impression 3D](tutorial0.qmd) 
 [Tutorial Découpe laser](tutorial2.qmd) 
 [Tutorial OrcaSlicer](tutorial3.qmd) 
+=======
+format:
+  revealjs:
+    footer: 'Tutorial 1: Comment utiliser une Imprimante 3D'
+    header: 'Impression 3D'
+---
+
+
+
+
+## But pédagogique de ce tutoriel
+
+1. 🧠 **Connaisences** : 
+   - Domaine de l'Impression 3D
+1. 🔨 **Savoir-faire** : 
+   - Utiliser la machine d'impression 3D Flashforge Adventurer 5M Pro
+1. ✍**Compéténces:**  : 
+   - Pouvoir imprimer un objet au LF2L   
+
+# Comment imprimer en 3D ?
+
+##  Comment imprimer en 3D ?
+
+:::{layout="[35,68]"}
+:::{}
+![](tuto-1/IMGforge/1.webp){width="40%" fig-align="center"}
+:::
+
+:::{}
+![](tuto-1/IMGforge/2.webp){width="40%" fig-align="center"}
+
+Il faut trois étapes: 
+
+**1) Model CAO → 2) Processus de 'Slicing' → 3) Fichier `.Gcode`**
+:::
+:::
+
+## Modèle CAO 
+
+::: {.callout-tip title="But"}
+**Obtenir le modèle CAO utile pour l'impression 3D.**
+:::
+
+
+
+
+### Obtention d'un modèle CAO
+
+:::{layout="[40,60]"}
+:::{}
+**Logiciel de CAO**
+
+Il peut etre conçu à l'aide d'un logiciel de modélisation 3D 
+
+- Fusion 360 
+- Blender
+- ⚠️ **Onshape**
+
+![](tuto-1/IMGforge/3.webp){width="30%" fig-align="center"}
+
+:::
+
+:::{}
+**Bibliothèques de modèles**
+
+Téléchargez-les depuis sites comme les suivantes:
+
+- [Thingiverse](https://www.thingiverse.com) 
+- [Printables](https://www.printables.com )  
+- [MakerWorld](https://makerworld.com)  
+
+![](tuto-1/IMGforge/4.webp){width="30%" fig-align="center"}
+
+:::
+:::
+
+### Obtention d'un modèle → CAO Onshape
+
+Le but est d'obtenir le modèle CAO en fichier `.STL`
+
+
+## Processus de Slicing
+
+::: {.callout-tip title="But"}
+**Transformer le modèle `.STL` en un fichier machine `.GCODE`**
+:::
+
+
+
+### 
+Ce model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.
+
+![](tuto-1/IMGforge/5.webp){width="30%" fig-align="center"}
+
+
+Pour un tutoriel plus en profondie, clické ici: lien 
+
+##
+
+Enregistrez le fichier (format G-code) sur une clé USB compatible.
+
+![](tuto-1/IMGforge/6.webp){width="30%" fig-align="center"}
+
+
+Au LF2L, des clés USB sont mises à votre disposition à côté des imprimantes.
+ 
+
+# Vérifiez l'état de l'imprimante
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Assurez-vous que l'imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d'impression.
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/7.webp){width="95%" fig-align="center"}
+:::
+:::
+
+##
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/8.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Nettoyez le plateau d'impression avec un morceau d'essuie-tout et de l'alcool isopropylique.
+
+:::
+:::
+
+
+# Comment allumer l'imprimante
+
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Vérifiez que l'imprimante est connectée à une prise électrique. 
+
+Appuyez sur le bouton d'alimentation situé à l'arrière, puis sur celui à l'avant.
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/9.webp){width="95%" fig-align="center"}
+:::
+:::
+
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Attendez que le système soit complètement initialisé avant de continuer.
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/10.webp){width="95%" fig-align="center"}
+:::
+:::
+
+##
+
+L’imprimante est bien allumée quand ce écran est montrée
+![](tuto-1/IMGforge/11.webp){width="95%" fig-align="center"}
+
+
+# Comment charger le filament (si aucun filament n’est présent)
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Placez le filament à l'arrière de l'imprimante.
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/12.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Ouvrez la porte du haut
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/13.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Placez le bord du filament dans le tube blanc et poussez jusqu'à ce qu'il ressorte de l'autre côté.
+
+![](tuto-1/IMGforge/14.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Accédez au menu via l’écran tactile et sélectionnez l’option "Filament".
+
+Choisissez l’option "Changer de Filament".
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/15.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Attendez que la température atteigne 220 °C 
+
+![](tuto-1/IMGforge/16.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Insérez le filament dans l'extrudeuse comme indiqué sur l'image. Si cela est fait correctement, l'imprimante le détectera et l'extrudera.
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/17.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## L'imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent.
+
+![](tuto-1/IMGforge/18.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/19.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Retirez le filament imprimé.
+
+:::
+:::
+
+# Comment changer le filament (en retirant l’ancien filament) :
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Ouvrez la porte du haut
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/20.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+Retirez le tube blanc et coupez l'ancien filament à l'aide d'une pince
+
+![](tuto-1/IMGforge/21.webp){width="95%" fig-align="center"}
+
+Remarque : Les pinces se trouvent soit à côté des imprimantes. Si ce n'est pas le cas, demandez-les aux FabManagers.
+
+## 
+
+Retirez le filament du tube blanc en tirant doucement avec la bobine, puis fixez son extrémité dans la bobine pour l'empêcher de se dérouler
+
+![](tuto-1/IMGforge/22.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Placez le nouveau filament sur la base située à l'arrière de l'imprimante.
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/23.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Placez le bord du filament dans le tube blanc et poussez jusqu'à ce qu'il ressorte de l'autre côté.
+![](tuto-1/IMGforge/24.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Accédez au menu via l’écran tactile et sélectionnez l’option "Filament".
+
+Choisissez l’option "Changer de Filament" et “Démarrer”
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/25.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Attendez que la température atteigne 220 °C
+
+![](tuto-1/IMGforge/26.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Insérez le filament dans l'extrudeuse comme indiqué sur l'image. Si cela est fait correctement, l'imprimante le détectera et l'extrudera.
+
+:::
+
+:::{}
+![](tuto-1/IMGforge/27.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## L'imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l'extrusion, sinon, redémarrez le processus.
+
+![](tuto-1/IMGforge/28.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/29.webp){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Retirez le filament imprimé.
+
+:::
+:::
+
+# Comment sélectionner le fichier à imprimer 
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/30.webp){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante.
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/31.webp){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Depuis le menu principal, sélectionnez "Imprimer" et naviguez jusqu’au fichier enregistré sur la clé USB.
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/32.webp){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+IMPORTANT : Avant de lancer l’impression, choisissez l’option "Calibrer" pour régler le plateau.
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/33.webp){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Appuyez sur le bouton "Imprimer" et confirmez votre sélection.
+
+:::
+:::
+
+## L'imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer.
+
+
+# Comment surveiller l’impression initiale :
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/34.webp){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Observez l’impression de la première couche :
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Assurez-vous que le filament adhère correctement au plateau d’impression.
+
+:::
+
+:::{}
+
+![](tuto-1/IMGforge/35.webp){width="95%" fig-align="center"}
+
+:::
+:::
+
+##
+
+![](tuto-1/IMGforge/36.webp){width="95%" fig-align="center"}
+
+En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres.
+
+# Retirer le modèle 
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](tuto-1/IMGforge/37.webp){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage.
+
+:::
+:::
+
+## 
+
+![](tuto-1/IMGforge/38.webp){width="95%" fig-align="center"}
+
+Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut. 
+
+## 
+
+![](tuto-1/IMGforge/39.webp){width="95%" fig-align="center"}
+
+En prenant la plaque par deux côtés,  tordre le légèrement pour décoller l'impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés. 
+>>>>>>> 55f3434c611c0a7ef0af186224090fb31dd0b8e3
