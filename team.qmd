@@ -51,24 +51,9 @@ Technical Advisor
 :::
 
 
-## Internships 2023 - 2024
-
-::: {layout="[30,30,30]"}
-
-:::{}
-![](images/6-info/equipe/Woman.png){width="80%" fig-align="center"}<br> **Tamara Dumanyan**
-
-:::
-
-:::{}
-![](images/6-info/equipe/Woman.png){width="80%" fig-align="center"} <br> **Mjellma Luzha**
 
 
-:::
-:::
-
-# Nos locaux
-
+# Our Labels
 
 ::: {layout="[[30,70], [30,70]] "}
 ![](images/logos/MESR.svg){.no-lightbox}

@@ -30,7 +30,8 @@ website:
       - href: publications/index.qmd      
       #- href: community.qmd
       - href: team.qmd
-
+      - text: "Contact"
+        href: info.qmd
   page-footer:
     background: light
     left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.4.554"
