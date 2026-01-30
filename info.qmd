@@ -1,5 +1,5 @@
 ---
-title: Find us
+title: Contact us
 excerpt: A scientific expertise to support your projects
 page-layout: article
 ---
