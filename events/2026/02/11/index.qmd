@@ -31,9 +31,27 @@ title-block-banner-color: "#592c8e"
 
 :::
 
+::: {.column-margin}
+📍 Nancy, France <br> 📅 Fev 11/2026
+:::
+
+
+<br>
+<br>
+<br>
+
+
+
+---
+
 
 ## Tiers Lieux Grand Est
- 
+
+::: {.column-margin}
+![](figures/TLGE.png){width="400px" fig-align="center"}
+:::
+
+
 Le réseau Tiers-Lieux Grand Est est une association
 collégiale créée en 2021 qui s’est donnée pour missions
 d’animer, fédérer et défendre les tiers-lieux de la région.
@@ -67,42 +85,46 @@ porteur-ses de tiers-lieux.
 
 
 
-
 ## RFFLabs - Apprendre, faire, partager et contribuer à changer le monde
 
+::: {.column-margin}
+![](figures/RFFLabs.png){width="400px" fig-align="center"}
+:::
+
 Créé en 2015, le RFFLabs est une association nationale qui rassemble les FabLabs, Espaces et communautés du Faire. 
-Sous la devise « Faire, apprendre, partager et contribuer à
-changer le monde », le RFFLabs a pour objectif central de faire réseau autour de la
-fabrication distribuée, dans l’esprit de la culture maker.
-Ateliers partagés, FabLabs, MakerSpaces, associations de partages d’outils, Manufactures,
-acteur·ices de la médiation numérique, espaces low-tech… Notre réseau rassemble celles et
-ceux qui favorisent l’apprentissage par le faire, le droit à l’erreur, la documentation
-ouverte, l’ouverture à tous les publics, la démocratisation des savoirs techniques.
-RFFLabs - 2025
-Apprendre, faire, partager et
-contribuer à changer le monde !
+Sous la devise « Faire, apprendre, partager et contribuer à changer le monde », le RFFLabs a pour objectif central de faire réseau autour de la fabrication distribuée, dans l’esprit de la culture maker.
+
+Ateliers partagés, FabLabs, MakerSpaces, associations de partages d’outils, Manufactures, acteur·ices de la médiation numérique, espaces low-tech… Notre réseau rassemble celles et ceux qui favorisent l’apprentissage par le faire, le droit à l’erreur, la documentation
+ouverte, l’ouverture à tous les publics, la démocratisation des savoirs techniques. 
 
 
 
-Les crises contemporaines ne sont plus ponctuelles: elles **s’enchaînent, se superposent et fragilisent** durablement les organisations comme les populations. 
 
-Épisodes climatiques extrêmes, tensions énergétiques, catastrophes industrielles, crises sanitaires : chaque événement met en lumière des vulnérabilités mais aussi des ressources d’entraide souvent sous-mobilisées.
-
-
-## Programme
+## Octroi - Tiers-lieu de fabrication numérique et d’innovation sociale
 
 
+
+##  LUN'Probable
+
+
+
+
+
+
+
+# Tiers-lieux vs. Monsieur Tentacules
 ```{=html}
-<iframe class="slide-deck" src="figures/slides.html" width="100%"
+<iframe class="slide-deck" src="slides.html" width="100%"
     height="500"></iframe>
 
 ```
 
 
+### Info Pratique
 
+:::{layout="[45, 45]" layout-align="center" layout-valign="center"}
 
+- **PAD Numerique pour documenter le séminaire**
 
-
-
-
-
+![](figures/PAD.png){width="200px" fig-align="center"}
+:::

@@ -1,0 +1,61 @@
+---
+title: "Tiers-lieux vs. Monsieur Tentacules"
+subtitle: "PhD Marcos Maldonado (ERPI - Université de Lorraine)"  
+
+title-slide-attributes:
+  data-background-image: Marcos-00.jpg
+  data-background-size: contain
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    slide-number: c/t
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default]
+    #css: ../assets/fabio.css
+    #logo: "../assets/img/logos/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    #toc: true
+    #toc-title: Agenda for today
+    #toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    #header-logo: "../assets/img/logos/UL.png"    
+    #subtitle-as-header: true
+    chalkboard: false
+    footer: ""
+    header: Communs d'Urgence
+    auto-stretch: true
+    slide-level: 3
+    menu:
+      side: right
+      width: wide
+      numbers: true  
+
+---
+
+
+##  {background-image="figures/Marcos-00.jpg" background-size="contain" background-opacity="1"}
+  
+##  {background-image="figures/Marcos-01.jpg" background-size="contain" background-opacity="1"}
+
+##  {background-image="figures/Marcos-02.jpg" background-size="contain" background-opacity="1"}
+
+##  {background-image="figures/Marcos-03.jpg" background-size="contain" background-opacity="1"}
+
+##  {background-image="figures/Marcos-04.jpg" background-size="contain" background-opacity="1"}
+
+##  {background-image="figures/Marcos-0.jpg" background-size="contain" background-opacity="1"}
+
+##  {background-image="figures/Marcos-06.jpg" background-size="contain" background-opacity="1"}
+
+##  {background-image="figures/Marcos-07.jpg" background-size="contain" background-opacity="1"}
+
+##  {background-image="figures/Marcos-08.jpg" background-size="contain" background-opacity="1"}
