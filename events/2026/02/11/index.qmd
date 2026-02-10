@@ -66,7 +66,9 @@ porteur-ses de tiers-lieux.
 
 
 
-## RFFLabs
+
+
+## RFFLabs - Apprendre, faire, partager et contribuer à changer le monde
 
 Créé en 2015, le RFFLabs est une association nationale qui rassemble les FabLabs, Espaces et communautés du Faire. 
 Sous la devise « Faire, apprendre, partager et contribuer à
