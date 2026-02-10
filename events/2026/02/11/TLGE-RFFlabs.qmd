@@ -1,0 +1,106 @@
+---
+lang: fr
+title: "Communs d'Urgence"
+title-fr: "Communs d'Urgence"
+subtitle: "Renforcer les espaces du faire comme infrastructures citoyennes de résilience et redonner du pouvoir d’agir aux citoyens face aux crises. "
+toc: false
+# format:
+#  html:    
+#    template-partials: 
+#      - ../../../../partials/title-block.html  
+lightbox: auto
+title-block-banner: rgba(255, 255, 255, 0.45)
+title-block-banner-color: "#592c8e"
+---
+
+:::{layout="[20, 20, 20, 20]" layout-align="center" layout-valign="center"}
+
+![](figures/TLGE.png){width="400px" fig-align="center"}
+
+![](figures/RFFLabs.png){width="400px" fig-align="center"}
+
+![](figures/Octroi.png){width="400px" fig-align="center"}
+
+![](figures/LUN.jpg){width=100px fig-align="center"}
+:::
+
+
+:::{.column-page-inset}
+
+# Le Lorraine Fab Living Lab® vous donne la bienvenue!
+
+:::
+
+
+## Tiers Lieux Grand Est
+ 
+Le réseau Tiers-Lieux Grand Est est une association
+collégiale créée en 2021 qui s’est donnée pour missions
+d’animer, fédérer et défendre les tiers-lieux de la région.
+Ces objectifs se traduisent notamment par l’organisation
+de rencontres, d’accompagnements et formations de
+porteur-ses de tiers-lieux.
+
+
+::: {.column-screen-inset}
+
+:::{layout="[20, 20, 20, 20]" layout-align="center"}
+
+![](figures/Programme-01.jpg){group="1"}
+
+![](figures/Programme-02.jpg){group="1"}
+
+![](figures/Programme-03.jpg){group="1"}
+
+![](figures/Programme-04.jpg){group="1"}
+
+![](figures/Programme-05.jpg){group="1"}
+
+![](figures/Programme-06.jpg){group="1"}
+
+![](figures/Programme-07.jpg){group="1"}
+
+![](figures/Programme-08.jpg){group="1"}
+:::
+:::
+
+
+
+## RFFLabs
+
+Créé en 2015, le RFFLabs est une association nationale qui rassemble les FabLabs, Espaces et communautés du Faire. 
+Sous la devise « Faire, apprendre, partager et contribuer à
+changer le monde », le RFFLabs a pour objectif central de faire réseau autour de la
+fabrication distribuée, dans l’esprit de la culture maker.
+Ateliers partagés, FabLabs, MakerSpaces, associations de partages d’outils, Manufactures,
+acteur·ices de la médiation numérique, espaces low-tech… Notre réseau rassemble celles et
+ceux qui favorisent l’apprentissage par le faire, le droit à l’erreur, la documentation
+ouverte, l’ouverture à tous les publics, la démocratisation des savoirs techniques.
+RFFLabs - 2025
+Apprendre, faire, partager et
+contribuer à changer le monde !
+
+
+
+Les crises contemporaines ne sont plus ponctuelles: elles **s’enchaînent, se superposent et fragilisent** durablement les organisations comme les populations. 
+
+Épisodes climatiques extrêmes, tensions énergétiques, catastrophes industrielles, crises sanitaires : chaque événement met en lumière des vulnérabilités mais aussi des ressources d’entraide souvent sous-mobilisées.
+
+
+## Programme
+
+
+```{=html}
+<iframe class="slide-deck" src="figures/slides.html" width="100%"
+    height="500"></iframe>
+
+```
+
+
+
+
+
+
+
+
+
