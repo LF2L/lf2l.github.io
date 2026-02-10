@@ -1,12 +1,12 @@
 ---
-title: ""
-subtitle: ""  
+title: "Tiers-lieux vs. Monsieur Tentacules"
+subtitle: "PhD Marcos Maldonado (ERPI - Université de Lorraine)"  
 
 
 title-slide-attributes:
   data-background-image: figures/Marcos.png
   data-background-size: contain
-  data-background-opacity: "1"
+  data-background-opacity: "0.1"
 format: 
   revealjs:
     slide-number: c/t
@@ -42,24 +42,25 @@ format:
 
 ---
 
+##  {background-image="figures/Marcos.png" background-size="contain" background-opacity="1"}
 
-##  {background-image="figures/Marcos-00.jpg" background-size="contain" background-opacity="1"}
-  
 ##  {background-image="figures/Marcos-01.jpg" background-size="contain" background-opacity="1"}
-
+  
 ##  {background-image="figures/Marcos-02.jpg" background-size="contain" background-opacity="1"}
 
 ##  {background-image="figures/Marcos-03.jpg" background-size="contain" background-opacity="1"}
 
 ##  {background-image="figures/Marcos-04.jpg" background-size="contain" background-opacity="1"}
 
-##  {background-image="figures/Marcos-0.jpg" background-size="contain" background-opacity="1"}
+##  {background-image="figures/Marcos-05.jpg" background-size="contain" background-opacity="1"}
 
 ##  {background-image="figures/Marcos-06.jpg" background-size="contain" background-opacity="1"}
 
 ##  {background-image="figures/Marcos-07.jpg" background-size="contain" background-opacity="1"}
 
 ##  {background-image="figures/Marcos-08.jpg" background-size="contain" background-opacity="1"}
+
+
 
 
 
