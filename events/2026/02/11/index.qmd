@@ -100,7 +100,7 @@ ouverte, l’ouverture à tous les publics, la démocratisation des savoirs tech
 
 
 
-## Octroi - Tiers-lieu de fabrication numérique et d’innovation sociale
+## L'Octroi Nancy - Tiers-lieu de fabrication numérique et d’innovation sociale
 
 ::: {.column-margin}
 ![](figures/Octroi.png){width="400px" fig-align="center"}
