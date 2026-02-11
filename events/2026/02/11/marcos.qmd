@@ -1,6 +1,6 @@
 ---
 title: "Tiers-lieux vs. Monsieur Tentacules"
-subtitle: "PhD Student Marcos Maldonado (ERPI - Université de Lorraine)"  
+subtitle: "PhD Student Marcos Medina (ERPI - Université de Lorraine)"  
 
 
 title-slide-attributes:
