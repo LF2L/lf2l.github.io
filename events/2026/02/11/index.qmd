@@ -27,7 +27,7 @@ title-block-banner-color: "#592c8e"
 
 :::{.column-page-inset}
 
-# Le Lorraine Fab Living Lab® vous donne la bienvenue!
+# Le Lorraine Fab Living Lab® vous donne le bienvenue!
 
 :::
 
