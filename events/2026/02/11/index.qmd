@@ -100,14 +100,14 @@ ouverte, l’ouverture à tous les publics, la démocratisation des savoirs tech
 
 
 
-## L'Octroi Nancy - Tiers-lieu de fabrication numérique et d’innovation sociale
+## L'Octroi Nancy - tiers-lieu créatif et citoyen
 
 ::: {.column-margin}
 ![](figures/Octroi.png){width="400px" fig-align="center"}
 :::
 
 
-L’Octroi-Nancy, tiers-lieu créatif et citoyen, installé sur les anciens abattoirs de la Ville de Nancy, propose un espace de créativité et de partage, dédié à l’expérimentation et à la monstration. Ce laboratoire pluridisciplinaire de 2600 m², géré par l’association L’OK3, anime un lieu de vie, de travail et de rencontre au service de nouvelles idées, du faire autrement.
+L’Octroi-Nancy est installé sur les anciens abattoirs de la Ville de Nancy, propose un espace de créativité et de partage, dédié à l’expérimentation et à la monstration. Ce laboratoire pluridisciplinaire de 2600 m², géré par l’association L’OK3, anime un lieu de vie, de travail et de rencontre au service de nouvelles idées, du faire autrement.
 
 ##  LUN'Probable
 
