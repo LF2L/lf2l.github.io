@@ -155,3 +155,30 @@ Elle accompagne la création et la concrétisation de résultats grâce à un pr
 :::
 
 
+### Quelque Photos de la Rencontre
+
+
+::: {.column-screen-inset}
+
+:::{layout="[20, 20, 20, 20]" layout-align="center"}
+
+![](figures/photos/01.JPG){group="1"}
+
+![](figures/photos/02.JPG){group="1"}
+
+![](figures/photos/03.JPG){group="1"}
+
+![](figures/photos/04.JPG){group="1"}
+
+![](figures/photos/05.JPG){group="1"}
+
+![](figures/photos/06.JPG){group="1"}
+
+![](figures/photos/07.JPG){group="1"}
+
+![](figures/photos/08.JPG){group="1"}
+
+![](figures/photos/09.JPG){group="1"}
+:::
+:::
+
