@@ -25,7 +25,8 @@ website:
 
     right:
       - href: about.qmd
-      - href: blog/index.qmd
+      - text: "Recents"     
+        href: https://www.linkedin.com/company/102623341/
       #- href: project.qmd      
       - href: publications/index.qmd      
       #- href: community.qmd
@@ -34,16 +35,16 @@ website:
         href: info.qmd
   page-footer:
     background: light
-    left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.4.554"
+    left: "Copyright 2026, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/)"
     center: 
-      - icon: github
-        href: https://github.com/
-      - icon: instagram
-        href: /        
+      # - icon: github
+      #   href: https://github.com/
+      # - icon: instagram
+      #   href: /        
       - icon: linkedin
-        href: /
-      - icon: twitter
-        href: /
+        href: https://www.linkedin.com/company/102623341/
+      # - icon: twitter
+      #   href: /
     right: 
       - href: documents.qmd        
       - text: "**Find Us** <br> 49 Boulevard d'Austrasie,<br> 54000 Nancy, France"
